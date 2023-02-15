@@ -9,8 +9,10 @@ dayjs.extend(require('dayjs/plugin/utc'));
 dayjs.locale('ja');
 dayjs.tz.setDefault('Asia/Tokyo');
 
-const FEED_ITEM_FILTER_DAY = 7;
-const MIN_HATENA_BOOKMARK_AMOUNT = 3;
+//const FEED_ITEM_FILTER_DAY = 7;
+const FEED_ITEM_FILTER_DAY = 14;
+//const MIN_HATENA_BOOKMARK_AMOUNT = 3;
+const MIN_HATENA_BOOKMARK_AMOUNT = 2;
 
 module.exports = async () => {
   const feedData = JSON.parse(await fs.readFile(path.join(__dirname, '../feeds/feed.json')));
