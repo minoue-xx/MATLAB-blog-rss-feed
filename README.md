@@ -2,7 +2,7 @@
 MATLAB/Simulink に関するブログ更新をまとめたRSSフィードを配信しています。
 MATLAB の使い方・MATLAB を使った新しいアイデアのヒントが得られますように。
 
-[https://minoue-xx.github.io/tech-blog-rss-feed/](https://minoue-xx.github.io/tech-blog-rss-feed/)
+[https://minoue-xx.github.io/MATLAB-blog-rss-feed/blogs/](https://minoue-xx.github.io/MATLAB-blog-rss-feed/blogs/)
 
 [@yamadashy](https://github.com/yamadashy)さんの作成された[yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed)をベースにカスタムしております。
 
@@ -11,7 +11,7 @@ MATLAB/Simulink に関するブログ（技術ブログ、エンジニアブロ�
 
 
 ## サイトの追加方法
-[src/resources/feed-info-list.ts](https://github.com/minoue-xx/tech-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。  
+[src/resources/feed-info-list.ts](https://github.com/minoue-xx/MATLAB-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。  
 
 ### プルリクでの送り方
 もしプルリクを送っていただける場合は以下のように作成できます。
@@ -28,7 +28,6 @@ MATLAB/Simulink に関するブログ（技術ブログ、エンジニアブロ�
 6. プルリクを作成
 
 
-## 
 ## 仕組み
 GitHub Actions で定期的に更新されており、サイトの生成は [Eleventy](https://www.11ty.dev/) を使用しています。
 
