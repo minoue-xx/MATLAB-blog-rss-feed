@@ -1,5 +1,4 @@
-// const siteUrlStem = 'https://yamadashy.github.io/tech-blog-rss-feed';
-const siteUrlStem = 'https://minoue-xx.github.io/tech-blog-rss-feed';
+const siteUrlStem = 'https://minoue-xx.github.io/MATLAB-blog-rss-feed';
 const siteUrl = `${siteUrlStem}/`;
 
 module.exports = {
@@ -16,8 +15,8 @@ module.exports = {
   feedTitle: 'MATLAB 関連ブログ RSS',
   feedDescription: 'MATLAB に関するブログの更新をまとめたRSSフィード',
   feedLanguage: 'ja',
-  feedCopyright: 'minoue-xx/tech-blog-rss-feed',
-  feedGenerator: 'minoue-xx/tech-blog-rss-feed',
+  feedCopyright: 'minoue-xx/MATLAB-blog-rss-feed',
+  feedGenerator: 'minoue-xx/MATLAB-blog-rss-feed',
   feedUrls: {
     atom: `${siteUrl}feeds/atom.xml`,
     rss: `${siteUrl}feeds/rss.xml`,
@@ -27,7 +26,7 @@ module.exports = {
   // GitHub
   author: 'minoue',
   gitHubUserUrl: 'https://github.com/minoue-xx/',
-  gitHubRepositoryUrl: 'https://github.com/minoue-xx/tech-blog-rss-feed/',
+  gitHubRepositoryUrl: 'https://github.com/minoue-xx/MATLAB-blog-rss-feed/',
 
   // Google Analytics系。フォークして使う際は値を空にするか書き換えてください
   // googleSiteVerification: 'GPLvXv8kYtLMW912ZS54DKFEZL6ruOrjOFLdHVTo37o',
@@ -36,7 +35,7 @@ module.exports = {
   globalSiteTagKey: '',
 
   // フィードの取得などに使う UserAgent
-  requestUserAgent: 'facebookexternalhit/1.1; minoue-xx/tech-blog-rss-feed',
+  requestUserAgent: 'facebookexternalhit/1.1; minoue-xx/MATLAB-blog-rss-feed',
 
   // サイトの追加方法のリンク
   howToAddSiteLink:
