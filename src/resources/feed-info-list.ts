@@ -28,6 +28,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Matlab - Gohey Blog','https://gohey.net/category/code/matlab/feed/'],
   ['MathWorks 公式','https://blogs.mathworks.com/japan-community/feed/'],
   ['MATLAB - Qiita','https://qiita.com/tags/matlab/feed.atom'],
+  ['センチメンタルラボ','https://matlab-study.sakura.ne.jp/blog/?cat=53&feed=rss2'],
 ]);
 
 /**
