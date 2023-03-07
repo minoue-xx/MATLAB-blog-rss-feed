@@ -32,6 +32,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['MATLAB - ふみきりのぼうけん','https://fumikirinobouken.hatenablog.com/feed/category/Matlab'],
   ['MATLAB/Simulink - 映画と旅行とエンジニア','https://wakky.tech/category/matlab-simulink/feed/'],
   ['MATLAB/Simulink - しろねこらぼ',encodeURI('https://sironekolab.com/archives/category/プログラミング/matlab-simulink/feed')],
+  ['流体シミュレーション - N’s note','https://taku-naka.site/category/computational-thermo-fluid-dynamics/feed/'],
   ['MATLAB - とあるソフトウェアエンジニアのつぶやき','https://toarusw.com/category/matlab/feed/']
 ]);
 
