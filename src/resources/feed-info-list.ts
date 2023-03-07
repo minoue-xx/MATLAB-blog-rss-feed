@@ -31,6 +31,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['センチメンタルラボ','https://matlab-study.sakura.ne.jp/blog/?cat=53&feed=rss2'],
   ['MATLAB - ふみきりのぼうけん','https://fumikirinobouken.hatenablog.com/feed/category/Matlab'],
   ['MATLAB/Simulink - 映画と旅行とエンジニア','https://wakky.tech/category/matlab-simulink/feed/'],
+  ['MATLAB/Simulink - しろねこらぼ',encodeURI('https://sironekolab.com/archives/category/プログラミング/matlab-simulink/feed')],
   ['MATLAB - とあるソフトウェアエンジニアのつぶやき','https://toarusw.com/category/matlab/feed/']
 ]);
 
