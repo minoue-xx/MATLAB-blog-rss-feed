@@ -37,6 +37,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['MATLAB - 東京工業大学 ロボット技術研究会公式ブログ','https://blog.rogiken.org/blog/tag/matlab/feed/'],
   ['MATLAB - とあるソフトウェアエンジニアのつぶやき','https://toarusw.com/category/matlab/feed/'],
   ['ProAlgorithm','https://pro-algorithm.com/feed/'],
+  ['MATLAB - techBrowse','https://tech-browse.com/category/programming/matlab/feed/'],
 ]);
 
 /**
