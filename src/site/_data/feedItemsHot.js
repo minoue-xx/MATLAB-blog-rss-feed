@@ -12,7 +12,7 @@ dayjs.tz.setDefault('Asia/Tokyo');
 //const FEED_ITEM_FILTER_DAY = 7;
 const FEED_ITEM_FILTER_DAY = 14;
 //const MIN_HATENA_BOOKMARK_AMOUNT = 3;
-const MIN_HATENA_BOOKMARK_AMOUNT = 2;
+const MIN_HATENA_BOOKMARK_AMOUNT = 1;
 
 module.exports = async () => {
   const feedData = JSON.parse(await fs.readFile(path.join(__dirname, '../feeds/feed.json')));
@@ -20,6 +20,7 @@ module.exports = async () => {
   let feedItems = feedData.items;
 
   // 「直近1週間分」かつ「3つ以上はてなブックマークされている」
+  // -> 「直近2週間分」かつ「1つ以上はてなブックマークされている」
   feedItems = feedItems
     .filter((feedItem) => {
       return dayjs(feedItem.date_published) > dayjs().subtract(FEED_ITEM_FILTER_DAY, 'd');
