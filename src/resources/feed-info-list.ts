@@ -39,6 +39,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ProAlgorithm','https://pro-algorithm.com/feed/'],
   ['MATLAB - techBrowse','https://tech-browse.com/tag/matlab/feed/'],
   ['MATLAB - controlabo','https://controlabo.com/category/matlab/feed/'],
+  ['MATLAB - ホームメードガービッジ 家族４人のおもしろてづくりブログ','https://homemadegarbage.com/tag/matlab/feed/'],
 ]);
 
 /**
