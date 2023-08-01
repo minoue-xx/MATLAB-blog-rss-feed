@@ -76,7 +76,7 @@ for ii=1:height(newitem_list)
     % 投稿文
     status = "新着！#MATLAB #Simulink ブログ" + newline;
     status = status + "「" + newitem_list.title(ii) + "」" + newline;
-    status = status + newitem_list.urls(ii);
+    status = status + newitem_list.url(ii);
     disp(status);
 
     if tweetFlag
