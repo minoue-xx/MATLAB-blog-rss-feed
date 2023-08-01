@@ -48,7 +48,7 @@ end
 post = table(date,title,url,pubDate);
 post.date = string(post.date)
 post_old = readtable('postHistory.csv','TextType','string','DatetimeType','text','Delimiter',",")
-last_updated = max(datetime(post_old.date))
+last_updated = max(datetime(post_old.date,'InputFormat','dd MMM uuuu HH:mm:SS', 'Locale', 'en_US')))
 
 post = union(post,post_old,'rows')
 writetable(post,'postHistory.csv');
@@ -62,7 +62,7 @@ writetable(post,'postHistory.csv');
 
 % trange = timerange(tnow-interval,tnow); % interval 以内の投稿だけを抽出
 % newitem_list = post(trange,:)
-idx = datetime(post.date) > last_updated;
+idx = datetime(post.date,'InputFormat','dd MMM uuuu HH:mm:SS', 'Locale', 'en_US') > last_updated;
 newitem_list = post(idx,:)
 %%
 
