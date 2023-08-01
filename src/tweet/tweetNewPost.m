@@ -48,7 +48,7 @@ end
 post = table(date,title,url,pubDate);
 post.date = string(post.date)
 post_old = readtable('postHistory.csv','TextType','string','DatetimeType','text','Delimiter',",")
-last_updated = max(datetime(post_old.date,'InputFormat','dd MMM uuuu HH:mm:SS', 'Locale', 'en_US')))
+last_updated = max(datetime(post_old.date,'InputFormat','dd MMM uuuu HH:mm:SS', 'Locale', 'en_US'))
 
 post = union(post,post_old,'rows')
 writetable(post,'postHistory.csv');
