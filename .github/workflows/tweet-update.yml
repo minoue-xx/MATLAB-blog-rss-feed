@@ -1,5 +1,5 @@
 name: Tweet new posts (every 2 hours)
-#on: [push]
+on: [push]
 # cron: 
 # * * * * * 
 # | | | | |
@@ -8,9 +8,9 @@ name: Tweet new posts (every 2 hours)
 # | | |----- day
 # | |------- hour
 # |--------- minute
-on:
-   schedule:
-     - cron: '0 0,2,4,6,8,10,12,14,16,18,20,22 * * *'
+# on:
+#   schedule:
+#     - cron: '0 0,2,4,6,8,10,12,14,16,18,20,22 * * *'
 jobs:
   my-job:
     name: Run tweetNewPost.m
