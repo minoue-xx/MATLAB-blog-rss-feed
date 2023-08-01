@@ -62,6 +62,9 @@ writetable(post,'postHistory.csv');
 
 % trange = timerange(tnow-interval,tnow); % interval 以内の投稿だけを抽出
 % newitem_list = post(trange,:)
+last_update
+datetime(post.date,'InputFormat','dd MMM uuuu HH:mm:SS', 'Locale', 'en_US')
+
 idx = datetime(post.date,'InputFormat','dd MMM uuuu HH:mm:SS', 'Locale', 'en_US') > last_updated;
 newitem_list = post(idx,:)
 %%
