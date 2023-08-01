@@ -46,9 +46,9 @@ end
 %% save post history
 
 post = table(date,title,url,pubDate);
-post.date = string(post.date);
-post_old = readtable('postHistory.csv','TextType','string','DatetimeType','text');
-last_updated = max(datetime(post_old.date));
+post.date = string(post.date)
+post_old = readtable('postHistory.csv','TextType','string','DatetimeType','text')
+last_updated = max(datetime(post_old.date))
 
 post = union(post,post_old,'rows')
 writetable(post,'postHistory.csv');
