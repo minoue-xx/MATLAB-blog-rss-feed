@@ -1,0 +1,60 @@
+name: Tweet new posts (every 2 hours)
+#on: [push]
+# cron: 
+# * * * * * 
+# | | | | |
+# | | | | |- weekday (0:sun 6: sat)
+# | | | |--- month
+# | | |----- day
+# | |------- hour
+# |--------- minute
+on:
+   schedule:
+     - cron: '0 0,2,4,6,8,10,12,14,16,18,20,22 * * *'
+jobs:
+  my-job:
+    name: Run tweetNewPost.m
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+      - name: Get Python version
+        run: python -V
+      - name: Install dependencies (Tweepy)
+        run: pip install -r ./src/tweet/requirements.txt
+      - name: Set up MATLAB
+        uses: matlab-actions/setup-matlab@v1
+        with:
+          release: 'R2023a'
+      - name: Run script and tweet
+        uses: matlab-actions/run-command@v1
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN}}
+          ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET}}
+          API_KEY: ${{ secrets.API_KEY}}
+          API_KEY_SECRET: ${{ secrets.API_KEY_SECRET}}  
+        with:
+          command: ./src/tweet/tweetNewPost
+          
+      - name: Check for Changes and commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        id: changes
+        run: |
+          if [[ -n $(git status -s) ]]; then
+            echo "There are changes to commit."
+            git remote set-url origin https://github-actions:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}
+            git config --global user.name "${GITHUB_ACTOR}"
+            git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+            git diff --shortstat
+            git add .
+            git commit -m "postHistory.csv updated"
+            git push origin HEAD:${GITHUB_REF}
+          else
+            echo "No changes to commit. Skipping..."
+            exit 0
+          fi
