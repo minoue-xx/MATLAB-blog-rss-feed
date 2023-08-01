@@ -45,21 +45,25 @@ end
 
 %% save post history
 
-post = timetable(date,title,url,pubDate);
-post_old = readtimetable('postHistory.csv','TextType','string','DateLocale','en_US');
+post = table(date,title,url,pubDate);
+post.date = string(post.date);
+post_old = readtable('postHistory.csv','TextType','string','DatetimeType','text');
+last_updated = max(datetime(post_old.date));
 
-post = union(post,post_old)
-writetimetable(post,'postHistory.csv','DateLocale','en_US');
+post = union(post,post_old,'rows')
+writetable(post,'postHistory.csv');
 %%
 % 新着かどうかのチェック
 % このスクリプトは 2時間に1回実行する設定にします。(GitHub Action)
 % なので、、現時刻から2時間以内に投稿されていればそれは新着記事とします。
-interval = duration(2,0,0);
-tnow = datetime;
-tnow.TimeZone = 'UTC';
+% interval = duration(2,0,0);
+% tnow = datetime;
+% tnow.TimeZone = 'UTC';
 
-trange = timerange(tnow-interval,tnow); % interval 以内の投稿だけを抽出
-newitem_list = post(trange,:)
+% trange = timerange(tnow-interval,tnow); % interval 以内の投稿だけを抽出
+% newitem_list = post(trange,:)
+idx = datetime(post.date) > last_updated;
+newitem_list = post(idx,:)
 %%
 
 tweetFlag = true;
