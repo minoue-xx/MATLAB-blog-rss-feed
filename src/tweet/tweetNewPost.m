@@ -75,7 +75,7 @@ for ii=1:height(newitem_list)
 
     % 投稿文
     status = "新着！#MATLAB #Simulink ブログ" + newline;
-    status = status + "「" + newitem_list.titles(ii) + "」" + newline;
+    status = status + "「" + newitem_list.title(ii) + "」" + newline;
     status = status + newitem_list.urls(ii);
     disp(status);
 
