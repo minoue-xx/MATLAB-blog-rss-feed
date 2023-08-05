@@ -262,6 +262,7 @@ $RECYCLE.BIN/
 # Custom
 # ==================================================
 .idea/
+*.pyc
 public/
 storage/
 src/site/feeds/

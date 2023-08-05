@@ -88,7 +88,7 @@ jobs:
           API_KEY: ${{ secrets.API_KEY}}
           API_KEY_SECRET: ${{ secrets.API_KEY_SECRET}}  
         with:
-          command: run('./src/tweet/tweetNewPost.m')
+          command: run('./src/tweet/script2run.m')
           
       - name: Check for Changes and commit
         env:
