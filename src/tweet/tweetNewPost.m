@@ -46,11 +46,11 @@ end
 %% save post history
 
 post = table(date,title,url,pubDate);
-post.date = string(post.date)
-post_old = readtable('postHistory.csv','TextType','string','DatetimeType','text','Delimiter',",")
-last_updated = max(datetime(post_old.date,'InputFormat','dd-MMM-uuuu HH:mm:SS', 'Locale', 'en_US'))
+post.date = string(post.date);
+post_old = readtable('postHistory.csv','TextType','string','DatetimeType','text','Delimiter',",");
+last_updated = max(datetime(post_old.date,'InputFormat','dd-MMM-uuuu HH:mm:SS', 'Locale', 'en_US'));
 
-post = union(post,post_old,'rows')
+post = union(post,post_old,'rows');
 writetable(post,'postHistory.csv');
 %%
 % 新着かどうかのチェック
@@ -63,10 +63,21 @@ writetable(post,'postHistory.csv');
 % trange = timerange(tnow-interval,tnow); % interval 以内の投稿だけを抽出
 % newitem_list = post(trange,:)
 last_updated
-datetime(post.date,'InputFormat','dd-MMM-uuuu HH:mm:SS', 'Locale', 'en_US')
 
 idx = datetime(post.date,'InputFormat','dd-MMM-uuuu HH:mm:SS', 'Locale', 'en_US') > last_updated;
-newitem_list = post(idx,:)
+newitem_list = post(idx,:);
+%%
+
+if height(newitem_list) == 0
+   disp("no post during this time frame: " ...
+       + string(last_updated) + " - " + string(datetime));
+   disp("Completed.")
+   return;
+else
+   disp(height(newitem_list) + " items found during this time frame: " ...
+       + string(last_updated) + " - " + string(datetime));
+end
+
 %%
 
 tweetFlag = true;
@@ -88,3 +99,4 @@ for ii=1:height(newitem_list)
         end
     end
 end
+disp("Done: checking new post.")

@@ -4,11 +4,12 @@
 % Copyright (c) 2023 Michio Inoue.
 
 %% loading the post history data 
+disp("Checking OnThisDayPosts..")
 try
     dataset = readtable('postHistory.csv','TextType','string','DatetimeType','text','Delimiter',",");
     dataset.dates = datetime(dataset.date,'InputFormat','dd-MMM-uuuu HH:mm:SS', 'Locale', 'en_US');
 catch ME
-    disp("There is an issue with postHistory.csv")
+    disp("There is an issue with postHistory.csv");
     rethrow(ME)
 end
 disp("postHistory.csv is loaded");
@@ -28,7 +29,7 @@ dataset.age = age;
 
 tdataset = table2timetable(dataset,"RowTimes",dates0);
 
-newCheck = tnow-calyears(year(tnow));
+newCheck = tnow - calyears(year(tnow));
 trange = timerange(latestCheck,newCheck);
 subdata = tdataset(trange,:);
 subdata = subdata(subdata.age > 0,:);
@@ -68,7 +69,7 @@ for ii=1:N
     if tweetFlag
         try
             disp("Tweeting " + ii + "/" + N + "..." + newline);
-            % py.tweetQiita.tweetV2(str)
+            py.tweetBlogMATLAB.tweetV2(str)
         catch ME
             disp(ME)
         end
