@@ -6,6 +6,12 @@ MATLAB の使い方・MATLAB を使った新しいアイデアのヒントが得
 
 [@yamadashy](https://github.com/yamadashy)さんの作成された[yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed)をベースにカスタムしております。
 
+
+## Twitter 連携
+
+[@BlogMATLAB](https://twitter.com/BlogMATLAB)にて新着と過去の更新を Tweet しています。
+こちらもぜひフォローください。
+
 ## サイト追加の方針
 MATLAB/Simulink に関するブログ（技術ブログ、エンジニアブログ）であれば基本的には追加させてください。
 
