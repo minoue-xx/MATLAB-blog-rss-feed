@@ -62,19 +62,30 @@ postData.title = postData.title + " | " + postData.blogTitle;
 % Format
 % Varnames: date, title, url, pubData
 % Ex. "01-Apr-2020 00:32:26", title | blogname, url, "Wed, 01 Apr 2020 00:32:26 GMT"
-dataset = [dataset; postData(:,["date","title","url","pubDate"])];
-writetable(dataset,'../pastPosts_ver1.csv');
+writetable(postData(:,["date","title","url","pubDate"]),'../pastPosts_ver1.csv');
 
 
 function postdata = getPostData(filename)
 
     code = join(readlines(filename));
-    code = erase(code," "); % number of spaces are inconsistent, delete all.
-    code1 = extractBetween(code,'<divclass="ui-feed-item"><a','前</div>');
-    url = extractBetween(code1,'class="ui-feed-item__og-image"href="','">');
+    % code = replace(code," ",""); 
+    % number of spaces are inconsistent, delete all.
+    % use pattern instead for space
+
+    pat1 = regexpPattern('<div\s*class="ui-feed-item"><a'); 
+    pat2 = regexpPattern('前\s*</div>'); 
+    code1 = extractBetween(code,pat1,pat2);
+
+    pat1 = regexpPattern('class="ui-feed-item__og-image"\s*href="'); 
+    pat2 = regexpPattern('">'); 
+    url = extractBetween(code1,pat1,pat2);
+
     title = extractBetween(code1,'class="ui-feed-item__title','</a>');
     title = extractAfter(title,'>');
-    pubDate = extractBetween(code1,'class="ui-feed-item__date"title="','">');
+
+    pat1 = regexpPattern('class="ui-feed-item__date"\s*title="');
+    pat2 = regexpPattern('">'); 
+    pubDate = extractBetween(code1,pat1,pat2);
     blogTitle = extractBetween(string(code1),'class="ui-feed-item__blog-title">','</div>');
 
     postdata = table(title,url,pubDate,blogTitle);

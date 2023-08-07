@@ -25,6 +25,11 @@ end
 dataset = [dataset; tmp];
 disp("pastPosts_v1.csv is loaded");
 
+% Delete duplicate post
+[C,ia,ic] = unique(dataset.url);
+disp(length(ic)-length(ia) + " posts are duplicated. Deleted. ")
+dataset = dataset(ia,:);
+
 %% When was the last checked date?
 latestCheck = readcell('latestCheck.txt','Delimiter',',');
 latestCheck = datetime(latestCheck,'InputFormat','dd-MMM HH:mm:SS', 'Locale', 'en_US');
