@@ -1,5 +1,6 @@
 % Run on 2 hours interval to make tweet the articles 
 % that were posted during the same time period in the previous years.
+% Post history is saved on postHistory.csv
 % 
 % Copyright (c) 2023 Michio Inoue.
 
@@ -13,6 +14,16 @@ catch ME
     rethrow(ME)
 end
 disp("postHistory.csv is loaded");
+
+try
+    tmp = readtable('pastPosts_ver1.csv','TextType','string','DatetimeType','text','Delimiter',",");
+    tmp.dates = datetime(tmp.date,'InputFormat','dd-MMM-uuuu HH:mm:SS', 'Locale', 'en_US');
+catch ME
+    disp("There is an issue with pastPosts_v1.csv");
+    rethrow(ME)
+end
+dataset = [dataset; tmp];
+disp("pastPosts_v1.csv is loaded");
 
 %% When was the last checked date?
 latestCheck = readcell('latestCheck.txt','Delimiter',',');
