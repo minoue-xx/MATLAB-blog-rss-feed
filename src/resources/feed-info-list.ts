@@ -21,7 +21,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Matlab - komajou’s diary','https://komajou.hatenablog.jp/rss/category/Matlab'],
   ['MATLAB - Zenn','https://zenn.dev/topics/matlab/feed'],
   ['無料教材：matlab - 理系大学教員の本気ブログ',encodeURI('https://forfree.hatenablog.jp/rss/category/無料鋼材：matlab')],
-  ['MATLABパイセンが教える振動・騒音・音響・機械工学','https://mech-eng-uni.com/feed/'],
+  ['MATLABパイセンが教える振動・騒音・音響・機械工学','https://mech-eng-uni.com/category/matlab/feed/'],
   ['MATLAB - めっくろぐ','https://mechlog.hateblo.jp/rss/category/MATLAB'],
   ['MATLAB - MyEnigma','https://myenigma.hatenablog.com/rss/category/MATLAB'],
   ['MATLAB - Radi_tech’s blog','https://radi-tech.hatenablog.com/rss/category/MATLAB%20%5BJapanese%5D'],
