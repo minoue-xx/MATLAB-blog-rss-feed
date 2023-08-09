@@ -40,6 +40,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['MATLAB - techBrowse','https://tech-browse.com/tag/matlab/feed/'],
   ['MATLAB - controlabo','https://controlabo.com/category/matlab/feed/'],
   ['MATLAB - ホームメードガービッジ 家族４人のおもしろてづくりブログ','https://homemadegarbage.com/tag/matlab/feed/'],
+  ['MATLAB - 粗大メモ置き場','https://ossyaritoori.hatenablog.com/rss/category/matlab']
 ]);
 
 /**
