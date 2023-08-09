@@ -8,7 +8,7 @@
 % Post list for each blog in HTML format is saved on ./blogs folder.
 % Copyright (c) 2023 Michio Inoue.
 %
-% Blog list as of 2023/8/7
+% Blog list as of 2023/8/9
 % ['matlab - kentaPtの日記', 'https://kentapt.hatenablog.com/rss/category/matlab'],
 % ['leftbank - note:MATLAB 関連', 'https://note.com/leftbank/m/m088894fecb57/rss'],
 % ['Matlab - komajou’s diary','https://komajou.hatenablog.jp/rss/category/Matlab'],
@@ -33,7 +33,7 @@
 % ['MATLAB - techBrowse','https://tech-browse.com/tag/matlab/feed/'],
 % ['MATLAB - controlabo','https://controlabo.com/category/matlab/feed/'],
 % ['MATLAB - ホームメードガービッジ 家族４人のおもしろてづくりブログ','https://homemadegarbage.com/tag/matlab/feed/'],
-
+% ['MATLAB - 粗大メモ置き場','https://ossyaritoori.hatenablog.com/rss/category/matlab']
 %%
 folderInfo = dir('blogs'); % all files
  % exclude a file
@@ -47,7 +47,6 @@ for ii=1:length(folderInfo)
     filename = fullfile(folderInfo(ii).folder,folderInfo(ii).name,"index.html");
     postData = [postData; getPostData(filename)];
 end
-
 
 % format example
 % pubData: "2023-03-1102:42:49"
