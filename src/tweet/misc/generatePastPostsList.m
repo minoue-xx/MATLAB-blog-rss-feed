@@ -61,7 +61,19 @@ postData.title = postData.title + " | " + postData.blogTitle;
 % Format
 % Varnames: date, title, url, pubData
 % Ex. "01-Apr-2020 00:32:26", title | blogname, url, "Wed, 01 Apr 2020 00:32:26 GMT"
-writetable(postData(:,["date","title","url","pubDate"]),'../pastPosts_ver1.csv');
+
+dataset = readtable('../postHistory.csv','TextType','string','DatetimeType','text','Delimiter',",");
+pastDataset = readtable('../pastPosts_ver1.csv','TextType','string','DatetimeType','text','Delimiter',",");
+
+% delete contens exist on pastPosts_ver1.csv
+Lia = ismember(postData.url,pastDataset.url);
+post2add = postData(~Lia,["date","title","url","pubDate"]);
+post2output = [pastDataset; post2add];
+
+% delete contents exist on postHistory.csv
+Lia = ismember(post2output.url,dataset.url);
+
+writetable(post2output(~Lia,:),'../pastPosts_ver1.csv');
 
 
 function postdata = getPostData(filename)
