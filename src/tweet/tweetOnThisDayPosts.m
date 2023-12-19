@@ -35,12 +35,14 @@ latestCheck = readcell('latestCheck.txt','Delimiter',',');
 latestCheck = datetime(latestCheck,'InputFormat','dd-MMM HH:mm:SS', 'Locale', 'en_US');
 latestCheck = latestCheck - calyears(year(latestCheck));
 latestCheck.Format = "dd-MMM HH:mm:SS";
+latestCheck.TimeZone = 'Asia/Tokyo';
 disp("last checked on " + string(latestCheck));
 
 % Check the data from last checked till now.
 tnow = datetime;
 tnow.TimeZone = 'UTC';
 tnow.TimeZone = 'Asia/Tokyo';
+dataset.dates.TimeZone = 'Asia/Tokyo';
 dates0 = dataset.dates - calyears(year(dataset.dates));
 age = year(tnow) - year(dataset.dates);
 dataset.age = age;
