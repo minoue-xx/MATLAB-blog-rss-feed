@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Tue, 02 Jul 2024 04:05:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MATLABでシンボリック配列の参照x(1)と代入x(1)に悩まされた話 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/Yuki_MATLAB_Amb/items/22c1f3b41cf31583f836</link>
+            <guid>https://qiita.com/Yuki_MATLAB_Amb/items/22c1f3b41cf31583f836</guid>
+            <pubDate>Mon, 01 Jul 2024 08:45:07 GMT</pubDate>
+            <description><![CDATA[MATLAB R2024aでやってます。おかしなところがあれば教えてください... 軽い背景説明 タイトルだけ見ると何言ってんだという感じですね。 ある配列の１つ目の要素が欲しいときにq(1)と書い…]]></description>
+            <content:encoded><![CDATA[MATLAB R2024aでやってます。おかしなところがあれば教えてください... 軽い背景説明 タイトルだけ見ると何言ってんだという感じですね。 ある配列の１つ目の要素が欲しいときにq(1)と書い…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TUFUTEFCJUUzJTgxJUE3JUUzJTgyJUI3JUUzJTgzJUIzJUUzJTgzJTlDJUUzJTgzJUFBJUUzJTgzJTgzJUUzJTgyJUFGJUU5JTg1JThEJUU1JTg4JTk3JUUzJTgxJUFFJUU1JThGJTgyJUU3JTg1JUE3eCUyODElMjklRTMlODElQTglRTQlQkIlQTMlRTUlODUlQTV4JTI4MSUyOSVFMyU4MSVBQiVFNiU4MiVBOSVFMyU4MSVCRSVFMyU4MSU5NSVFMyU4MiU4QyVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9ZTM0OWIxOWZhNTZjZWVjMjE1NTg0MjQ1ZjAyNWZmMGI&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBZdWtpX01BVExBQl9BbWImdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTA1YjA4YTcyNmQzODI3MThlZDYyYjNlYzBlMWE4NjQ1&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=9353bb0fd9f6cc6f6a35707fe819e6eb"/>
+        </item>
+        <item>
+            <title><![CDATA[スイッチトキャパシタとサンプルホールド回路 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/qwer123123/items/52a1e30099b815d8c300</link>
+            <guid>https://qiita.com/qwer123123/items/52a1e30099b815d8c300</guid>
+            <pubDate>Mon, 01 Jul 2024 06:58:59 GMT</pubDate>
+            <description><![CDATA[サンプルホールド https://www.google.com/search?sca_esv=fe29adbf831f9af0&amp;rlz=1C9BKJA_enJP960JP960&amp;hl=ja&amp;sxsr…]]></description>
+            <content:encoded><![CDATA[サンプルホールド https://www.google.com/search?sca_esv=fe29adbf831f9af0&amp;rlz=1C9BKJA_enJP960JP960&amp;hl=ja&amp;sxsr…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JUUzJTgyJUI5JUUzJTgyJUE0JUUzJTgzJTgzJUUzJTgzJTgxJUUzJTgzJTg4JUUzJTgyJUFEJUUzJTgzJUEzJUUzJTgzJTkxJUUzJTgyJUI3JUUzJTgyJUJGJUUzJTgxJUE4JUUzJTgyJUI1JUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJUFCJUUzJTgzJTlCJUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgzJTg5JUU1JTlCJTlFJUU4JUI3JUFGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmcz1jN2IyZjUxOWVhOWQ1OWQ3YjA4ZWJjNDU5NjY3M2U5Yg&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz03YWM2YTE3YmNlYmNlOTUxN2RkNDNiZjFkZTk1NTU0MA&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=931919b61693ec7b516a535d5622eea7"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB を用いたrobotics 分野の第三者による情報 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/nonbiri15/items/2f1295d0d8e77e5579a1</link>
+            <guid>https://qiita.com/nonbiri15/items/2f1295d0d8e77e5579a1</guid>
+            <pubDate>Fri, 28 Jun 2024 01:25:30 GMT</pubDate>
+            <description><![CDATA[はじめに ロボット マニピュレーター向け MATLAB および Simulink  をみるだけでは、ロボティクス分野でどのようにMATLABが使われているかを知るには足りない。 そこで、まずはMAT…]]></description>
+            <content:encoded><![CDATA[はじめに ロボット マニピュレーター向け MATLAB および Simulink  をみるだけでは、ロボティクス分野でどのようにMATLABが使われているかを知るには足りない。 そこで、まずはMAT…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Fengineer-festa-ogp-background-074608b13b4bbe67c10ada41e7e2d292.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TUFUTEFCJTIwJUUzJTgyJTkyJUU3JTk0JUE4JUUzJTgxJTg0JUUzJTgxJTlGcm9ib3RpY3MlMjAlRTUlODglODYlRTklODclOEUlRTMlODElQUUlRTclQUMlQUMlRTQlQjglODklRTglODAlODUlRTMlODElQUIlRTMlODIlODglRTMlODIlOEIlRTYlODMlODUlRTUlQTAlQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZzPTkzYTRiYWI5ZDNmZTFkZDg2NGMwMmZkY2Q4NjUyMjlm&amp;mark-x=120&amp;mark-y=96&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9OTcyJnR4dD0lNDBub25iaXJpMTUmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWEyYmYyY2E2MjQ5YjgwMTVjNGJiYWI4NDE0MTkwYWNi&amp;blend-x=120&amp;blend-y=500&amp;blend-mode=normal&amp;s=dbc742245f42137e35319e44db74be3f"/>
+        </item>
+        <item>
+            <title><![CDATA[容量逐次比較型ADCの設計下書き | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/qwer123123/items/97ae6963e3d7ee52601f</link>
+            <guid>https://qiita.com/qwer123123/items/97ae6963e3d7ee52601f</guid>
+            <pubDate>Thu, 27 Jun 2024 13:01:51 GMT</pubDate>
+            <description><![CDATA[メモ資料 https://www.ti.com/jp/lit/an/jajt017/jajt017.pdf?ts=1719492729205&amp;ref_url=https%253A%252F%252F…]]></description>
+            <content:encoded><![CDATA[メモ資料 https://www.ti.com/jp/lit/an/jajt017/jajt017.pdf?ts=1719492729205&amp;ref_url=https%253A%252F%252F…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JUU1JUFFJUI5JUU5JTg3JThGJUU5JTgwJTkwJUU2JUFDJUExJUU2JUFGJTk0JUU4JUJDJTgzJUU1JTlFJThCQURDJUUzJTgxJUFFJUU4JUE4JUFEJUU4JUE4JTg4JUU0JUI4JThCJUU2JTlCJUI4JUUzJTgxJThEJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmcz0xMTg5OGU1YmM3YjgzY2VjZDcxMjJkNzI3NzA5MmJmYg&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz03YWM2YTE3YmNlYmNlOTUxN2RkNDNiZjFkZTk1NTU0MA&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=2e510569a01341a08601779eaddec8c4"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB EXPO2024 Lightnig Talk（2024/06/26） | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/na0752be3c562</link>
+            <guid>https://note.com/leftbank/n/na0752be3c562</guid>
+            <pubDate>Wed, 26 Jun 2024 09:00:09 GMT</pubDate>
+            <description><![CDATA[発表の元ビデオです。  ストリーミングはモノラルでしたが、こちらでは最初と最後の BGM が、AudiiSion EP 処理されたステレオになっています。  イヤホン/ヘッドホンでお聴きください。 続きをみる]]></description>
+            <content:encoded><![CDATA[発表の元ビデオです。  ストリーミングはモノラルでしたが、こちらでは最初と最後の BGM が、AudiiSion EP 処理されたステレオになっています。  イヤホン/ヘッドホンでお聴きください。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/12033775/profile_21a9ffb49128a354f717ad6fe6b6fd78.jpeg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330"/>
+        </item>
+        <item>
+            <title><![CDATA[リアルタイム・オーディオ信号処理開発を加速 ～VST プラグインのプロトタイピングから検証までを MATLAB で ～ | MATLAB ユーザーコミュニティー]]></title>
+            <link>https://blogs.mathworks.com/japan-community/2024/06/26/accelerating-real-time-audio-signal-processing-development/</link>
+            <guid>https://blogs.mathworks.com/japan-community/?p=11801</guid>
+            <pubDate>Wed, 26 Jun 2024 05:33:45 GMT</pubDate>
+            <description><![CDATA[今回は MathWorks Japan で信号処理といえば！の竹本さんがお送りします。  はじめに こんにちは。アプリケーションエンジニアの竹本です。信号処理関連のプロダクトを担当しています。趣味は音楽。仕事の息抜きに、MATLAB で平均律と純正律の音を聴き比べたり（Math and... read more >>]]></description>
+            <content:encoded><![CDATA[今回は MathWorks Japan で信号処理といえば！の竹本さんがお送りします。  はじめに こんにちは。アプリケーションエンジニアの竹本です。信号処理関連のプロダクトを担当しています。趣味は音楽。仕事の息抜きに、MATLAB で平均律と純正律の音を聴き比べたり（Math and... read more >>]]></content:encoded>
+            <category>Community</category>
+            <category>オーディオ</category>
+            <category>ユーザー紹介</category>
+            <enclosure length="0" type="jpg" url="https://blogs.mathworks.com/japan-community/files/2024/06/leftbank画像1-1-1-300x296.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB EXPO 2024のコミュニティーイベント：ライトニングトーク | MATLAB ユーザーコミュニティー]]></title>
+            <link>https://blogs.mathworks.com/japan-community/2024/06/19/matlab-expo-2024-lightning-talk/</link>
+            <guid>https://blogs.mathworks.com/japan-community/?p=11909</guid>
+            <pubDate>Wed, 19 Jun 2024 03:00:41 GMT</pubDate>
+            <description><![CDATA[先月、MATLAB EXPO 2024 Japanが実施されましたが、今年もたくさんのユーザーの方に会場のお台場にお越しいただきました。また、なんといっても印象的だったのが5年ぶりの展示エリアでのライトニングトーク！ご存じの方もいるかと思いますが、もともとMATLAB... read more >>]]></description>
+            <content:encoded><![CDATA[先月、MATLAB EXPO 2024 Japanが実施されましたが、今年もたくさんのユーザーの方に会場のお台場にお越しいただきました。また、なんといっても印象的だったのが5年ぶりの展示エリアでのライトニングトーク！ご存じの方もいるかと思いますが、もともとMATLAB... read more >>]]></content:encoded>
+            <category>Uncategorized</category>
+            <enclosure length="0" type="jpg" url="https://blogs.mathworks.com/japan-community/files/2024/06/IMG_1498-scaled.jpg"/>
+        </item>
+    </channel>
+</rss>

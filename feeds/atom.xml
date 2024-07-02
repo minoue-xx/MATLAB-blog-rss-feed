@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2024-07-02T04:05:16.173Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLABでシンボリック配列の参照x(1)と代入x(1)に悩まされた話 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Yuki_MATLAB_Amb/items/22c1f3b41cf31583f836</id>
+        <link href="https://qiita.com/Yuki_MATLAB_Amb/items/22c1f3b41cf31583f836"/>
+        <updated>2024-07-01T08:45:07.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB R2024aでやってます。おかしなところがあれば教えてください... 軽い背景説明 タイトルだけ見ると何言ってんだという感じですね。 ある配列の１つ目の要素が欲しいときにq(1)と書い…]]></summary>
+        <content type="html"><![CDATA[MATLAB R2024aでやってます。おかしなところがあれば教えてください... 軽い背景説明 タイトルだけ見ると何言ってんだという感じですね。 ある配列の１つ目の要素が欲しいときにq(1)と書い…]]></content>
+        <published>2024-07-01T08:45:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スイッチトキャパシタとサンプルホールド回路 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/qwer123123/items/52a1e30099b815d8c300</id>
+        <link href="https://qiita.com/qwer123123/items/52a1e30099b815d8c300"/>
+        <updated>2024-07-01T06:58:59.000Z</updated>
+        <summary type="html"><![CDATA[サンプルホールド https://www.google.com/search?sca_esv=fe29adbf831f9af0&amp;rlz=1C9BKJA_enJP960JP960&amp;hl=ja&amp;sxsr…]]></summary>
+        <content type="html"><![CDATA[サンプルホールド https://www.google.com/search?sca_esv=fe29adbf831f9af0&amp;rlz=1C9BKJA_enJP960JP960&amp;hl=ja&amp;sxsr…]]></content>
+        <published>2024-07-01T06:58:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB を用いたrobotics 分野の第三者による情報 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/nonbiri15/items/2f1295d0d8e77e5579a1</id>
+        <link href="https://qiita.com/nonbiri15/items/2f1295d0d8e77e5579a1"/>
+        <updated>2024-06-28T01:25:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに ロボット マニピュレーター向け MATLAB および Simulink  をみるだけでは、ロボティクス分野でどのようにMATLABが使われているかを知るには足りない。 そこで、まずはMAT…]]></summary>
+        <content type="html"><![CDATA[はじめに ロボット マニピュレーター向け MATLAB および Simulink  をみるだけでは、ロボティクス分野でどのようにMATLABが使われているかを知るには足りない。 そこで、まずはMAT…]]></content>
+        <published>2024-06-28T01:25:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[容量逐次比較型ADCの設計下書き | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/qwer123123/items/97ae6963e3d7ee52601f</id>
+        <link href="https://qiita.com/qwer123123/items/97ae6963e3d7ee52601f"/>
+        <updated>2024-06-27T13:01:51.000Z</updated>
+        <summary type="html"><![CDATA[メモ資料 https://www.ti.com/jp/lit/an/jajt017/jajt017.pdf?ts=1719492729205&amp;ref_url=https%253A%252F%252F…]]></summary>
+        <content type="html"><![CDATA[メモ資料 https://www.ti.com/jp/lit/an/jajt017/jajt017.pdf?ts=1719492729205&amp;ref_url=https%253A%252F%252F…]]></content>
+        <published>2024-06-27T13:01:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB EXPO2024 Lightnig Talk（2024/06/26） | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/na0752be3c562</id>
+        <link href="https://note.com/leftbank/n/na0752be3c562"/>
+        <updated>2024-06-26T09:00:09.000Z</updated>
+        <summary type="html"><![CDATA[発表の元ビデオです。  ストリーミングはモノラルでしたが、こちらでは最初と最後の BGM が、AudiiSion EP 処理されたステレオになっています。  イヤホン/ヘッドホンでお聴きください。 続きをみる]]></summary>
+        <content type="html"><![CDATA[発表の元ビデオです。  ストリーミングはモノラルでしたが、こちらでは最初と最後の BGM が、AudiiSion EP 処理されたステレオになっています。  イヤホン/ヘッドホンでお聴きください。 続きをみる]]></content>
+        <published>2024-06-26T09:00:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リアルタイム・オーディオ信号処理開発を加速 ～VST プラグインのプロトタイピングから検証までを MATLAB で ～ | MATLAB ユーザーコミュニティー]]></title>
+        <id>https://blogs.mathworks.com/japan-community/?p=11801</id>
+        <link href="https://blogs.mathworks.com/japan-community/2024/06/26/accelerating-real-time-audio-signal-processing-development/"/>
+        <updated>2024-06-26T05:33:45.000Z</updated>
+        <summary type="html"><![CDATA[今回は MathWorks Japan で信号処理といえば！の竹本さんがお送りします。  はじめに こんにちは。アプリケーションエンジニアの竹本です。信号処理関連のプロダクトを担当しています。趣味は音楽。仕事の息抜きに、MATLAB で平均律と純正律の音を聴き比べたり（Math and... read more >>]]></summary>
+        <content type="html"><![CDATA[今回は MathWorks Japan で信号処理といえば！の竹本さんがお送りします。  はじめに こんにちは。アプリケーションエンジニアの竹本です。信号処理関連のプロダクトを担当しています。趣味は音楽。仕事の息抜きに、MATLAB で平均律と純正律の音を聴き比べたり（Math and... read more >>]]></content>
+        <author>
+            <name>Michio Inoue</name>
+        </author>
+        <category label="Community"/>
+        <category label="オーディオ"/>
+        <category label="ユーザー紹介"/>
+        <published>2024-06-26T05:33:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB EXPO 2024のコミュニティーイベント：ライトニングトーク | MATLAB ユーザーコミュニティー]]></title>
+        <id>https://blogs.mathworks.com/japan-community/?p=11909</id>
+        <link href="https://blogs.mathworks.com/japan-community/2024/06/19/matlab-expo-2024-lightning-talk/"/>
+        <updated>2024-06-19T03:00:41.000Z</updated>
+        <summary type="html"><![CDATA[先月、MATLAB EXPO 2024 Japanが実施されましたが、今年もたくさんのユーザーの方に会場のお台場にお越しいただきました。また、なんといっても印象的だったのが5年ぶりの展示エリアでのライトニングトーク！ご存じの方もいるかと思いますが、もともとMATLAB... read more >>]]></summary>
+        <content type="html"><![CDATA[先月、MATLAB EXPO 2024 Japanが実施されましたが、今年もたくさんのユーザーの方に会場のお台場にお越しいただきました。また、なんといっても印象的だったのが5年ぶりの展示エリアでのライトニングトーク！ご存じの方もいるかと思いますが、もともとMATLAB... read more >>]]></content>
+        <author>
+            <name>Jiro Doke</name>
+        </author>
+        <category label="Uncategorized"/>
+        <published>2024-06-19T03:00:41.000Z</published>
+    </entry>
+</feed>

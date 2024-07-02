@@ -1,0 +1,169 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/Yuki_MATLAB_Amb/items/22c1f3b41cf31583f836",
+            "content_html": "MATLAB R2024aでやってます。おかしなところがあれば教えてください... 軽い背景説明 タイトルだけ見ると何言ってんだという感じですね。 ある配列の１つ目の要素が欲しいときにq(1)と書い…",
+            "url": "https://qiita.com/Yuki_MATLAB_Amb/items/22c1f3b41cf31583f836",
+            "title": "MATLABでシンボリック配列の参照x(1)と代入x(1)に悩まされた話 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "MATLAB R2024aでやってます。おかしなところがあれば教えてください... 軽い背景説明 タイトルだけ見ると何言ってんだという感じですね。 ある配列の１つ目の要素が欲しいときにq(1)と書い…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TUFUTEFCJUUzJTgxJUE3JUUzJTgyJUI3JUUzJTgzJUIzJUUzJTgzJTlDJUUzJTgzJUFBJUUzJTgzJTgzJUUzJTgyJUFGJUU5JTg1JThEJUU1JTg4JTk3JUUzJTgxJUFFJUU1JThGJTgyJUU3JTg1JUE3eCUyODElMjklRTMlODElQTglRTQlQkIlQTMlRTUlODUlQTV4JTI4MSUyOSVFMyU4MSVBQiVFNiU4MiVBOSVFMyU4MSVCRSVFMyU4MSU5NSVFMyU4MiU4QyVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9ZTM0OWIxOWZhNTZjZWVjMjE1NTg0MjQ1ZjAyNWZmMGI&mark-x=142&mark-y=57&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBZdWtpX01BVExBQl9BbWImdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTA1YjA4YTcyNmQzODI3MThlZDYyYjNlYzBlMWE4NjQ1&blend-x=142&blend-y=486&blend-mode=normal&s=9353bb0fd9f6cc6f6a35707fe819e6eb"
+            },
+            "date_modified": "2024-07-01T08:45:07.000Z",
+            "date_published": "2024-07-01T08:45:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABでシンボリック配列の参照x(1)と代入x(1)に悩まされた話",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/qwer123123/items/52a1e30099b815d8c300",
+            "content_html": "サンプルホールド https://www.google.com/search?sca_esv=fe29adbf831f9af0&rlz=1C9BKJA_enJP960JP960&hl=ja&sxsr…",
+            "url": "https://qiita.com/qwer123123/items/52a1e30099b815d8c300",
+            "title": "スイッチトキャパシタとサンプルホールド回路 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "サンプルホールド https://www.google.com/search?sca_esv=fe29adbf831f9af0&rlz=1C9BKJA_enJP960JP960&hl=ja&sxsr…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JUUzJTgyJUI5JUUzJTgyJUE0JUUzJTgzJTgzJUUzJTgzJTgxJUUzJTgzJTg4JUUzJTgyJUFEJUUzJTgzJUEzJUUzJTgzJTkxJUUzJTgyJUI3JUUzJTgyJUJGJUUzJTgxJUE4JUUzJTgyJUI1JUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJUFCJUUzJTgzJTlCJUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgzJTg5JUU1JTlCJTlFJUU4JUI3JUFGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmcz1jN2IyZjUxOWVhOWQ1OWQ3YjA4ZWJjNDU5NjY3M2U5Yg&mark-x=142&mark-y=57&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz03YWM2YTE3YmNlYmNlOTUxN2RkNDNiZjFkZTk1NTU0MA&blend-x=142&blend-y=486&blend-mode=normal&s=931919b61693ec7b516a535d5622eea7"
+            },
+            "date_modified": "2024-07-01T06:58:59.000Z",
+            "date_published": "2024-07-01T06:58:59.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スイッチトキャパシタとサンプルホールド回路",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/nonbiri15/items/2f1295d0d8e77e5579a1",
+            "content_html": "はじめに ロボット マニピュレーター向け MATLAB および Simulink  をみるだけでは、ロボティクス分野でどのようにMATLABが使われているかを知るには足りない。 そこで、まずはMAT…",
+            "url": "https://qiita.com/nonbiri15/items/2f1295d0d8e77e5579a1",
+            "title": "MATLAB を用いたrobotics 分野の第三者による情報 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに ロボット マニピュレーター向け MATLAB および Simulink  をみるだけでは、ロボティクス分野でどのようにMATLABが使われているかを知るには足りない。 そこで、まずはMAT…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Fengineer-festa-ogp-background-074608b13b4bbe67c10ada41e7e2d292.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TUFUTEFCJTIwJUUzJTgyJTkyJUU3JTk0JUE4JUUzJTgxJTg0JUUzJTgxJTlGcm9ib3RpY3MlMjAlRTUlODglODYlRTklODclOEUlRTMlODElQUUlRTclQUMlQUMlRTQlQjglODklRTglODAlODUlRTMlODElQUIlRTMlODIlODglRTMlODIlOEIlRTYlODMlODUlRTUlQTAlQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZzPTkzYTRiYWI5ZDNmZTFkZDg2NGMwMmZkY2Q4NjUyMjlm&mark-x=120&mark-y=96&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9OTcyJnR4dD0lNDBub25iaXJpMTUmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWEyYmYyY2E2MjQ5YjgwMTVjNGJiYWI4NDE0MTkwYWNi&blend-x=120&blend-y=500&blend-mode=normal&s=dbc742245f42137e35319e44db74be3f"
+            },
+            "date_modified": "2024-06-28T01:25:30.000Z",
+            "date_published": "2024-06-28T01:25:30.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB を用いたrobotics 分野の第三者による情報",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/qwer123123/items/97ae6963e3d7ee52601f",
+            "content_html": "メモ資料 https://www.ti.com/jp/lit/an/jajt017/jajt017.pdf?ts=1719492729205&ref_url=https%253A%252F%252F…",
+            "url": "https://qiita.com/qwer123123/items/97ae6963e3d7ee52601f",
+            "title": "容量逐次比較型ADCの設計下書き | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "メモ資料 https://www.ti.com/jp/lit/an/jajt017/jajt017.pdf?ts=1719492729205&ref_url=https%253A%252F%252F…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JUU1JUFFJUI5JUU5JTg3JThGJUU5JTgwJTkwJUU2JUFDJUExJUU2JUFGJTk0JUU4JUJDJTgzJUU1JTlFJThCQURDJUUzJTgxJUFFJUU4JUE4JUFEJUU4JUE4JTg4JUU0JUI4JThCJUU2JTlCJUI4JUUzJTgxJThEJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmcz0xMTg5OGU1YmM3YjgzY2VjZDcxMjJkNzI3NzA5MmJmYg&mark-x=142&mark-y=57&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz03YWM2YTE3YmNlYmNlOTUxN2RkNDNiZjFkZTk1NTU0MA&blend-x=142&blend-y=486&blend-mode=normal&s=2e510569a01341a08601779eaddec8c4"
+            },
+            "date_modified": "2024-06-27T13:01:51.000Z",
+            "date_published": "2024-06-27T13:01:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "容量逐次比較型ADCの設計下書き",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/na0752be3c562",
+            "content_html": "発表の元ビデオです。  ストリーミングはモノラルでしたが、こちらでは最初と最後の BGM が、AudiiSion EP 処理されたステレオになっています。  イヤホン/ヘッドホンでお聴きください。 続きをみる",
+            "url": "https://note.com/leftbank/n/na0752be3c562",
+            "title": "MATLAB EXPO2024 Lightnig Talk（2024/06/26） | MATLAB関連",
+            "summary": "発表の元ビデオです。  ストリーミングはモノラルでしたが、こちらでは最初と最後の BGM が、AudiiSion EP 処理されたステレオになっています。  イヤホン/ヘッドホンでお聴きください。 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/12033775/profile_21a9ffb49128a354f717ad6fe6b6fd78.jpeg?fit=bounds&format=jpeg&quality=85&width=330"
+            },
+            "date_modified": "2024-06-26T09:00:09.000Z",
+            "date_published": "2024-06-26T09:00:09.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB EXPO2024 Lightnig Talk（2024/06/26）",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://blogs.mathworks.com/japan-community/?p=11801",
+            "content_html": "今回は MathWorks Japan で信号処理といえば！の竹本さんがお送りします。  はじめに こんにちは。アプリケーションエンジニアの竹本です。信号処理関連のプロダクトを担当しています。趣味は音楽。仕事の息抜きに、MATLAB で平均律と純正律の音を聴き比べたり（Math and... read more >>",
+            "url": "https://blogs.mathworks.com/japan-community/2024/06/26/accelerating-real-time-audio-signal-processing-development/",
+            "title": "リアルタイム・オーディオ信号処理開発を加速 ～VST プラグインのプロトタイピングから検証までを MATLAB で ～ | MATLAB ユーザーコミュニティー",
+            "summary": "今回は MathWorks Japan で信号処理といえば！の竹本さんがお送りします。  はじめに こんにちは。アプリケーションエンジニアの竹本です。信号処理関連のプロダクトを担当しています。趣味は音楽。仕事の息抜きに、MATLAB で平均律と純正律の音を聴き比べたり（Math and... read more >>",
+            "image": {
+                "type": "jpg",
+                "url": "https://blogs.mathworks.com/japan-community/files/2024/06/leftbank画像1-1-1-300x296.jpg"
+            },
+            "date_modified": "2024-06-26T05:33:45.000Z",
+            "date_published": "2024-06-26T05:33:45.000Z",
+            "author": {
+                "name": "Michio Inoue"
+            },
+            "tags": [
+                "Community",
+                "オーディオ",
+                "ユーザー紹介"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "リアルタイム・オーディオ信号処理開発を加速 ～VST プラグインのプロトタイピングから検証までを MATLAB で ～",
+                "blogTitle": "MATLAB ユーザーコミュニティー",
+                "blogLink": "https://blogs.mathworks.com/japan-community",
+                "blogLinkMd5Hash": "b3d392b7e9db485b6bbc3dc2b604bd07"
+            }
+        },
+        {
+            "id": "https://blogs.mathworks.com/japan-community/?p=11909",
+            "content_html": "先月、MATLAB EXPO 2024 Japanが実施されましたが、今年もたくさんのユーザーの方に会場のお台場にお越しいただきました。また、なんといっても印象的だったのが5年ぶりの展示エリアでのライトニングトーク！ご存じの方もいるかと思いますが、もともとMATLAB... read more >>",
+            "url": "https://blogs.mathworks.com/japan-community/2024/06/19/matlab-expo-2024-lightning-talk/",
+            "title": "MATLAB EXPO 2024のコミュニティーイベント：ライトニングトーク | MATLAB ユーザーコミュニティー",
+            "summary": "先月、MATLAB EXPO 2024 Japanが実施されましたが、今年もたくさんのユーザーの方に会場のお台場にお越しいただきました。また、なんといっても印象的だったのが5年ぶりの展示エリアでのライトニングトーク！ご存じの方もいるかと思いますが、もともとMATLAB... read more >>",
+            "image": {
+                "type": "jpg",
+                "url": "https://blogs.mathworks.com/japan-community/files/2024/06/IMG_1498-scaled.jpg"
+            },
+            "date_modified": "2024-06-19T03:00:41.000Z",
+            "date_published": "2024-06-19T03:00:41.000Z",
+            "author": {
+                "name": "Jiro Doke"
+            },
+            "tags": [
+                "Uncategorized"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB EXPO 2024のコミュニティーイベント：ライトニングトーク",
+                "blogTitle": "MATLAB ユーザーコミュニティー",
+                "blogLink": "https://blogs.mathworks.com/japan-community",
+                "blogLinkMd5Hash": "b3d392b7e9db485b6bbc3dc2b604bd07"
+            }
+        }
+    ]
+}
