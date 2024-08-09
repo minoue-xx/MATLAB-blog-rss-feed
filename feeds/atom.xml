@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2024-08-09T15:05:05.488Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLABでテイラー展開してグラフ化するプログラムを書いた | MATLAB/simulink アーカイブ - しろねこらぼ]]></title>
+        <id>https://sironekolab.com/?p=7145</id>
+        <link href="https://sironekolab.com/archives/7145"/>
+        <updated>2024-08-08T02:19:51.000Z</updated>
+        <summary type="html"><![CDATA[MATLABでテイラー展開してグラフ化するプログラムを書いた。以下コード plotTaylorSeries 関数・・・与えられた関数 \(f\)、テイラー展開の中心\(a\)、次数\(n\)、および\(x\)の範囲x_r […] 投稿 MATLABでテイラー展開してグラフ化するプログラムを書いた は しろねこらぼ に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[MATLABでテイラー展開してグラフ化するプログラムを書いた。以下コード plotTaylorSeries 関数・・・与えられた関数 \(f\)、テイラー展開の中心\(a\)、次数\(n\)、および\(x\)の範囲x_r […] 投稿 MATLABでテイラー展開してグラフ化するプログラムを書いた は しろねこらぼ に最初に表示されました。]]></content>
+        <author>
+            <name>しろねこ</name>
+        </author>
+        <category label="MATLAB/simulink"/>
+        <category label="プログラミング"/>
+        <published>2024-08-08T02:19:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MATLAB】【Simulink】MatlabScriptによるStateflow toolbox プログラミング | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/threestones/items/9a7ab144fc31aec51e85</id>
+        <link href="https://qiita.com/threestones/items/9a7ab144fc31aec51e85"/>
+        <updated>2024-08-04T10:10:39.000Z</updated>
+        <summary type="html"><![CDATA[やりたいこと MATLAB Scriptを用いてStateflowを生成したい。通常のSimulinkのブロック配置と異なり、Stateflowは自由に描ける分自動化が難しいのではと考えていた。 と…]]></summary>
+        <content type="html"><![CDATA[やりたいこと MATLAB Scriptを用いてStateflowを生成したい。通常のSimulinkのブロック配置と異なり、Stateflowは自由に描ける分自動化が難しいのではと考えていた。 と…]]></content>
+        <published>2024-08-04T10:10:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パリオリンピックで使われた例のあれ | MATLAB/simulink アーカイブ - しろねこらぼ]]></title>
+        <id>https://sironekolab.com/?p=7141</id>
+        <link href="https://sironekolab.com/archives/7141"/>
+        <updated>2024-08-03T17:41:10.000Z</updated>
+        <summary type="html"><![CDATA[※本抽選は厳正に行われています。（+90kg固定） 投稿 パリオリンピックで使われた例のあれ は しろねこらぼ に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[※本抽選は厳正に行われています。（+90kg固定） 投稿 パリオリンピックで使われた例のあれ は しろねこらぼ に最初に表示されました。]]></content>
+        <author>
+            <name>しろねこ</name>
+        </author>
+        <category label="MATLAB/simulink"/>
+        <category label="プログラミング"/>
+        <published>2024-08-03T17:41:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネルダーミード法を使った救解 | MATLAB/simulink アーカイブ - しろねこらぼ]]></title>
+        <id>https://sironekolab.com/?p=7139</id>
+        <link href="https://sironekolab.com/archives/7139"/>
+        <updated>2024-08-03T14:26:18.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPTにネルダーミード法を使った関数の最適解を求めてもらった あってるかは後日確認するつもり 投稿 ネルダーミード法を使った救解 は しろねこらぼ に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[ChatGPTにネルダーミード法を使った関数の最適解を求めてもらった あってるかは後日確認するつもり 投稿 ネルダーミード法を使った救解 は しろねこらぼ に最初に表示されました。]]></content>
+        <author>
+            <name>しろねこ</name>
+        </author>
+        <category label="MATLAB/simulink"/>
+        <category label="プログラミング"/>
+        <published>2024-08-03T14:26:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIDI コンで MATLAB / Simulink をコントロール ～ フィジカル・デバイスで MATLAB を制御する | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/ne7284b2f201f</id>
+        <link href="https://note.com/leftbank/n/ne7284b2f201f"/>
+        <updated>2024-08-03T11:12:09.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2024-08-03T11:12:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8/9日分のロト７の番号を予測してみた | MATLAB/simulink アーカイブ - しろねこらぼ]]></title>
+        <id>https://sironekolab.com/?p=7137</id>
+        <link href="https://sironekolab.com/archives/7137"/>
+        <updated>2024-08-02T15:10:56.000Z</updated>
+        <summary type="html"><![CDATA[[ 6 9 12 13 19 27 34][ 5 9 11 18 26 33 36][ 5 9 12 13 19 27 34][ 6 8 11 18 26 33 36] 投稿 8/9日分のロト７の番号を予測してみた は しろねこらぼ に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[[ 6 9 12 13 19 27 34][ 5 9 11 18 26 33 36][ 5 9 12 13 19 27 34][ 6 8 11 18 26 33 36] 投稿 8/9日分のロト７の番号を予測してみた は しろねこらぼ に最初に表示されました。]]></content>
+        <author>
+            <name>しろねこ</name>
+        </author>
+        <category label="MATLAB/simulink"/>
+        <category label="プログラミング"/>
+        <category label="宝くじ"/>
+        <published>2024-08-02T15:10:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンライン学習のススメ／『はじめての制御工学』on GitHub／マイクロサージェリーロボット開発／LLM x MATLAB｜2024年8月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/n4579447fb228</id>
+        <link href="https://note.com/sachie_y/n/n4579447fb228"/>
+        <updated>2024-08-01T09:19:34.000Z</updated>
+        <summary type="html"><![CDATA[自分のペースでMATLABを学ぶ オンライントレーニングコースでMATLABの世界に飛び込みましょう。初心者から中級、上級者までレベルごとに用意されたコースで、さまざまなトピックについて自分のペースで学習できます。 続きをみる]]></summary>
+        <content type="html"><![CDATA[自分のペースでMATLABを学ぶ オンライントレーニングコースでMATLABの世界に飛び込みましょう。初心者から中級、上級者までレベルごとに用意されたコースで、さまざまなトピックについて自分のペースで学習できます。 続きをみる]]></content>
+        <published>2024-08-01T09:19:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マンデルブロ集合を書くプログラム | MATLAB/simulink アーカイブ - しろねこらぼ]]></title>
+        <id>https://sironekolab.com/?p=7135</id>
+        <link href="https://sironekolab.com/archives/7135"/>
+        <updated>2024-07-30T15:03:45.000Z</updated>
+        <summary type="html"><![CDATA[マンデルブロ集合を書くだけ 投稿 マンデルブロ集合を書くプログラム は しろねこらぼ に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[マンデルブロ集合を書くだけ 投稿 マンデルブロ集合を書くプログラム は しろねこらぼ に最初に表示されました。]]></content>
+        <author>
+            <name>しろねこ</name>
+        </author>
+        <category label="MATLAB/simulink"/>
+        <category label="プログラミング"/>
+        <published>2024-07-30T15:03:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MATLABとOpen3D（Python）】点群処理コードの対応 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/shun-kusano/items/cd7bc8ba42af1f8a530b</id>
+        <link href="https://qiita.com/shun-kusano/items/cd7bc8ba42af1f8a530b"/>
+        <updated>2024-07-29T05:46:02.000Z</updated>
+        <summary type="html"><![CDATA[この記事に書いてあること Open3D（Python版）のコードはMATLABでどのように書くのかをOpen3DのTutorialをベースに紹介していきます。2つの環境を使っている（もしくは使う予定…]]></summary>
+        <content type="html"><![CDATA[この記事に書いてあること Open3D（Python版）のコードはMATLABでどのように書くのかをOpen3DのTutorialをベースに紹介していきます。2つの環境を使っている（もしくは使う予定…]]></content>
+        <published>2024-07-29T05:46:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[matlabで振り子 | MATLAB/simulink アーカイブ - しろねこらぼ]]></title>
+        <id>https://sironekolab.com/?p=7128</id>
+        <link href="https://sironekolab.com/archives/7128"/>
+        <updated>2024-07-27T21:38:28.000Z</updated>
+        <summary type="html"><![CDATA[matlabで振り子を動かしてみる 運動方程式などの細かい話は次回 投稿 matlabで振り子 は しろねこらぼ に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[matlabで振り子を動かしてみる 運動方程式などの細かい話は次回 投稿 matlabで振り子 は しろねこらぼ に最初に表示されました。]]></content>
+        <author>
+            <name>しろねこ</name>
+        </author>
+        <category label="MATLAB/simulink"/>
+        <category label="プログラミング"/>
+        <published>2024-07-27T21:38:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[magic formula tyre modelを使ってタイヤの最大横力を計算する | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yuuk1/items/b68aa130f5c85621c4c3</id>
+        <link href="https://qiita.com/yuuk1/items/b68aa130f5c85621c4c3"/>
+        <updated>2024-07-27T15:25:17.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 大学生活のなかで，タイヤの発生できる最大の横力を出力したいときが来るはずです。そんなときのために最大横力とそれを発生する横滑り角を出力する関数を作成しました。 環境   使用ソフト  MATLA…]]></summary>
+        <content type="html"><![CDATA[はじめに 大学生活のなかで，タイヤの発生できる最大の横力を出力したいときが来るはずです。そんなときのために最大横力とそれを発生する横滑り角を出力する関数を作成しました。 環境   使用ソフト  MATLA…]]></content>
+        <published>2024-07-27T15:25:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本の道路サイズ | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/tommyecguitar/items/f8529bb9042471136c1b</id>
+        <link href="https://qiita.com/tommyecguitar/items/f8529bb9042471136c1b"/>
+        <updated>2024-07-27T10:41:53.000Z</updated>
+        <summary type="html"><![CDATA[RoadRunner MATLAB使ってる人は知ってるかもしれませんが、RoadRunnerを使う機会が増えそうなので備忘録的に記事にしてます。読みやすくはないです。 モチベーション RoadRun…]]></summary>
+        <content type="html"><![CDATA[RoadRunner MATLAB使ってる人は知ってるかもしれませんが、RoadRunnerを使う機会が増えそうなので備忘録的に記事にしてます。読みやすくはないです。 モチベーション RoadRun…]]></content>
+        <published>2024-07-27T10:41:53.000Z</published>
+    </entry>
+</feed>
