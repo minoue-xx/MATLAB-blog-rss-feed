@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Thu, 10 Oct 2024 15:04:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MATLABで音楽作成　ドレミファソラシド | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/tomtkg/items/11990e399df4f48771ea</link>
+            <guid>https://qiita.com/tomtkg/items/11990e399df4f48771ea</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:07 GMT</pubDate>
+            <description><![CDATA[MATLAB Shorts Mini Hackというコンテストに参加しています． その一作品として，簡単な音楽を作成してみました．mp4 https://jp.mathworks.com/matla…]]></description>
+            <content:encoded><![CDATA[MATLAB Shorts Mini Hackというコンテストに参加しています． その一作品として，簡単な音楽を作成してみました．mp4 https://jp.mathworks.com/matla…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TUFUTEFCJUUzJTgxJUE3JUU5JTlGJUIzJUU2JUE1JUJEJUU0JUJEJTlDJUU2JTg4JTkwJUUzJTgwJTgwJUUzJTgzJTg5JUUzJTgzJUFDJUUzJTgzJTlGJUUzJTgzJTk1JUUzJTgyJUExJUUzJTgyJUJEJUUzJTgzJUE5JUUzJTgyJUI3JUUzJTgzJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmcz03ZDZiYTc2NDg2ZTZhOGUwNDNkOGJhZTQ3MjNlYTZhZg&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDB0b210a2cmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTI2Y2MzN2JkOTA5MmY1Zjc4YzU2MjYxNDYzMmI1Mjcz&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=ed959cc9aab14702c6886fff34628586"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB ショートアニメコンテスト ～ 賞金・ノベルティグッズが貰えるかも！？ | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/n40daf1ee1c42</link>
+            <guid>https://note.com/leftbank/n/n40daf1ee1c42</guid>
+            <pubDate>Tue, 08 Oct 2024 12:40:29 GMT</pubDate>
+            <description><![CDATA[MATLAB Shorts Mini Hack 続きをみる]]></description>
+            <content:encoded><![CDATA[MATLAB Shorts Mini Hack 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/157217798/rectangle_large_type_2_2d73ca54fd4f7f2477f0c49bdadefda5.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[[MATLAB][小ネタ]しかのこのこのここしたんたん | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/dokagui_tairan/items/34a03dfd96d0ad0e56aa</link>
+            <guid>https://qiita.com/dokagui_tairan/items/34a03dfd96d0ad0e56aa</guid>
+            <pubDate>Mon, 07 Oct 2024 13:14:45 GMT</pubDate>
+            <description><![CDATA[はじめに @pikさんの記事[Delphi][小ネタ]しかのこのこのここしたんたんのmatlab版である． https://x.com/Awed_Urshy/status/1821112609799…]]></description>
+            <content:encoded><![CDATA[はじめに @pikさんの記事[Delphi][小ネタ]しかのこのこのここしたんたんのmatlab版である． https://x.com/Awed_Urshy/status/1821112609799…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JTVCTUFUTEFCJTVEJTVCJUU1JUIwJThGJUUzJTgzJThEJUUzJTgyJUJGJTVEJUUzJTgxJTk3JUUzJTgxJThCJUUzJTgxJUFFJUUzJTgxJTkzJUUzJTgxJUFFJUUzJTgxJTkzJUUzJTgxJUFFJUUzJTgxJTkzJUUzJTgxJTkzJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgyJTkzJUUzJTgxJTlGJUUzJTgyJTkzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmcz1mNmU3N2MzNjY3MGE2ZjY1Y2Q1Y2ViY2FmMWIzODhjMg&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBkb2thZ3VpX3RhaXJhbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ZTYxMDMwNzA1NTMzNjYxNWFiZTk2MDQ2ZTNjNTQ0NjE&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=b480ca2ffad4fe45c554697e2ab803ff"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLABによる宇宙機の軌道伝播（地球-月 円制限三体問題におけるNRHOの描画） | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/hokkaido/items/d332b7b5329dbe6b2648</link>
+            <guid>https://qiita.com/hokkaido/items/d332b7b5329dbe6b2648</guid>
+            <pubDate>Sat, 05 Oct 2024 05:47:56 GMT</pubDate>
+            <description><![CDATA[アストロダイナミクス分野（軌道設計や最適化など）では、MATLABが広く用いられています。 本記事は、研究室配属前後や軌道をやってみたい方向けかつ、MATLABのライセンスが無料の機関の方向けです。…]]></description>
+            <content:encoded><![CDATA[アストロダイナミクス分野（軌道設計や最適化など）では、MATLABが広く用いられています。 本記事は、研究室配属前後や軌道をやってみたい方向けかつ、MATLABのライセンスが無料の機関の方向けです。…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TUFUTEFCJUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCJUU1JUFFJTg3JUU1JUFFJTk5JUU2JUE5JTlGJUUzJTgxJUFFJUU4JUJCJThDJUU5JTgxJTkzJUU0JUJDJTlEJUU2JTkyJUFEJUVGJUJDJTg4JUU1JTlDJUIwJUU3JTkwJTgzLSVFNiU5QyU4OCUyMCVFNSU4NiU4NiVFNSU4OCVCNiVFOSU5OSU5MCVFNCVCOCU4OSVFNCVCRCU5MyVFNSU5NSU4RiVFOSVBMSU4QyVFMyU4MSVBQiVFMyU4MSU4QSVFMyU4MSU5MSVFMyU4MiU4Qk5SSE8lRTMlODElQUUlRTYlOEYlOEYlRTclOTQlQkIlRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZzPTU5YjI4NjU5ODM3MWZkMTdhOTczY2FmOTQ1YTMxYjBh&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBob2trYWlkbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9N2M3M2IwYWRiNjI5NDNlYzVjOTUxNmY4NDk3M2ZlODc&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=f64b969008d72137a19cc6a5eaee9d49"/>
+        </item>
+        <item>
+            <title><![CDATA[R2024bリリース／Arduinoを用いたPBL／初学者向け「Excelデータの読み込み」／MATLABでオープンソースアプリ開発｜2024年10月 | MATLAB アカデミックニュースレター]]></title>
+            <link>https://note.com/sachie_y/n/n4980f95224f5</link>
+            <guid>https://note.com/sachie_y/n/n4980f95224f5</guid>
+            <pubDate>Thu, 03 Oct 2024 00:51:32 GMT</pubDate>
+            <description><![CDATA[R2024b リリース ぜひお試しいただきたい最新機能はこちら: ・HTTP/HTTPS データの読み込み ・対話形式でODEを求解 ・新しいバイオリンプロットとコンパスプロット ・新しいデスクトップ (ベータ版): ダークテーマ、検索機能の改善、Figureウィンドウの機能強化 続きをみる]]></description>
+            <content:encoded><![CDATA[R2024b リリース ぜひお試しいただきたい最新機能はこちら: ・HTTP/HTTPS データの読み込み ・対話形式でODEを求解 ・新しいバイオリンプロットとコンパスプロット ・新しいデスクトップ (ベータ版): ダークテーマ、検索機能の改善、Figureウィンドウの機能強化 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/154981088/rectangle_large_type_2_44707b43fe06883a445089db2f45884a.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB 配色関連 Tips | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/km_MATLAB_Amb/items/067916efd5270e33f05f</link>
+            <guid>https://qiita.com/km_MATLAB_Amb/items/067916efd5270e33f05f</guid>
+            <pubDate>Wed, 02 Oct 2024 05:17:47 GMT</pubDate>
+            <description><![CDATA[はじめに MATLAB Student Ambassador の K.M. です． 見栄えの良い配色でグラフを作ると気分が良いですよね？MATLABのデフォルト配色には安心感を覚えますが，色の数が足…]]></description>
+            <content:encoded><![CDATA[はじめに MATLAB Student Ambassador の K.M. です． 見栄えの良い配色でグラフを作ると気分が良いですよね？MATLABのデフォルト配色には安心感を覚えますが，色の数が足…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TUFUTEFCJTIwJUU5JTg1JThEJUU4JTg5JUIyJUU5JTk2JUEyJUU5JTgwJUEzJTIwVGlwcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9NDgyMzlmMDdjNzI2MzA4YzQ4MjU4YzQ3ZGI2NTgyMTA&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBrbV9NQVRMQUJfQW1iJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz05Yjg2NjI3OWRkNWU0MDBkNTcyYmM1NGM1YTZiMmZhZQ&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=22451ebae3400bb6b5eaf4a546014e81"/>
+        </item>
+    </channel>
+</rss>

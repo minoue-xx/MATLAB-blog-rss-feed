@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2024-10-10T15:04:47.804Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLABで音楽作成　ドレミファソラシド | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/tomtkg/items/11990e399df4f48771ea</id>
+        <link href="https://qiita.com/tomtkg/items/11990e399df4f48771ea"/>
+        <updated>2024-10-10T12:34:07.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB Shorts Mini Hackというコンテストに参加しています． その一作品として，簡単な音楽を作成してみました．mp4 https://jp.mathworks.com/matla…]]></summary>
+        <content type="html"><![CDATA[MATLAB Shorts Mini Hackというコンテストに参加しています． その一作品として，簡単な音楽を作成してみました．mp4 https://jp.mathworks.com/matla…]]></content>
+        <published>2024-10-10T12:34:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB ショートアニメコンテスト ～ 賞金・ノベルティグッズが貰えるかも！？ | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/n40daf1ee1c42</id>
+        <link href="https://note.com/leftbank/n/n40daf1ee1c42"/>
+        <updated>2024-10-08T12:40:29.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB Shorts Mini Hack 続きをみる]]></summary>
+        <content type="html"><![CDATA[MATLAB Shorts Mini Hack 続きをみる]]></content>
+        <published>2024-10-08T12:40:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MATLAB][小ネタ]しかのこのこのここしたんたん | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/dokagui_tairan/items/34a03dfd96d0ad0e56aa</id>
+        <link href="https://qiita.com/dokagui_tairan/items/34a03dfd96d0ad0e56aa"/>
+        <updated>2024-10-07T13:14:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめに @pikさんの記事[Delphi][小ネタ]しかのこのこのここしたんたんのmatlab版である． https://x.com/Awed_Urshy/status/1821112609799…]]></summary>
+        <content type="html"><![CDATA[はじめに @pikさんの記事[Delphi][小ネタ]しかのこのこのここしたんたんのmatlab版である． https://x.com/Awed_Urshy/status/1821112609799…]]></content>
+        <published>2024-10-07T13:14:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABによる宇宙機の軌道伝播（地球-月 円制限三体問題におけるNRHOの描画） | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/hokkaido/items/d332b7b5329dbe6b2648</id>
+        <link href="https://qiita.com/hokkaido/items/d332b7b5329dbe6b2648"/>
+        <updated>2024-10-05T05:47:56.000Z</updated>
+        <summary type="html"><![CDATA[アストロダイナミクス分野（軌道設計や最適化など）では、MATLABが広く用いられています。 本記事は、研究室配属前後や軌道をやってみたい方向けかつ、MATLABのライセンスが無料の機関の方向けです。…]]></summary>
+        <content type="html"><![CDATA[アストロダイナミクス分野（軌道設計や最適化など）では、MATLABが広く用いられています。 本記事は、研究室配属前後や軌道をやってみたい方向けかつ、MATLABのライセンスが無料の機関の方向けです。…]]></content>
+        <published>2024-10-05T05:47:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R2024bリリース／Arduinoを用いたPBL／初学者向け「Excelデータの読み込み」／MATLABでオープンソースアプリ開発｜2024年10月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/n4980f95224f5</id>
+        <link href="https://note.com/sachie_y/n/n4980f95224f5"/>
+        <updated>2024-10-03T00:51:32.000Z</updated>
+        <summary type="html"><![CDATA[R2024b リリース ぜひお試しいただきたい最新機能はこちら: ・HTTP/HTTPS データの読み込み ・対話形式でODEを求解 ・新しいバイオリンプロットとコンパスプロット ・新しいデスクトップ (ベータ版): ダークテーマ、検索機能の改善、Figureウィンドウの機能強化 続きをみる]]></summary>
+        <content type="html"><![CDATA[R2024b リリース ぜひお試しいただきたい最新機能はこちら: ・HTTP/HTTPS データの読み込み ・対話形式でODEを求解 ・新しいバイオリンプロットとコンパスプロット ・新しいデスクトップ (ベータ版): ダークテーマ、検索機能の改善、Figureウィンドウの機能強化 続きをみる]]></content>
+        <published>2024-10-03T00:51:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB 配色関連 Tips | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/km_MATLAB_Amb/items/067916efd5270e33f05f</id>
+        <link href="https://qiita.com/km_MATLAB_Amb/items/067916efd5270e33f05f"/>
+        <updated>2024-10-02T05:17:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに MATLAB Student Ambassador の K.M. です． 見栄えの良い配色でグラフを作ると気分が良いですよね？MATLABのデフォルト配色には安心感を覚えますが，色の数が足…]]></summary>
+        <content type="html"><![CDATA[はじめに MATLAB Student Ambassador の K.M. です． 見栄えの良い配色でグラフを作ると気分が良いですよね？MATLABのデフォルト配色には安心感を覚えますが，色の数が足…]]></content>
+        <published>2024-10-02T05:17:47.000Z</published>
+    </entry>
+</feed>
