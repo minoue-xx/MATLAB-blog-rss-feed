@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2024-10-25T00:19:46.827Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[この立体感を 効果的に利用しましょう | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/tsubolabo/items/798f7093ae835acecfcf</id>
+        <link href="https://qiita.com/tsubolabo/items/798f7093ae835acecfcf"/>
+        <updated>2024-10-19T05:06:27.000Z</updated>
+        <summary type="html"><![CDATA[立体視といえば、ゴーグルなどを使った本格的なＶＲ関係の話題で大いに盛り上がっています。しかし、この記事で紹介するのは、メガネはもちろん、見るための何の道具も要らない、きわめて地味で簡素で原始的な、…]]></summary>
+        <content type="html"><![CDATA[立体視といえば、ゴーグルなどを使った本格的なＶＲ関係の話題で大いに盛り上がっています。しかし、この記事で紹介するのは、メガネはもちろん、見るための何の道具も要らない、きわめて地味で簡素で原始的な、…]]></content>
+        <published>2024-10-19T05:06:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynare を MATLAB で動かす for Windows | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/sahukita/items/3a82273f02b287b93a57</id>
+        <link href="https://qiita.com/sahukita/items/3a82273f02b287b93a57"/>
+        <updated>2024-10-17T15:10:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。@sahukitaです。 本記事ではDynareをインストールしてMATLAB上で動作させられる所まで皆さんをお連れしたいと思います。 尚、MATLABのインストールは既に終え…]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。@sahukitaです。 本記事ではDynareをインストールしてMATLAB上で動作させられる所まで皆さんをお連れしたいと思います。 尚、MATLABのインストールは既に終え…]]></content>
+        <published>2024-10-17T15:10:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AD変換に使える量子化器MATLAB/Simulinkでの実装 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/qwer123123/items/01b9fd357807e8f4f934</id>
+        <link href="https://qiita.com/qwer123123/items/01b9fd357807e8f4f934"/>
+        <updated>2024-10-16T03:17:09.000Z</updated>
+        <summary type="html"><![CDATA[function [V_out, V_out_inverted, LSB] = stair_filter(V_in, V_min, V_max)  % stair_filter: 入力電圧をN段階に…]]></summary>
+        <content type="html"><![CDATA[function [V_out, V_out_inverted, LSB] = stair_filter(V_in, V_min, V_max)  % stair_filter: 入力電圧をN段階に…]]></content>
+        <published>2024-10-16T03:17:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[痒いとこに手が届くMATLAB関数【フォント変更shortcut】 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Tannis/items/c0642ec14e998e87bab8</id>
+        <link href="https://qiita.com/Tannis/items/c0642ec14e998e87bab8"/>
+        <updated>2024-10-15T12:21:40.000Z</updated>
+        <summary type="html"><![CDATA[フォントを手軽に変更する関数の作成してみました！  痒いとこに手が届くMATLAB関数 日々のMATLABライフをちょっと便利にするツールを作成し発信することを目指して投稿をはじめてみました。他のMA…]]></summary>
+        <content type="html"><![CDATA[フォントを手軽に変更する関数の作成してみました！  痒いとこに手が届くMATLAB関数 日々のMATLABライフをちょっと便利にするツールを作成し発信することを目指して投稿をはじめてみました。他のMA…]]></content>
+        <published>2024-10-15T12:21:40.000Z</published>
+    </entry>
+</feed>

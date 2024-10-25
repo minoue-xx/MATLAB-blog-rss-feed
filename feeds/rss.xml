@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Fri, 25 Oct 2024 00:19:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[この立体感を 効果的に利用しましょう | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/tsubolabo/items/798f7093ae835acecfcf</link>
+            <guid>https://qiita.com/tsubolabo/items/798f7093ae835acecfcf</guid>
+            <pubDate>Sat, 19 Oct 2024 05:06:27 GMT</pubDate>
+            <description><![CDATA[立体視といえば、ゴーグルなどを使った本格的なＶＲ関係の話題で大いに盛り上がっています。しかし、この記事で紹介するのは、メガネはもちろん、見るための何の道具も要らない、きわめて地味で簡素で原始的な、…]]></description>
+            <content:encoded><![CDATA[立体視といえば、ゴーグルなどを使った本格的なＶＲ関係の話題で大いに盛り上がっています。しかし、この記事で紹介するのは、メガネはもちろん、見るための何の道具も要らない、きわめて地味で簡素で原始的な、…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JUUzJTgxJTkzJUUzJTgxJUFFJUU3JUFCJThCJUU0JUJEJTkzJUU2JTg0JTlGJUUzJTgyJTkyJTIwJUU1JThBJUI5JUU2JTlFJTlDJUU3JTlBJTg0JUUzJTgxJUFCJUU1JTg4JUE5JUU3JTk0JUE4JUUzJTgxJTk3JUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgyJTg3JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmcz02ZTM3NjFmYTY4YjAwNWI4MTQ3NDVkNzRhYzVhZjFlNA&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDB0c3Vib2xhYm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTAxOTk3YmFhYTZlYTNhNGNjMzI1ZWU4ZTFlZWZmODRl&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=7c53e1f7fa7b3116308889d8a2b92204"/>
+        </item>
+        <item>
+            <title><![CDATA[Dynare を MATLAB で動かす for Windows | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/sahukita/items/3a82273f02b287b93a57</link>
+            <guid>https://qiita.com/sahukita/items/3a82273f02b287b93a57</guid>
+            <pubDate>Thu, 17 Oct 2024 15:10:06 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは。@sahukitaです。 本記事ではDynareをインストールしてMATLAB上で動作させられる所まで皆さんをお連れしたいと思います。 尚、MATLABのインストールは既に終え…]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは。@sahukitaです。 本記事ではDynareをインストールしてMATLAB上で動作させられる所まで皆さんをお連れしたいと思います。 尚、MATLABのインストールは既に終え…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9RHluYXJlJTIwJUUzJTgyJTkyJTIwTUFUTEFCJTIwJUUzJTgxJUE3JUU1JThCJTk1JUUzJTgxJThCJUUzJTgxJTk5JTIwZm9yJTIwV2luZG93cyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9MGQ2YTVjZTU3NGQwZDliZDIzNWY1ZTVjYWQ5MDAyMDM&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBzYWh1a2l0YSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MWQ4ZWYzYWQ2MzdiOTQ3NmI2NzY5MTI3OWE1YWM4YWE&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=491c9e7ae01a0b46775f901ec625584f"/>
+        </item>
+        <item>
+            <title><![CDATA[AD変換に使える量子化器MATLAB/Simulinkでの実装 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/qwer123123/items/01b9fd357807e8f4f934</link>
+            <guid>https://qiita.com/qwer123123/items/01b9fd357807e8f4f934</guid>
+            <pubDate>Wed, 16 Oct 2024 03:17:09 GMT</pubDate>
+            <description><![CDATA[function [V_out, V_out_inverted, LSB] = stair_filter(V_in, V_min, V_max)  % stair_filter: 入力電圧をN段階に…]]></description>
+            <content:encoded><![CDATA[function [V_out, V_out_inverted, LSB] = stair_filter(V_in, V_min, V_max)  % stair_filter: 入力電圧をN段階に…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QUQlRTUlQTQlODklRTYlOEYlOUIlRTMlODElQUIlRTQlQkQlQkYlRTMlODElODglRTMlODIlOEIlRTklODclOEYlRTUlQUQlOTAlRTUlOEMlOTYlRTUlOTklQThNQVRMQUIlMkZTaW11bGluayVFMyU4MSVBNyVFMyU4MSVBRSVFNSVBRSU5RiVFOCVBMyU4NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9OWYyMjhjNmM1NDNjN2Y3ZWFjMTkwNTMxMzUzOWNiMGM&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1jYTM5MTkxMTU1MjBjZmMwOThkOGIzY2U5MjllYzgwMw&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=c01f4164cc3a3b99a203d7fc03837025"/>
+        </item>
+        <item>
+            <title><![CDATA[痒いとこに手が届くMATLAB関数【フォント変更shortcut】 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/Tannis/items/c0642ec14e998e87bab8</link>
+            <guid>https://qiita.com/Tannis/items/c0642ec14e998e87bab8</guid>
+            <pubDate>Tue, 15 Oct 2024 12:21:40 GMT</pubDate>
+            <description><![CDATA[フォントを手軽に変更する関数の作成してみました！  痒いとこに手が届くMATLAB関数 日々のMATLABライフをちょっと便利にするツールを作成し発信することを目指して投稿をはじめてみました。他のMA…]]></description>
+            <content:encoded><![CDATA[フォントを手軽に変更する関数の作成してみました！  痒いとこに手が届くMATLAB関数 日々のMATLABライフをちょっと便利にするツールを作成し発信することを目指して投稿をはじめてみました。他のMA…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JUU3JTk3JTkyJUUzJTgxJTg0JUUzJTgxJUE4JUUzJTgxJTkzJUUzJTgxJUFCJUU2JTg5JThCJUUzJTgxJThDJUU1JUIxJThBJUUzJTgxJThGTUFUTEFCJUU5JTk2JUEyJUU2JTk1JUIwJUUzJTgwJTkwJUUzJTgzJTk1JUUzJTgyJUE5JUUzJTgzJUIzJUUzJTgzJTg4JUU1JUE0JTg5JUU2JTlCJUI0c2hvcnRjdXQlRTMlODAlOTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZzPTFmZTc0NTllYjc1ODRkMTI0ODY5NjFkYjhhODU1Njg5&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBUYW5uaXMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWIwMzgwYmVlYTBhYmIxMjZlZjFiNTU0NDkxY2ZkNTY2&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=a31be60d39c4da5845ea9319bc45fea1"/>
+        </item>
+    </channel>
+</rss>
