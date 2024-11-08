@@ -26,7 +26,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['MATLAB - MyEnigma','https://myenigma.hatenablog.com/rss/category/MATLAB'],
   ['MATLAB - Radi_tech’s blog','https://radi-tech.hatenablog.com/rss/category/MATLAB%20%5BJapanese%5D'],
   ['Matlab - Gohey Blog','https://gohey.net/category/code/matlab/feed/'],
-  ['MathWorks 公式','https://blogs.mathworks.com/japan-community/feed/'],
+  ['MathWorks 公式','https://blogs.mathworks.com/japan-community/feed/?from=jp'],
   ['MATLAB - Qiita','https://qiita.com/tags/matlab/feed.atom'],
   ['センチメンタルラボ','https://matlab-study.sakura.ne.jp/blog/?cat=53&feed=rss2'],
   ['MATLAB - ふみきりのぼうけん','https://fumikirinobouken.hatenablog.com/feed/category/Matlab'],
