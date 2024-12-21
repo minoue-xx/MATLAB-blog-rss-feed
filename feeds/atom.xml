@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2024-12-21T15:02:12.070Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLABでテストを活用して手戻りを防ぐ（ソフト開発者以外も使おう！） | Zennの「matlab」のフィード]]></title>
+        <id>https://zenn.dev/spargel/articles/20241220_matlabtest</id>
+        <link href="https://zenn.dev/spargel/articles/20241220_matlabtest"/>
+        <updated>2024-12-20T02:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Advent Calender 2024の12/10枠です． MATLABネタが降ってきたので書こうと思ったら枠が空いていましたので投稿します．（本記事を書いているのは12/20です） https://qiita.com/advent-calendar/2024/matlab   はじめに 最近MATLABのテスト機能を使ってみたら助けられることが多くありましたので，使い方を備忘もかねてまとめてお...]]></summary>
+        <content type="html"><![CDATA[Advent Calender 2024の12/10枠です． MATLABネタが降ってきたので書こうと思ったら枠が空いていましたので投稿します．（本記事を書いているのは12/20です） https://qiita.com/advent-calendar/2024/matlab   はじめに 最近MATLABのテスト機能を使ってみたら助けられることが多くありましたので，使い方を備忘もかねてまとめておきます． 気軽にシンプルに使うためになるべく高度なことはしません．単体の関数やスクリプトを対象とするユニットテストのみです．「ソフトウェアの開発者以外」も積極的に使いましょう！！ 参考： htt...]]></content>
+        <author>
+            <name>spargel</name>
+        </author>
+        <published>2024-12-20T02:51:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オーバーシュートとゼロ点～2次の実極・実ゼロ点を中心に～ | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/WandererEng/items/e36e74a987cd565afb0b</id>
+        <link href="https://qiita.com/WandererEng/items/e36e74a987cd565afb0b"/>
+        <updated>2024-12-18T22:36:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 先日、↓の記事を書きました。本記事はその続編的な位置づけです。 https://qiita.com/WandererEng/items/89af3b230424b7401e8e 前回につい…]]></summary>
+        <content type="html"><![CDATA[はじめに 先日、↓の記事を書きました。本記事はその続編的な位置づけです。 https://qiita.com/WandererEng/items/89af3b230424b7401e8e 前回につい…]]></content>
+        <published>2024-12-18T22:36:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABで日本語混じりのEXCELのデータを操作する | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Monzo_N/items/b37e484d0fdd2ec262ee</id>
+        <link href="https://qiita.com/Monzo_N/items/b37e484d0fdd2ec262ee"/>
+        <updated>2024-12-17T22:05:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめに  さて、年中行事のアドベントカレンダーにおける"MATLAB de EXCEL"を今年も紹介していきたいと思います。 MATLAB de EXCEL の過去記事：  MATLABにファイル…]]></summary>
+        <content type="html"><![CDATA[はじめに  さて、年中行事のアドベントカレンダーにおける"MATLAB de EXCEL"を今年も紹介していきたいと思います。 MATLAB de EXCEL の過去記事：  MATLABにファイル…]]></content>
+        <published>2024-12-17T22:05:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音を出すと MATLAB が落ちる！？ ～ 解決に2週間近く掛かった話 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/cafe_on_the/items/0a19181e443c7afab171</id>
+        <link href="https://qiita.com/cafe_on_the/items/0a19181e443c7afab171"/>
+        <updated>2024-12-17T07:28:09.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB/Simulink Advent Calendar 2024に参加しました。 カレンダー2の12/17分として追加しました。 ・使用ツール  MATLAB   [note]にUpしました。]]></summary>
+        <content type="html"><![CDATA[MATLAB/Simulink Advent Calendar 2024に参加しました。 カレンダー2の12/17分として追加しました。 ・使用ツール  MATLAB   [note]にUpしました。]]></content>
+        <published>2024-12-17T07:28:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音を出すと MATLAB が落ちる！？ ～ 解決に2週間近く掛かった話 | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/n747f65b48964</id>
+        <link href="https://note.com/leftbank/n/n747f65b48964"/>
+        <updated>2024-12-17T07:25:39.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2024-12-17T07:25:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindleのスクショを自動で行う闇のMATLAB術 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Hernia_Baby/items/52b9797da9d7de2248cf</id>
+        <link href="https://qiita.com/Hernia_Baby/items/52b9797da9d7de2248cf"/>
+        <updated>2024-12-16T22:05:20.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/HerniaBaby/k2p_Convert.git 目次 01. はじめに  背景 02. 初期設定  初期化 &amp; サブモジュール追加  ユーザーの選択  …]]></summary>
+        <content type="html"><![CDATA[https://github.com/HerniaBaby/k2p_Convert.git 目次 01. はじめに  背景 02. 初期設定  初期化 &amp; サブモジュール追加  ユーザーの選択  …]]></content>
+        <published>2024-12-16T22:05:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[（JUCE）自作 VST/AU プラグインの動作確認方法 ～ アルゴリズム検証は MATLAB で | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/n71c38017acfc</id>
+        <link href="https://note.com/leftbank/n/n71c38017acfc"/>
+        <updated>2024-12-10T07:44:53.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2024-12-10T07:44:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABで始める量子計算／無料のライントレースedXコース／授業にDocker活用／重力波検出器に強化学習を活用｜2024年12月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/naec547c7c42d</id>
+        <link href="https://note.com/sachie_y/n/naec547c7c42d"/>
+        <updated>2024-12-10T03:40:10.000Z</updated>
+        <summary type="html"><![CDATA[MATLABで始める量子計算 MATLAB Support Package for Quantum Computingを使えば、量子アルゴリズムの構築、シミュレーション、実行ができます。チートシート (英語) もありますので、ぜひお試しください。 続きをみる]]></summary>
+        <content type="html"><![CDATA[MATLABで始める量子計算 MATLAB Support Package for Quantum Computingを使えば、量子アルゴリズムの構築、シミュレーション、実行ができます。チートシート (英語) もありますので、ぜひお試しください。 続きをみる]]></content>
+        <published>2024-12-10T03:40:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABでポモドーロタイマーを作ってみた | Zennの「matlab」のフィード]]></title>
+        <id>https://zenn.dev/kimushun1101/articles/matlab-pomodoro-timer</id>
+        <link href="https://zenn.dev/kimushun1101/articles/matlab-pomodoro-timer"/>
+        <updated>2024-12-08T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[! この記事は MATLAB/Simulink Advent Calendar 2024 の9日目の記事です。昨日は@AkaVeeさんでした。明日は @ZVS_85 さんの記事が公開される予定です。    はじめに 私は制御工学の研究者です。あるとき気づきました。一番制御できていないのは自分自身であることを。 作業時間管理の有名な方法の一つとしてポモドーロテクニックというものが知られています。簡単...]]></summary>
+        <content type="html"><![CDATA[! この記事は MATLAB/Simulink Advent Calendar 2024 の9日目の記事です。昨日は@AkaVeeさんでした。明日は @ZVS_85 さんの記事が公開される予定です。    はじめに 私は制御工学の研究者です。あるとき気づきました。一番制御できていないのは自分自身であることを。 作業時間管理の有名な方法の一つとしてポモドーロテクニックというものが知られています。簡単にご説明しますと、作業時間を区切って適度に休憩を取ることで作業効率を上げようというものです。この時間の管理に使われるツールをポモドーロタイマーといいます。 この読者であられる皆様方におきましては...]]></content>
+        <author>
+            <name>木村 駿介 / Shunsuke KIMURA</name>
+        </author>
+        <published>2024-12-08T15:00:02.000Z</published>
+    </entry>
+</feed>
