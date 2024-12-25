@@ -1,0 +1,139 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/3084LAB/items/c2c62329a4b8576419a6",
+            "content_html": "1. はじめに アクチュエータのON/OFFとか出力する条件をワンクリックで切り替えたいときって結構あると思います． 制御対象の提示力を弾性モード(F=kx)から粘性モード(F=Cx')に変更するな…",
+            "url": "https://qiita.com/3084LAB/items/c2c62329a4b8576419a6",
+            "title": "ControlDesk条件切り替えアルゴリズム | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1. はじめに アクチュエータのON/OFFとか出力する条件をワンクリックで切り替えたいときって結構あると思います． 制御対象の提示力を弾性モード(F=kx)から粘性モード(F=Cx')に変更するな…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNjU0MDgyJTJGYTBiNzc3MDRkYzZlMGI2YWEyYWQ3YTE3ZDA0MzRmMWNkYTZhODZkMCUyRnhfbGFyZ2UucG5nJTNGMTczMjYyMDkyMD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz05MjQxZDZiMjE3MTI5Njc2MTFlZDIwNTI1YjIzNGFmNA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd79be24f0d514cf7943279b0a315ff26?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q29udHJvbERlc2slRTYlOUQlQTElRTQlQkIlQjYlRTUlODglODclRTMlODIlOEElRTYlOUIlQkYlRTMlODElODglRTMlODIlQTIlRTMlODMlQUIlRTMlODIlQjQlRTMlODMlQUElRTMlODIlQkElRTMlODMlQTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kYjc4NTQ3MzhiNWNhYjIyZjQzOGU1YTI5ZWIwYTc5ZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDAzMDg0TEFCJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Zjk4YTZkODIwZjQzOTgzNGUxNjJlYTc0YzU2MjE2ZDU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ac1db2de16287263b2b107634cf167fb"
+            },
+            "date_modified": "2024-12-24T09:59:01.000Z",
+            "date_published": "2024-12-24T09:59:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ControlDesk条件切り替えアルゴリズム",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/3084LAB/items/e752705116491608c5b6",
+            "content_html": "1. はじめに アクチュエータに定格以上のエネルギを印加すると，例えば人工筋肉のような変形するアクチュエータなどは破裂する可能性があり大変危険です． そのため印加する電圧や空気圧の指令値に上限を設け…",
+            "url": "https://qiita.com/3084LAB/items/e752705116491608c5b6",
+            "title": "dSPACEでアクチュエータにセーフティをかける | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1. はじめに アクチュエータに定格以上のエネルギを印加すると，例えば人工筋肉のような変形するアクチュエータなどは破裂する可能性があり大変危険です． そのため印加する電圧や空気圧の指令値に上限を設け…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNjU0MDgyJTJGYTBiNzc3MDRkYzZlMGI2YWEyYWQ3YTE3ZDA0MzRmMWNkYTZhODZkMCUyRnhfbGFyZ2UucG5nJTNGMTczMjYyMDkyMD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz05MjQxZDZiMjE3MTI5Njc2MTFlZDIwNTI1YjIzNGFmNA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd79be24f0d514cf7943279b0a315ff26?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9ZFNQQUNFJUUzJTgxJUE3JUUzJTgyJUEyJUUzJTgyJUFGJUUzJTgzJTgxJUUzJTgzJUE1JUUzJTgyJUE4JUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgxJUFCJUUzJTgyJUJCJUUzJTgzJUJDJUUzJTgzJTk1JUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgyJTkyJUUzJTgxJThCJUUzJTgxJTkxJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NDg5Zjk2OTFiZTQ3ODhmYWRlMDlkYmFiZDc1MGE2M2E&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDAzMDg0TEFCJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Zjk4YTZkODIwZjQzOTgzNGUxNjJlYTc0YzU2MjE2ZDU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=039312b5bd9b617e9fe953d3011d198d"
+            },
+            "date_modified": "2024-12-24T07:09:54.000Z",
+            "date_published": "2024-12-24T07:09:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "dSPACEでアクチュエータにセーフティをかける",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/akaghef/items/97ab1d87264605c8af8d",
+            "content_html": "非可換代数計算機を作った with MATLAB 数学には様々な非可換環(代数)がありますが、そのクラスをMATLABのsymbolic math Toolboxを用いて実装しました！ 今回はその取…",
+            "url": "https://qiita.com/akaghef/items/97ab1d87264605c8af8d",
+            "title": "非可換代数計算機を作った with MATLAB | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "非可換代数計算機を作った with MATLAB 数学には様々な非可換環(代数)がありますが、そのクラスをMATLABのsymbolic math Toolboxを用いて実装しました！ 今回はその取…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMzA3NTY5JTJGZDVkNWY4OTAwOTE0ZjEzZGRkOTcwMTlkYTFlODZiZDQ4YmJhZWU2NiUyRnhfbGFyZ2UucG5nJTNGMTYxOTYxMjExOT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04OTYwOTI0NDU2ZTAzNjg1MDE1MDg2YTA0MWNhM2E2OA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D86056999a78fcef157f754aaafed199c?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTlEJTlFJUU1JThGJUFGJUU2JThGJTlCJUU0JUJCJUEzJUU2JTk1JUIwJUU4JUE4JTg4JUU3JUFFJTk3JUU2JUE5JTlGJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJTlGJTIwd2l0aCUyME1BVExBQiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTUxY2QxNWRiYWI1NmY1ZTEyZDBmOTFkNjM1Zjc3NTE3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha2FnaGVmJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NjQzMmMwNTE5OGFjOTNhZjlmZTRjZThmZDBlMGM5NDQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=708e3e17e7c57cedebc14d022dd5288c"
+            },
+            "date_modified": "2024-12-23T17:09:34.000Z",
+            "date_published": "2024-12-23T17:09:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "非可換代数計算機を作った with MATLAB",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/3084LAB/items/acca8a260a3534fa3248",
+            "content_html": "1. はじめに ロードセルなどの初期値をオフセットしたいときが往々にあると思います． 目視でざっくり調整して，後はデータ分析時に時間0sの瞬間をオフセット値にしてy軸方向に調整してもいいですが，0基…",
+            "url": "https://qiita.com/3084LAB/items/acca8a260a3534fa3248",
+            "title": "センサー値リセットマスター | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1. はじめに ロードセルなどの初期値をオフセットしたいときが往々にあると思います． 目視でざっくり調整して，後はデータ分析時に時間0sの瞬間をオフセット値にしてy軸方向に調整してもいいですが，0基…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNjU0MDgyJTJGYTBiNzc3MDRkYzZlMGI2YWEyYWQ3YTE3ZDA0MzRmMWNkYTZhODZkMCUyRnhfbGFyZ2UucG5nJTNGMTczMjYyMDkyMD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz05MjQxZDZiMjE3MTI5Njc2MTFlZDIwNTI1YjIzNGFmNA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd79be24f0d514cf7943279b0a315ff26?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUJCJUUzJTgzJUIzJUUzJTgyJUI1JUUzJTgzJUJDJUU1JTgwJUE0JUUzJTgzJUFBJUUzJTgyJUJCJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgzJTlFJUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJUJDJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Y2IzYTY3MDFmYmM4ZDM4ZjY2MWU2ZTk5YjE4MWY0NDU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDAzMDg0TEFCJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Zjk4YTZkODIwZjQzOTgzNGUxNjJlYTc0YzU2MjE2ZDU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5f5bd1bc8ad61aaf9fdc67f8b18ba76c"
+            },
+            "date_modified": "2024-12-23T13:53:37.000Z",
+            "date_published": "2024-12-23T13:53:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "センサー値リセットマスター",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://zenn.dev/spargel/articles/20241220_matlabtest",
+            "content_html": "Advent Calender 2024の12/10枠です． MATLABネタが降ってきたので書こうと思ったら枠が空いていましたので投稿します．（本記事を書いているのは12/20です） https://qiita.com/advent-calendar/2024/matlab   はじめに 最近MATLABのテスト機能を使ってみたら助けられることが多くありましたので，使い方を備忘もかねてまとめておきます． 気軽にシンプルに使うためになるべく高度なことはしません．単体の関数やスクリプトを対象とするユニットテストのみです．「ソフトウェアの開発者以外」も積極的に使いましょう！！ 参考： htt...",
+            "url": "https://zenn.dev/spargel/articles/20241220_matlabtest",
+            "title": "MATLABでテストを活用して手戻りを防ぐ（ソフト開発者以外も使おう！） | Zennの「matlab」のフィード",
+            "summary": "Advent Calender 2024の12/10枠です． MATLABネタが降ってきたので書こうと思ったら枠が空いていましたので投稿します．（本記事を書いているのは12/20です） https://qiita.com/advent-calendar/2024/matlab   はじめに 最近MATLABのテスト機能を使ってみたら助けられることが多くありましたので，使い方を備忘もかねてまとめてお...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--hozbFTTP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MATLAB%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E6%2589%258B%25E6%2588%25BB%25E3%2582%258A%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%25EF%25BC%2588%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E4%25BB%25A5%25E5%25A4%2596%25E3%2582%2582%25E4%25BD%25BF%25E3%2581%258A%25E3%2581%2586%25EF%25BC%2581%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:spargel%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZmZmVmOWE4MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-12-20T02:51:52.000Z",
+            "date_published": "2024-12-20T02:51:52.000Z",
+            "author": {
+                "name": "spargel"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABでテストを活用して手戻りを防ぐ（ソフト開発者以外も使おう！）",
+                "blogTitle": "Zennの「matlab」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/n747f65b48964",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/n747f65b48964",
+            "title": "音を出すと MATLAB が落ちる！？ ～ 解決に2週間近く掛かった話 | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/166041067/rectangle_large_type_2_e4d16ceb69f464844a354ba26f578c82.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-12-17T07:25:39.000Z",
+            "date_published": "2024-12-17T07:25:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "音を出すと MATLAB が落ちる！？ ～ 解決に2週間近く掛かった話",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        }
+    ]
+}

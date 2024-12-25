@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2024-12-25T01:31:53.798Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[ControlDesk条件切り替えアルゴリズム | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/3084LAB/items/c2c62329a4b8576419a6</id>
+        <link href="https://qiita.com/3084LAB/items/c2c62329a4b8576419a6"/>
+        <updated>2024-12-24T09:59:01.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに アクチュエータのON/OFFとか出力する条件をワンクリックで切り替えたいときって結構あると思います． 制御対象の提示力を弾性モード(F=kx)から粘性モード(F=Cx')に変更するな…]]></summary>
+        <content type="html"><![CDATA[1. はじめに アクチュエータのON/OFFとか出力する条件をワンクリックで切り替えたいときって結構あると思います． 制御対象の提示力を弾性モード(F=kx)から粘性モード(F=Cx')に変更するな…]]></content>
+        <published>2024-12-24T09:59:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dSPACEでアクチュエータにセーフティをかける | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/3084LAB/items/e752705116491608c5b6</id>
+        <link href="https://qiita.com/3084LAB/items/e752705116491608c5b6"/>
+        <updated>2024-12-24T07:09:54.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに アクチュエータに定格以上のエネルギを印加すると，例えば人工筋肉のような変形するアクチュエータなどは破裂する可能性があり大変危険です． そのため印加する電圧や空気圧の指令値に上限を設け…]]></summary>
+        <content type="html"><![CDATA[1. はじめに アクチュエータに定格以上のエネルギを印加すると，例えば人工筋肉のような変形するアクチュエータなどは破裂する可能性があり大変危険です． そのため印加する電圧や空気圧の指令値に上限を設け…]]></content>
+        <published>2024-12-24T07:09:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非可換代数計算機を作った with MATLAB | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/akaghef/items/97ab1d87264605c8af8d</id>
+        <link href="https://qiita.com/akaghef/items/97ab1d87264605c8af8d"/>
+        <updated>2024-12-23T17:09:34.000Z</updated>
+        <summary type="html"><![CDATA[非可換代数計算機を作った with MATLAB 数学には様々な非可換環(代数)がありますが、そのクラスをMATLABのsymbolic math Toolboxを用いて実装しました！ 今回はその取…]]></summary>
+        <content type="html"><![CDATA[非可換代数計算機を作った with MATLAB 数学には様々な非可換環(代数)がありますが、そのクラスをMATLABのsymbolic math Toolboxを用いて実装しました！ 今回はその取…]]></content>
+        <published>2024-12-23T17:09:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[センサー値リセットマスター | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/3084LAB/items/acca8a260a3534fa3248</id>
+        <link href="https://qiita.com/3084LAB/items/acca8a260a3534fa3248"/>
+        <updated>2024-12-23T13:53:37.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに ロードセルなどの初期値をオフセットしたいときが往々にあると思います． 目視でざっくり調整して，後はデータ分析時に時間0sの瞬間をオフセット値にしてy軸方向に調整してもいいですが，0基…]]></summary>
+        <content type="html"><![CDATA[1. はじめに ロードセルなどの初期値をオフセットしたいときが往々にあると思います． 目視でざっくり調整して，後はデータ分析時に時間0sの瞬間をオフセット値にしてy軸方向に調整してもいいですが，0基…]]></content>
+        <published>2024-12-23T13:53:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABでテストを活用して手戻りを防ぐ（ソフト開発者以外も使おう！） | Zennの「matlab」のフィード]]></title>
+        <id>https://zenn.dev/spargel/articles/20241220_matlabtest</id>
+        <link href="https://zenn.dev/spargel/articles/20241220_matlabtest"/>
+        <updated>2024-12-20T02:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Advent Calender 2024の12/10枠です． MATLABネタが降ってきたので書こうと思ったら枠が空いていましたので投稿します．（本記事を書いているのは12/20です） https://qiita.com/advent-calendar/2024/matlab   はじめに 最近MATLABのテスト機能を使ってみたら助けられることが多くありましたので，使い方を備忘もかねてまとめてお...]]></summary>
+        <content type="html"><![CDATA[Advent Calender 2024の12/10枠です． MATLABネタが降ってきたので書こうと思ったら枠が空いていましたので投稿します．（本記事を書いているのは12/20です） https://qiita.com/advent-calendar/2024/matlab   はじめに 最近MATLABのテスト機能を使ってみたら助けられることが多くありましたので，使い方を備忘もかねてまとめておきます． 気軽にシンプルに使うためになるべく高度なことはしません．単体の関数やスクリプトを対象とするユニットテストのみです．「ソフトウェアの開発者以外」も積極的に使いましょう！！ 参考： htt...]]></content>
+        <author>
+            <name>spargel</name>
+        </author>
+        <published>2024-12-20T02:51:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音を出すと MATLAB が落ちる！？ ～ 解決に2週間近く掛かった話 | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/n747f65b48964</id>
+        <link href="https://note.com/leftbank/n/n747f65b48964"/>
+        <updated>2024-12-17T07:25:39.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2024-12-17T07:25:39.000Z</published>
+    </entry>
+</feed>
