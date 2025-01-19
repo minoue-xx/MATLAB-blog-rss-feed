@@ -1,0 +1,139 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://zenn.dev/kimushun1101/articles/matlab-file-exchange-github",
+            "content_html": "はじめに 自作MATLAB関数を公開をGitHubを通じてFile Exchangeに公開しました。 https://jp.mathworks.com/matlabcentral/fileexchange/176183-pomodoro-timer 内容についてはこちらの記事もご覧ください。 https://zenn.dev/kimushun1101/articles/matlab-pomodoro-timer この記事では、File Exchangeについて簡単に紹介し、その手順を簡単に解説します。 前提としてGitやGitHubの簡単な動作はできているものとして、それらの詳細は割...",
+            "url": "https://zenn.dev/kimushun1101/articles/matlab-file-exchange-github",
+            "title": "MATLAB File ExchangeとGitHubを連携したコード公開 | Zennの「matlab」のフィード",
+            "summary": "はじめに 自作MATLAB関数を公開をGitHubを通じてFile Exchangeに公開しました。 https://jp.mathworks.com/matlabcentral/fileexchange/176183-pomodoro-timer 内容についてはこちらの記事もご覧ください。 https://zenn.dev/kimushun1101/articles/matlab-pomodor...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--HtJp5J9_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MATLAB%2520File%2520Exchange%25E3%2581%25A8GitHub%25E3%2582%2592%25E9%2580%25A3%25E6%2590%25BA%25E3%2581%2597%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E5%2585%25AC%25E9%2596%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%259C%25A8%25E6%259D%2591%2520%25E9%25A7%25BF%25E4%25BB%258B%2520%252F%2520Shunsuke%2520K...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VjZWFjYzFhNTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2025-01-19T19:07:41.000Z",
+            "date_published": "2025-01-19T19:07:41.000Z",
+            "author": {
+                "name": "木村 駿介 / Shunsuke KIMURA"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB File ExchangeとGitHubを連携したコード公開",
+                "blogTitle": "Zennの「matlab」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        },
+        {
+            "id": "https://qiita.com/yossitech/items/a81146dcc6ccf7e5eba0",
+            "content_html": "大学で画像処理の演習があり、それについての概要をまとめるために本記事を作成しました。（画像処理の概要に絞るため数学的な話や具体的なコードについては省略） 基本概念 モノクロ画像は二次元配列、カラー画…",
+            "url": "https://qiita.com/yossitech/items/a81146dcc6ccf7e5eba0",
+            "title": "情報工学系の大学二年で学ぶ画像処理演習 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "大学で画像処理の演習があり、それについての概要をまとめるために本記事を作成しました。（画像処理の概要に絞るため数学的な話や具体的なコードについては省略） 基本概念 モノクロ画像は二次元配列、カラー画…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTIxMTkwJTJGOTdjMjE3NDRjMjg5NDIwYWVkOGM4OWRhOGExMDRhZTdiMzBhMTc5MSUyRmxhcmdlLnBuZyUzRjE3MzAxMDk1OTE_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9NmNhNTIwOGJiYmVkMDgyMzYwNDE2NDNhYzc3YmMzN2Y%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8ad5238e45b41aa44a642c89ef46206a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTgzJTg1JUU1JUEwJUIxJUU1JUI3JUE1JUU1JUFEJUE2JUU3JUIzJUJCJUUzJTgxJUFFJUU1JUE0JUE3JUU1JUFEJUE2JUU0JUJBJThDJUU1JUI5JUI0JUUzJTgxJUE3JUU1JUFEJUE2JUUzJTgxJUI2JUU3JTk0JUJCJUU1JTgzJThGJUU1JTg3JUE2JUU3JTkwJTg2JUU2JUJDJTk0JUU3JUJGJTkyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OGNmNzcxNmExZDhkY2JjNmNhOWNjY2U4MmU4YWQ5MjA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b3NzaXRlY2gmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wNTQxZGRhZTQyODRmNjc4ZDk0OWRjNDQ2ZTA3MWE2Yg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=8a665f22e399b285802a46438288595b"
+            },
+            "date_modified": "2025-01-19T02:11:50.000Z",
+            "date_published": "2025-01-19T02:11:50.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "情報工学系の大学二年で学ぶ画像処理演習",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/tomtkg/items/7abb1bc4c362b7883da6",
+            "content_html": "Parasitic number (寄生数) あるいは Dyson numbers (ダイソン数) という言葉を目にしたことがありますか？ この記事では，以下のページで紹介されている寄生数とダイソン…",
+            "url": "https://qiita.com/tomtkg/items/7abb1bc4c362b7883da6",
+            "title": "Parasitic number (寄生数) について | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "Parasitic number (寄生数) あるいは Dyson numbers (ダイソン数) という言葉を目にしたことがありますか？ この記事では，以下のページで紹介されている寄生数とダイソン…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzA4MjU5JTJGcHJvZmlsZS1pbWFnZXMlMkYxNjg3NTY5NzA1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWU4N2FkMGZiMjZlMDc3NTViN2FmMmEyY2E2NjYwOTdj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D69ea948a6845a50264859777b71a9063?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UGFyYXNpdGljJTIwbnVtYmVyJTIwJTI4JUU1JUFGJTg0JUU3JTk0JTlGJUU2JTk1JUIwJTI5JTIwJUUzJTgxJUFCJUUzJTgxJUE0JUUzJTgxJTg0JUUzJTgxJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NDVkNDFhOTRlNmJkMDQxYmQ5Zjg3ZjhjMjA3MDhjYTE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0b210a2cmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lYjU1ODdiZjNmMzQwMTMxYjM4MTIxMTE2NGNjZjI5Yg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=9eee2f20d0f58d62692ff62d499c69ed"
+            },
+            "date_modified": "2025-01-18T02:02:20.000Z",
+            "date_published": "2025-01-18T02:02:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Parasitic number (寄生数) について",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/sukimaengineer/items/26482b23e7b692ff183f",
+            "content_html": "はじめに 前回の記事では SystemC の現状 について紹介し、その中で少しだけ MATLAB/Simulink に触れました。SystemC は高位合成 (HLS) やシステムレベル設計で頻繁…",
+            "url": "https://qiita.com/sukimaengineer/items/26482b23e7b692ff183f",
+            "title": "MATLAB/Simulink を用いた半導体設計のメリットを再考する  | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに 前回の記事では SystemC の現状 について紹介し、その中で少しだけ MATLAB/Simulink に触れました。SystemC は高位合成 (HLS) やシステムレベル設計で頻繁…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTc2ODY4JTJGMzZiMjBjN2E0ZjQ2OTc1ZDgzMWJlNzU4NmUxMzNjMzE5MDRlMTZmOSUyRmxhcmdlLnBuZyUzRjE3MzU4OTc4MjI_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9ZGQ2NzRiM2E2Y2U3MzRkZDI1YWQ2YTg3YTE3MzkyODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De141cdf916c67ace4c58399c978f1dcc?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJTJGU2ltdWxpbmslMjAlRTMlODIlOTIlRTclOTQlQTglRTMlODElODQlRTMlODElOUYlRTUlOEQlOEElRTUlQjAlOEUlRTQlQkQlOTMlRTglQTglQUQlRTglQTglODglRTMlODElQUUlRTMlODMlQTElRTMlODMlQUElRTMlODMlODMlRTMlODMlODglRTMlODIlOTIlRTUlODYlOEQlRTglODAlODMlRTMlODElOTklRTMlODIlOEIlMjAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04MDMxMjJiYmUyNmRhZDE4OGVjNzk3MTkxNzEwMWVlOA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzdWtpbWFlbmdpbmVlciZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTFiOGZlYjZjM2JmMTk3ZWFkZWY0MjcyYjQ3MjIyMGVl&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0d7a571b0ea6f03e0a0dc69880b4e389"
+            },
+            "date_modified": "2025-01-15T03:32:31.000Z",
+            "date_published": "2025-01-15T03:32:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB/Simulink を用いた半導体設計のメリットを再考する ",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/n8b288a8c8ff0",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/n8b288a8c8ff0",
+            "title": "MATLAB で図形の境界データを検出する  | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/170051512/rectangle_large_type_2_d3584bfb7d6b3d2f343b969a98434f09.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-01-13T11:06:27.000Z",
+            "date_published": "2025-01-13T11:06:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB で図形の境界データを検出する ",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://qiita.com/HppyCtrlEngnrng/items/0e09df92db347461f1c9",
+            "content_html": "１．はじめに 倒立振子のレースゲームPaul Kartを作りました。 (サイズがでかいのでCtrl-で適宜縮小推奨)  ２．遊び方 とりあえずタイムアタックモードのみ実装しています。トップ画面から […",
+            "url": "https://qiita.com/HppyCtrlEngnrng/items/0e09df92db347461f1c9",
+            "title": "制御のゲーム | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "１．はじめに 倒立振子のレースゲームPaul Kartを作りました。 (サイズがでかいのでCtrl-で適宜縮小推奨)  ２．遊び方 とりあえずタイムアタックモードのみ実装しています。トップ画面から […",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNjk0MTI4NDY4Njk3OTA3MyUyRlFNZXNmQUZmX25vcm1hbC5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9ZTE0YmE5ZTU0OTg3OGUyMGVlNzMzZTcwNTEzYzM3OTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D393683cb14188f3c80d0e2662284c1fd?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg4JUI2JUU1JUJFJUExJUUzJTgxJUFFJUUzJTgyJUIyJUUzJTgzJUJDJUUzJTgzJUEwJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzU5NDY5NzRlNjQyNTA0MDdiZTUxN2U2NWYyMjk2YjE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIcHB5Q3RybEVuZ25ybmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0zNThmZGZiYjE1NWMzZDcyN2IyZDY1ODQyY2I2ZDA1NQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a848200120faf8141a545c374fb3af69"
+            },
+            "date_modified": "2025-01-11T05:28:17.000Z",
+            "date_published": "2025-01-11T05:28:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "制御のゲーム",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}

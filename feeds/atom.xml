@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-01-19T23:02:28.902Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLAB File ExchangeとGitHubを連携したコード公開 | Zennの「matlab」のフィード]]></title>
+        <id>https://zenn.dev/kimushun1101/articles/matlab-file-exchange-github</id>
+        <link href="https://zenn.dev/kimushun1101/articles/matlab-file-exchange-github"/>
+        <updated>2025-01-19T19:07:41.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 自作MATLAB関数を公開をGitHubを通じてFile Exchangeに公開しました。 https://jp.mathworks.com/matlabcentral/fileexchange/176183-pomodoro-timer 内容についてはこちらの記事もご覧ください。 https://zenn.dev/kimushun1101/articles/matlab-pomodor...]]></summary>
+        <content type="html"><![CDATA[はじめに 自作MATLAB関数を公開をGitHubを通じてFile Exchangeに公開しました。 https://jp.mathworks.com/matlabcentral/fileexchange/176183-pomodoro-timer 内容についてはこちらの記事もご覧ください。 https://zenn.dev/kimushun1101/articles/matlab-pomodoro-timer この記事では、File Exchangeについて簡単に紹介し、その手順を簡単に解説します。 前提としてGitやGitHubの簡単な動作はできているものとして、それらの詳細は割...]]></content>
+        <author>
+            <name>木村 駿介 / Shunsuke KIMURA</name>
+        </author>
+        <published>2025-01-19T19:07:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情報工学系の大学二年で学ぶ画像処理演習 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yossitech/items/a81146dcc6ccf7e5eba0</id>
+        <link href="https://qiita.com/yossitech/items/a81146dcc6ccf7e5eba0"/>
+        <updated>2025-01-19T02:11:50.000Z</updated>
+        <summary type="html"><![CDATA[大学で画像処理の演習があり、それについての概要をまとめるために本記事を作成しました。（画像処理の概要に絞るため数学的な話や具体的なコードについては省略） 基本概念 モノクロ画像は二次元配列、カラー画…]]></summary>
+        <content type="html"><![CDATA[大学で画像処理の演習があり、それについての概要をまとめるために本記事を作成しました。（画像処理の概要に絞るため数学的な話や具体的なコードについては省略） 基本概念 モノクロ画像は二次元配列、カラー画…]]></content>
+        <published>2025-01-19T02:11:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parasitic number (寄生数) について | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/tomtkg/items/7abb1bc4c362b7883da6</id>
+        <link href="https://qiita.com/tomtkg/items/7abb1bc4c362b7883da6"/>
+        <updated>2025-01-18T02:02:20.000Z</updated>
+        <summary type="html"><![CDATA[Parasitic number (寄生数) あるいは Dyson numbers (ダイソン数) という言葉を目にしたことがありますか？ この記事では，以下のページで紹介されている寄生数とダイソン…]]></summary>
+        <content type="html"><![CDATA[Parasitic number (寄生数) あるいは Dyson numbers (ダイソン数) という言葉を目にしたことがありますか？ この記事では，以下のページで紹介されている寄生数とダイソン…]]></content>
+        <published>2025-01-18T02:02:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB/Simulink を用いた半導体設計のメリットを再考する  | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/sukimaengineer/items/26482b23e7b692ff183f</id>
+        <link href="https://qiita.com/sukimaengineer/items/26482b23e7b692ff183f"/>
+        <updated>2025-01-15T03:32:31.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 前回の記事では SystemC の現状 について紹介し、その中で少しだけ MATLAB/Simulink に触れました。SystemC は高位合成 (HLS) やシステムレベル設計で頻繁…]]></summary>
+        <content type="html"><![CDATA[はじめに 前回の記事では SystemC の現状 について紹介し、その中で少しだけ MATLAB/Simulink に触れました。SystemC は高位合成 (HLS) やシステムレベル設計で頻繁…]]></content>
+        <published>2025-01-15T03:32:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB で図形の境界データを検出する  | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/n8b288a8c8ff0</id>
+        <link href="https://note.com/leftbank/n/n8b288a8c8ff0"/>
+        <updated>2025-01-13T11:06:27.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2025-01-13T11:06:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制御のゲーム | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/HppyCtrlEngnrng/items/0e09df92db347461f1c9</id>
+        <link href="https://qiita.com/HppyCtrlEngnrng/items/0e09df92db347461f1c9"/>
+        <updated>2025-01-11T05:28:17.000Z</updated>
+        <summary type="html"><![CDATA[１．はじめに 倒立振子のレースゲームPaul Kartを作りました。 (サイズがでかいのでCtrl-で適宜縮小推奨)  ２．遊び方 とりあえずタイムアタックモードのみ実装しています。トップ画面から […]]></summary>
+        <content type="html"><![CDATA[１．はじめに 倒立振子のレースゲームPaul Kartを作りました。 (サイズがでかいのでCtrl-で適宜縮小推奨)  ２．遊び方 とりあえずタイムアタックモードのみ実装しています。トップ画面から […]]></content>
+        <published>2025-01-11T05:28:17.000Z</published>
+    </entry>
+</feed>
