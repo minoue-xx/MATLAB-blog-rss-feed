@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sun, 23 Feb 2025 15:02:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MATLABなら超簡単! I2Cデバイスの動作確認ーroller485を例にー | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/motorcontrolman/items/53445fc2d57e4d93bc8b</link>
+            <guid>https://qiita.com/motorcontrolman/items/53445fc2d57e4d93bc8b</guid>
+            <pubDate>Thu, 20 Feb 2025 14:28:06 GMT</pubDate>
+            <description><![CDATA[はじめに 新しいI2Cデバイスを購入、arduinoに接続して使用する場合の一般的な動作確認として下記の手順を踏む必要があります。 ①arduinoとI2Cデバイスを物理的に接続 ②arduinoラ…]]></description>
+            <content:encoded><![CDATA[はじめに 新しいI2Cデバイスを購入、arduinoに接続して使用する場合の一般的な動作確認として下記の手順を踏む必要があります。 ①arduinoとI2Cデバイスを物理的に接続 ②arduinoラ…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzAyNTA2JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQwMzg5OTAzP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPThmNDUwNmU0N2I4ZTczZGNkYWEwYzVhYmMwODFhNjE3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D49c1f076dae2dd14ec4fd6c9a26624d7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgxJUFBJUUzJTgyJTg5JUU4JUI2JTg1JUU3JUIwJUExJUU1JThEJTk4JTIxJTIwSTJDJUUzJTgzJTg3JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgyJUI5JUUzJTgxJUFFJUU1JThCJTk1JUU0JUJEJTlDJUU3JUEyJUJBJUU4JUFBJThEJUUzJTgzJUJDcm9sbGVyNDg1JUUzJTgyJTkyJUU0JUJFJThCJUUzJTgxJUFCJUUzJTgzJUJDJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2NiY2EzNDE2N2VlMDJkMWU3ZDFlM2IxNzc0MTkwMzY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtb3RvcmNvbnRyb2xtYW4mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01ZGQwOGZlZjBlMzU0MDdiY2E3ZDVmMzUxNjUwMDZjOQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=b5fa9352cd6443583715db74548e4918"/>
+        </item>
+        <item>
+            <title><![CDATA[FPGAでレート変換を実装するときの効率的な実装テクニック | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/denchu314/items/42101b3b8d55d8a67582</link>
+            <guid>https://qiita.com/denchu314/items/42101b3b8d55d8a67582</guid>
+            <pubDate>Thu, 20 Feb 2025 07:04:12 GMT</pubDate>
+            <description><![CDATA[目的 最近、リサンプリング（レート変換）をFPGAに効率的に実装するテクニックを知ったので、備忘録がてらまとめておきます。 この記事は実装上の嬉しさにのみ言及しており、原理については記載しておりませ…]]></description>
+            <content:encoded><![CDATA[目的 最近、リサンプリング（レート変換）をFPGAに効率的に実装するテクニックを知ったので、備忘録がてらまとめておきます。 この記事は実装上の嬉しさにのみ言及しており、原理については記載しておりませ…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZjNGM2MWI2YjViODYyMDZiMjdlMmU1ZWExYzg0NDczYj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0zZmViMmI3YWEwMjY0YTRjMTk4MGE5ZmRlN2ZhYThjNg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D300d58e05d8ebeac7b853e303c20ca76?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9RlBHQSVFMyU4MSVBNyVFMyU4MyVBQyVFMyU4MyVCQyVFMyU4MyU4OCVFNSVBNCU4OSVFNiU4RiU5QiVFMyU4MiU5MiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MSVBOCVFMyU4MSU4RCVFMyU4MSVBRSVFNSU4QSVCOSVFNyU4RSU4NyVFNyU5QSU4NCVFMyU4MSVBQSVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MyU4NiVFMyU4MiVBRiVFMyU4MyU4QiVFMyU4MyU4MyVFMyU4MiVBRiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWEwNDQ0ZDE5ZjEzNDExZjdlZWVjZDk2ODUxZTJkNWNi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkZW5jaHUzMTQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04YjY3YmY4ODI1ZTkyMWNkYzBkYmRhMWJlMDEyNWUzNQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a3a0357bad22cd93858cd7bf4b72cb87"/>
+        </item>
+        <item>
+            <title><![CDATA[今すぐ使える教材紹介セミナー／データ解析やデジタル信号処理の基礎を教える／東京科学大 鳥人間チームの挑戦｜2025年2月 | MATLAB アカデミックニュースレター]]></title>
+            <link>https://note.com/sachie_y/n/n6efa0240dd61</link>
+            <guid>https://note.com/sachie_y/n/n6efa0240dd61</guid>
+            <pubDate>Wed, 19 Feb 2025 02:50:46 GMT</pubDate>
+            <description><![CDATA[講義で今すぐ使える！手を動かして学べる教材＆活用法紹介 - 機械・電気系編 MathWorks の教育支援専門エンジニアが、物理や数学から、制御、信号処理、電気回路まで、機械・電気系の授業で使える教材やコンテンツを、デモンストレーションを交えて紹介します。 続きをみる]]></description>
+            <content:encoded><![CDATA[講義で今すぐ使える！手を動かして学べる教材＆活用法紹介 - 機械・電気系編 MathWorks の教育支援専門エンジニアが、物理や数学から、制御、信号処理、電気回路まで、機械・電気系の授業で使える教材やコンテンツを、デモンストレーションを交えて紹介します。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/173346310/rectangle_large_type_2_9d4a95b6bd91167fc76ed4ff17134151.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB Simulinkで取得した波形データをCSVファイルとしてエクスポート | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/qwer123123/items/ef96b4cca62c779a64d3</link>
+            <guid>https://qiita.com/qwer123123/items/ef96b4cca62c779a64d3</guid>
+            <pubDate>Sun, 16 Feb 2025 13:15:07 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事では、MATLAB Simulinkで取得した波形データをCSVファイルとしてエクスポートし、ダウンロードする方法をまとめます。 Simulinkを使ってシミュレーションを行う際、…]]></description>
+            <content:encoded><![CDATA[はじめに 本記事では、MATLAB Simulinkで取得した波形データをCSVファイルとしてエクスポートし、ダウンロードする方法をまとめます。 Simulinkを使ってシミュレーションを行う際、…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzU5MTA5JTJGZGNmOTFjMGVmYzE2MWM3Njg2MTQxN2Y4YjVmZTBiNjQ4NjcwNTJkNSUyRnhfbGFyZ2UucG5nJTNGMTcxMTgxMDM2Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04Yjg2MGMxNGExYjFkNTNlZDAzMGNjYmFjZDhmNjY0OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D42270ec9fc6ef3c086501af624eae50f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJTIwU2ltdWxpbmslRTMlODElQTclRTUlOEYlOTYlRTUlQkUlOTclRTMlODElOTclRTMlODElOUYlRTYlQjMlQTIlRTUlQkQlQTIlRTMlODMlODclRTMlODMlQkMlRTMlODIlQkYlRTMlODIlOTJDU1YlRTMlODMlOTUlRTMlODIlQTElRTMlODIlQTQlRTMlODMlQUIlRTMlODElQTglRTMlODElOTclRTMlODElQTYlRTMlODIlQTglRTMlODIlQUYlRTMlODIlQjklRTMlODMlOUQlRTMlODMlQkMlRTMlODMlODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lYzVkNTZiNmJlYzhhZWNmZGM4MmZkZTdjMGU4ODRhZQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmNjOTY5NjIxZWIzOGM4MGIyMmVhMjhkNmRhOTMxNTA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5623e5fbd00b0749cf60c7e04046f5b2"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB でマルチウィンドウアプリを作る (1) | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/na06acd46f3ae</link>
+            <guid>https://note.com/leftbank/n/na06acd46f3ae</guid>
+            <pubDate>Tue, 11 Feb 2025 11:23:59 GMT</pubDate>
+            <description><![CDATA[まえがき 続きをみる]]></description>
+            <content:encoded><![CDATA[まえがき 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/174156599/rectangle_large_type_2_0a89a9514077a7b2db8e8afe82f14814.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[はじめてのNN実装：MATLAB/Simulinkでゼロから作るシンプルXORニューラルネットワーク入門 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/Hiroto_N/items/5a59206bb88ad518b36c</link>
+            <guid>https://qiita.com/Hiroto_N/items/5a59206bb88ad518b36c</guid>
+            <pubDate>Mon, 10 Feb 2025 13:59:45 GMT</pubDate>
+            <description><![CDATA[1. イントロダクション この記事では、MATLABとSimulinkを使って、ゼロからニューラルネットワーク (NN) を実装し、シンプルなXOR問題を解く方法を学びます。既存のライブラリや転移学…]]></description>
+            <content:encoded><![CDATA[1. イントロダクション この記事では、MATLABとSimulinkを使って、ゼロからニューラルネットワーク (NN) を実装し、シンプルなXOR問題を解く方法を学びます。既存のライブラリや転移学…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSWxVaFZYZnFrSTZCdVN3MEZBaFRjWnA1NkdPazNSdHNIbmJoQ0FrVVNtM0ZxVVY5dkUlM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1jMTM2YzE4NDgwMTIyNWZkNGJmNzQ2YWE0NWJhYmQyMA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1a17fb5a1c8858ca084c1f3abfd50af8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFGJUUzJTgxJTk4JUUzJTgyJTgxJUUzJTgxJUE2JUUzJTgxJUFFTk4lRTUlQUUlOUYlRTglQTMlODUlRUYlQkMlOUFNQVRMQUIlMkZTaW11bGluayVFMyU4MSVBNyVFMyU4MiVCQyVFMyU4MyVBRCVFMyU4MSU4QiVFMyU4MiU4OSVFNCVCRCU5QyVFMyU4MiU4QiVFMyU4MiVCNyVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQlhPUiVFMyU4MyU4QiVFMyU4MyVBNSVFMyU4MyVCQyVFMyU4MyVBOSVFMyU4MyVBQiVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFNSU4NSVBNSVFOSU5NiU4MCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWNkMTRiMjJkOTI1OGRiM2NiNDAwNGQ0MDhjNGNiYjgx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIaXJvdG9fTiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJlZmJmMTk5YzliMjgzYTRmMThiYjhkZDQ1ZDE0NzAz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=777bf8f9c35e156fe7f62b51802adcb6"/>
+        </item>
+    </channel>
+</rss>
