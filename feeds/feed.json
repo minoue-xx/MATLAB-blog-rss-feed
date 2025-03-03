@@ -1,0 +1,94 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/qwer123123/items/00cffbbbd256e8e46cd7",
+            "content_html": "はじめに デジタル回路設計において、Dフリップフロップ（DFF）は一般的なデータラッチとして広く使用されています。しかし、特定のアナログ・ミックスドシグナル（AMS）回路やADコンバータのフロントエ…",
+            "url": "https://qiita.com/qwer123123/items/00cffbbbd256e8e46cd7",
+            "title": "DFFの代替使用としてサンプリングホールドブロックを使用 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに デジタル回路設計において、Dフリップフロップ（DFF）は一般的なデータラッチとして広く使用されています。しかし、特定のアナログ・ミックスドシグナル（AMS）回路やADコンバータのフロントエ…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzU5MTA5JTJGZGNmOTFjMGVmYzE2MWM3Njg2MTQxN2Y4YjVmZTBiNjQ4NjcwNTJkNSUyRnhfbGFyZ2UucG5nJTNGMTcxMTgxMDM2Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04Yjg2MGMxNGExYjFkNTNlZDAzMGNjYmFjZDhmNjY0OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D42270ec9fc6ef3c086501af624eae50f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9REZGJUUzJTgxJUFFJUU0JUJCJUEzJUU2JTlCJUJGJUU0JUJEJUJGJUU3JTk0JUE4JUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgyJUI1JUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgzJTlCJUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgzJTg5JUUzJTgzJTk2JUUzJTgzJUFEJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJTkyJUU0JUJEJUJGJUU3JTk0JUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZWM5Njc3YWM0N2MwMmRlZTQ3ZDRkMjUyYWJmMzZlZTk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmNjOTY5NjIxZWIzOGM4MGIyMmVhMjhkNmRhOTMxNTA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f21242e790099d8b858f838a898486e7"
+            },
+            "date_modified": "2025-02-26T08:40:05.000Z",
+            "date_published": "2025-02-26T08:40:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DFFの代替使用としてサンプリングホールドブロックを使用",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/motorcontrolman/items/53445fc2d57e4d93bc8b",
+            "content_html": "はじめに 新しいI2Cデバイスを購入、arduinoに接続して使用する場合の一般的な動作確認として下記の手順を踏む必要があります。 ①arduinoとI2Cデバイスを物理的に接続 ②arduinoラ…",
+            "url": "https://qiita.com/motorcontrolman/items/53445fc2d57e4d93bc8b",
+            "title": "MATLABなら超簡単! I2Cデバイスの動作確認ーroller485を例にー | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに 新しいI2Cデバイスを購入、arduinoに接続して使用する場合の一般的な動作確認として下記の手順を踏む必要があります。 ①arduinoとI2Cデバイスを物理的に接続 ②arduinoラ…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzAyNTA2JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQwMzg5OTAzP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPThmNDUwNmU0N2I4ZTczZGNkYWEwYzVhYmMwODFhNjE3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D49c1f076dae2dd14ec4fd6c9a26624d7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgxJUFBJUUzJTgyJTg5JUU4JUI2JTg1JUU3JUIwJUExJUU1JThEJTk4JTIxJTIwSTJDJUUzJTgzJTg3JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgyJUI5JUUzJTgxJUFFJUU1JThCJTk1JUU0JUJEJTlDJUU3JUEyJUJBJUU4JUFBJThEJUUzJTgzJUJDcm9sbGVyNDg1JUUzJTgyJTkyJUU0JUJFJThCJUUzJTgxJUFCJUUzJTgzJUJDJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2NiY2EzNDE2N2VlMDJkMWU3ZDFlM2IxNzc0MTkwMzY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtb3RvcmNvbnRyb2xtYW4mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01ZGQwOGZlZjBlMzU0MDdiY2E3ZDVmMzUxNjUwMDZjOQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b5fa9352cd6443583715db74548e4918"
+            },
+            "date_modified": "2025-02-20T14:28:06.000Z",
+            "date_published": "2025-02-20T14:28:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABなら超簡単! I2Cデバイスの動作確認ーroller485を例にー",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/denchu314/items/42101b3b8d55d8a67582",
+            "content_html": "目的 最近、リサンプリング（レート変換）をFPGAに効率的に実装するテクニックを知ったので、備忘録がてらまとめておきます。 この記事は実装上の嬉しさにのみ言及しており、原理については記載しておりませ…",
+            "url": "https://qiita.com/denchu314/items/42101b3b8d55d8a67582",
+            "title": "FPGAでレート変換を実装するときの効率的な実装テクニック | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "目的 最近、リサンプリング（レート変換）をFPGAに効率的に実装するテクニックを知ったので、備忘録がてらまとめておきます。 この記事は実装上の嬉しさにのみ言及しており、原理については記載しておりませ…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZjNGM2MWI2YjViODYyMDZiMjdlMmU1ZWExYzg0NDczYj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0zZmViMmI3YWEwMjY0YTRjMTk4MGE5ZmRlN2ZhYThjNg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D300d58e05d8ebeac7b853e303c20ca76?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9RlBHQSVFMyU4MSVBNyVFMyU4MyVBQyVFMyU4MyVCQyVFMyU4MyU4OCVFNSVBNCU4OSVFNiU4RiU5QiVFMyU4MiU5MiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MSVBOCVFMyU4MSU4RCVFMyU4MSVBRSVFNSU4QSVCOSVFNyU4RSU4NyVFNyU5QSU4NCVFMyU4MSVBQSVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MyU4NiVFMyU4MiVBRiVFMyU4MyU4QiVFMyU4MyU4MyVFMyU4MiVBRiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWEwNDQ0ZDE5ZjEzNDExZjdlZWVjZDk2ODUxZTJkNWNi&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkZW5jaHUzMTQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04YjY3YmY4ODI1ZTkyMWNkYzBkYmRhMWJlMDEyNWUzNQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a3a0357bad22cd93858cd7bf4b72cb87"
+            },
+            "date_modified": "2025-02-20T07:04:12.000Z",
+            "date_published": "2025-02-20T07:04:12.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "FPGAでレート変換を実装するときの効率的な実装テクニック",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/sachie_y/n/n6efa0240dd61",
+            "content_html": "講義で今すぐ使える！手を動かして学べる教材＆活用法紹介 - 機械・電気系編 MathWorks の教育支援専門エンジニアが、物理や数学から、制御、信号処理、電気回路まで、機械・電気系の授業で使える教材やコンテンツを、デモンストレーションを交えて紹介します。 続きをみる",
+            "url": "https://note.com/sachie_y/n/n6efa0240dd61",
+            "title": "今すぐ使える教材紹介セミナー／データ解析やデジタル信号処理の基礎を教える／東京科学大 鳥人間チームの挑戦｜2025年2月 | MATLAB アカデミックニュースレター",
+            "summary": "講義で今すぐ使える！手を動かして学べる教材＆活用法紹介 - 機械・電気系編 MathWorks の教育支援専門エンジニアが、物理や数学から、制御、信号処理、電気回路まで、機械・電気系の授業で使える教材やコンテンツを、デモンストレーションを交えて紹介します。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/173346310/rectangle_large_type_2_9d4a95b6bd91167fc76ed4ff17134151.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-02-19T02:50:46.000Z",
+            "date_published": "2025-02-19T02:50:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "今すぐ使える教材紹介セミナー／データ解析やデジタル信号処理の基礎を教える／東京科学大 鳥人間チームの挑戦｜2025年2月",
+                "blogTitle": "MATLAB アカデミックニュースレター",
+                "blogLink": "https://note.com/sachie_y/m/mca72ce231fdc",
+                "blogLinkMd5Hash": "ec19369802a92db6c4cb13993c856ff7"
+            }
+        }
+    ]
+}
