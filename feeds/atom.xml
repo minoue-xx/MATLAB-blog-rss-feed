@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-03-11T00:20:40.739Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[音声のフーリエ変換 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/ryuka0610/items/6ce795e98691f9e2d5c0</id>
+        <link href="https://qiita.com/ryuka0610/items/6ce795e98691f9e2d5c0"/>
+        <updated>2025-03-09T12:27:13.000Z</updated>
+        <summary type="html"><![CDATA[環境：MATLAB R2018b 内容：ビープ音のパターンマッチングの勉強メモ [AmpLv, Fs] = audioread('bleep-41488.mp3'); disp(Fs); % サンプ…]]></summary>
+        <content type="html"><![CDATA[環境：MATLAB R2018b 内容：ビープ音のパターンマッチングの勉強メモ [AmpLv, Fs] = audioread('bleep-41488.mp3'); disp(Fs); % サンプ…]]></content>
+        <published>2025-03-09T12:27:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロボティクス＆物理学コース向けリソース／学生向けプロジェクト集／研究助成開始／航空宇宙向けカリキュラム例｜2025年3月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/ncf1393a2b9d2</id>
+        <link href="https://note.com/sachie_y/n/ncf1393a2b9d2"/>
+        <updated>2025-03-06T01:00:55.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB および Simulink によるロボティクス教育 動きのある可視化表現を用いて基本的なロボティクスの概念を教える方法、対話形式のコードを活用したカリキュラムの強化、シミュレーションを使用してバーチャルな実験を取り入れる方法などを学びましょう。 続きをみる]]></summary>
+        <content type="html"><![CDATA[MATLAB および Simulink によるロボティクス教育 動きのある可視化表現を用いて基本的なロボティクスの概念を教える方法、対話形式のコードを活用したカリキュラムの強化、シミュレーションを使用してバーチャルな実験を取り入れる方法などを学びましょう。 続きをみる]]></content>
+        <published>2025-03-06T01:00:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DFFの代替使用としてサンプリングホールドブロックを使用 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/qwer123123/items/00cffbbbd256e8e46cd7</id>
+        <link href="https://qiita.com/qwer123123/items/00cffbbbd256e8e46cd7"/>
+        <updated>2025-02-26T08:40:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに デジタル回路設計において、Dフリップフロップ（DFF）は一般的なデータラッチとして広く使用されています。しかし、特定のアナログ・ミックスドシグナル（AMS）回路やADコンバータのフロントエ…]]></summary>
+        <content type="html"><![CDATA[はじめに デジタル回路設計において、Dフリップフロップ（DFF）は一般的なデータラッチとして広く使用されています。しかし、特定のアナログ・ミックスドシグナル（AMS）回路やADコンバータのフロントエ…]]></content>
+        <published>2025-02-26T08:40:05.000Z</published>
+    </entry>
+</feed>

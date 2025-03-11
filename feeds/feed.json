@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/ryuka0610/items/6ce795e98691f9e2d5c0",
+            "content_html": "環境：MATLAB R2018b 内容：ビープ音のパターンマッチングの勉強メモ [AmpLv, Fs] = audioread('bleep-41488.mp3'); disp(Fs); % サンプ…",
+            "url": "https://qiita.com/ryuka0610/items/6ce795e98691f9e2d5c0",
+            "title": "音声のフーリエ変換 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "環境：MATLAB R2018b 内容：ビープ音のパターンマッチングの勉強メモ [AmpLv, Fs] = audioread('bleep-41488.mp3'); disp(Fs); % サンプ…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUVkRlRwNUFYMExCaE1QZjU5R2hvOUN2OE5iSWV0MC1wYmtjWThUU2pENDYlM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0xYjNhYjI3NDVjODVjMjdmZDdmYzRkNWY3ODA3NzM3OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D047c838440de2fcfccff3c74964fd41e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTlGJUIzJUU1JUEzJUIwJUUzJTgxJUFFJUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgzJUFBJUUzJTgyJUE4JUU1JUE0JTg5JUU2JThGJTlCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZjY3NjU4OWI4Mjc4ZGZkOTVlYzhmMzg4NjQ3ZmQ5ZjA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByeXVrYTA2MTAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0xMzdhOTgxYTZhY2QyZmM3YmMzNDU5OGJhOWFiOWUyZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=934f0049516baa5a6b7ee07bd35bbd9b"
+            },
+            "date_modified": "2025-03-09T12:27:13.000Z",
+            "date_published": "2025-03-09T12:27:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "音声のフーリエ変換",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/sachie_y/n/ncf1393a2b9d2",
+            "content_html": "MATLAB および Simulink によるロボティクス教育 動きのある可視化表現を用いて基本的なロボティクスの概念を教える方法、対話形式のコードを活用したカリキュラムの強化、シミュレーションを使用してバーチャルな実験を取り入れる方法などを学びましょう。 続きをみる",
+            "url": "https://note.com/sachie_y/n/ncf1393a2b9d2",
+            "title": "ロボティクス＆物理学コース向けリソース／学生向けプロジェクト集／研究助成開始／航空宇宙向けカリキュラム例｜2025年3月 | MATLAB アカデミックニュースレター",
+            "summary": "MATLAB および Simulink によるロボティクス教育 動きのある可視化表現を用いて基本的なロボティクスの概念を教える方法、対話形式のコードを活用したカリキュラムの強化、シミュレーションを使用してバーチャルな実験を取り入れる方法などを学びましょう。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/177710228/rectangle_large_type_2_e91e328caeef2fc47f614d5b1f6aeb1b.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-03-06T01:00:55.000Z",
+            "date_published": "2025-03-06T01:00:55.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ロボティクス＆物理学コース向けリソース／学生向けプロジェクト集／研究助成開始／航空宇宙向けカリキュラム例｜2025年3月",
+                "blogTitle": "MATLAB アカデミックニュースレター",
+                "blogLink": "https://note.com/sachie_y/m/mca72ce231fdc",
+                "blogLinkMd5Hash": "ec19369802a92db6c4cb13993c856ff7"
+            }
+        },
+        {
+            "id": "https://qiita.com/qwer123123/items/00cffbbbd256e8e46cd7",
+            "content_html": "はじめに デジタル回路設計において、Dフリップフロップ（DFF）は一般的なデータラッチとして広く使用されています。しかし、特定のアナログ・ミックスドシグナル（AMS）回路やADコンバータのフロントエ…",
+            "url": "https://qiita.com/qwer123123/items/00cffbbbd256e8e46cd7",
+            "title": "DFFの代替使用としてサンプリングホールドブロックを使用 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに デジタル回路設計において、Dフリップフロップ（DFF）は一般的なデータラッチとして広く使用されています。しかし、特定のアナログ・ミックスドシグナル（AMS）回路やADコンバータのフロントエ…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzU5MTA5JTJGZGNmOTFjMGVmYzE2MWM3Njg2MTQxN2Y4YjVmZTBiNjQ4NjcwNTJkNSUyRnhfbGFyZ2UucG5nJTNGMTcxMTgxMDM2Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04Yjg2MGMxNGExYjFkNTNlZDAzMGNjYmFjZDhmNjY0OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D42270ec9fc6ef3c086501af624eae50f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9REZGJUUzJTgxJUFFJUU0JUJCJUEzJUU2JTlCJUJGJUU0JUJEJUJGJUU3JTk0JUE4JUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgyJUI1JUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgzJTlCJUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgzJTg5JUUzJTgzJTk2JUUzJTgzJUFEJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJTkyJUU0JUJEJUJGJUU3JTk0JUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZWM5Njc3YWM0N2MwMmRlZTQ3ZDRkMjUyYWJmMzZlZTk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmNjOTY5NjIxZWIzOGM4MGIyMmVhMjhkNmRhOTMxNTA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f21242e790099d8b858f838a898486e7"
+            },
+            "date_modified": "2025-02-26T08:40:05.000Z",
+            "date_published": "2025-02-26T08:40:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DFFの代替使用としてサンプリングホールドブロックを使用",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}
