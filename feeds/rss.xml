@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 15 Mar 2025 15:02:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2次元線形移流方程式をTVD法で解く【MATLABコード付き】 | 流体シミュレーション | n's note]]></title>
+            <link>https://taku-naka.site/2025/03/14/computational-thermo-fluid-dynamics/tvd-2d/</link>
+            <guid>https://taku-naka.site/?p=20164</guid>
+            <pubDate>Fri, 14 Mar 2025 10:08:42 GMT</pubDate>
+            <description><![CDATA[目次 はじめに有限体積法による２次元線形移流方程式の離散化界面物理量の２次元化Roeリーマンソルバの２次元化解析条件周期的境界条件解析結果斜めの移流が数値拡散を招く理由MATLABコードおわりに参考文献 はじめに 過去 […]]]></description>
+            <content:encoded><![CDATA[目次 はじめに有限体積法による２次元線形移流方程式の離散化界面物理量の２次元化Roeリーマンソルバの２次元化解析条件周期的境界条件解析結果斜めの移流が数値拡散を招く理由MATLABコードおわりに参考文献 はじめに 過去 […]]]></content:encoded>
+            <category>流体シミュレーション</category>
+            <enclosure length="0" type="png" url="http://taku-naka.site/wp-content/uploads/2022/01/whiite.png"/>
+        </item>
+        <item>
+            <title><![CDATA[1.5ビットパイプラインADCのデジタル演算による2進数ビット生成と再生波形の表示 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/qwer123123/items/95729c635709919366a7</link>
+            <guid>https://qiita.com/qwer123123/items/95729c635709919366a7</guid>
+            <pubDate>Thu, 13 Mar 2025 13:48:33 GMT</pubDate>
+            <description><![CDATA[1.5ビットパイプラインADCを再現したい。。。。。。。 1.5ビットパイプラインADCのデジタル演算による2進数ビット生成 本記事では、1.5ビットパイプラインADC（Pipeline Anal…]]></description>
+            <content:encoded><![CDATA[1.5ビットパイプラインADCを再現したい。。。。。。。 1.5ビットパイプラインADCのデジタル演算による2進数ビット生成 本記事では、1.5ビットパイプラインADC（Pipeline Anal…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzU5MTA5JTJGZGNmOTFjMGVmYzE2MWM3Njg2MTQxN2Y4YjVmZTBiNjQ4NjcwNTJkNSUyRnhfbGFyZ2UucG5nJTNGMTcxMTgxMDM2Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04Yjg2MGMxNGExYjFkNTNlZDAzMGNjYmFjZDhmNjY0OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D42270ec9fc6ef3c086501af624eae50f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9MS41JUUzJTgzJTkzJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgzJTkxJUUzJTgyJUE0JUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJUIzQURDJUUzJTgxJUFFJUUzJTgzJTg3JUUzJTgyJUI4JUUzJTgyJUJGJUUzJTgzJUFCJUU2JUJDJTk0JUU3JUFFJTk3JUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCMiVFOSU4MCVCMiVFNiU5NSVCMCVFMyU4MyU5MyVFMyU4MyU4MyVFMyU4MyU4OCVFNyU5NCU5RiVFNiU4OCU5MCVFMyU4MSVBOCVFNSU4NiU4RCVFNyU5NCU5RiVFNiVCMyVBMiVFNSVCRCVBMiVFMyU4MSVBRSVFOCVBMSVBOCVFNyVBNCVCQSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWY0ZTQ0Y2VmOGRiZmI3N2NjMmRkYWYwYjAzNjA3NTAx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmNjOTY5NjIxZWIzOGM4MGIyMmVhMjhkNmRhOTMxNTA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6c1a3fb3619c988d51fc9cbed110a8a9"/>
+        </item>
+        <item>
+            <title><![CDATA[PとMでJQから金融データ取得 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/SacredTubes/items/77aa8f0d27fc94f4bdda</link>
+            <guid>https://qiita.com/SacredTubes/items/77aa8f0d27fc94f4bdda</guid>
+            <pubDate>Wed, 12 Mar 2025 13:33:13 GMT</pubDate>
+            <description><![CDATA[日本取引所JPXが2023年4月から株価や企業財務などの金融データのAPI提供を始めました。 J-Quants かつて筆者はMATLABで株価や指標データの取得を行ってテクニカル解析を行っていました…]]></description>
+            <content:encoded><![CDATA[日本取引所JPXが2023年4月から株価や企業財務などの金融データのAPI提供を始めました。 J-Quants かつて筆者はMATLABで株価や指標データの取得を行ってテクニカル解析を行っていました…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0Nzc2NTElMkYwYThlYmRlMDE0ODZkN2E3MGJkMTgyOGViZGIwOGMzM2IxMzJmNmI0JTJGeF9sYXJnZS5wbmclM0YxNjA1NzExODg5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWQyNzczYmU1NWY5ZTUyYWRjZjZhZWMzMTQyZWU4MmM1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D93daf25d25e8551816c5023d7554f94f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UCVFMyU4MSVBOE0lRTMlODElQTdKUSVFMyU4MSU4QiVFMyU4MiU4OSVFOSU4NyU5MSVFOCU5RSU4RCVFMyU4MyU4NyVFMyU4MyVCQyVFMyU4MiVCRiVFNSU4RiU5NiVFNSVCRSU5NyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTFlY2UwNjdiNjc5MmQzMGNlNGE4OWZmMTEwNWE5MGFm&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTYWNyZWRUdWJlcyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM2NTllMzFiNjM4OWNmMzYwMTllNWMyNjhmOWEwZTcx&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a314f92445abbcc12eb27e5de8a8a57b"/>
+        </item>
+        <item>
+            <title><![CDATA[流体解析における計算時間を比較: Fortran, MATLAB, C++, Python | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/StudyKogaku/items/6d38105c50715b0a78d6</link>
+            <guid>https://qiita.com/StudyKogaku/items/6d38105c50715b0a78d6</guid>
+            <pubDate>Tue, 11 Mar 2025 04:58:39 GMT</pubDate>
+            <description><![CDATA[動機 流体解析においてどの言語を使うと計算時間が短くなるか気になったので，馴染みのある言語（Fortran, MATLAB, C++, Python）を用いて簡単なプログラムを作成し，計算時間を測定…]]></description>
+            <content:encoded><![CDATA[動機 流体解析においてどの言語を使うと計算時間が短くなるか気になったので，馴染みのある言語（Fortran, MATLAB, C++, Python）を用いて簡単なプログラムを作成し，計算時間を測定…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzUzMTEyMyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTY5NDQ3OTQxNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz02YTM3MTY0MmY3NzU5ZGYwMGZjOWVhYWFiMmVmYjk1MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D94efb561d38918aba0ff228bf5c6d389?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JUI1JTgxJUU0JUJEJTkzJUU4JUE3JUEzJUU2JTlFJTkwJUUzJTgxJUFCJUUzJTgxJThBJUUzJTgxJTkxJUUzJTgyJThCJUU4JUE4JTg4JUU3JUFFJTk3JUU2JTk5JTgyJUU5JTk2JTkzJUUzJTgyJTkyJUU2JUFGJTk0JUU4JUJDJTgzJTNBJTIwRm9ydHJhbiUyQyUyME1BVExBQiUyQyUyMEMlMkIlMkIlMkMlMjBQeXRob24mdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01YTMwNmRjNTY5NGM4OThiZjk5ZDEyZjI2MGJkMzAxMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTdHVkeUtvZ2FrdSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWY0NzA3NTk4OGE0MjZmNzViZTk0YjlkNmZmMDVmYzVl&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=4e9bf6ceaac3fc847ebade500601e370"/>
+        </item>
+        <item>
+            <title><![CDATA[音声のフーリエ変換 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/ryuka0610/items/6ce795e98691f9e2d5c0</link>
+            <guid>https://qiita.com/ryuka0610/items/6ce795e98691f9e2d5c0</guid>
+            <pubDate>Sun, 09 Mar 2025 12:27:13 GMT</pubDate>
+            <description><![CDATA[環境：MATLAB R2018b 内容：ビープ音のパターンマッチングの勉強メモ [AmpLv, Fs] = audioread('bleep-41488.mp3'); disp(Fs); % サンプ…]]></description>
+            <content:encoded><![CDATA[環境：MATLAB R2018b 内容：ビープ音のパターンマッチングの勉強メモ [AmpLv, Fs] = audioread('bleep-41488.mp3'); disp(Fs); % サンプ…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUVkRlRwNUFYMExCaE1QZjU5R2hvOUN2OE5iSWV0MC1wYmtjWThUU2pENDYlM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0xYjNhYjI3NDVjODVjMjdmZDdmYzRkNWY3ODA3NzM3OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D047c838440de2fcfccff3c74964fd41e?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTlGJUIzJUU1JUEzJUIwJUUzJTgxJUFFJUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgzJUFBJUUzJTgyJUE4JUU1JUE0JTg5JUU2JThGJTlCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZjY3NjU4OWI4Mjc4ZGZkOTVlYzhmMzg4NjQ3ZmQ5ZjA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByeXVrYTA2MTAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0xMzdhOTgxYTZhY2QyZmM3YmMzNDU5OGJhOWFiOWUyZg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=934f0049516baa5a6b7ee07bd35bbd9b"/>
+        </item>
+        <item>
+            <title><![CDATA[ロボティクス＆物理学コース向けリソース／学生向けプロジェクト集／研究助成開始／航空宇宙向けカリキュラム例｜2025年3月 | MATLAB アカデミックニュースレター]]></title>
+            <link>https://note.com/sachie_y/n/ncf1393a2b9d2</link>
+            <guid>https://note.com/sachie_y/n/ncf1393a2b9d2</guid>
+            <pubDate>Thu, 06 Mar 2025 01:00:55 GMT</pubDate>
+            <description><![CDATA[MATLAB および Simulink によるロボティクス教育 動きのある可視化表現を用いて基本的なロボティクスの概念を教える方法、対話形式のコードを活用したカリキュラムの強化、シミュレーションを使用してバーチャルな実験を取り入れる方法などを学びましょう。 続きをみる]]></description>
+            <content:encoded><![CDATA[MATLAB および Simulink によるロボティクス教育 動きのある可視化表現を用いて基本的なロボティクスの概念を教える方法、対話形式のコードを活用したカリキュラムの強化、シミュレーションを使用してバーチャルな実験を取り入れる方法などを学びましょう。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177710228/rectangle_large_type_2_e91e328caeef2fc47f614d5b1f6aeb1b.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+    </channel>
+</rss>

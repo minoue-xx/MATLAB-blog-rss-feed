@@ -1,0 +1,141 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://taku-naka.site/?p=20164",
+            "content_html": "目次 はじめに有限体積法による２次元線形移流方程式の離散化界面物理量の２次元化Roeリーマンソルバの２次元化解析条件周期的境界条件解析結果斜めの移流が数値拡散を招く理由MATLABコードおわりに参考文献 はじめに 過去 […]",
+            "url": "https://taku-naka.site/2025/03/14/computational-thermo-fluid-dynamics/tvd-2d/",
+            "title": "2次元線形移流方程式をTVD法で解く【MATLABコード付き】 | 流体シミュレーション | n's note",
+            "summary": "目次 はじめに有限体積法による２次元線形移流方程式の離散化界面物理量の２次元化Roeリーマンソルバの２次元化解析条件周期的境界条件解析結果斜めの移流が数値拡散を招く理由MATLABコードおわりに参考文献 はじめに 過去 […]",
+            "image": {
+                "type": "png",
+                "url": "http://taku-naka.site/wp-content/uploads/2022/01/whiite.png"
+            },
+            "date_modified": "2025-03-14T10:08:42.000Z",
+            "date_published": "2025-03-14T10:08:42.000Z",
+            "author": {
+                "name": "naka"
+            },
+            "tags": [
+                "流体シミュレーション"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2次元線形移流方程式をTVD法で解く【MATLABコード付き】",
+                "blogTitle": "流体シミュレーション | n's note",
+                "blogLink": "https://taku-naka.site",
+                "blogLinkMd5Hash": "c108ee80603dde9175e0316201bb04fb"
+            }
+        },
+        {
+            "id": "https://qiita.com/qwer123123/items/95729c635709919366a7",
+            "content_html": "1.5ビットパイプラインADCを再現したい。。。。。。。 1.5ビットパイプラインADCのデジタル演算による2進数ビット生成 本記事では、1.5ビットパイプラインADC（Pipeline Anal…",
+            "url": "https://qiita.com/qwer123123/items/95729c635709919366a7",
+            "title": "1.5ビットパイプラインADCのデジタル演算による2進数ビット生成と再生波形の表示 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1.5ビットパイプラインADCを再現したい。。。。。。。 1.5ビットパイプラインADCのデジタル演算による2進数ビット生成 本記事では、1.5ビットパイプラインADC（Pipeline Anal…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzU5MTA5JTJGZGNmOTFjMGVmYzE2MWM3Njg2MTQxN2Y4YjVmZTBiNjQ4NjcwNTJkNSUyRnhfbGFyZ2UucG5nJTNGMTcxMTgxMDM2Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04Yjg2MGMxNGExYjFkNTNlZDAzMGNjYmFjZDhmNjY0OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D42270ec9fc6ef3c086501af624eae50f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9MS41JUUzJTgzJTkzJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgzJTkxJUUzJTgyJUE0JUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJUIzQURDJUUzJTgxJUFFJUUzJTgzJTg3JUUzJTgyJUI4JUUzJTgyJUJGJUUzJTgzJUFCJUU2JUJDJTk0JUU3JUFFJTk3JUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCMiVFOSU4MCVCMiVFNiU5NSVCMCVFMyU4MyU5MyVFMyU4MyU4MyVFMyU4MyU4OCVFNyU5NCU5RiVFNiU4OCU5MCVFMyU4MSVBOCVFNSU4NiU4RCVFNyU5NCU5RiVFNiVCMyVBMiVFNSVCRCVBMiVFMyU4MSVBRSVFOCVBMSVBOCVFNyVBNCVCQSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWY0ZTQ0Y2VmOGRiZmI3N2NjMmRkYWYwYjAzNjA3NTAx&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmNjOTY5NjIxZWIzOGM4MGIyMmVhMjhkNmRhOTMxNTA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6c1a3fb3619c988d51fc9cbed110a8a9"
+            },
+            "date_modified": "2025-03-13T13:48:33.000Z",
+            "date_published": "2025-03-13T13:48:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "1.5ビットパイプラインADCのデジタル演算による2進数ビット生成と再生波形の表示",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/SacredTubes/items/77aa8f0d27fc94f4bdda",
+            "content_html": "日本取引所JPXが2023年4月から株価や企業財務などの金融データのAPI提供を始めました。 J-Quants かつて筆者はMATLABで株価や指標データの取得を行ってテクニカル解析を行っていました…",
+            "url": "https://qiita.com/SacredTubes/items/77aa8f0d27fc94f4bdda",
+            "title": "PとMでJQから金融データ取得 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "日本取引所JPXが2023年4月から株価や企業財務などの金融データのAPI提供を始めました。 J-Quants かつて筆者はMATLABで株価や指標データの取得を行ってテクニカル解析を行っていました…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0Nzc2NTElMkYwYThlYmRlMDE0ODZkN2E3MGJkMTgyOGViZGIwOGMzM2IxMzJmNmI0JTJGeF9sYXJnZS5wbmclM0YxNjA1NzExODg5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWQyNzczYmU1NWY5ZTUyYWRjZjZhZWMzMTQyZWU4MmM1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D93daf25d25e8551816c5023d7554f94f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UCVFMyU4MSVBOE0lRTMlODElQTdKUSVFMyU4MSU4QiVFMyU4MiU4OSVFOSU4NyU5MSVFOCU5RSU4RCVFMyU4MyU4NyVFMyU4MyVCQyVFMyU4MiVCRiVFNSU4RiU5NiVFNSVCRSU5NyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTFlY2UwNjdiNjc5MmQzMGNlNGE4OWZmMTEwNWE5MGFm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTYWNyZWRUdWJlcyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM2NTllMzFiNjM4OWNmMzYwMTllNWMyNjhmOWEwZTcx&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a314f92445abbcc12eb27e5de8a8a57b"
+            },
+            "date_modified": "2025-03-12T13:33:13.000Z",
+            "date_published": "2025-03-12T13:33:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PとMでJQから金融データ取得",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/StudyKogaku/items/6d38105c50715b0a78d6",
+            "content_html": "動機 流体解析においてどの言語を使うと計算時間が短くなるか気になったので，馴染みのある言語（Fortran, MATLAB, C++, Python）を用いて簡単なプログラムを作成し，計算時間を測定…",
+            "url": "https://qiita.com/StudyKogaku/items/6d38105c50715b0a78d6",
+            "title": "流体解析における計算時間を比較: Fortran, MATLAB, C++, Python | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "動機 流体解析においてどの言語を使うと計算時間が短くなるか気になったので，馴染みのある言語（Fortran, MATLAB, C++, Python）を用いて簡単なプログラムを作成し，計算時間を測定…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzUzMTEyMyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTY5NDQ3OTQxNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz02YTM3MTY0MmY3NzU5ZGYwMGZjOWVhYWFiMmVmYjk1MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D94efb561d38918aba0ff228bf5c6d389?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JUI1JTgxJUU0JUJEJTkzJUU4JUE3JUEzJUU2JTlFJTkwJUUzJTgxJUFCJUUzJTgxJThBJUUzJTgxJTkxJUUzJTgyJThCJUU4JUE4JTg4JUU3JUFFJTk3JUU2JTk5JTgyJUU5JTk2JTkzJUUzJTgyJTkyJUU2JUFGJTk0JUU4JUJDJTgzJTNBJTIwRm9ydHJhbiUyQyUyME1BVExBQiUyQyUyMEMlMkIlMkIlMkMlMjBQeXRob24mdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01YTMwNmRjNTY5NGM4OThiZjk5ZDEyZjI2MGJkMzAxMA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTdHVkeUtvZ2FrdSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWY0NzA3NTk4OGE0MjZmNzViZTk0YjlkNmZmMDVmYzVl&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4e9bf6ceaac3fc847ebade500601e370"
+            },
+            "date_modified": "2025-03-11T04:58:39.000Z",
+            "date_published": "2025-03-11T04:58:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "流体解析における計算時間を比較: Fortran, MATLAB, C++, Python",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/ryuka0610/items/6ce795e98691f9e2d5c0",
+            "content_html": "環境：MATLAB R2018b 内容：ビープ音のパターンマッチングの勉強メモ [AmpLv, Fs] = audioread('bleep-41488.mp3'); disp(Fs); % サンプ…",
+            "url": "https://qiita.com/ryuka0610/items/6ce795e98691f9e2d5c0",
+            "title": "音声のフーリエ変換 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "環境：MATLAB R2018b 内容：ビープ音のパターンマッチングの勉強メモ [AmpLv, Fs] = audioread('bleep-41488.mp3'); disp(Fs); % サンプ…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUVkRlRwNUFYMExCaE1QZjU5R2hvOUN2OE5iSWV0MC1wYmtjWThUU2pENDYlM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0xYjNhYjI3NDVjODVjMjdmZDdmYzRkNWY3ODA3NzM3OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D047c838440de2fcfccff3c74964fd41e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTlGJUIzJUU1JUEzJUIwJUUzJTgxJUFFJUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgzJUFBJUUzJTgyJUE4JUU1JUE0JTg5JUU2JThGJTlCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZjY3NjU4OWI4Mjc4ZGZkOTVlYzhmMzg4NjQ3ZmQ5ZjA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByeXVrYTA2MTAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0xMzdhOTgxYTZhY2QyZmM3YmMzNDU5OGJhOWFiOWUyZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=934f0049516baa5a6b7ee07bd35bbd9b"
+            },
+            "date_modified": "2025-03-09T12:27:13.000Z",
+            "date_published": "2025-03-09T12:27:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "音声のフーリエ変換",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/sachie_y/n/ncf1393a2b9d2",
+            "content_html": "MATLAB および Simulink によるロボティクス教育 動きのある可視化表現を用いて基本的なロボティクスの概念を教える方法、対話形式のコードを活用したカリキュラムの強化、シミュレーションを使用してバーチャルな実験を取り入れる方法などを学びましょう。 続きをみる",
+            "url": "https://note.com/sachie_y/n/ncf1393a2b9d2",
+            "title": "ロボティクス＆物理学コース向けリソース／学生向けプロジェクト集／研究助成開始／航空宇宙向けカリキュラム例｜2025年3月 | MATLAB アカデミックニュースレター",
+            "summary": "MATLAB および Simulink によるロボティクス教育 動きのある可視化表現を用いて基本的なロボティクスの概念を教える方法、対話形式のコードを活用したカリキュラムの強化、シミュレーションを使用してバーチャルな実験を取り入れる方法などを学びましょう。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/177710228/rectangle_large_type_2_e91e328caeef2fc47f614d5b1f6aeb1b.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-03-06T01:00:55.000Z",
+            "date_published": "2025-03-06T01:00:55.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ロボティクス＆物理学コース向けリソース／学生向けプロジェクト集／研究助成開始／航空宇宙向けカリキュラム例｜2025年3月",
+                "blogTitle": "MATLAB アカデミックニュースレター",
+                "blogLink": "https://note.com/sachie_y/m/mca72ce231fdc",
+                "blogLinkMd5Hash": "ec19369802a92db6c4cb13993c856ff7"
+            }
+        }
+    ]
+}
