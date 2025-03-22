@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-03-22T15:02:14.418Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux Mint に MATLAB R2024b 環境構築 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/pojiro/items/c55524185eb0dc56bbcf</id>
+        <link href="https://qiita.com/pojiro/items/c55524185eb0dc56bbcf"/>
+        <updated>2025-03-22T00:57:43.000Z</updated>
+        <summary type="html"><![CDATA[ダウンロード &amp; インストール R2024b をダウンロードする  /home/pojiro/Downloads/matlab_R2024b_Linux.zip 展開して install スクリプトを…]]></summary>
+        <content type="html"><![CDATA[ダウンロード &amp; インストール R2024b をダウンロードする  /home/pojiro/Downloads/matlab_R2024b_Linux.zip 展開して install スクリプトを…]]></content>
+        <published>2025-03-22T00:57:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[筆ペンプロッタとCAM | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fumiya_sato/items/3164a631e124f39cbeca</id>
+        <link href="https://qiita.com/fumiya_sato/items/3164a631e124f39cbeca"/>
+        <updated>2025-03-16T09:31:33.000Z</updated>
+        <summary type="html"><![CDATA[緒言 結婚式のご祝儀袋、筆で文字を書く必要がある、字が汚いことに自信のある人にとって参加する上でのボトルネックとなる工程です。本記事ではそんな工程を改善するための取り組みを実施しました。 これまでに…]]></summary>
+        <content type="html"><![CDATA[緒言 結婚式のご祝儀袋、筆で文字を書く必要がある、字が汚いことに自信のある人にとって参加する上でのボトルネックとなる工程です。本記事ではそんな工程を改善するための取り組みを実施しました。 これまでに…]]></content>
+        <published>2025-03-16T09:31:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2次元線形移流方程式をTVD法で解く【MATLABコード付き】 | 流体シミュレーション | n's note]]></title>
+        <id>https://taku-naka.site/?p=20164</id>
+        <link href="https://taku-naka.site/2025/03/14/computational-thermo-fluid-dynamics/tvd-2d/"/>
+        <updated>2025-03-14T10:08:42.000Z</updated>
+        <summary type="html"><![CDATA[目次 はじめに有限体積法による２次元線形移流方程式の離散化界面物理量の２次元化Roeリーマンソルバの２次元化解析条件周期的境界条件解析結果斜めの移流が数値拡散を招く理由MATLABコードおわりに参考文献 はじめに 過去 […]]]></summary>
+        <content type="html"><![CDATA[目次 はじめに有限体積法による２次元線形移流方程式の離散化界面物理量の２次元化Roeリーマンソルバの２次元化解析条件周期的境界条件解析結果斜めの移流が数値拡散を招く理由MATLABコードおわりに参考文献 はじめに 過去 […]]]></content>
+        <author>
+            <name>naka</name>
+        </author>
+        <category label="流体シミュレーション"/>
+        <published>2025-03-14T10:08:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1.5ビットパイプラインADCのデジタル演算による2進数ビット生成と再生波形の表示 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/qwer123123/items/95729c635709919366a7</id>
+        <link href="https://qiita.com/qwer123123/items/95729c635709919366a7"/>
+        <updated>2025-03-13T13:48:33.000Z</updated>
+        <summary type="html"><![CDATA[1.5ビットパイプラインADCを再現したい。。。。。。。 1.5ビットパイプラインADCのデジタル演算による2進数ビット生成 本記事では、1.5ビットパイプラインADC（Pipeline Anal…]]></summary>
+        <content type="html"><![CDATA[1.5ビットパイプラインADCを再現したい。。。。。。。 1.5ビットパイプラインADCのデジタル演算による2進数ビット生成 本記事では、1.5ビットパイプラインADC（Pipeline Anal…]]></content>
+        <published>2025-03-13T13:48:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PとMでJQから金融データ取得 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/SacredTubes/items/77aa8f0d27fc94f4bdda</id>
+        <link href="https://qiita.com/SacredTubes/items/77aa8f0d27fc94f4bdda"/>
+        <updated>2025-03-12T13:33:13.000Z</updated>
+        <summary type="html"><![CDATA[日本取引所JPXが2023年4月から株価や企業財務などの金融データのAPI提供を始めました。 J-Quants かつて筆者はMATLABで株価や指標データの取得を行ってテクニカル解析を行っていました…]]></summary>
+        <content type="html"><![CDATA[日本取引所JPXが2023年4月から株価や企業財務などの金融データのAPI提供を始めました。 J-Quants かつて筆者はMATLABで株価や指標データの取得を行ってテクニカル解析を行っていました…]]></content>
+        <published>2025-03-12T13:33:13.000Z</published>
+    </entry>
+</feed>
