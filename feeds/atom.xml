@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-03-29T15:06:20.249Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[WSL上でpython (jupyter notebook)を使ってMファイルの並列処理がしたいけど諦めた話 | Zennの「matlab」のフィード]]></title>
+        <id>https://zenn.dev/nakanishi1337/articles/4490bb466b2a7f</id>
+        <link href="https://zenn.dev/nakanishi1337/articles/4490bb466b2a7f"/>
+        <updated>2025-03-24T06:57:56.000Z</updated>
+        <summary type="html"><![CDATA[WSL上で、MATLABを使ったmファイルの並列処理を諦めた jupyter notebookからmファイルを呼び出し、並列処理を行いたい。python側で並列処理の実装はできないかなと考えてた。pythonからMATLABを呼び出す方法はあるので、これ使えば行けるかなと考えていた。 https://jp.mathworks.com/help/matlab/matlab-engine-for-py...]]></summary>
+        <content type="html"><![CDATA[WSL上で、MATLABを使ったmファイルの並列処理を諦めた jupyter notebookからmファイルを呼び出し、並列処理を行いたい。python側で並列処理の実装はできないかなと考えてた。pythonからMATLABを呼び出す方法はあるので、これ使えば行けるかなと考えていた。 https://jp.mathworks.com/help/matlab/matlab-engine-for-python.html でも、MATLABのアクティベーション回数は限られているため、WSLではlogin named userライセンスを使うのがベター。 https://jp.mathwor...]]></content>
+        <author>
+            <name>nakanishi1337</name>
+        </author>
+        <published>2025-03-24T06:57:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matlabの基礎 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/hsano43/items/15fff918ec76019245a9</id>
+        <link href="https://qiita.com/hsano43/items/15fff918ec76019245a9"/>
+        <updated>2025-03-23T16:07:13.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 新しい会社に入ったらMatlabをやることになったので、自分用のまとめです。 行列、セル行列、containers.Map、tableなどの編集・参照方法をまとめます。 なお、現状会社で使…]]></summary>
+        <content type="html"><![CDATA[はじめに 新しい会社に入ったらMatlabをやることになったので、自分用のまとめです。 行列、セル行列、containers.Map、tableなどの編集・参照方法をまとめます。 なお、現状会社で使…]]></content>
+        <published>2025-03-23T16:07:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Mint に MATLAB R2024b 環境構築 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/pojiro/items/c55524185eb0dc56bbcf</id>
+        <link href="https://qiita.com/pojiro/items/c55524185eb0dc56bbcf"/>
+        <updated>2025-03-22T00:57:43.000Z</updated>
+        <summary type="html"><![CDATA[ダウンロード &amp; インストール R2024b をダウンロードする  /home/pojiro/Downloads/matlab_R2024b_Linux.zip 展開して install スクリプトを…]]></summary>
+        <content type="html"><![CDATA[ダウンロード &amp; インストール R2024b をダウンロードする  /home/pojiro/Downloads/matlab_R2024b_Linux.zip 展開して install スクリプトを…]]></content>
+        <published>2025-03-22T00:57:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[筆ペンプロッタとCAM | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fumiya_sato/items/3164a631e124f39cbeca</id>
+        <link href="https://qiita.com/fumiya_sato/items/3164a631e124f39cbeca"/>
+        <updated>2025-03-16T09:31:33.000Z</updated>
+        <summary type="html"><![CDATA[緒言 結婚式のご祝儀袋、筆で文字を書く必要がある、字が汚いことに自信のある人にとって参加する上でのボトルネックとなる工程です。本記事ではそんな工程を改善するための取り組みを実施しました。 これまでに…]]></summary>
+        <content type="html"><![CDATA[緒言 結婚式のご祝儀袋、筆で文字を書く必要がある、字が汚いことに自信のある人にとって参加する上でのボトルネックとなる工程です。本記事ではそんな工程を改善するための取り組みを実施しました。 これまでに…]]></content>
+        <published>2025-03-16T09:31:33.000Z</published>
+    </entry>
+</feed>

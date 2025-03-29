@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 29 Mar 2025 15:06:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WSL上でpython (jupyter notebook)を使ってMファイルの並列処理がしたいけど諦めた話 | Zennの「matlab」のフィード]]></title>
+            <link>https://zenn.dev/nakanishi1337/articles/4490bb466b2a7f</link>
+            <guid>https://zenn.dev/nakanishi1337/articles/4490bb466b2a7f</guid>
+            <pubDate>Mon, 24 Mar 2025 06:57:56 GMT</pubDate>
+            <description><![CDATA[WSL上で、MATLABを使ったmファイルの並列処理を諦めた jupyter notebookからmファイルを呼び出し、並列処理を行いたい。python側で並列処理の実装はできないかなと考えてた。pythonからMATLABを呼び出す方法はあるので、これ使えば行けるかなと考えていた。 https://jp.mathworks.com/help/matlab/matlab-engine-for-py...]]></description>
+            <content:encoded><![CDATA[WSL上で、MATLABを使ったmファイルの並列処理を諦めた jupyter notebookからmファイルを呼び出し、並列処理を行いたい。python側で並列処理の実装はできないかなと考えてた。pythonからMATLABを呼び出す方法はあるので、これ使えば行けるかなと考えていた。 https://jp.mathworks.com/help/matlab/matlab-engine-for-python.html でも、MATLABのアクティベーション回数は限られているため、WSLではlogin named userライセンスを使うのがベター。 https://jp.mathwor...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--QbQhclEI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WSL%25E4%25B8%258A%25E3%2581%25A7python%2520%2528jupyter%2520notebook%2529%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6M%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25AE%25E4%25B8%25A6%25E5%2588%2597%25E5%2587%25A6%25E7%2590%2586%25E3%2581%258C%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25E3%2581%2591%25E3%2581%25A9%25E8%25AB%25A6%25E3%2582%2581%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nakanishi1337%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YUtWM3BiN1BKRDN3b3Qwd0hoNjZjN0F5RDRoTHEza2NWbUx4enk9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Matlabの基礎 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/hsano43/items/15fff918ec76019245a9</link>
+            <guid>https://qiita.com/hsano43/items/15fff918ec76019245a9</guid>
+            <pubDate>Sun, 23 Mar 2025 16:07:13 GMT</pubDate>
+            <description><![CDATA[はじめに 新しい会社に入ったらMatlabをやることになったので、自分用のまとめです。 行列、セル行列、containers.Map、tableなどの編集・参照方法をまとめます。 なお、現状会社で使…]]></description>
+            <content:encoded><![CDATA[はじめに 新しい会社に入ったらMatlabをやることになったので、自分用のまとめです。 行列、セル行列、containers.Map、tableなどの編集・参照方法をまとめます。 なお、現状会社で使…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkYta1U4eU5nTlpMSUklMkZBQUFBQUFBQUFBSSUyRkFBQUFBQUFBQUFBJTJGQUt4cndjYXVxM2dpTUpCTFZBUngyUFNSUG4xRVVBODJDdyUyRm1vJTJGcGhvdG8uanBnJTNGc3olM0Q1MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz03MmY0NTU3NjlmY2FhZjhkODY5NzBjYjA3OTRhMTFkMQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5ab66bc4a88ad8d78bdefa4f779e95ec?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF0bGFiJUUzJTgxJUFFJUU1JTlGJUJBJUU3JUE0JThFJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDhhMDgxMDBkMWEzYjIyNzIwMDk5ZTIwMDAwYTBhNzI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoc2FubzQzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNkOGM0ZDUwMTcxNDg5NWNhOWQwNmJiNjhjYWQxYmM&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=99e18ea353579f103b581acc38649e72"/>
+        </item>
+        <item>
+            <title><![CDATA[Linux Mint に MATLAB R2024b 環境構築 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/pojiro/items/c55524185eb0dc56bbcf</link>
+            <guid>https://qiita.com/pojiro/items/c55524185eb0dc56bbcf</guid>
+            <pubDate>Sat, 22 Mar 2025 00:57:43 GMT</pubDate>
+            <description><![CDATA[ダウンロード &amp; インストール R2024b をダウンロードする  /home/pojiro/Downloads/matlab_R2024b_Linux.zip 展開して install スクリプトを…]]></description>
+            <content:encoded><![CDATA[ダウンロード &amp; インストール R2024b をダウンロードする  /home/pojiro/Downloads/matlab_R2024b_Linux.zip 展開して install スクリプトを…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzY5NzEzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNTkwMjAwNzE4P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWIyNDRkNzZhMjE1ZmQ5MmEwYzE4ZTZjNGQ3NzRjNjk2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D92d01df056596be92070e31326623e90?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TGludXglMjBNaW50JTIwJUUzJTgxJUFCJTIwTUFUTEFCJTIwUjIwMjRiJTIwJUU3JTkyJUIwJUU1JUEyJTgzJUU2JUE3JThCJUU3JUFGJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MmE3Y2VmZmI4NjYwODlhOThmZDAxNTQ1YWIyMjEzM2I&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBwb2ppcm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04MzU4MzM1MDE3ODA2YjhhODcyZDI3MGI3NmE2ZTdjMg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=d81aa7dc566aaab3eec0717f621f4fd5"/>
+        </item>
+        <item>
+            <title><![CDATA[筆ペンプロッタとCAM | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/fumiya_sato/items/3164a631e124f39cbeca</link>
+            <guid>https://qiita.com/fumiya_sato/items/3164a631e124f39cbeca</guid>
+            <pubDate>Sun, 16 Mar 2025 09:31:33 GMT</pubDate>
+            <description><![CDATA[緒言 結婚式のご祝儀袋、筆で文字を書く必要がある、字が汚いことに自信のある人にとって参加する上でのボトルネックとなる工程です。本記事ではそんな工程を改善するための取り組みを実施しました。 これまでに…]]></description>
+            <content:encoded><![CDATA[緒言 結婚式のご祝儀袋、筆で文字を書く必要がある、字が汚いことに自信のある人にとって参加する上でのボトルネックとなる工程です。本記事ではそんな工程を改善するための取り組みを実施しました。 これまでに…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjAzMTU1JTJGcHJvZmlsZS1pbWFnZXMlMkYxNjQ4MzUzMTIwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTA1NGI0YjU3MWVkOTJkZDMwYTY4MTA0MGNiMDE0YmE3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3e4272fd24f1940b5cedfd5d7597c1a0?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JUFEJTg2JUUzJTgzJTlBJUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgzJTgzJUUzJTgyJUJGJUUzJTgxJUE4Q0FNJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTA3MjU4MjIyMzAyNTE2ODI0ZTE0M2U5MGE3ZmZlYjI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmdW1peWFfc2F0byZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTAwMjU2ZTJkNjI1YzA5MWEzYzRmZGIwYWI4MDQwNzIw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=ca043a029da2621036aa29e43fa030ba"/>
+        </item>
+    </channel>
+</rss>
