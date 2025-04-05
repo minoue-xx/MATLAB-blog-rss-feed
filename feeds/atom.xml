@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-04-05T15:02:18.329Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[【実用ガイド】制御工学でよく使うMATLABコマンド一覧 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/gnoraimu724/items/2495cbc360973e482c35</id>
+        <link href="https://qiita.com/gnoraimu724/items/2495cbc360973e482c35"/>
+        <updated>2025-04-02T05:50:56.000Z</updated>
+        <summary type="html"><![CDATA[制御工学を学んでいると、システムの解析や設計に様々なコマンドを使います。この記事では、MATLABの Control System Toolbox でよく使われるコマンドとその使い方を実例付きで紹介…]]></summary>
+        <content type="html"><![CDATA[制御工学を学んでいると、システムの解析や設計に様々なコマンドを使います。この記事では、MATLABの Control System Toolbox でよく使われるコマンドとその使い方を実例付きで紹介…]]></content>
+        <published>2025-04-02T05:50:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超初学者向け】MATLABで学ぶ制御工学の基礎 〜制御とは？伝達関数とは？〜 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/gnoraimu724/items/8e69c6ab3f4f5f26687a</id>
+        <link href="https://qiita.com/gnoraimu724/items/8e69c6ab3f4f5f26687a"/>
+        <updated>2025-04-02T05:42:44.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！この記事では、制御工学を全く知らない方向けに、基本的な概念からMATLABを使った実践までをわかりやすく解説します。大学で制御工学の講義が始まったばかりの学生や、これから研究室に配属され…]]></summary>
+        <content type="html"><![CDATA[こんにちは！この記事では、制御工学を全く知らない方向けに、基本的な概念からMATLABを使った実践までをわかりやすく解説します。大学で制御工学の講義が始まったばかりの学生や、これから研究室に配属され…]]></content>
+        <published>2025-04-02T05:42:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulinkで機械(電気)の系統図を作成し，費用を見積もる | Zennの「matlab」のフィード]]></title>
+        <id>https://zenn.dev/spargel/articles/20250401_simulinkdiagram</id>
+        <link href="https://zenn.dev/spargel/articles/20250401_simulinkdiagram"/>
+        <updated>2025-04-01T22:47:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 研究においてなにか新しい装置を製作するとき，概念設計や構想設計で費用の見積が必要な場合があります． また，詳細設計に入る前の部品選定において各要素の繋がりを整理した系統図を作成し，費用を算出します． その際に系統図の作成と部品リストの作成，価格の集計が必要となりますがこれを一元化できるソフトはたいてい有料であり，趣味や研究用途ではなかなか手が出しずらいものです． また，各要素間の取り合い...]]></summary>
+        <content type="html"><![CDATA[はじめに 研究においてなにか新しい装置を製作するとき，概念設計や構想設計で費用の見積が必要な場合があります． また，詳細設計に入る前の部品選定において各要素の繋がりを整理した系統図を作成し，費用を算出します． その際に系統図の作成と部品リストの作成，価格の集計が必要となりますがこれを一元化できるソフトはたいてい有料であり，趣味や研究用途ではなかなか手が出しずらいものです． また，各要素間の取り合い（シャフト径や端子形状など）を考慮しながら整理するのも大変です． かといって最初からCADでモデリングに入るのは手直しの手間を考えると悪手です． そこで，設定が柔軟に行えるSimulinkを...]]></content>
+        <author>
+            <name>spargel</name>
+        </author>
+        <published>2025-04-01T22:47:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究室新入生のためのMATLAB/Simulinkセットアップガイド | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/gnoraimu724/items/57972996b25d45228132</id>
+        <link href="https://qiita.com/gnoraimu724/items/57972996b25d45228132"/>
+        <updated>2025-04-01T14:14:10.000Z</updated>
+        <summary type="html"><![CDATA[これから多くの実験や研究でMATLABとSimulinkを使うことになるでしょう。本記事では、MATLABのインストール方法から基本的な操作、Simulinkの起動までを、初心者向けに解説します。 …]]></summary>
+        <content type="html"><![CDATA[これから多くの実験や研究でMATLABとSimulinkを使うことになるでしょう。本記事では、MATLABのインストール方法から基本的な操作、Simulinkの起動までを、初心者向けに解説します。 …]]></content>
+        <published>2025-04-01T14:14:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSL上でpython (jupyter notebook)を使ってMファイルの並列処理がしたいけど諦めた話 | Zennの「matlab」のフィード]]></title>
+        <id>https://zenn.dev/nakanishi1337/articles/4490bb466b2a7f</id>
+        <link href="https://zenn.dev/nakanishi1337/articles/4490bb466b2a7f"/>
+        <updated>2025-03-24T06:57:56.000Z</updated>
+        <summary type="html"><![CDATA[WSL上で、MATLABを使ったmファイルの並列処理を諦めた jupyter notebookからmファイルを呼び出し、並列処理を行いたい。python側で並列処理の実装はできないかなと考えてた。pythonからMATLABを呼び出す方法はあるので、これ使えば行けるかなと考えていた。 https://jp.mathworks.com/help/matlab/matlab-engine-for-py...]]></summary>
+        <content type="html"><![CDATA[WSL上で、MATLABを使ったmファイルの並列処理を諦めた jupyter notebookからmファイルを呼び出し、並列処理を行いたい。python側で並列処理の実装はできないかなと考えてた。pythonからMATLABを呼び出す方法はあるので、これ使えば行けるかなと考えていた。 https://jp.mathworks.com/help/matlab/matlab-engine-for-python.html でも、MATLABのアクティベーション回数は限られているため、WSLではlogin named userライセンスを使うのがベター。 https://jp.mathwor...]]></content>
+        <author>
+            <name>nakanishi1337</name>
+        </author>
+        <published>2025-03-24T06:57:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matlabの基礎 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/hsano43/items/15fff918ec76019245a9</id>
+        <link href="https://qiita.com/hsano43/items/15fff918ec76019245a9"/>
+        <updated>2025-03-23T16:07:13.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 新しい会社に入ったらMatlabをやることになったので、自分用のまとめです。 行列、セル行列、containers.Map、tableなどの編集・参照方法をまとめます。 なお、現状会社で使…]]></summary>
+        <content type="html"><![CDATA[はじめに 新しい会社に入ったらMatlabをやることになったので、自分用のまとめです。 行列、セル行列、containers.Map、tableなどの編集・参照方法をまとめます。 なお、現状会社で使…]]></content>
+        <published>2025-03-23T16:07:13.000Z</published>
+    </entry>
+</feed>
