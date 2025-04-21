@@ -40,9 +40,14 @@ export type CustomRssParserFeed = RssParser.Output<CustomRssParserItem> & {
 
 export class FeedCrawler {
   private rssParser;
-
+/**    this.rssParser = new RssParser();
+*/
   constructor() {
-    this.rssParser = new RssParser();
+      this.rssParser = new RssParser({
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+    },
+  });
   }
 
   /**
