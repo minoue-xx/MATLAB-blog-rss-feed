@@ -1,0 +1,115 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://note.com/leftbank/n/nc9a539395964",
+            "content_html": "続きをみる",
+            "url": "https://note.com/leftbank/n/nc9a539395964",
+            "title": "MATLAB でマルチウィンドウアプリを作る (2) | MATLAB関連",
+            "summary": "続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/188441213/rectangle_large_type_2_cf037a7956e475725fa9f38338c69849.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-05-06T17:49:18.000Z",
+            "date_published": "2025-05-06T17:49:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB でマルチウィンドウアプリを作る (2)",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://qiita.com/daminmusaborou/items/b694da0a110a47b30d57",
+            "content_html": "目次  はじめに SSIMとは 比較するノイズと比較方法 SSIM×ガウスノイズ SSIM×塩こしょうノイズ SSIM×スペックルノイズ SSIM×ポアソンノイズ まとめ  はじめに  今回は、いろんな…",
+            "url": "https://qiita.com/daminmusaborou/items/b694da0a110a47b30d57",
+            "title": "構造的類似度（SSIM）で見る画像処理の劣化傾向：どの処理が一番影響するか？ | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "目次  はじめに SSIMとは 比較するノイズと比較方法 SSIM×ガウスノイズ SSIM×塩こしょうノイズ SSIM×スペックルノイズ SSIM×ポアソンノイズ まとめ  はじめに  今回は、いろんな…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODg5ODg1JTJGNTc5NDE4N2YyMmUxMTQyYjZlMjk1OWFjODk2YmVkNGY4ZDIxZmMyYiUyRnhfbGFyZ2UucG5nJTNGMTczMzgyNjc3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0wNjcxOWM0NDc2NDQ0MGU5ZjAwZjU0MzZlNWFkMDlhMA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9f76f81b9a99ea5d0012cb365f9b87b5?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JUE3JThCJUU5JTgwJUEwJUU3JTlBJTg0JUU5JUExJTlFJUU0JUJDJUJDJUU1JUJBJUE2JUVGJUJDJTg4U1NJTSVFRiVCQyU4OSVFMyU4MSVBNyVFOCVBNiU4QiVFMyU4MiU4QiVFNyU5NCVCQiVFNSU4MyU4RiVFNSU4NyVBNiVFNyU5MCU4NiVFMyU4MSVBRSVFNSU4QSVBMyVFNSU4QyU5NiVFNSU4MiVCRSVFNSU5MCU5MSVFRiVCQyU5QSVFMyU4MSVBOSVFMyU4MSVBRSVFNSU4NyVBNiVFNyU5MCU4NiVFMyU4MSU4QyVFNCVCOCU4MCVFNyU5NSVBQSVFNSVCRCVCMSVFOSU5RiVCRiVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MSU4QiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM5OWY5MmQ5Y2I2NzIxYzU4YzVhZDZiYjRkNGJiNmEx&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkYW1pbm11c2Fib3JvdSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQ3MGFmNTk4NTVkOTlkMGIwMzJjYzViZWJkNGUxYWY3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5a575c5051a1947efb35012d82b4b833"
+            },
+            "date_modified": "2025-05-03T13:55:44.000Z",
+            "date_published": "2025-05-03T13:55:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "構造的類似度（SSIM）で見る画像処理の劣化傾向：どの処理が一番影響するか？",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/kaizen_nagoya/items/3038b4c98009679e86d1",
+            "content_html": "登録 明治大学パワーエレクトロニクス研究室 https://www.youtube.com/@power_electoronics_lab DigiKey日本公式チャンネル https://www.…",
+            "url": "https://qiita.com/kaizen_nagoya/items/3038b4c98009679e86d1",
+            "title": "電気の基礎から応用まで Youtube | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "登録 明治大学パワーエレクトロニクス研究室 https://www.youtube.com/@power_electoronics_lab DigiKey日本公式チャンネル https://www.…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTE0MjMlMkZwcm9maWxlLWltYWdlcyUyRjE1MzU0MzkzMzM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9ODgzMDU1NmMxNzFhMmJmZmM2MDE4NzFhZWI3OWRmYmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db300e586bd814d78398f2aca4c268230?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTlCJUJCJUU2JUIwJTk3JUUzJTgxJUFFJUU1JTlGJUJBJUU3JUE0JThFJUUzJTgxJThCJUUzJTgyJTg5JUU1JUJGJTlDJUU3JTk0JUE4JUUzJTgxJUJFJUUzJTgxJUE3JTIwWW91dHViZSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJlZjU2YWQzNTI5MDc0ZmZjNDMzODQ3YTA3ZDUxMjg5&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYWl6ZW5fbmFnb3lhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWQzZWExNmYzNDRhZjQ5NzI3ZDU3NGE2Yzc5Y2FmMGQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4cbb13e48833735d60d7840988b2fc73"
+            },
+            "date_modified": "2025-05-01T12:23:33.000Z",
+            "date_published": "2025-05-01T12:23:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "電気の基礎から応用まで Youtube",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/monya-nv/items/13121d6d8dab065e435a",
+            "content_html": "概要 windows PCのPC名の付け方でミスをすると、MATLABのスクリプトエディタでのみ不具合が生じるという現象が発生します。PC名にはアンダーバーを使えないことが要注意ポイントです。 本記…",
+            "url": "https://qiita.com/monya-nv/items/13121d6d8dab065e435a",
+            "title": "MATLABのスクリプトエディタでのみファイルが開けなくなった時の対処 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "概要 windows PCのPC名の付け方でミスをすると、MATLABのスクリプトエディタでのみ不具合が生じるという現象が発生します。PC名にはアンダーバーを使えないことが要注意ポイントです。 本記…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZjNzFiYTY5Y2QxNTViNjM1MTIxMzllNWQzNjQ4NzVjMD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz00ZTE2MDY1OTAzZmYwZDI1MmM4ZmMzNWI4ZTVmNmFkMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D20cf5aaba485e6fa4f41f4bf8e53262f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgxJUFFJUUzJTgyJUI5JUUzJTgyJUFGJUUzJTgzJUFBJUUzJTgzJTk3JUUzJTgzJTg4JUUzJTgyJUE4JUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgyJUJGJUUzJTgxJUE3JUUzJTgxJUFFJUUzJTgxJUJGJUUzJTgzJTk1JUUzJTgyJUExJUUzJTgyJUE0JUUzJTgzJUFCJUUzJTgxJThDJUU5JTk2JThCJUUzJTgxJTkxJUUzJTgxJUFBJUUzJTgxJThGJUUzJTgxJUFBJUUzJTgxJUEzJUUzJTgxJTlGJUU2JTk5JTgyJUUzJTgxJUFFJUU1JUFGJUJFJUU1JTg3JUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YWE0YTQyY2E0NmFmOTUxODI4MWUwMGUzM2I2NmI4NTg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtb255YS1udiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTA4NDc0ZWFhMTVjYjliNjZhYzAzNTdjYWJjNjZlYTNh&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=7b1a1293db0872fd7dd2709e02c5355a"
+            },
+            "date_modified": "2025-05-01T12:05:31.000Z",
+            "date_published": "2025-05-01T12:05:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABのスクリプトエディタでのみファイルが開けなくなった時の対処",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/zawau10/items/d2090db90cddf47e99d0",
+            "content_html": "LINE Notifyの代替に！Discordで簡単プログラム終了通知【Webhook活用】 はじめに 2024年末，LINE Notifyのサービス終了が発表されました． 長い時間計算処理させる場…",
+            "url": "https://qiita.com/zawau10/items/d2090db90cddf47e99d0",
+            "title": "LINE Notifyの代替に！DiscordでMATLABのプログラム終了通知を受信する方法【Webhook活用】 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "LINE Notifyの代替に！Discordで簡単プログラム終了通知【Webhook活用】 はじめに 2024年末，LINE Notifyのサービス終了が発表されました． 長い時間計算処理させる場…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhLSUyRkFPaDE0R2dkSnVVVkN5ZGc1WnFGUUxZV3dDZE9RQTBVOVdNak51V2FyallfWEElM0RzNTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9NTQ5NDI1OWUyYzVkNWQ0MGRmNWE5ODU5ZGMyNjczMGU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4ac119a5cfa768c3cb91a918927c859e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TElORSUyME5vdGlmeSVFMyU4MSVBRSVFNCVCQiVBMyVFNiU5QiVCRiVFMyU4MSVBQiVFRiVCQyU4MURpc2NvcmQlRTMlODElQTdNQVRMQUIlRTMlODElQUUlRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjAlRTMlODMlQTklRTMlODMlQTAlRTclQjUlODIlRTQlQkElODYlRTklODAlOUElRTclOUYlQTUlRTMlODIlOTIlRTUlOEYlOTclRTQlQkYlQTElRTMlODElOTklRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUlRTMlODAlOTBXZWJob29rJUU2JUI0JUJCJUU3JTk0JUE4JUUzJTgwJTkxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTdlYjAxM2Y0YjRmZDFkZGRkNjYzMzcwYjZkMWUwODQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB6YXdhdTEwJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZTYwZjNlYTg3MGFjNGZmM2ExNTgwYTc4OWY4NzQ5OWU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f569986b1302086b66ba85f6741336da"
+            },
+            "date_modified": "2025-04-27T13:43:11.000Z",
+            "date_published": "2025-04-27T13:43:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LINE Notifyの代替に！DiscordでMATLABのプログラム終了通知を受信する方法【Webhook活用】",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}

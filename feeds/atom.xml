@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-05-10T23:06:15.703Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLAB でマルチウィンドウアプリを作る (2) | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/nc9a539395964</id>
+        <link href="https://note.com/leftbank/n/nc9a539395964"/>
+        <updated>2025-05-06T17:49:18.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <content type="html"><![CDATA[続きをみる]]></content>
+        <published>2025-05-06T17:49:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[構造的類似度（SSIM）で見る画像処理の劣化傾向：どの処理が一番影響するか？ | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/daminmusaborou/items/b694da0a110a47b30d57</id>
+        <link href="https://qiita.com/daminmusaborou/items/b694da0a110a47b30d57"/>
+        <updated>2025-05-03T13:55:44.000Z</updated>
+        <summary type="html"><![CDATA[目次  はじめに SSIMとは 比較するノイズと比較方法 SSIM×ガウスノイズ SSIM×塩こしょうノイズ SSIM×スペックルノイズ SSIM×ポアソンノイズ まとめ  はじめに  今回は、いろんな…]]></summary>
+        <content type="html"><![CDATA[目次  はじめに SSIMとは 比較するノイズと比較方法 SSIM×ガウスノイズ SSIM×塩こしょうノイズ SSIM×スペックルノイズ SSIM×ポアソンノイズ まとめ  はじめに  今回は、いろんな…]]></content>
+        <published>2025-05-03T13:55:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電気の基礎から応用まで Youtube | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kaizen_nagoya/items/3038b4c98009679e86d1</id>
+        <link href="https://qiita.com/kaizen_nagoya/items/3038b4c98009679e86d1"/>
+        <updated>2025-05-01T12:23:33.000Z</updated>
+        <summary type="html"><![CDATA[登録 明治大学パワーエレクトロニクス研究室 https://www.youtube.com/@power_electoronics_lab DigiKey日本公式チャンネル https://www.…]]></summary>
+        <content type="html"><![CDATA[登録 明治大学パワーエレクトロニクス研究室 https://www.youtube.com/@power_electoronics_lab DigiKey日本公式チャンネル https://www.…]]></content>
+        <published>2025-05-01T12:23:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABのスクリプトエディタでのみファイルが開けなくなった時の対処 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/monya-nv/items/13121d6d8dab065e435a</id>
+        <link href="https://qiita.com/monya-nv/items/13121d6d8dab065e435a"/>
+        <updated>2025-05-01T12:05:31.000Z</updated>
+        <summary type="html"><![CDATA[概要 windows PCのPC名の付け方でミスをすると、MATLABのスクリプトエディタでのみ不具合が生じるという現象が発生します。PC名にはアンダーバーを使えないことが要注意ポイントです。 本記…]]></summary>
+        <content type="html"><![CDATA[概要 windows PCのPC名の付け方でミスをすると、MATLABのスクリプトエディタでのみ不具合が生じるという現象が発生します。PC名にはアンダーバーを使えないことが要注意ポイントです。 本記…]]></content>
+        <published>2025-05-01T12:05:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINE Notifyの代替に！DiscordでMATLABのプログラム終了通知を受信する方法【Webhook活用】 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/zawau10/items/d2090db90cddf47e99d0</id>
+        <link href="https://qiita.com/zawau10/items/d2090db90cddf47e99d0"/>
+        <updated>2025-04-27T13:43:11.000Z</updated>
+        <summary type="html"><![CDATA[LINE Notifyの代替に！Discordで簡単プログラム終了通知【Webhook活用】 はじめに 2024年末，LINE Notifyのサービス終了が発表されました． 長い時間計算処理させる場…]]></summary>
+        <content type="html"><![CDATA[LINE Notifyの代替に！Discordで簡単プログラム終了通知【Webhook活用】 はじめに 2024年末，LINE Notifyのサービス終了が発表されました． 長い時間計算処理させる場…]]></content>
+        <published>2025-04-27T13:43:11.000Z</published>
+    </entry>
+</feed>
