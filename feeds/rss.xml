@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 17 May 2025 23:02:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[非構造格子の有限体積法で２次元拡散方程式を解く【MATLABコード付き】 | 流体シミュレーション | n's note]]></title>
+            <link>https://taku-naka.site/2025/05/17/computational-thermo-fluid-dynamics/fvm_2d_diffusion_eq_unstructured_mesh/</link>
+            <guid>https://taku-naka.site/?p=21794</guid>
+            <pubDate>Sat, 17 May 2025 09:09:41 GMT</pubDate>
+            <description><![CDATA[目次 はじめに非構造格子の特徴拡散方程式の離散化法線ベクトル\(\boldsymbol{n}\)の計算勾配ベクトル\(\mathrm{grad}\, q\)の計算非構造格子における拡散方程式の離散化解析条件解析結果MAT […]]]></description>
+            <content:encoded><![CDATA[目次 はじめに非構造格子の特徴拡散方程式の離散化法線ベクトル\(\boldsymbol{n}\)の計算勾配ベクトル\(\mathrm{grad}\, q\)の計算非構造格子における拡散方程式の離散化解析条件解析結果MAT […]]]></content:encoded>
+            <category>流体シミュレーション</category>
+            <enclosure length="0" type="png" url="http://taku-naka.site/wp-content/uploads/2022/01/whiite.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB R2025a アップデートメモ | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/n869b510ab56a</link>
+            <guid>https://note.com/leftbank/n/n869b510ab56a</guid>
+            <pubDate>Thu, 15 May 2025 12:21:13 GMT</pubDate>
+            <description><![CDATA[まえがき 続きをみる]]></description>
+            <content:encoded><![CDATA[まえがき 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/177216480/rectangle_large_type_2_82415a9b1978bcda8229e26befe255bc.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Minidrone Competition 募集開始／数学教育のリソース集／MATLABではじめるプログラミング教室／MATLAB x PyTorch｜2025年5月 | MATLAB アカデミックニュースレター]]></title>
+            <link>https://note.com/sachie_y/n/ncc7670b2bc48</link>
+            <guid>https://note.com/sachie_y/n/ncc7670b2bc48</guid>
+            <pubDate>Thu, 15 May 2025 08:16:26 GMT</pubDate>
+            <description><![CDATA[MathWorks Minidrone Competition - Japan 2025 募集開始 ドローンの自動ライントレースに挑戦！ 飛行制御アルゴリズムを開発し、その精度を競っていただきます。初めての方はぜひオンライン説明会にご参加ください。学生の皆さまのご参加をお待ちしています！ 続きをみる]]></description>
+            <content:encoded><![CDATA[MathWorks Minidrone Competition - Japan 2025 募集開始 ドローンの自動ライントレースに挑戦！ 飛行制御アルゴリズムを開発し、その精度を競っていただきます。初めての方はぜひオンライン説明会にご参加ください。学生の皆さまのご参加をお待ちしています！ 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/190169811/rectangle_large_type_2_3625316f233481016aa8ec4fe1109dc6.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB でマルチウィンドウアプリを作る (2) | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/nc9a539395964</link>
+            <guid>https://note.com/leftbank/n/nc9a539395964</guid>
+            <pubDate>Tue, 06 May 2025 17:49:18 GMT</pubDate>
+            <description><![CDATA[続きをみる]]></description>
+            <content:encoded><![CDATA[続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/188441213/rectangle_large_type_2_cf037a7956e475725fa9f38338c69849.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+    </channel>
+</rss>
