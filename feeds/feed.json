@@ -1,0 +1,99 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://note.com/leftbank/n/n4b93795027dc",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/n4b93795027dc",
+            "title": "MATLAB で PDF ファイルをページ編集する | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/191919744/rectangle_large_type_2_1a00a1a05c2adb470b3767be1db76659.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-05-24T15:09:27.000Z",
+            "date_published": "2025-05-24T15:09:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB で PDF ファイルをページ編集する",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://taku-naka.site/?p=21794",
+            "content_html": "目次 はじめに非構造格子の特徴拡散方程式の離散化法線ベクトル\\(\\boldsymbol{n}\\)の計算勾配ベクトル\\(\\mathrm{grad}\\, q\\)の計算時間発展式の構築解析条件解析結果MATLABコードおわりに […]",
+            "url": "https://taku-naka.site/2025/05/17/computational-thermo-fluid-dynamics/fvm_2d_diffusion_eq_unstructured_mesh/",
+            "title": "非構造格子の有限体積法で２次元拡散方程式を解く【MATLABコード付き】 | 流体シミュレーション | n's note",
+            "summary": "目次 はじめに非構造格子の特徴拡散方程式の離散化法線ベクトル\\(\\boldsymbol{n}\\)の計算勾配ベクトル\\(\\mathrm{grad}\\, q\\)の計算時間発展式の構築解析条件解析結果MATLABコードおわりに […]",
+            "image": {
+                "type": "png",
+                "url": "http://taku-naka.site/wp-content/uploads/2022/01/whiite.png"
+            },
+            "date_modified": "2025-05-17T09:09:41.000Z",
+            "date_published": "2025-05-17T09:09:41.000Z",
+            "author": {
+                "name": "naka"
+            },
+            "tags": [
+                "流体シミュレーション"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "非構造格子の有限体積法で２次元拡散方程式を解く【MATLABコード付き】",
+                "blogTitle": "流体シミュレーション | n's note",
+                "blogLink": "https://taku-naka.site",
+                "blogLinkMd5Hash": "c108ee80603dde9175e0316201bb04fb"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/n869b510ab56a",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/n869b510ab56a",
+            "title": "MATLAB R2025a アップデートメモ | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/177216480/rectangle_large_type_2_82415a9b1978bcda8229e26befe255bc.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-05-15T12:21:13.000Z",
+            "date_published": "2025-05-15T12:21:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB R2025a アップデートメモ",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://note.com/sachie_y/n/ncc7670b2bc48",
+            "content_html": "MathWorks Minidrone Competition - Japan 2025 募集開始 ドローンの自動ライントレースに挑戦！ 飛行制御アルゴリズムを開発し、その精度を競っていただきます。初めての方はぜひオンライン説明会にご参加ください。学生の皆さまのご参加をお待ちしています！ 続きをみる",
+            "url": "https://note.com/sachie_y/n/ncc7670b2bc48",
+            "title": "Minidrone Competition 募集開始／数学教育のリソース集／MATLABではじめるプログラミング教室／MATLAB x PyTorch｜2025年5月 | MATLAB アカデミックニュースレター",
+            "summary": "MathWorks Minidrone Competition - Japan 2025 募集開始 ドローンの自動ライントレースに挑戦！ 飛行制御アルゴリズムを開発し、その精度を競っていただきます。初めての方はぜひオンライン説明会にご参加ください。学生の皆さまのご参加をお待ちしています！ 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/190169811/rectangle_large_type_2_3625316f233481016aa8ec4fe1109dc6.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-05-15T08:16:26.000Z",
+            "date_published": "2025-05-15T08:16:26.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Minidrone Competition 募集開始／数学教育のリソース集／MATLABではじめるプログラミング教室／MATLAB x PyTorch｜2025年5月",
+                "blogTitle": "MATLAB アカデミックニュースレター",
+                "blogLink": "https://note.com/sachie_y/m/mca72ce231fdc",
+                "blogLinkMd5Hash": "ec19369802a92db6c4cb13993c856ff7"
+            }
+        }
+    ]
+}
