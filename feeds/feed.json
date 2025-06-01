@@ -1,0 +1,52 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/digital_amplifier_1/items/006f18dce6927369d0f7",
+            "content_html": "1. はじめに（Introduction） 近年、物理システムの統合的モデリングにおいて、Simscape Electricalは電気回路・機械系・熱系を包含したマルチドメインシステムの構築に有効な…",
+            "url": "https://qiita.com/digital_amplifier_1/items/006f18dce6927369d0f7",
+            "title": "Simscape Electricalにおける物理ネットワークの数値解法構造(メモ) | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1. はじめに（Introduction） 近年、物理システムの統合的モデリングにおいて、Simscape Electricalは電気回路・機械系・熱系を包含したマルチドメインシステムの構築に有効な…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDA0Njg3MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0MzA3Mjg5MT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0yMTExZTk1Y2UxNjlmMjEwYzY3NjY1NDkxNTUxMjg0Yg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6ce6259ad959f3580828c64e20f6face?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltc2NhcGUlMjBFbGVjdHJpY2FsJUUzJTgxJUFCJUUzJTgxJThBJUUzJTgxJTkxJUUzJTgyJThCJUU3JTg5JUE5JUU3JTkwJTg2JUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgyJUFGJUUzJTgxJUFFJUU2JTk1JUIwJUU1JTgwJUE0JUU4JUE3JUEzJUU2JUIzJTk1JUU2JUE3JThCJUU5JTgwJUEwJTI4JUUzJTgzJUExJUUzJTgzJUEyJTI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YWViZDMwNGZlNGVkNGZlYzIwNTFkZWYzMzAwNzk5YWM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkaWdpdGFsX2FtcGxpZmllcl8xJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YjRlZDcyNDI0ODc0NzJjY2U2ZWUxNzJhZDE2MGRkODY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2f83f1dceff6772e48aa19e2566fc33b"
+            },
+            "date_modified": "2025-05-29T06:53:28.000Z",
+            "date_published": "2025-05-29T06:53:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simscape Electricalにおける物理ネットワークの数値解法構造(メモ)",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/n4b93795027dc",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/n4b93795027dc",
+            "title": "MATLAB で PDF ファイルをページ編集する | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/191919744/rectangle_large_type_2_1a00a1a05c2adb470b3767be1db76659.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-05-24T15:09:27.000Z",
+            "date_published": "2025-05-24T15:09:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB で PDF ファイルをページ編集する",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        }
+    ]
+}
