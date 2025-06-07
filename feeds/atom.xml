@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-06-07T23:02:37.111Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLAB 競技テクニック紹介 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/tomtkg/items/aa80dcdc4520cb3c89ce</id>
+        <link href="https://qiita.com/tomtkg/items/aa80dcdc4520cb3c89ce"/>
+        <updated>2025-06-01T14:26:18.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB EXPO 2025 Japanに参加しました． そのイベント中に開催されたMATLABプログラミングコンテストに参加し，今年も優勝しました．  （こちらは途中で撮った写真です．最終スコア…]]></summary>
+        <content type="html"><![CDATA[MATLAB EXPO 2025 Japanに参加しました． そのイベント中に開催されたMATLABプログラミングコンテストに参加し，今年も優勝しました．  （こちらは途中で撮った写真です．最終スコア…]]></content>
+        <published>2025-06-01T14:26:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simscape Electricalにおける物理ネットワークの数値解法構造(メモ) | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/digital_amplifier_1/items/006f18dce6927369d0f7</id>
+        <link href="https://qiita.com/digital_amplifier_1/items/006f18dce6927369d0f7"/>
+        <updated>2025-05-29T06:53:28.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに（Introduction） 近年、物理システムの統合的モデリングにおいて、Simscape Electricalは電気回路・機械系・熱系を包含したマルチドメインシステムの構築に有効な…]]></summary>
+        <content type="html"><![CDATA[1. はじめに（Introduction） 近年、物理システムの統合的モデリングにおいて、Simscape Electricalは電気回路・機械系・熱系を包含したマルチドメインシステムの構築に有効な…]]></content>
+        <published>2025-05-29T06:53:28.000Z</published>
+    </entry>
+</feed>
