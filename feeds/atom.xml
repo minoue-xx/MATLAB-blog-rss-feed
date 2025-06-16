@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-06-16T05:07:07.458Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[スマホで PC アプリ（JUCE、MATLAB、Simulink）を操作 ～ Stream Deck Mobile を使う | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/nc228d5a5b4fc</id>
+        <link href="https://note.com/leftbank/n/nc228d5a5b4fc"/>
+        <updated>2025-06-14T07:37:03.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <content type="html"><![CDATA[続きをみる]]></content>
+        <published>2025-06-14T07:37:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一般化線形混合(効果)モデル を MATLAB で簡単に実装 (2) | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/HYCE/items/50f9a73588d1ff6d6a91</id>
+        <link href="https://qiita.com/HYCE/items/50f9a73588d1ff6d6a91"/>
+        <updated>2025-06-13T14:12:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 数年前にの久保先生の統計モデリングの書籍[^1]に沿って MATLAB 実装での GLM の記事を書いたが、その時点で力尽きて GLMM (GLME) は後回しとした: https://q…]]></summary>
+        <content type="html"><![CDATA[はじめに 数年前にの久保先生の統計モデリングの書籍[^1]に沿って MATLAB 実装での GLM の記事を書いたが、その時点で力尽きて GLMM (GLME) は後回しとした: https://q…]]></content>
+        <published>2025-06-13T14:12:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガウス混合モデル(GMM) と EMアルゴリズムの可視化(MATLAB実装) | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kepr/items/41e6eb7206524a72379c</id>
+        <link href="https://qiita.com/kepr/items/41e6eb7206524a72379c"/>
+        <updated>2025-06-12T23:12:27.000Z</updated>
+        <summary type="html"><![CDATA[1. GMMとは Gaussian Mixture Model (ガウス混合モデル、GMM) は、データが複数のガウス分布（正規分布）から生成されていると仮定する確率モデルです。自然現象や社会現象の…]]></summary>
+        <content type="html"><![CDATA[1. GMMとは Gaussian Mixture Model (ガウス混合モデル、GMM) は、データが複数のガウス分布（正規分布）から生成されていると仮定する確率モデルです。自然現象や社会現象の…]]></content>
+        <published>2025-06-12T23:12:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABを用いた群間差の検出(ANOVA) | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kepr/items/9e7524d79c638b99442b</id>
+        <link href="https://qiita.com/kepr/items/9e7524d79c638b99442b"/>
+        <updated>2025-06-10T22:58:27.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに この記事では、これまで統計に馴染みのなかった方にもわかりやすく、MATLABでの実装例を示しながらANOVA（分散分析）について丁寧に解説していきます。各セクションを通じて、ANOV…]]></summary>
+        <content type="html"><![CDATA[1. はじめに この記事では、これまで統計に馴染みのなかった方にもわかりやすく、MATLABでの実装例を示しながらANOVA（分散分析）について丁寧に解説していきます。各セクションを通じて、ANOV…]]></content>
+        <published>2025-06-10T22:58:27.000Z</published>
+    </entry>
+</feed>
