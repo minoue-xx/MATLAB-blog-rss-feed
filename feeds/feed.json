@@ -1,0 +1,115 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/mrrclb48z/items/a4da09f183b41be1f4da",
+            "content_html": "(本日の)ChatGPT先生へ # 質問リスト 1. MATLAB の Symbolic Math Toolbox で `(sqrt(2)+2)/2` を `1 + 1/sqrt(2)` の形で表示…",
+            "url": "https://qiita.com/mrrclb48z/items/a4da09f183b41be1f4da",
+            "title": "matlabのSymbolic Math Toolbox のユーザー定義関数「matlabのSymbolic Math Toolbox で `(sqrt(2)+2)/2` を `1 + 1/sqrt(2)` の形で表示する方法を教えてください。」をAI先生ヘ。 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "(本日の)ChatGPT先生へ # 質問リスト 1. MATLAB の Symbolic Math Toolbox で `(sqrt(2)+2)/2` を `1 + 1/sqrt(2)` の形で表示…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTA5Njk4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNDczNzEwOTczP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWJkNjMzOWQ5OGVjOTE2ODMzZjRkODAxYmRmZTBiNzAx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc3c0de142a1689a61e0c1f4ada40e0b0?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9bWF0bGFiJUUzJTgxJUFFU3ltYm9saWMlMjBNYXRoJTIwVG9vbGJveCUyMCVFMyU4MSVBRSVFMyU4MyVBNiVFMyU4MyVCQyVFMyU4MiVCNiVFMyU4MyVCQyVFNSVBRSU5QSVFNyVCRSVBOSVFOSU5NiVBMiVFNiU5NSVCMCVFMyU4MCU4Q21hdGxhYiVFMyU4MSVBRVN5bWJvbGljJTIwTWF0aCUyMFRvb2xib3glMjAlRTMlODElQTclMjAlNjAlMjhzcXIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03N2NkNWI0MDg0NWNlMjk3NDdlODBjOGNmZmU2ODczMQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtcnJjbGI0OHomdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iOWNmYThiYTNiMDIxYmI5MWY0YzNmMmU3Zjg3MzViOQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c3aa721bc0ff4984588ce8e4311b9bdc"
+            },
+            "date_modified": "2025-06-19T09:36:36.000Z",
+            "date_published": "2025-06-19T09:36:36.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "matlabのSymbolic Math Toolbox のユーザー定義関数「matlabのSymbolic Math Toolbox で `(sqrt(2)+2)/2` を `1 + 1/sqrt(2)` の形で表示する方法を教えてください。」をAI先生ヘ。",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/nc228d5a5b4fc",
+            "content_html": "続きをみる",
+            "url": "https://note.com/leftbank/n/nc228d5a5b4fc",
+            "title": "スマホで PC アプリ（JUCE、MATLAB、Simulink）を操作 ～ Stream Deck Mobile を使う | MATLAB関連",
+            "summary": "続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/195780390/rectangle_large_type_2_3f5e540582cd1212df15c939667206ff.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-06-14T07:37:03.000Z",
+            "date_published": "2025-06-14T07:37:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スマホで PC アプリ（JUCE、MATLAB、Simulink）を操作 ～ Stream Deck Mobile を使う",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://qiita.com/HYCE/items/50f9a73588d1ff6d6a91",
+            "content_html": "はじめに 数年前にの久保先生の統計モデリングの書籍[^1]に沿って MATLAB 実装での GLM の記事を書いたが、その時点で力尽きて GLMM (GLME) は後回しとした: https://q…",
+            "url": "https://qiita.com/HYCE/items/50f9a73588d1ff6d6a91",
+            "title": "一般化線形混合(効果)モデル を MATLAB で簡単に実装 (2) | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに 数年前にの久保先生の統計モデリングの書籍[^1]に沿って MATLAB 実装での GLM の記事を書いたが、その時点で力尽きて GLMM (GLME) は後回しとした: https://q…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDczODQxJTJGcHJvZmlsZS1pbWFnZXMlMkYxNzAzNDM1Nzk5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTdkODJhYzZmMDIwY2QxYmQyMGUxZjJiNmE4MjU2Y2Nj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Daf8a82ff10a689b568ced872b100e836?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUI4JTgwJUU4JTg4JUFDJUU1JThDJTk2JUU3JUI3JTlBJUU1JUJEJUEyJUU2JUI3JUI3JUU1JTkwJTg4JTI4JUU1JThBJUI5JUU2JTlFJTlDJTI5JUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJTIwJUUzJTgyJTkyJTIwTUFUTEFCJTIwJUUzJTgxJUE3JUU3JUIwJUExJUU1JThEJTk4JUUzJTgxJUFCJUU1JUFFJTlGJUU4JUEzJTg1JTIwJTI4MiUyOSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTdmYjQxMDY2Zjg2ODZkNzMyMGM5NmQ5Y2QyMmE1MDBh&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIWUNFJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MGY4MTU1ZmM5ZGJkN2Y4MzdkY2FiY2I4MzM0NzUwYzc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6dfc5f66bb4f3bfd182c591a684ccbec"
+            },
+            "date_modified": "2025-06-13T14:12:30.000Z",
+            "date_published": "2025-06-13T14:12:30.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "一般化線形混合(効果)モデル を MATLAB で簡単に実装 (2)",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/kepr/items/41e6eb7206524a72379c",
+            "content_html": "1. GMMとは Gaussian Mixture Model (ガウス混合モデル、GMM) は、データが複数のガウス分布（正規分布）から生成されていると仮定する確率モデルです。自然現象や社会現象の…",
+            "url": "https://qiita.com/kepr/items/41e6eb7206524a72379c",
+            "title": "ガウス混合モデル(GMM) と EMアルゴリズムの可視化(MATLAB実装) | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1. GMMとは Gaussian Mixture Model (ガウス混合モデル、GMM) は、データが複数のガウス分布（正規分布）から生成されていると仮定する確率モデルです。自然現象や社会現象の…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjU5NjUwOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0OTc4MzQ0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz00MWFmZjk1YjY1NTM5MWU4MmM3YmIxMDljYzNlYjE0MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2d54a8772717b63c11e7163c447389cc?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFDJUUzJTgyJUE2JUUzJTgyJUI5JUU2JUI3JUI3JUU1JTkwJTg4JUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJTI4R01NJTI5JTIwJUUzJTgxJUE4JTIwRU0lRTMlODIlQTIlRTMlODMlQUIlRTMlODIlQjQlRTMlODMlQUElRTMlODIlQkElRTMlODMlQTAlRTMlODElQUUlRTUlOEYlQUYlRTglQTYlOTYlRTUlOEMlOTYlMjhNQVRMQUIlRTUlQUUlOUYlRTglQTMlODUlMjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lNzdiZDViYjY3MTI2YzcyNmU2MTJmOWFhN2RlY2M4ZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZXByJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzJmM2MzNzBlNjYxMmUxZGUwZDllMmU2MTMwOWYxYzk&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=00562f995e91cef5c716a2560acb7e77"
+            },
+            "date_modified": "2025-06-12T23:12:27.000Z",
+            "date_published": "2025-06-12T23:12:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ガウス混合モデル(GMM) と EMアルゴリズムの可視化(MATLAB実装)",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/kepr/items/9e7524d79c638b99442b",
+            "content_html": "1. はじめに この記事では、これまで統計に馴染みのなかった方にもわかりやすく、MATLABでの実装例を示しながらANOVA（分散分析）について丁寧に解説していきます。各セクションを通じて、ANOV…",
+            "url": "https://qiita.com/kepr/items/9e7524d79c638b99442b",
+            "title": "MATLABを用いた群間差の検出(ANOVA) | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1. はじめに この記事では、これまで統計に馴染みのなかった方にもわかりやすく、MATLABでの実装例を示しながらANOVA（分散分析）について丁寧に解説していきます。各セクションを通じて、ANOV…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjU5NjUwOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0OTc4MzQ0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz00MWFmZjk1YjY1NTM5MWU4MmM3YmIxMDljYzNlYjE0MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2d54a8772717b63c11e7163c447389cc?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgyJTkyJUU3JTk0JUE4JUUzJTgxJTg0JUUzJTgxJTlGJUU3JUJFJUE0JUU5JTk2JTkzJUU1JUI3JUFFJUUzJTgxJUFFJUU2JUE0JTlDJUU1JTg3JUJBJTI4QU5PVkElMjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kNWNjZTEzZDI5MjdlMjI1ZGQ1MDhhNGIyZGRiMTg2Nw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZXByJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzJmM2MzNzBlNjYxMmUxZGUwZDllMmU2MTMwOWYxYzk&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=547e42aa8e7c54e88cb132a2001abe18"
+            },
+            "date_modified": "2025-06-10T22:58:27.000Z",
+            "date_published": "2025-06-10T22:58:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABを用いた群間差の検出(ANOVA)",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}

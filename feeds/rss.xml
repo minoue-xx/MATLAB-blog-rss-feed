@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sun, 22 Jun 2025 01:30:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[matlabのSymbolic Math Toolbox のユーザー定義関数「matlabのSymbolic Math Toolbox で `(sqrt(2)+2)/2` を `1 + 1/sqrt(2)` の形で表示する方法を教えてください。」をAI先生ヘ。 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/mrrclb48z/items/a4da09f183b41be1f4da</link>
+            <guid>https://qiita.com/mrrclb48z/items/a4da09f183b41be1f4da</guid>
+            <pubDate>Thu, 19 Jun 2025 09:36:36 GMT</pubDate>
+            <description><![CDATA[(本日の)ChatGPT先生へ # 質問リスト 1. MATLAB の Symbolic Math Toolbox で `(sqrt(2)+2)/2` を `1 + 1/sqrt(2)` の形で表示…]]></description>
+            <content:encoded><![CDATA[(本日の)ChatGPT先生へ # 質問リスト 1. MATLAB の Symbolic Math Toolbox で `(sqrt(2)+2)/2` を `1 + 1/sqrt(2)` の形で表示…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTA5Njk4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNDczNzEwOTczP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWJkNjMzOWQ5OGVjOTE2ODMzZjRkODAxYmRmZTBiNzAx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc3c0de142a1689a61e0c1f4ada40e0b0?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9bWF0bGFiJUUzJTgxJUFFU3ltYm9saWMlMjBNYXRoJTIwVG9vbGJveCUyMCVFMyU4MSVBRSVFMyU4MyVBNiVFMyU4MyVCQyVFMyU4MiVCNiVFMyU4MyVCQyVFNSVBRSU5QSVFNyVCRSVBOSVFOSU5NiVBMiVFNiU5NSVCMCVFMyU4MCU4Q21hdGxhYiVFMyU4MSVBRVN5bWJvbGljJTIwTWF0aCUyMFRvb2xib3glMjAlRTMlODElQTclMjAlNjAlMjhzcXIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03N2NkNWI0MDg0NWNlMjk3NDdlODBjOGNmZmU2ODczMQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtcnJjbGI0OHomdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iOWNmYThiYTNiMDIxYmI5MWY0YzNmMmU3Zjg3MzViOQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=c3aa721bc0ff4984588ce8e4311b9bdc"/>
+        </item>
+        <item>
+            <title><![CDATA[スマホで PC アプリ（JUCE、MATLAB、Simulink）を操作 ～ Stream Deck Mobile を使う | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/nc228d5a5b4fc</link>
+            <guid>https://note.com/leftbank/n/nc228d5a5b4fc</guid>
+            <pubDate>Sat, 14 Jun 2025 07:37:03 GMT</pubDate>
+            <description><![CDATA[続きをみる]]></description>
+            <content:encoded><![CDATA[続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/195780390/rectangle_large_type_2_3f5e540582cd1212df15c939667206ff.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[一般化線形混合(効果)モデル を MATLAB で簡単に実装 (2) | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/HYCE/items/50f9a73588d1ff6d6a91</link>
+            <guid>https://qiita.com/HYCE/items/50f9a73588d1ff6d6a91</guid>
+            <pubDate>Fri, 13 Jun 2025 14:12:30 GMT</pubDate>
+            <description><![CDATA[はじめに 数年前にの久保先生の統計モデリングの書籍[^1]に沿って MATLAB 実装での GLM の記事を書いたが、その時点で力尽きて GLMM (GLME) は後回しとした: https://q…]]></description>
+            <content:encoded><![CDATA[はじめに 数年前にの久保先生の統計モデリングの書籍[^1]に沿って MATLAB 実装での GLM の記事を書いたが、その時点で力尽きて GLMM (GLME) は後回しとした: https://q…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDczODQxJTJGcHJvZmlsZS1pbWFnZXMlMkYxNzAzNDM1Nzk5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTdkODJhYzZmMDIwY2QxYmQyMGUxZjJiNmE4MjU2Y2Nj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Daf8a82ff10a689b568ced872b100e836?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUI4JTgwJUU4JTg4JUFDJUU1JThDJTk2JUU3JUI3JTlBJUU1JUJEJUEyJUU2JUI3JUI3JUU1JTkwJTg4JTI4JUU1JThBJUI5JUU2JTlFJTlDJTI5JUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJTIwJUUzJTgyJTkyJTIwTUFUTEFCJTIwJUUzJTgxJUE3JUU3JUIwJUExJUU1JThEJTk4JUUzJTgxJUFCJUU1JUFFJTlGJUU4JUEzJTg1JTIwJTI4MiUyOSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTdmYjQxMDY2Zjg2ODZkNzMyMGM5NmQ5Y2QyMmE1MDBh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIWUNFJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MGY4MTU1ZmM5ZGJkN2Y4MzdkY2FiY2I4MzM0NzUwYzc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6dfc5f66bb4f3bfd182c591a684ccbec"/>
+        </item>
+        <item>
+            <title><![CDATA[ガウス混合モデル(GMM) と EMアルゴリズムの可視化(MATLAB実装) | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/kepr/items/41e6eb7206524a72379c</link>
+            <guid>https://qiita.com/kepr/items/41e6eb7206524a72379c</guid>
+            <pubDate>Thu, 12 Jun 2025 23:12:27 GMT</pubDate>
+            <description><![CDATA[1. GMMとは Gaussian Mixture Model (ガウス混合モデル、GMM) は、データが複数のガウス分布（正規分布）から生成されていると仮定する確率モデルです。自然現象や社会現象の…]]></description>
+            <content:encoded><![CDATA[1. GMMとは Gaussian Mixture Model (ガウス混合モデル、GMM) は、データが複数のガウス分布（正規分布）から生成されていると仮定する確率モデルです。自然現象や社会現象の…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjU5NjUwOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0OTc4MzQ0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz00MWFmZjk1YjY1NTM5MWU4MmM3YmIxMDljYzNlYjE0MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2d54a8772717b63c11e7163c447389cc?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFDJUUzJTgyJUE2JUUzJTgyJUI5JUU2JUI3JUI3JUU1JTkwJTg4JUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJTI4R01NJTI5JTIwJUUzJTgxJUE4JTIwRU0lRTMlODIlQTIlRTMlODMlQUIlRTMlODIlQjQlRTMlODMlQUElRTMlODIlQkElRTMlODMlQTAlRTMlODElQUUlRTUlOEYlQUYlRTglQTYlOTYlRTUlOEMlOTYlMjhNQVRMQUIlRTUlQUUlOUYlRTglQTMlODUlMjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lNzdiZDViYjY3MTI2YzcyNmU2MTJmOWFhN2RlY2M4ZQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZXByJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzJmM2MzNzBlNjYxMmUxZGUwZDllMmU2MTMwOWYxYzk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=00562f995e91cef5c716a2560acb7e77"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLABを用いた群間差の検出(ANOVA) | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/kepr/items/9e7524d79c638b99442b</link>
+            <guid>https://qiita.com/kepr/items/9e7524d79c638b99442b</guid>
+            <pubDate>Tue, 10 Jun 2025 22:58:27 GMT</pubDate>
+            <description><![CDATA[1. はじめに この記事では、これまで統計に馴染みのなかった方にもわかりやすく、MATLABでの実装例を示しながらANOVA（分散分析）について丁寧に解説していきます。各セクションを通じて、ANOV…]]></description>
+            <content:encoded><![CDATA[1. はじめに この記事では、これまで統計に馴染みのなかった方にもわかりやすく、MATLABでの実装例を示しながらANOVA（分散分析）について丁寧に解説していきます。各セクションを通じて、ANOV…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjU5NjUwOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0OTc4MzQ0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz00MWFmZjk1YjY1NTM5MWU4MmM3YmIxMDljYzNlYjE0MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2d54a8772717b63c11e7163c447389cc?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgyJTkyJUU3JTk0JUE4JUUzJTgxJTg0JUUzJTgxJTlGJUU3JUJFJUE0JUU5JTk2JTkzJUU1JUI3JUFFJUUzJTgxJUFFJUU2JUE0JTlDJUU1JTg3JUJBJTI4QU5PVkElMjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kNWNjZTEzZDI5MjdlMjI1ZGQ1MDhhNGIyZGRiMTg2Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZXByJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzJmM2MzNzBlNjYxMmUxZGUwZDllMmU2MTMwOWYxYzk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=547e42aa8e7c54e88cb132a2001abe18"/>
+        </item>
+    </channel>
+</rss>
