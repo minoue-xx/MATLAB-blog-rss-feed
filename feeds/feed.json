@@ -1,0 +1,118 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/mrrclb48z/items/a2e3ee7c4456bf883b5b",
+            "content_html": "ChatGPT先生へ  Gemini先生へ  (本日の)copilot先生へ  🔐 サインイン画面が出る主な理由 ・ライセンス認証の再確認 MATLAB は... ・SSO（シングルサインオン）や組織アカウントの問題... ・設定ファイルの不具合... ・インターネット接...",
+            "url": "https://qiita.com/mrrclb48z/items/a2e3ee7c4456bf883b5b",
+            "title": "「matlab を起動済みなのに(matlab画面あり)、サインインの画面がでてくるのは、どうしてですか？」AI先生へ。 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "ChatGPT先生へ  Gemini先生へ  (本日の)copilot先生へ  🔐 サインイン画面が出る主な理由 ・ライセンス認証の再確認 MATLAB は... ・SSO（シングルサインオン）や組織アカウントの問題... ・設定ファイルの不具合... ・インターネット接...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTA5Njk4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNDczNzEwOTczP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jMzE2NzAxMzk0MjExZjRhYTcwOWYyZDNjYjRiOTRmYg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9c9042f0caad5ef081e084837f058229?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDbWF0bGFiJTIwJUUzJTgyJTkyJUU4JUI1JUI3JUU1JThCJTk1JUU2JUI4JTg4JUUzJTgxJUJGJUUzJTgxJUFBJUUzJTgxJUFFJUUzJTgxJUFCJTI4bWF0bGFiJUU3JTk0JUJCJUU5JTlEJUEyJUUzJTgxJTgyJUUzJTgyJThBJTI5JUUzJTgwJTgxJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUFFJUU3JTk0JUJCJUU5JTlEJUEyJUUzJTgxJThDJUUzJTgxJUE3JUUzJTgxJUE2JUUzJTgxJThGJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJUFGJUUzJTgwJTgxJUUzJTgxJUE5JUUzJTgxJTg2JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUE3JUUzJTgxJTk5JUUzJTgxJThCJUVGJUJDJTlGJUUzJTgwJThEQSVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWQ5ZTJmNmYwNTRlMGMyYmJjYTg0MjdiMTdiNGU2ZGU3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtcnJjbGI0OHomdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iOWNmYThiYTNiMDIxYmI5MWY0YzNmMmU3Zjg3MzViOQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b4a4b2127e8fe544e1eb1eb6c6cf2f8a"
+            },
+            "date_modified": "2025-07-10T06:19:05.000Z",
+            "date_published": "2025-07-10T06:19:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「matlab を起動済みなのに(matlab画面あり)、サインインの画面がでてくるのは、どうしてですか？」AI先生へ。",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/s_yukke/items/b01ebf1049f19ea0e3d8",
+            "content_html": "MATLABでExcel・CSVファイルを完全マスター：読み書きから大量データ処理まで  はじめに データ分析業務において、ExcelやCSVファイルの処理は避けて通れない作業です。本記事では、MATLABを使用したファイル操作の基本から応用まで、実際の業務シナリオを交え...",
+            "url": "https://qiita.com/s_yukke/items/b01ebf1049f19ea0e3d8",
+            "title": "【初心者向け】MATLABでExcel・CSVファイルを扱う基本から応用まで | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "MATLABでExcel・CSVファイルを完全マスター：読み書きから大量データ処理まで  はじめに データ分析業務において、ExcelやCSVファイルの処理は避けて通れない作業です。本記事では、MATLABを使用したファイル操作の基本から応用まで、実際の業務シナリオを交え...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSldtVExLUE1ZRmZ3TTN5UnFsQzM2aEhnb2Jkbnc5cVlNV0VfaTRFY3ZsbWpuZE9MVSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00YjMxM2M0MDI4MDkyOWM1YjNhM2Y1MTk1YzQ2ZjY5Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc424ad55d3bf8e1e77970fdb032571fd?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JTg4JTlEJUU1JUJGJTgzJUU4JTgwJTg1JUU1JTkwJTkxJUUzJTgxJTkxJUUzJTgwJTkxTUFUTEFCJUUzJTgxJUE3RXhjZWwlRTMlODMlQkJDU1YlRTMlODMlOTUlRTMlODIlQTElRTMlODIlQTQlRTMlODMlQUIlRTMlODIlOTIlRTYlODklQjElRTMlODElODYlRTUlOUYlQkElRTYlOUMlQUMlRTMlODElOEIlRTMlODIlODklRTUlQkYlOUMlRTclOTQlQTglRTMlODElQkUlRTMlODElQTcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02ZjczMDQwYTQ0NzA2YzU1ODg2Mjk0MmE2Yjk0MGFiMw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzX3l1a2tlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OTFhODljOGY3NzAwNTIxZjM0Nzk1Yjc1MTA2ZGMzNzQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4b6de88a118f5585f0d012ab02b78c80"
+            },
+            "date_modified": "2025-07-10T06:17:23.000Z",
+            "date_published": "2025-07-10T06:17:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【初心者向け】MATLABでExcel・CSVファイルを扱う基本から応用まで",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/mrrclb48z/items/aade4887129d3ed72686",
+            "content_html": "・超越方程式。❌ sympy.solve() は この問題には基本的に使えません。 ・✅ 対処法：nsolve() を使う ・私は、作図を忘れていました。  オリジナル  Prosamo 様 へ。投稿ありがとうございます。  (本日の)ChatGPT先生へ  質問リス...",
+            "url": "https://qiita.com/mrrclb48z/items/aade4887129d3ed72686",
+            "title": "「(ピザ縦分割方法)ピザを縦に3等分したい！」様を参考にsympyで、AI先生へ。MATLAB Symbolic Toolbox へ変換も。 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "・超越方程式。❌ sympy.solve() は この問題には基本的に使えません。 ・✅ 対処法：nsolve() を使う ・私は、作図を忘れていました。  オリジナル  Prosamo 様 へ。投稿ありがとうございます。  (本日の)ChatGPT先生へ  質問リス...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTA5Njk4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNDczNzEwOTczP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jMzE2NzAxMzk0MjExZjRhYTcwOWYyZDNjYjRiOTRmYg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9c9042f0caad5ef081e084837f058229?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJTI4JUUzJTgzJTk0JUUzJTgyJUI2JUU3JUI4JUE2JUU1JTg4JTg2JUU1JTg5JUIyJUU2JTk2JUI5JUU2JUIzJTk1JTI5JUUzJTgzJTk0JUUzJTgyJUI2JUUzJTgyJTkyJUU3JUI4JUE2JUUzJTgxJUFCMyVFNyVBRCU4OSVFNSU4OCU4NiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSU4NCVFRiVCQyU4MSVFMyU4MCU4RCVFNiVBNyU5OCVFMyU4MiU5MiVFNSU4RiU4MiVFOCU4MCU4MyVFMyU4MSVBQnN5bXB5JUUzJTgxJUE3JUUzJTgwJTgxQUklRTUlODUlODglRTclOTQlOUYlRTMlODElQjglRTMlODAlODJNQVRMQUIlMjBTeW1ib2xpYyUyMFRvJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZGRjM2ViNmE3MjlhMmM0YWM1YTA4YmUxNDk5M2Q0MTI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtcnJjbGI0OHomdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iOWNmYThiYTNiMDIxYmI5MWY0YzNmMmU3Zjg3MzViOQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=96b1f81a66bff4ca97770be74f406cec"
+            },
+            "date_modified": "2025-07-10T05:33:48.000Z",
+            "date_published": "2025-07-10T05:33:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「(ピザ縦分割方法)ピザを縦に3等分したい！」様を参考にsympyで、AI先生へ。MATLAB Symbolic Toolbox へ変換も。",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/kepr/items/20019b826560ca91682b",
+            "content_html": "1. はじめに 分散分析（Analysis of Variance, ANOVA）は、統計学者であるロナルド・エイルマー・フィッシャー（Ronald Aylmer Fisher）によって開拓された、現代統計学の重要な概念の一つです。フィッシャーがロザムステッド農業試験場に...",
+            "url": "https://qiita.com/kepr/items/20019b826560ca91682b",
+            "title": "二元配置分散分析の理論と実践：数理モデルからMATLABによる実装まで | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1. はじめに 分散分析（Analysis of Variance, ANOVA）は、統計学者であるロナルド・エイルマー・フィッシャー（Ronald Aylmer Fisher）によって開拓された、現代統計学の重要な概念の一つです。フィッシャーがロザムステッド農業試験場に...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNTk2NTA4JTJGOTU1ODRjYTUzNDUwZTM1NzM4ZmM5ZGE4MGRiZjcyOTQ1NDQwYzBmNyUyRnhfbGFyZ2UucG5nJTNGMTc1MDY5Nzg3Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzliNzA5MWJiMTE2ZjJhOTAyMDJiYjRjZjI1MjRkZjQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D19d0f70f066093e790d047574ce1ae05?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUJBJThDJUU1JTg1JTgzJUU5JTg1JThEJUU3JUJEJUFFJUU1JTg4JTg2JUU2JTk1JUEzJUU1JTg4JTg2JUU2JTlFJTkwJUUzJTgxJUFFJUU3JTkwJTg2JUU4JUFCJTk2JUUzJTgxJUE4JUU1JUFFJTlGJUU4JUI3JUI1JUVGJUJDJTlBJUU2JTk1JUIwJUU3JTkwJTg2JUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJUUzJTgxJThCJUUzJTgyJTg5TUFUTEFCJUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCJUU1JUFFJTlGJUU4JUEzJTg1JUUzJTgxJUJFJUUzJTgxJUE3JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTA1OWM1MDZiY2M1ODA3ZTU3Mjk1YWIwNjE5MDc2ZmY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZXByJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9M2MxM2VlMTI5ZTQ3ZmEwYzllMTg1NzkxYzA0Yjk1NjU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d743ba80fc2f79d392bac8942c28fb9c"
+            },
+            "date_modified": "2025-07-08T20:35:06.000Z",
+            "date_published": "2025-07-08T20:35:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "二元配置分散分析の理論と実践：数理モデルからMATLABによる実装まで",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://zenn.dev/t_teraoka/articles/113eeb6cb26cf9",
+            "content_html": "はじめに 前回の記事で、離散コサイン変換(DCT)の仕組みと特徴を説明しました。 DCTをゆっくりじっくり理解する 今回はその続きです。 内容としてはDCTの特徴を応用して、計測とか制御にどう使えるのか、ということを考えていきます。 具体的にはタイトルにも書いていますが、スパース性を利用して欠損データからの信号復元、いわゆる圧縮センシングについて見ていこうと思います。 ※記事中で使用したPythonとMATLABスクリプトの全体コードは下記に置いています。 https://github.com/otter1602/DCT_and_Min_L1norm_Sample   DCTの特徴 ...",
+            "url": "https://zenn.dev/t_teraoka/articles/113eeb6cb26cf9",
+            "title": "【離散コサイン変換】Part2. 欠損データをはっきりくっきり?復元する | Zennの「matlab」のフィード",
+            "summary": "はじめに 前回の記事で、離散コサイン変換(DCT)の仕組みと特徴を説明しました。 DCTをゆっくりじっくり理解する 今回はその続きです。 内容としてはDCTの特徴を応用して、計測とか制御にどう使えるのか、ということを考えていきます。 具体的にはタイトルにも書いていますが、スパース性を利用して欠損データからの信号復元、いわゆる圧縮センシングについて見ていこうと思います。 ※記事中で使用したPytho...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--B6HDuR8t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E9%259B%25A2%25E6%2595%25A3%25E3%2582%25B3%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%25B3%25E5%25A4%2589%25E6%258F%259B%25E3%2580%2591Part2.%2520%25E6%25AC%25A0%25E6%2590%258D%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E3%2581%25AF%25E3%2581%25A3%25E3%2581%258D%25E3%2582%258A%25E3%2581%258F%25E3%2581%25A3%25E3%2581%258D%25E3%2582%258A%253F%25E5%25BE%25A9%25E5%2585%2583%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:otter1602%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NkMDEwOGZhZmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2025-06-30T15:42:34.000Z",
+            "date_published": "2025-06-30T15:42:34.000Z",
+            "author": {
+                "name": "otter1602"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【離散コサイン変換】Part2. 欠損データをはっきりくっきり?復元する",
+                "blogTitle": "Zennの「matlab」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        }
+    ]
+}

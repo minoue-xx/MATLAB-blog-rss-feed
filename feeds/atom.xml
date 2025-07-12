@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-07-12T15:02:27.536Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[「matlab を起動済みなのに(matlab画面あり)、サインインの画面がでてくるのは、どうしてですか？」AI先生へ。 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/mrrclb48z/items/a2e3ee7c4456bf883b5b</id>
+        <link href="https://qiita.com/mrrclb48z/items/a2e3ee7c4456bf883b5b"/>
+        <updated>2025-07-10T06:19:05.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT先生へ  Gemini先生へ  (本日の)copilot先生へ  🔐 サインイン画面が出る主な理由 ・ライセンス認証の再確認 MATLAB は... ・SSO（シングルサインオン）や組織アカウントの問題... ・設定ファイルの不具合... ・インターネット接...]]></summary>
+        <content type="html"><![CDATA[ChatGPT先生へ  Gemini先生へ  (本日の)copilot先生へ  🔐 サインイン画面が出る主な理由 ・ライセンス認証の再確認 MATLAB は... ・SSO（シングルサインオン）や組織アカウントの問題... ・設定ファイルの不具合... ・インターネット接...]]></content>
+        <published>2025-07-10T06:19:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【初心者向け】MATLABでExcel・CSVファイルを扱う基本から応用まで | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/s_yukke/items/b01ebf1049f19ea0e3d8</id>
+        <link href="https://qiita.com/s_yukke/items/b01ebf1049f19ea0e3d8"/>
+        <updated>2025-07-10T06:17:23.000Z</updated>
+        <summary type="html"><![CDATA[MATLABでExcel・CSVファイルを完全マスター：読み書きから大量データ処理まで  はじめに データ分析業務において、ExcelやCSVファイルの処理は避けて通れない作業です。本記事では、MATLABを使用したファイル操作の基本から応用まで、実際の業務シナリオを交え...]]></summary>
+        <content type="html"><![CDATA[MATLABでExcel・CSVファイルを完全マスター：読み書きから大量データ処理まで  はじめに データ分析業務において、ExcelやCSVファイルの処理は避けて通れない作業です。本記事では、MATLABを使用したファイル操作の基本から応用まで、実際の業務シナリオを交え...]]></content>
+        <published>2025-07-10T06:17:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「(ピザ縦分割方法)ピザを縦に3等分したい！」様を参考にsympyで、AI先生へ。MATLAB Symbolic Toolbox へ変換も。 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/mrrclb48z/items/aade4887129d3ed72686</id>
+        <link href="https://qiita.com/mrrclb48z/items/aade4887129d3ed72686"/>
+        <updated>2025-07-10T05:33:48.000Z</updated>
+        <summary type="html"><![CDATA[・超越方程式。❌ sympy.solve() は この問題には基本的に使えません。 ・✅ 対処法：nsolve() を使う ・私は、作図を忘れていました。  オリジナル  Prosamo 様 へ。投稿ありがとうございます。  (本日の)ChatGPT先生へ  質問リス...]]></summary>
+        <content type="html"><![CDATA[・超越方程式。❌ sympy.solve() は この問題には基本的に使えません。 ・✅ 対処法：nsolve() を使う ・私は、作図を忘れていました。  オリジナル  Prosamo 様 へ。投稿ありがとうございます。  (本日の)ChatGPT先生へ  質問リス...]]></content>
+        <published>2025-07-10T05:33:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二元配置分散分析の理論と実践：数理モデルからMATLABによる実装まで | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kepr/items/20019b826560ca91682b</id>
+        <link href="https://qiita.com/kepr/items/20019b826560ca91682b"/>
+        <updated>2025-07-08T20:35:06.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに 分散分析（Analysis of Variance, ANOVA）は、統計学者であるロナルド・エイルマー・フィッシャー（Ronald Aylmer Fisher）によって開拓された、現代統計学の重要な概念の一つです。フィッシャーがロザムステッド農業試験場に...]]></summary>
+        <content type="html"><![CDATA[1. はじめに 分散分析（Analysis of Variance, ANOVA）は、統計学者であるロナルド・エイルマー・フィッシャー（Ronald Aylmer Fisher）によって開拓された、現代統計学の重要な概念の一つです。フィッシャーがロザムステッド農業試験場に...]]></content>
+        <published>2025-07-08T20:35:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【離散コサイン変換】Part2. 欠損データをはっきりくっきり?復元する | Zennの「matlab」のフィード]]></title>
+        <id>https://zenn.dev/t_teraoka/articles/113eeb6cb26cf9</id>
+        <link href="https://zenn.dev/t_teraoka/articles/113eeb6cb26cf9"/>
+        <updated>2025-06-30T15:42:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 前回の記事で、離散コサイン変換(DCT)の仕組みと特徴を説明しました。 DCTをゆっくりじっくり理解する 今回はその続きです。 内容としてはDCTの特徴を応用して、計測とか制御にどう使えるのか、ということを考えていきます。 具体的にはタイトルにも書いていますが、スパース性を利用して欠損データからの信号復元、いわゆる圧縮センシングについて見ていこうと思います。 ※記事中で使用したPytho...]]></summary>
+        <content type="html"><![CDATA[はじめに 前回の記事で、離散コサイン変換(DCT)の仕組みと特徴を説明しました。 DCTをゆっくりじっくり理解する 今回はその続きです。 内容としてはDCTの特徴を応用して、計測とか制御にどう使えるのか、ということを考えていきます。 具体的にはタイトルにも書いていますが、スパース性を利用して欠損データからの信号復元、いわゆる圧縮センシングについて見ていこうと思います。 ※記事中で使用したPythonとMATLABスクリプトの全体コードは下記に置いています。 https://github.com/otter1602/DCT_and_Min_L1norm_Sample   DCTの特徴 ...]]></content>
+        <author>
+            <name>otter1602</name>
+        </author>
+        <published>2025-06-30T15:42:34.000Z</published>
+    </entry>
+</feed>
