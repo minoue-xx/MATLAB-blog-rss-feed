@@ -1,0 +1,136 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://note.com/leftbank/n/na7b2cb172eff",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/na7b2cb172eff",
+            "title": "MATLAB でフォルダー内のファイルを表示してフォルダーを選択する | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/204437892/rectangle_large_type_2_85b264686ac007a0dd1b63687a037767.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-07-25T20:51:00.000Z",
+            "date_published": "2025-07-25T20:51:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB でフォルダー内のファイルを表示してフォルダーを選択する",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://qiita.com/denchu314/items/93aab0f7b5a7a30d2335",
+            "content_html": "はじめに  かかれていること この記事では、無線通信の分野でよく聞くデジタルプリディストーション(Digital Predistortion, DPD)とは何か、何が出来るのかをついて初心者なりに調べてみたのでまとめてみます。最近勉強し始めたばっかりなので、私の知識の整理...",
+            "url": "https://qiita.com/denchu314/items/93aab0f7b5a7a30d2335",
+            "title": "初心者がデジタルプリディストーション（DPD）について調べてみた | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに  かかれていること この記事では、無線通信の分野でよく聞くデジタルプリディストーション(Digital Predistortion, DPD)とは何か、何が出来るのかをついて初心者なりに調べてみたのでまとめてみます。最近勉強し始めたばっかりなので、私の知識の整理...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZjNGM2MWI2YjViODYyMDZiMjdlMmU1ZWExYzg0NDczYj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzY4OGJlZTYzM2M3N2U2YTVjNTc5OGM3MGFhNTJkNzI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da608804f5eda90f8fce3f377135336fa?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg4JTlEJUU1JUJGJTgzJUU4JTgwJTg1JUUzJTgxJThDJUUzJTgzJTg3JUUzJTgyJUI4JUUzJTgyJUJGJUUzJTgzJUFCJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUE3JUUzJTgzJUIzJUVGJUJDJTg4RFBEJUVGJUJDJTg5JUUzJTgxJUFCJUUzJTgxJUE0JUUzJTgxJTg0JUUzJTgxJUE2JUU4JUFBJUJGJUUzJTgxJUI5JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzNlODlhNDcxMjRhNDRiN2ZlMjYwMjAwNGE1MmE3NWI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkZW5jaHUzMTQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04YjY3YmY4ODI1ZTkyMWNkYzBkYmRhMWJlMDEyNWUzNQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=208d339e75e99b62c5312e34cf479fd5"
+            },
+            "date_modified": "2025-07-23T13:52:00.000Z",
+            "date_published": "2025-07-23T13:52:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "初心者がデジタルプリディストーション（DPD）について調べてみた",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/s_yukke/items/edeb7d41bc41dcbe7279",
+            "content_html": "MATLABでの行列演算入門  はじめに MATLABは「Matrix Laboratory」の略称で、その名の通り行列演算を得意とするプログラミング環境です。本記事では、MATLAB初心者の方向けに行列演算の基本から実践的な使い方まで、演習を交えながら解説します。  目...",
+            "url": "https://qiita.com/s_yukke/items/edeb7d41bc41dcbe7279",
+            "title": "MATLABでの行列演算入門 - 基本から応用まで演習で学ぶ | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "MATLABでの行列演算入門  はじめに MATLABは「Matrix Laboratory」の略称で、その名の通り行列演算を得意とするプログラミング環境です。本記事では、MATLAB初心者の方向けに行列演算の基本から実践的な使い方まで、演習を交えながら解説します。  目...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSldtVExLUE1ZRmZ3TTN5UnFsQzM2aEhnb2Jkbnc5cVlNV0VfaTRFY3ZsbWpuZE9MVSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00YjMxM2M0MDI4MDkyOWM1YjNhM2Y1MTk1YzQ2ZjY5Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc424ad55d3bf8e1e77970fdb032571fd?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgxJUE3JUUzJTgxJUFFJUU4JUExJThDJUU1JTg4JTk3JUU2JUJDJTk0JUU3JUFFJTk3JUU1JTg1JUE1JUU5JTk2JTgwJTIwLSUyMCVFNSU5RiVCQSVFNiU5QyVBQyVFMyU4MSU4QiVFMyU4MiU4OSVFNSVCRiU5QyVFNyU5NCVBOCVFMyU4MSVCRSVFMyU4MSVBNyVFNiVCQyU5NCVFNyVCRiU5MiVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTc0NmYyYjNkMDEzMWE0Y2RiZjQ5YjQwN2VmMjJhOTc5&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzX3l1a2tlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OTFhODljOGY3NzAwNTIxZjM0Nzk1Yjc1MTA2ZGMzNzQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1df0540665c8404f6eccf95d62f3eb29"
+            },
+            "date_modified": "2025-07-22T23:33:11.000Z",
+            "date_published": "2025-07-22T23:33:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABでの行列演算入門 - 基本から応用まで演習で学ぶ",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/sachie_y/n/n6428e335967f",
+            "content_html": "MathWorks Minidrone Competition - Japan 2025 エントリーは8/5まで！ ドローンの自動ライントレースに挑戦！飛行制御アルゴリズムを開発し、その精度を競っていただきます。学生の皆さまのご参加をお待ちしています！ • 参加対象者: 日本国内の大学、高校、高等専門学校に在籍の学生 • 参加申込期限: 2025年8月5日 続きをみる",
+            "url": "https://note.com/sachie_y/n/n6428e335967f",
+            "title": "Minidrone Competition 間もなく締切／制御の授業用リソース／DeepSeek x MATLAB／例で学ぶ常微分方程式｜2025年7月 | MATLAB アカデミックニュースレター",
+            "summary": "MathWorks Minidrone Competition - Japan 2025 エントリーは8/5まで！ ドローンの自動ライントレースに挑戦！飛行制御アルゴリズムを開発し、その精度を競っていただきます。学生の皆さまのご参加をお待ちしています！ • 参加対象者: 日本国内の大学、高校、高等専門学校に在籍の学生 • 参加申込期限: 2025年8月5日 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/202701803/rectangle_large_type_2_eb657fd5fab4b0a4dc482da0d25e9104.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-07-17T03:24:04.000Z",
+            "date_published": "2025-07-17T03:24:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Minidrone Competition 間もなく締切／制御の授業用リソース／DeepSeek x MATLAB／例で学ぶ常微分方程式｜2025年7月",
+                "blogTitle": "MATLAB アカデミックニュースレター",
+                "blogLink": "https://note.com/sachie_y/m/mca72ce231fdc",
+                "blogLinkMd5Hash": "ec19369802a92db6c4cb13993c856ff7"
+            }
+        },
+        {
+            "id": "https://qiita.com/s_yukke/items/6f78f3fd888095ad1b19",
+            "content_html": "MATLABの拡張ツールボックス関数を自前で実装する  はじめに MATLABを使っていると、便利な関数が追加のツールボックスに含まれていて、ライセンスの関係で使えないことがよくあります。この記事では、そんな頻出関数を自前で実装する方法をまとめました。 完全に同じ機能を再...",
+            "url": "https://qiita.com/s_yukke/items/6f78f3fd888095ad1b19",
+            "title": "MATLAB拡張ツールボックス関数の自前実装集 - ライセンス不要で使える代替コード | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "MATLABの拡張ツールボックス関数を自前で実装する  はじめに MATLABを使っていると、便利な関数が追加のツールボックスに含まれていて、ライセンスの関係で使えないことがよくあります。この記事では、そんな頻出関数を自前で実装する方法をまとめました。 完全に同じ機能を再...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSldtVExLUE1ZRmZ3TTN5UnFsQzM2aEhnb2Jkbnc5cVlNV0VfaTRFY3ZsbWpuZE9MVSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00YjMxM2M0MDI4MDkyOWM1YjNhM2Y1MTk1YzQ2ZjY5Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc424ad55d3bf8e1e77970fdb032571fd?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUU2JThCJUExJUU1JUJDJUI1JUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUU5JTk2JUEyJUU2JTk1JUIwJUUzJTgxJUFFJUU4JTg3JUFBJUU1JTg5JThEJUU1JUFFJTlGJUU4JUEzJTg1JUU5JTlCJTg2JTIwLSUyMCVFMyU4MyVBOSVFMyU4MiVBNCVFMyU4MiVCQiVFMyU4MyVCMyVFMyU4MiVCOSVFNCVCOCU4RCVFOCVBNiU4MSVFMyU4MSVBNyVFNCVCRCVCRiVFMyU4MSU4OCVFMyU4MiU4QiVFNCVCQiVBMyVFNiU5QiVCRiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWI5N2FiOTc5YjI1Mjk1OWYyNjA4YWM5OWNhZWEwOTE3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzX3l1a2tlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OTFhODljOGY3NzAwNTIxZjM0Nzk1Yjc1MTA2ZGMzNzQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1fe35148b3d7930d92cc3208dbc513be"
+            },
+            "date_modified": "2025-07-15T01:11:02.000Z",
+            "date_published": "2025-07-15T01:11:02.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB拡張ツールボックス関数の自前実装集 - ライセンス不要で使える代替コード",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/kaizen_nagoya/items/5fbfcbf2514f96085fa1",
+            "content_html": "Mutation-Based Test Case Generation for Simulink Models https://www.researchgate.net/publication/221047548_Mutation-Based_Test_Case_Gener...",
+            "url": "https://qiita.com/kaizen_nagoya/items/5fbfcbf2514f96085fa1",
+            "title": "Mutation-Based Test Case Generation for Simulink Models | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "Mutation-Based Test Case Generation for Simulink Models https://www.researchgate.net/publication/221047548_Mutation-Based_Test_Case_Gener...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTE0MjMlMkZwcm9maWxlLWltYWdlcyUyRjE1MzU0MzkzMzM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWJkMjhjZDE2NjFjMDM0MWFhNjhkZDMzNDkyMjI4ZWJh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D90e3d6630cef23793d64493a13027383?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TXV0YXRpb24tQmFzZWQlMjBUZXN0JTIwQ2FzZSUyMEdlbmVyYXRpb24lMjBmb3IlMjBTaW11bGluayUyME1vZGVscyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTA5N2U4ZmUxNWI0MzMxYjcxMjIwNDYxMDZkOTliNDRj&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYWl6ZW5fbmFnb3lhJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9M2NkYTk2OTJhYWQ4YzQyODg0NjNlOTM1NTg3YjdjNmM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a6642cb00da6da29784744246a6b4edb"
+            },
+            "date_modified": "2025-07-14T08:59:56.000Z",
+            "date_published": "2025-07-14T08:59:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Mutation-Based Test Case Generation for Simulink Models",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}

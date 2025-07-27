@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-07-27T03:32:44.774Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLAB でフォルダー内のファイルを表示してフォルダーを選択する | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/na7b2cb172eff</id>
+        <link href="https://note.com/leftbank/n/na7b2cb172eff"/>
+        <updated>2025-07-25T20:51:00.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2025-07-25T20:51:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初心者がデジタルプリディストーション（DPD）について調べてみた | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/denchu314/items/93aab0f7b5a7a30d2335</id>
+        <link href="https://qiita.com/denchu314/items/93aab0f7b5a7a30d2335"/>
+        <updated>2025-07-23T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに  かかれていること この記事では、無線通信の分野でよく聞くデジタルプリディストーション(Digital Predistortion, DPD)とは何か、何が出来るのかをついて初心者なりに調べてみたのでまとめてみます。最近勉強し始めたばっかりなので、私の知識の整理...]]></summary>
+        <content type="html"><![CDATA[はじめに  かかれていること この記事では、無線通信の分野でよく聞くデジタルプリディストーション(Digital Predistortion, DPD)とは何か、何が出来るのかをついて初心者なりに調べてみたのでまとめてみます。最近勉強し始めたばっかりなので、私の知識の整理...]]></content>
+        <published>2025-07-23T13:52:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABでの行列演算入門 - 基本から応用まで演習で学ぶ | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/s_yukke/items/edeb7d41bc41dcbe7279</id>
+        <link href="https://qiita.com/s_yukke/items/edeb7d41bc41dcbe7279"/>
+        <updated>2025-07-22T23:33:11.000Z</updated>
+        <summary type="html"><![CDATA[MATLABでの行列演算入門  はじめに MATLABは「Matrix Laboratory」の略称で、その名の通り行列演算を得意とするプログラミング環境です。本記事では、MATLAB初心者の方向けに行列演算の基本から実践的な使い方まで、演習を交えながら解説します。  目...]]></summary>
+        <content type="html"><![CDATA[MATLABでの行列演算入門  はじめに MATLABは「Matrix Laboratory」の略称で、その名の通り行列演算を得意とするプログラミング環境です。本記事では、MATLAB初心者の方向けに行列演算の基本から実践的な使い方まで、演習を交えながら解説します。  目...]]></content>
+        <published>2025-07-22T23:33:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minidrone Competition 間もなく締切／制御の授業用リソース／DeepSeek x MATLAB／例で学ぶ常微分方程式｜2025年7月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/n6428e335967f</id>
+        <link href="https://note.com/sachie_y/n/n6428e335967f"/>
+        <updated>2025-07-17T03:24:04.000Z</updated>
+        <summary type="html"><![CDATA[MathWorks Minidrone Competition - Japan 2025 エントリーは8/5まで！ ドローンの自動ライントレースに挑戦！飛行制御アルゴリズムを開発し、その精度を競っていただきます。学生の皆さまのご参加をお待ちしています！ • 参加対象者: 日本国内の大学、高校、高等専門学校に在籍の学生 • 参加申込期限: 2025年8月5日 続きをみる]]></summary>
+        <content type="html"><![CDATA[MathWorks Minidrone Competition - Japan 2025 エントリーは8/5まで！ ドローンの自動ライントレースに挑戦！飛行制御アルゴリズムを開発し、その精度を競っていただきます。学生の皆さまのご参加をお待ちしています！ • 参加対象者: 日本国内の大学、高校、高等専門学校に在籍の学生 • 参加申込期限: 2025年8月5日 続きをみる]]></content>
+        <published>2025-07-17T03:24:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB拡張ツールボックス関数の自前実装集 - ライセンス不要で使える代替コード | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/s_yukke/items/6f78f3fd888095ad1b19</id>
+        <link href="https://qiita.com/s_yukke/items/6f78f3fd888095ad1b19"/>
+        <updated>2025-07-15T01:11:02.000Z</updated>
+        <summary type="html"><![CDATA[MATLABの拡張ツールボックス関数を自前で実装する  はじめに MATLABを使っていると、便利な関数が追加のツールボックスに含まれていて、ライセンスの関係で使えないことがよくあります。この記事では、そんな頻出関数を自前で実装する方法をまとめました。 完全に同じ機能を再...]]></summary>
+        <content type="html"><![CDATA[MATLABの拡張ツールボックス関数を自前で実装する  はじめに MATLABを使っていると、便利な関数が追加のツールボックスに含まれていて、ライセンスの関係で使えないことがよくあります。この記事では、そんな頻出関数を自前で実装する方法をまとめました。 完全に同じ機能を再...]]></content>
+        <published>2025-07-15T01:11:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutation-Based Test Case Generation for Simulink Models | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kaizen_nagoya/items/5fbfcbf2514f96085fa1</id>
+        <link href="https://qiita.com/kaizen_nagoya/items/5fbfcbf2514f96085fa1"/>
+        <updated>2025-07-14T08:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Mutation-Based Test Case Generation for Simulink Models https://www.researchgate.net/publication/221047548_Mutation-Based_Test_Case_Gener...]]></summary>
+        <content type="html"><![CDATA[Mutation-Based Test Case Generation for Simulink Models https://www.researchgate.net/publication/221047548_Mutation-Based_Test_Case_Gener...]]></content>
+        <published>2025-07-14T08:59:56.000Z</published>
+    </entry>
+</feed>
