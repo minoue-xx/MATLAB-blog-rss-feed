@@ -1,0 +1,52 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/ayim0137/items/bd638357c01c4b46a2a9",
+            "content_html": "はじめに Simulink モデルを Arduino や Rasberry Pi などの外部デバイス上で実行させる際、 とても有り難いアドオンの「Simulink Support Package for ○○」。対象のハードウェアボードをモデル設定パラメータ ウィンドウで...",
+            "url": "https://qiita.com/ayim0137/items/bd638357c01c4b46a2a9",
+            "title": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#１) | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに Simulink モデルを Arduino や Rasberry Pi などの外部デバイス上で実行させる際、 とても有り難いアドオンの「Simulink Support Package for ○○」。対象のハードウェアボードをモデル設定パラメータ ウィンドウで...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZmMWY1YjQwMDk3Y2M5NTE4MTdjY2M4NzBiZGZmZWRhOD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MmYyOGI5ZDRkNDc1MTdjNjhhMDNmYWJiNzhiNmU1MTA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D37892caf6cb305e951b212396801330d?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltdWxpbmslMkZFbWJlZGRlZCUyMENvZGVyJTIwJUUzJTgxJUFFJUUzJTgzJTkzJUUzJTgzJUFCJUUzJTgzJTg5JUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUJCJUUzJTgyJUI5JUUzJTgyJTkyJUUzJTgyJUFCJUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJTlFJUUzJTgyJUE0JUUzJTgyJUJBJUUzJTgxJTk5JUUzJTgyJThCJTIwJTI4JTIzJUVGJUJDJTkxJTI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTZjNjJjNmUyNWUyZDFmZDZhYjhiMDI5ODQ5MzA4NDU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBheWltMDEzNyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQwODgxYjZjNjc4YmZjNDM2NzYyYzRkYzkxZDI5NmI5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=11f965f517a0d63faf92932bba81daae"
+            },
+            "date_modified": "2025-08-05T05:40:52.000Z",
+            "date_published": "2025-08-05T05:40:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#１)",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/s_yukke/items/3bbbf80230d53388630c",
+            "content_html": "Simulink入門: 動的システムのモデリングとシミュレーション実践ガイド  目次  前提条件 実例1: 質点-ばね-ダンパシステム 実例2: DCモータの制御システム 実例3: PID制御器の設計 高度な機能とテクニック デバッグとトラブルシューティング ベストプラク...",
+            "url": "https://qiita.com/s_yukke/items/3bbbf80230d53388630c",
+            "title": "Simulink入門: 動的システムのモデリングとシミュレーション実践ガイド | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "Simulink入門: 動的システムのモデリングとシミュレーション実践ガイド  目次  前提条件 実例1: 質点-ばね-ダンパシステム 実例2: DCモータの制御システム 実例3: PID制御器の設計 高度な機能とテクニック デバッグとトラブルシューティング ベストプラク...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSldtVExLUE1ZRmZ3TTN5UnFsQzM2aEhnb2Jkbnc5cVlNV0VfaTRFY3ZsbWpuZE9MVSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00YjMxM2M0MDI4MDkyOWM1YjNhM2Y1MTk1YzQ2ZjY5Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc424ad55d3bf8e1e77970fdb032571fd?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltdWxpbmslRTUlODUlQTUlRTklOTYlODAlM0ElMjAlRTUlOEIlOTUlRTclOUElODQlRTMlODIlQjclRTMlODIlQjklRTMlODMlODYlRTMlODMlQTAlRTMlODElQUUlRTMlODMlQTIlRTMlODMlODclRTMlODMlQUElRTMlODMlQjMlRTMlODIlQjAlRTMlODElQTglRTMlODIlQjclRTMlODMlOUYlRTMlODMlQTUlRTMlODMlQUMlRTMlODMlQkMlRTMlODIlQjclRTMlODMlQTclRTMlODMlQjMlRTUlQUUlOUYlRTglQjclQjUlRTMlODIlQUMlRTMlODIlQTQlRTMlODMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01NzJlMjczMTMwMjI2M2VkYjg1NGZhOGUzOGEwZGU4Mg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzX3l1a2tlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OTFhODljOGY3NzAwNTIxZjM0Nzk1Yjc1MTA2ZGMzNzQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=683457813aabb394308b33952ddc3b41"
+            },
+            "date_modified": "2025-07-29T08:59:40.000Z",
+            "date_published": "2025-07-29T08:59:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulink入門: 動的システムのモデリングとシミュレーション実践ガイド",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}
