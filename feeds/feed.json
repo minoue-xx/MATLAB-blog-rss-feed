@@ -1,0 +1,94 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/daminmusaborou/items/7f087e93905c7deeee2b",
+            "content_html": "はじめに この記事は、MATLABのN-wayToolboxというフレームワークを利用してPARAFAC（Parallel Factor Analysis）を実装した際の備忘録です。N-wayToolboxは、多次元データ解析の分野で広く用いられており、PARAFACを実...",
+            "url": "https://qiita.com/daminmusaborou/items/7f087e93905c7deeee2b",
+            "title": "PARAFACの実行方法 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに この記事は、MATLABのN-wayToolboxというフレームワークを利用してPARAFAC（Parallel Factor Analysis）を実装した際の備忘録です。N-wayToolboxは、多次元データ解析の分野で広く用いられており、PARAFACを実...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODg5ODg1JTJGNTc5NDE4N2YyMmUxMTQyYjZlMjk1OWFjODk2YmVkNGY4ZDIxZmMyYiUyRnhfbGFyZ2UucG5nJTNGMTczMzgyNjc3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWI0NTIyYjZmZjE3ZTM2MDYzNzMzY2M1ZTdmNmJlMDI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D639b0bf8248b0c79055c027714d203cf?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UEFSQUZBQyVFMyU4MSVBRSVFNSVBRSU5RiVFOCVBMSU4QyVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTRkN2RkNzZhNjFkYmMyYmNmYWQ3NWRjNGMyMThhNzkw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkYW1pbm11c2Fib3JvdSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQ3MGFmNTk4NTVkOTlkMGIwMzJjYzViZWJkNGUxYWY3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a2defeba000ce8a4786326388c5ae2d4"
+            },
+            "date_modified": "2025-08-12T07:31:24.000Z",
+            "date_published": "2025-08-12T07:31:24.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PARAFACの実行方法",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/kepr/items/de7411f21b7ebb6aa690",
+            "content_html": "1. はじめに この記事では以下のようにmatlabコードをcolab上で実行することを目指します。ページの最後に今回の記事で用いたコード全体を載せていますので、ぜひご活用ください。  2. 実行環境のセットアップ はじめに、Colabのノートブック上でMATLABを実...",
+            "url": "https://qiita.com/kepr/items/de7411f21b7ebb6aa690",
+            "title": "MATLABをColab上で実行する方法 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1. はじめに この記事では以下のようにmatlabコードをcolab上で実行することを目指します。ページの最後に今回の記事で用いたコード全体を載せていますので、ぜひご活用ください。  2. 実行環境のセットアップ はじめに、Colabのノートブック上でMATLABを実...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNTk2NTA4JTJGOTU1ODRjYTUzNDUwZTM1NzM4ZmM5ZGE4MGRiZjcyOTQ1NDQwYzBmNyUyRnhfbGFyZ2UucG5nJTNGMTc1MDY5Nzg3Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzliNzA5MWJiMTE2ZjJhOTAyMDJiYjRjZjI1MjRkZjQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De41778a9eb10537589484029bf6e6f85?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgyJTkyQ29sYWIlRTQlQjglOEElRTMlODElQTclRTUlQUUlOUYlRTglQTElOEMlRTMlODElOTklRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zNTM0ZGQzODFkZTRlMWJhZWU0OTM3NWM3ZjI2YWRmYw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZXByJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzJmM2MzNzBlNjYxMmUxZGUwZDllMmU2MTMwOWYxYzk&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=537ad2c68cf56a3c7b300e66fef681ac"
+            },
+            "date_modified": "2025-08-12T00:40:40.000Z",
+            "date_published": "2025-08-12T00:40:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABをColab上で実行する方法",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/ayim0137/items/1a8115401719bf4f7f67",
+            "content_html": "システムターゲットファイルを用意する システムターゲットファイルは書式が決まっているため、通常、テンプレートを利用します。組み込み向けラピッド プロトタイピング環境のテンプレートファイルは [matlabroot]￥rtw￥c￥ert￥ert.tlc です。 この ert...",
+            "url": "https://qiita.com/ayim0137/items/1a8115401719bf4f7f67",
+            "title": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#２) | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "システムターゲットファイルを用意する システムターゲットファイルは書式が決まっているため、通常、テンプレートを利用します。組み込み向けラピッド プロトタイピング環境のテンプレートファイルは [matlabroot]￥rtw￥c￥ert￥ert.tlc です。 この ert...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTQxMTgyJTJGOTU4MjU3Y2I2ODQwZjU4MTVhMTRmZTY2MzQyNTBkMmE5MzZlMzk2ZSUyRmxhcmdlLnBuZyUzRjE3NTUwOTQ5NzY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTRmNjc0ZmJjNzBlMmNiYWViYTk0MTZmZGIxZDE4MDdh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4a4eefda4db6c26de51526523f9eb931?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltdWxpbmslMkZFbWJlZGRlZCUyMENvZGVyJTIwJUUzJTgxJUFFJUUzJTgzJTkzJUUzJTgzJUFCJUUzJTgzJTg5JUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUJCJUUzJTgyJUI5JUUzJTgyJTkyJUUzJTgyJUFCJUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJTlFJUUzJTgyJUE0JUUzJTgyJUJBJUUzJTgxJTk5JUUzJTgyJThCJTIwJTI4JTIzJUVGJUJDJTkyJTI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTUzMzNkY2ViYTU3MjEwZTkyMTg1MGE1MmI4MGI5ZjM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBheWltMDEzNyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQwODgxYjZjNjc4YmZjNDM2NzYyYzRkYzkxZDI5NmI5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=43dde0bae158567a87d6128c7711c517"
+            },
+            "date_modified": "2025-08-11T04:13:16.000Z",
+            "date_published": "2025-08-11T04:13:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#２)",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/ayim0137/items/bd638357c01c4b46a2a9",
+            "content_html": "はじめに Simulink モデルを Arduino や Rasberry Pi などの外部デバイス上で実行させる際、 とても有り難いアドオンの「Simulink Support Package for ○○」。対象のハードウェアボードをモデル設定パラメータ ウィンドウで...",
+            "url": "https://qiita.com/ayim0137/items/bd638357c01c4b46a2a9",
+            "title": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#１) | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに Simulink モデルを Arduino や Rasberry Pi などの外部デバイス上で実行させる際、 とても有り難いアドオンの「Simulink Support Package for ○○」。対象のハードウェアボードをモデル設定パラメータ ウィンドウで...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTQxMTgyJTJGOTU4MjU3Y2I2ODQwZjU4MTVhMTRmZTY2MzQyNTBkMmE5MzZlMzk2ZSUyRmxhcmdlLnBuZyUzRjE3NTUwOTQ5NzY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTRmNjc0ZmJjNzBlMmNiYWViYTk0MTZmZGIxZDE4MDdh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4a4eefda4db6c26de51526523f9eb931?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltdWxpbmslMkZFbWJlZGRlZCUyMENvZGVyJTIwJUUzJTgxJUFFJUUzJTgzJTkzJUUzJTgzJUFCJUUzJTgzJTg5JUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUJCJUUzJTgyJUI5JUUzJTgyJTkyJUUzJTgyJUFCJUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJTlFJUUzJTgyJUE0JUUzJTgyJUJBJUUzJTgxJTk5JUUzJTgyJThCJTIwJTI4JTIzJUVGJUJDJTkxJTI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTZjNjJjNmUyNWUyZDFmZDZhYjhiMDI5ODQ5MzA4NDU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBheWltMDEzNyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQwODgxYjZjNjc4YmZjNDM2NzYyYzRkYzkxZDI5NmI5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f1410f5864f379c402a2ecbf474ed67d"
+            },
+            "date_modified": "2025-08-05T05:40:52.000Z",
+            "date_published": "2025-08-05T05:40:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#１)",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}
