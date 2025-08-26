@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-08-26T07:05:41.431Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLAB LiveScript を用いた状態フィードバック制御シミュレーション | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Hiroshi-Okajima/items/630ecfcced7ae6bb7271</id>
+        <link href="https://qiita.com/Hiroshi-Okajima/items/630ecfcced7ae6bb7271"/>
+        <updated>2025-08-24T06:40:11.000Z</updated>
+        <summary type="html"><![CDATA[[この記事は制御工学ブログで2024年2月20日に公開されたものを少し修正したものです。] この記事ではMATLABを用いた制御について画像・動画を交えて説明します。特に、状態フィードバック制御に焦点を当てて説明を行います。MATLABシミュレーションについて説明した動画や...]]></summary>
+        <content type="html"><![CDATA[[この記事は制御工学ブログで2024年2月20日に公開されたものを少し修正したものです。] この記事ではMATLABを用いた制御について画像・動画を交えて説明します。特に、状態フィードバック制御に焦点を当てて説明を行います。MATLABシミュレーションについて説明した動画や...]]></content>
+        <published>2025-08-24T06:40:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB x Python 連携ガイド／教育向け新着リソース／MATLAB EXPO 動画公開｜2025年8月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/nca452724428d</id>
+        <link href="https://note.com/sachie_y/n/nca452724428d"/>
+        <updated>2025-08-21T07:08:09.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB からの Python の呼び出し MATLAB と Python を組み合わせて使うための手順やコード例を分かりやすくまとめたチートシートです。 続きをみる]]></summary>
+        <content type="html"><![CDATA[MATLAB からの Python の呼び出し MATLAB と Python を組み合わせて使うための手順やコード例を分かりやすくまとめたチートシートです。 続きをみる]]></content>
+        <published>2025-08-21T07:08:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABを使ってVersal AI Engineの開発をしてみよう／環境導入編 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/denchu314/items/a81e2f2a057547532519</id>
+        <link href="https://qiita.com/denchu314/items/a81e2f2a057547532519"/>
+        <updated>2025-08-20T13:16:46.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 最近のFPGA開発において、AI処理の高速化や低消費電力化を実現するために、Xilinx社の Versal に搭載されている AI Engine の活用が注目されています。 これまでAI Engineの開発には、主にVitisやC/C++ベースの開発環境が必要で...]]></summary>
+        <content type="html"><![CDATA[はじめに 最近のFPGA開発において、AI処理の高速化や低消費電力化を実現するために、Xilinx社の Versal に搭載されている AI Engine の活用が注目されています。 これまでAI Engineの開発には、主にVitisやC/C++ベースの開発環境が必要で...]]></content>
+        <published>2025-08-20T13:16:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#３) | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/ayim0137/items/eecf025b9ed8f3f7403b</id>
+        <link href="https://qiita.com/ayim0137/items/eecf025b9ed8f3f7403b"/>
+        <updated>2025-08-18T07:06:52.000Z</updated>
+        <summary type="html"><![CDATA[はじめに... 第３回は、ビルドプロセス「コード生成」段階の main.c ファイル生成についてです。 ビルドプロセスのカスタマイズにおいて、TLC 言語で記述された「tlc ファイル」を避けて通ることはできません。システムターゲットファイルでも「%include」や「%...]]></summary>
+        <content type="html"><![CDATA[はじめに... 第３回は、ビルドプロセス「コード生成」段階の main.c ファイル生成についてです。 ビルドプロセスのカスタマイズにおいて、TLC 言語で記述された「tlc ファイル」を避けて通ることはできません。システムターゲットファイルでも「%include」や「%...]]></content>
+        <published>2025-08-18T07:06:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PARAFACの実行方法 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/daminmusaborou/items/7f087e93905c7deeee2b</id>
+        <link href="https://qiita.com/daminmusaborou/items/7f087e93905c7deeee2b"/>
+        <updated>2025-08-12T07:31:24.000Z</updated>
+        <summary type="html"><![CDATA[はじめに この記事は、MATLABのN-wayToolboxというフレームワークを利用してPARAFAC（Parallel Factor Analysis）を実装した際の備忘録です。N-wayToolboxは、多次元データ解析の分野で広く用いられており、PARAFACを実...]]></summary>
+        <content type="html"><![CDATA[はじめに この記事は、MATLABのN-wayToolboxというフレームワークを利用してPARAFAC（Parallel Factor Analysis）を実装した際の備忘録です。N-wayToolboxは、多次元データ解析の分野で広く用いられており、PARAFACを実...]]></content>
+        <published>2025-08-12T07:31:24.000Z</published>
+    </entry>
+</feed>
