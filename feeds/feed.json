@@ -1,0 +1,94 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/kaizen_nagoya/items/5531521c4af8e130819b",
+            "content_html": "ChatGPT matlabaのM言語の基本をおしえてください。 ChatGPT:  もちろんです。MATLABの**M言語（スクリプト言語）**の基本を整理してご紹介します。初心者向けに、構文や書き方、簡単な例を交えて説明します。  変数と代入 変数名は英数字とアンダー...",
+            "url": "https://qiita.com/kaizen_nagoya/items/5531521c4af8e130819b",
+            "title": "Matlab M言語とStateflow | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "ChatGPT matlabaのM言語の基本をおしえてください。 ChatGPT:  もちろんです。MATLABの**M言語（スクリプト言語）**の基本を整理してご紹介します。初心者向けに、構文や書き方、簡単な例を交えて説明します。  変数と代入 変数名は英数字とアンダー...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTE0MjMlMkZwcm9maWxlLWltYWdlcyUyRjE1MzU0MzkzMzM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWJkMjhjZDE2NjFjMDM0MWFhNjhkZDMzNDkyMjI4ZWJh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Deaef0fd314efc1a509ff06c570cbf829?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF0bGFiJTIwTSVFOCVBOCU4MCVFOCVBQSU5RSVFMyU4MSVBOFN0YXRlZmxvdyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWRmY2ZhNzhkYTRjMzU0MmI5ZWE3ZjhiMjgxZTk0Yjc5&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYWl6ZW5fbmFnb3lhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWQzZWExNmYzNDRhZjQ5NzI3ZDU3NGE2Yzc5Y2FmMGQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f7450f0a2aa4c5e4d9983fec14115682"
+            },
+            "date_modified": "2025-09-03T03:17:37.000Z",
+            "date_published": "2025-09-03T03:17:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Matlab M言語とStateflow",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/kaizen_nagoya/items/a8016928a8cfe2c0c6e5",
+            "content_html": "aisin のATのMatlabのModel例を探しています。ご存知ですか？ ChatGPT: Aisin（アイシン）の自動変速機（AT）に関連するMATLAB/Simulinkのモデル例をお探しですね。以下に、関連する資料やリソースをご紹介します。 MathWorks+1...",
+            "url": "https://qiita.com/kaizen_nagoya/items/a8016928a8cfe2c0c6e5",
+            "title": "aisin のATのMatlabのModel例(2) by ChatGPT  | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "aisin のATのMatlabのModel例を探しています。ご存知ですか？ ChatGPT: Aisin（アイシン）の自動変速機（AT）に関連するMATLAB/Simulinkのモデル例をお探しですね。以下に、関連する資料やリソースをご紹介します。 MathWorks+1...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTE0MjMlMkZwcm9maWxlLWltYWdlcyUyRjE1MzU0MzkzMzM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWJkMjhjZDE2NjFjMDM0MWFhNjhkZDMzNDkyMjI4ZWJh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Deaef0fd314efc1a509ff06c570cbf829?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9YWlzaW4lMjAlRTMlODElQUVBVCVFMyU4MSVBRU1hdGxhYiVFMyU4MSVBRU1vZGVsJUU0JUJFJThCJTI4MiUyOSUyMGJ5JTIwQ2hhdEdQVCUyMCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTljYTJhNjhjN2RjYzZjNDM0YzZjYjNmMTFiMGUzYjMx&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYWl6ZW5fbmFnb3lhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWQzZWExNmYzNDRhZjQ5NzI3ZDU3NGE2Yzc5Y2FmMGQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4df2243741d7cb2b7974f3acae6904da"
+            },
+            "date_modified": "2025-09-03T01:52:05.000Z",
+            "date_published": "2025-09-03T01:52:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "aisin のATのMatlabのModel例(2) by ChatGPT ",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/ayim0137/items/5a300d02c27188d2ff3f",
+            "content_html": "はじめに... 第４回は、前回繰り越した model.rtw とテンプレート Makefile についてです。 テンプレート Makefile のセクションで、片仮名の「メイクファイル」と英字の「Makefile」を区別して使っています。この使い分けは本記事独自のものなの...",
+            "url": "https://qiita.com/ayim0137/items/5a300d02c27188d2ff3f",
+            "title": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#４) | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに... 第４回は、前回繰り越した model.rtw とテンプレート Makefile についてです。 テンプレート Makefile のセクションで、片仮名の「メイクファイル」と英字の「Makefile」を区別して使っています。この使い分けは本記事独自のものなの...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTQxMTgyJTJGOTU4MjU3Y2I2ODQwZjU4MTVhMTRmZTY2MzQyNTBkMmE5MzZlMzk2ZSUyRmxhcmdlLnBuZyUzRjE3NTUwOTQ5NzY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTRmNjc0ZmJjNzBlMmNiYWViYTk0MTZmZGIxZDE4MDdh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4a4eefda4db6c26de51526523f9eb931?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltdWxpbmslMkZFbWJlZGRlZCUyMENvZGVyJTIwJUUzJTgxJUFFJUUzJTgzJTkzJUUzJTgzJUFCJUUzJTgzJTg5JUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUJCJUUzJTgyJUI5JUUzJTgyJTkyJUUzJTgyJUFCJUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJTlFJUUzJTgyJUE0JUUzJTgyJUJBJUUzJTgxJTk5JUUzJTgyJThCJTIwJTI4JTIzJUVGJUJDJTk0JTI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzZiMmVjNWZkNmY1MzllMTY4ZWNjMjI5YzFhNTViZTQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBheWltMDEzNyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQwODgxYjZjNjc4YmZjNDM2NzYyYzRkYzkxZDI5NmI5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=78508712e5d3e0714438c0d5b65adeca"
+            },
+            "date_modified": "2025-09-01T02:36:01.000Z",
+            "date_published": "2025-09-01T02:36:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#４)",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/Kenta11/items/31a913e048bac169386b",
+            "content_html": "1. はじめに Java言語で学ぶデザインパターン入門は GoF のデザインパターンについて Java 言語で解説する良書だ。私は普段 MATLAB 言語を使っているため、これらのデザインパターンを MATLAB 言語で記述できないかと考えた。本稿ではサンプルプログラムを...",
+            "url": "https://qiita.com/Kenta11/items/31a913e048bac169386b",
+            "title": "MATLAB言語で学ぶ「Java言語で学ぶデザインパターン入門」ノート | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1. はじめに Java言語で学ぶデザインパターン入門は GoF のデザインパターンについて Java 言語で解説する良書だ。私は普段 MATLAB 言語を使っているため、これらのデザインパターンを MATLAB 言語で記述できないかと考えた。本稿ではサンプルプログラムを...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMjcxOTU2JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTM3NDU4OTM2P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00YTFlYWVjZmVlNzhhMTNkODgyNzI3ZDc4MTI5ZmM1NA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D18d466ee4e677709aadc2098ca6d3d28?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgxJUE3JUU1JUFEJUE2JUUzJTgxJUI2JUUzJTgwJThDSmF2YSVFOCVBOCU4MCVFOCVBQSU5RSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiVFMyU4MyU4NyVFMyU4MiVCNiVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MyU5MSVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MyVCMyVFNSU4NSVBNSVFOSU5NiU4MCVFMyU4MCU4RCVFMyU4MyU4RSVFMyU4MyVCQyVFMyU4MyU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThiM2VmMDdkZWNmMzZiMDUzODViYjc4OTUzYTNhMjQw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBLZW50YTExJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzEyMzAyMGE5MjQxODc0ODU2YjVmYjVmNjI0NDFjOTk&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0a33346a36158012b3c807aa5d3380b9"
+            },
+            "date_modified": "2025-08-31T15:52:12.000Z",
+            "date_published": "2025-08-31T15:52:12.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB言語で学ぶ「Java言語で学ぶデザインパターン入門」ノート",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}

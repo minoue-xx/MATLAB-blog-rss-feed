@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-09-06T15:02:01.210Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Matlab M言語とStateflow | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kaizen_nagoya/items/5531521c4af8e130819b</id>
+        <link href="https://qiita.com/kaizen_nagoya/items/5531521c4af8e130819b"/>
+        <updated>2025-09-03T03:17:37.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT matlabaのM言語の基本をおしえてください。 ChatGPT:  もちろんです。MATLABの**M言語（スクリプト言語）**の基本を整理してご紹介します。初心者向けに、構文や書き方、簡単な例を交えて説明します。  変数と代入 変数名は英数字とアンダー...]]></summary>
+        <content type="html"><![CDATA[ChatGPT matlabaのM言語の基本をおしえてください。 ChatGPT:  もちろんです。MATLABの**M言語（スクリプト言語）**の基本を整理してご紹介します。初心者向けに、構文や書き方、簡単な例を交えて説明します。  変数と代入 変数名は英数字とアンダー...]]></content>
+        <published>2025-09-03T03:17:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aisin のATのMatlabのModel例(2) by ChatGPT  | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kaizen_nagoya/items/a8016928a8cfe2c0c6e5</id>
+        <link href="https://qiita.com/kaizen_nagoya/items/a8016928a8cfe2c0c6e5"/>
+        <updated>2025-09-03T01:52:05.000Z</updated>
+        <summary type="html"><![CDATA[aisin のATのMatlabのModel例を探しています。ご存知ですか？ ChatGPT: Aisin（アイシン）の自動変速機（AT）に関連するMATLAB/Simulinkのモデル例をお探しですね。以下に、関連する資料やリソースをご紹介します。 MathWorks+1...]]></summary>
+        <content type="html"><![CDATA[aisin のATのMatlabのModel例を探しています。ご存知ですか？ ChatGPT: Aisin（アイシン）の自動変速機（AT）に関連するMATLAB/Simulinkのモデル例をお探しですね。以下に、関連する資料やリソースをご紹介します。 MathWorks+1...]]></content>
+        <published>2025-09-03T01:52:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#４) | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/ayim0137/items/5a300d02c27188d2ff3f</id>
+        <link href="https://qiita.com/ayim0137/items/5a300d02c27188d2ff3f"/>
+        <updated>2025-09-01T02:36:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに... 第４回は、前回繰り越した model.rtw とテンプレート Makefile についてです。 テンプレート Makefile のセクションで、片仮名の「メイクファイル」と英字の「Makefile」を区別して使っています。この使い分けは本記事独自のものなの...]]></summary>
+        <content type="html"><![CDATA[はじめに... 第４回は、前回繰り越した model.rtw とテンプレート Makefile についてです。 テンプレート Makefile のセクションで、片仮名の「メイクファイル」と英字の「Makefile」を区別して使っています。この使い分けは本記事独自のものなの...]]></content>
+        <published>2025-09-01T02:36:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB言語で学ぶ「Java言語で学ぶデザインパターン入門」ノート | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Kenta11/items/31a913e048bac169386b</id>
+        <link href="https://qiita.com/Kenta11/items/31a913e048bac169386b"/>
+        <updated>2025-08-31T15:52:12.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに Java言語で学ぶデザインパターン入門は GoF のデザインパターンについて Java 言語で解説する良書だ。私は普段 MATLAB 言語を使っているため、これらのデザインパターンを MATLAB 言語で記述できないかと考えた。本稿ではサンプルプログラムを...]]></summary>
+        <content type="html"><![CDATA[1. はじめに Java言語で学ぶデザインパターン入門は GoF のデザインパターンについて Java 言語で解説する良書だ。私は普段 MATLAB 言語を使っているため、これらのデザインパターンを MATLAB 言語で記述できないかと考えた。本稿ではサンプルプログラムを...]]></content>
+        <published>2025-08-31T15:52:12.000Z</published>
+    </entry>
+</feed>
