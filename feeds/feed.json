@@ -1,0 +1,94 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/SuharaDaigo/items/38fe1154f49c1414099b",
+            "content_html": "はじめに ROSConJP2025のワークショップ（ROS 2とモデルベースデザイン(MBD)の実践入門）に参加したことにより，SimulinkでROS開発楽しいー！となったので，今回は物体認識を試してみます．  注意 この記事では，MATLAB/SimulinkとROS...",
+            "url": "https://qiita.com/SuharaDaigo/items/38fe1154f49c1414099b",
+            "title": "[ROS2+MATLAB/Simulink]ラズパイカメラから人間の検出 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに ROSConJP2025のワークショップ（ROS 2とモデルベースデザイン(MBD)の実践入門）に参加したことにより，SimulinkでROS開発楽しいー！となったので，今回は物体認識を試してみます．  注意 この記事では，MATLAB/SimulinkとROS...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjEwMzI4ODk5MSUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jZGZhZTg2MjRmODRhMDNlMzY4MDRiZGM2NTE1NWIzZA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc1904178488abbda04954ef4f5c40a57?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCUk9TMiUyQk1BVExBQiUyRlNpbXVsaW5rJTVEJUUzJTgzJUE5JUUzJTgyJUJBJUUzJTgzJTkxJUUzJTgyJUE0JUUzJTgyJUFCJUUzJTgzJUExJUUzJTgzJUE5JUUzJTgxJThCJUUzJTgyJTg5JUU0JUJBJUJBJUU5JTk2JTkzJUUzJTgxJUFFJUU2JUE0JTlDJUU1JTg3JUJBJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODNiYmVhZDI2ZDRlODRmZDU3MTVjM2E5NTA1MGVlN2U&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTdWhhcmFEYWlnbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTNjMzNiZWQ5ZGUwNmM1NmQxNWEzMGMwZGMwNWMyMmNm&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ecc2df0063000a235d0dc44ff9684237"
+            },
+            "date_modified": "2025-09-12T08:19:09.000Z",
+            "date_published": "2025-09-12T08:19:09.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[ROS2+MATLAB/Simulink]ラズパイカメラから人間の検出",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/getBack1969/items/ff1cd6c2dd30967d81ef",
+            "content_html": "はじめに SpaceXでは、完全再使用に向けた宇宙輸送システムStarshipの開発を行っており、既に10回のフライトテストを実行し、驚異的なスピードで成果を上げています。 SpaceXでは従来的なウォーターホール開発ではなく、アジャイル開発を導入し、最初から100%を目...",
+            "url": "https://qiita.com/getBack1969/items/ff1cd6c2dd30967d81ef",
+            "title": "ロケット🚀をお箸でキャッチする!? | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに SpaceXでは、完全再使用に向けた宇宙輸送システムStarshipの開発を行っており、既に10回のフライトテストを実行し、驚異的なスピードで成果を上げています。 SpaceXでは従来的なウォーターホール開発ではなく、アジャイル開発を導入し、最初から100%を目...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNTI1MzY5JTJGZjE0Nzk0M2M3NTI1MzI4MmQ3ZGJjZjk5ZTZmZjUyNzk4ZGY4ODc4YiUyRnhfbGFyZ2UucG5nJTNGMTc1NzY3MTA4Nz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzgwZWVjZmUwNWY5MDA0NmJmOWMyOGM1ZmViM2M1Mzk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D84fcd243f1fb192f8a572723a8837267?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFEJUUzJTgyJUIxJUUzJTgzJTgzJUUzJTgzJTg4JUYwJTlGJTlBJTgwJUUzJTgyJTkyJUUzJTgxJThBJUU3JUFFJUI4JUUzJTgxJUE3JUUzJTgyJUFEJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgzJTgxJUUzJTgxJTk5JUUzJTgyJThCJTIxJTNGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NmNlODdlZDg4NDBiMDQzM2YyZWE0M2UxODJmM2Y0ODA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBnZXRCYWNrMTk2OSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTgxZmZlMGE1NmI0YjU0OWNhOGMzMmJlZGUxY2Y4YjY4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a0d3f837d2c2fc6a9a8a9838810e91d7"
+            },
+            "date_modified": "2025-09-11T10:15:50.000Z",
+            "date_published": "2025-09-11T10:15:50.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ロケット🚀をお箸でキャッチする!?",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/kaizen_nagoya/items/bdaaed9c082fc44655a1",
+            "content_html": "先進的な設計・検証技術の適用事例紹介 MBDの裏表 https://www.youtube.com/watch?v=0JxGSEy6UNw JMAAB 20周年 1： MBDの歴史「JMAAB設立まで」 https://www.youtube.com/watch?v=7vw...",
+            "url": "https://qiita.com/kaizen_nagoya/items/bdaaed9c082fc44655a1",
+            "title": "久保 孝行  Matlab, JMAAB, ETSS with ChatGPT | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "先進的な設計・検証技術の適用事例紹介 MBDの裏表 https://www.youtube.com/watch?v=0JxGSEy6UNw JMAAB 20周年 1： MBDの歴史「JMAAB設立まで」 https://www.youtube.com/watch?v=7vw...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTE0MjMlMkZwcm9maWxlLWltYWdlcyUyRjE1MzU0MzkzMzM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWJkMjhjZDE2NjFjMDM0MWFhNjhkZDMzNDkyMjI4ZWJh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Deaef0fd314efc1a509ff06c570cbf829?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUI5JTg1JUU0JUJGJTlEJTIwJUU1JUFEJTlEJUU4JUExJThDJTIwJTIwTWF0bGFiJTJDJTIwSk1BQUIlMkMlMjBFVFNTJTIwd2l0aCUyMENoYXRHUFQmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yODU2ZThmNTQ2NTBkMTVhYTBkNzA3NWQzYmM4NTNiNg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYWl6ZW5fbmFnb3lhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWQzZWExNmYzNDRhZjQ5NzI3ZDU3NGE2Yzc5Y2FmMGQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=defdb87d05066e48841632c393c4e15e"
+            },
+            "date_modified": "2025-09-09T12:18:05.000Z",
+            "date_published": "2025-09-09T12:18:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "久保 孝行  Matlab, JMAAB, ETSS with ChatGPT",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/ayim0137/items/36a557160f51dbe553df",
+            "content_html": "はじめに... 第５回は、カスタムブロックの作成とSTF_make_rtw_hook.m ( 第１回 参照) について記した後、構築した環境でコード生成を行います。  対象ハードウェア向けカスタム ブロック 対象ハードウェア向けカスタム ブロック (以降、デバイスブロック...",
+            "url": "https://qiita.com/ayim0137/items/36a557160f51dbe553df",
+            "title": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#５) | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに... 第５回は、カスタムブロックの作成とSTF_make_rtw_hook.m ( 第１回 参照) について記した後、構築した環境でコード生成を行います。  対象ハードウェア向けカスタム ブロック 対象ハードウェア向けカスタム ブロック (以降、デバイスブロック...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTQxMTgyJTJGOTU4MjU3Y2I2ODQwZjU4MTVhMTRmZTY2MzQyNTBkMmE5MzZlMzk2ZSUyRmxhcmdlLnBuZyUzRjE3NTUwOTQ5NzY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTRmNjc0ZmJjNzBlMmNiYWViYTk0MTZmZGIxZDE4MDdh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4a4eefda4db6c26de51526523f9eb931?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltdWxpbmslMkZFbWJlZGRlZCUyMENvZGVyJTIwJUUzJTgxJUFFJUUzJTgzJTkzJUUzJTgzJUFCJUUzJTgzJTg5JUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUJCJUUzJTgyJUI5JUUzJTgyJTkyJUUzJTgyJUFCJUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJTlFJUUzJTgyJUE0JUUzJTgyJUJBJUUzJTgxJTk5JUUzJTgyJThCJTIwJTI4JTIzJUVGJUJDJTk1JTI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZGNmZGFhMWI1MzkyYzVlZWU4YjRmY2I5YzQ5NWU3NWM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBheWltMDEzNyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQwODgxYjZjNjc4YmZjNDM2NzYyYzRkYzkxZDI5NmI5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b929287bcd9215b2370ece83a38e0d71"
+            },
+            "date_modified": "2025-09-08T05:03:18.000Z",
+            "date_published": "2025-09-08T05:03:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulink/Embedded Coder のビルドプロセスをカスタマイズする (#５)",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}
