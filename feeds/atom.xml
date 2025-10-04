@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-10-04T23:02:51.555Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[【MATLAB 可視化 Tips】すべての Interpreter を一括で LaTeX に変更する裏技 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/km_MATLAB_Amb/items/8459699d4a410043997d</id>
+        <link href="https://qiita.com/km_MATLAB_Amb/items/8459699d4a410043997d"/>
+        <updated>2025-09-25T09:58:38.000Z</updated>
+        <summary type="html"><![CDATA[はじめに MATLAB では軸ラベルや凡例，タイトルなどの Interpreter として LaTeX を指定すれば数式をカッコよく表示できます． % 例：ylabel に数式を書く場合 ylabel("$f(x)=\sin(x)$", "interpreter", "l...]]></summary>
+        <content type="html"><![CDATA[はじめに MATLAB では軸ラベルや凡例，タイトルなどの Interpreter として LaTeX を指定すれば数式をカッコよく表示できます． % 例：ylabel に数式を書く場合 ylabel("$f(x)=\sin(x)$", "interpreter", "l...]]></content>
+        <published>2025-09-25T09:58:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pade近似Fortran記述 with ChatGPT | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kaizen_nagoya/items/95921dabf1b56bd80a62</id>
+        <link href="https://qiita.com/kaizen_nagoya/items/95921dabf1b56bd80a62"/>
+        <updated>2025-09-23T11:14:23.000Z</updated>
+        <summary type="html"><![CDATA[FORTRAN Fortran 連立微分方程式のPade近似解法。手の最適化とコンパイラの最適化、誤差の評価 https://qiita.com/kaizen_nagoya/items/c55d29f0d7e9ebd07a31 連立微分方程式のPade近似と、Cコンパイラ...]]></summary>
+        <content type="html"><![CDATA[FORTRAN Fortran 連立微分方程式のPade近似解法。手の最適化とコンパイラの最適化、誤差の評価 https://qiita.com/kaizen_nagoya/items/c55d29f0d7e9ebd07a31 連立微分方程式のPade近似と、Cコンパイラ...]]></content>
+        <published>2025-09-23T11:14:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アナログ プラニメータ】面積の測定原理を自己流に証明してみた | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/tsubolabo/items/9f93f603b2f3ec4b3088</id>
+        <link href="https://qiita.com/tsubolabo/items/9f93f603b2f3ec4b3088"/>
+        <updated>2025-09-23T06:57:59.000Z</updated>
+        <summary type="html"><![CDATA[昔語りの老害などと仰らずに、温故知新の心でお付き合いください。  １．はじめに  アナログ プラニメータは、図１に示すように非常にシンプルな器械ですが、Ｏ部を机上に固定し、Ｔ部の照準マークで図形の外周をなぞるだけで、その図形の面積を測ることができます。学生時代の実験で一度使...]]></summary>
+        <content type="html"><![CDATA[昔語りの老害などと仰らずに、温故知新の心でお付き合いください。  １．はじめに  アナログ プラニメータは、図１に示すように非常にシンプルな器械ですが、Ｏ部を机上に固定し、Ｔ部の照準マークで図形の外周をなぞるだけで、その図形の面積を測ることができます。学生時代の実験で一度使...]]></content>
+        <published>2025-09-23T06:57:59.000Z</published>
+    </entry>
+</feed>

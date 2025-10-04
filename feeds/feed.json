@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/km_MATLAB_Amb/items/8459699d4a410043997d",
+            "content_html": "はじめに MATLAB では軸ラベルや凡例，タイトルなどの Interpreter として LaTeX を指定すれば数式をカッコよく表示できます． % 例：ylabel に数式を書く場合 ylabel(\"$f(x)=\\sin(x)$\", \"interpreter\", \"l...",
+            "url": "https://qiita.com/km_MATLAB_Amb/items/8459699d4a410043997d",
+            "title": "【MATLAB 可視化 Tips】すべての Interpreter を一括で LaTeX に変更する裏技 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに MATLAB では軸ラベルや凡例，タイトルなどの Interpreter として LaTeX を指定すれば数式をカッコよく表示できます． % 例：ylabel に数式を書く場合 ylabel(\"$f(x)=\\sin(x)$\", \"interpreter\", \"l...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjYxMjExNSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1NzA3NTUwMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTk5ZTM4ZGE0OTRkOGFmMDA5NDM2ZTlhOWIxM2MwZDI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D404bd2c4153c49fa6877e5e048af3764?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwTUFUTEFCJTIwJUU1JThGJUFGJUU4JUE2JTk2JUU1JThDJTk2JTIwVGlwcyVFMyU4MCU5MSVFMyU4MSU5OSVFMyU4MSVCOSVFMyU4MSVBNiVFMyU4MSVBRSUyMEludGVycHJldGVyJTIwJUUzJTgyJTkyJUU0JUI4JTgwJUU2JThCJUFDJUUzJTgxJUE3JTIwTGFUZVglMjAlRTMlODElQUIlRTUlQTQlODklRTYlOUIlQjQlRTMlODElOTklRTMlODIlOEIlRTglQTMlOEYlRTYlOEElODAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mYjIyZjU3ODE4YTg4Njg1NjE0NmY1YjY2YmUxNTI2MA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrbV9NQVRMQUJfQW1iJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODk1M2VkZmU4ZjQ1OTM0NDM4MDdlZGE4NDIzN2ZmYzM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1b911d1b39d70ed191ee9dccc40264d2"
+            },
+            "date_modified": "2025-09-25T09:58:38.000Z",
+            "date_published": "2025-09-25T09:58:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【MATLAB 可視化 Tips】すべての Interpreter を一括で LaTeX に変更する裏技",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/kaizen_nagoya/items/95921dabf1b56bd80a62",
+            "content_html": "FORTRAN Fortran 連立微分方程式のPade近似解法。手の最適化とコンパイラの最適化、誤差の評価 https://qiita.com/kaizen_nagoya/items/c55d29f0d7e9ebd07a31 連立微分方程式のPade近似と、Cコンパイラ...",
+            "url": "https://qiita.com/kaizen_nagoya/items/95921dabf1b56bd80a62",
+            "title": "Pade近似Fortran記述 with ChatGPT | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "FORTRAN Fortran 連立微分方程式のPade近似解法。手の最適化とコンパイラの最適化、誤差の評価 https://qiita.com/kaizen_nagoya/items/c55d29f0d7e9ebd07a31 連立微分方程式のPade近似と、Cコンパイラ...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTE0MjMlMkZwcm9maWxlLWltYWdlcyUyRjE1MzU0MzkzMzM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWJkMjhjZDE2NjFjMDM0MWFhNjhkZDMzNDkyMjI4ZWJh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Deaef0fd314efc1a509ff06c570cbf829?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UGFkZSVFOCVCRiU5MSVFNCVCQyVCQ0ZvcnRyYW4lRTglQTglOTglRTglQkYlQjAlMjB3aXRoJTIwQ2hhdEdQVCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTc0ODZiMjVhNGU5NzQ2NTQ5OWEzOWI3ZDAwOGVlMWY5&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYWl6ZW5fbmFnb3lhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWQzZWExNmYzNDRhZjQ5NzI3ZDU3NGE2Yzc5Y2FmMGQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e15abe6c138627bc1de711cc800a5ad4"
+            },
+            "date_modified": "2025-09-23T11:14:23.000Z",
+            "date_published": "2025-09-23T11:14:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Pade近似Fortran記述 with ChatGPT",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/tsubolabo/items/9f93f603b2f3ec4b3088",
+            "content_html": "昔語りの老害などと仰らずに、温故知新の心でお付き合いください。  １．はじめに  アナログ プラニメータは、図１に示すように非常にシンプルな器械ですが、Ｏ部を机上に固定し、Ｔ部の照準マークで図形の外周をなぞるだけで、その図形の面積を測ることができます。学生時代の実験で一度使...",
+            "url": "https://qiita.com/tsubolabo/items/9f93f603b2f3ec4b3088",
+            "title": "【アナログ プラニメータ】面積の測定原理を自己流に証明してみた | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "昔語りの老害などと仰らずに、温故知新の心でお付き合いください。  １．はじめに  アナログ プラニメータは、図１に示すように非常にシンプルな器械ですが、Ｏ部を机上に固定し、Ｔ部の照準マークで図形の外周をなぞるだけで、その図形の面積を測ることができます。学生時代の実験で一度使...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY5MzI0ODQlMkZkMmY1MDAwYjRhNzQwNGNhMWFlNWZjYTRiNDZmYjFjYmRiYzkyZTdjJTJGbGFyZ2UucG5nJTNGMTY0NzMzNDI1NT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODNlODhjZDZmOTc4YWNlODNlY2FlN2Q5MjFhNWQxN2Y%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D486a8f805b6050c79ae930d438472f1b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUUzJTgyJUEyJUUzJTgzJThBJUUzJTgzJUFEJUUzJTgyJUIwJTIwJUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgzJThCJUUzJTgzJUExJUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgwJTkxJUU5JTlEJUEyJUU3JUE5JThEJUUzJTgxJUFFJUU2JUI4JUFDJUU1JUFFJTlBJUU1JThFJTlGJUU3JTkwJTg2JUUzJTgyJTkyJUU4JTg3JUFBJUU1JUI3JUIxJUU2JUI1JTgxJUUzJTgxJUFCJUU4JUE4JUJDJUU2JTk4JThFJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MmYxY2JhYTczZmUyNzJlZDkzZGJmNjkxNzU5ZTYzYjY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0c3Vib2xhYm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yNDI4ZTIzMzlmYTRjMmM2OGZkMjYwMWY0ZDg2MDNmMA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=fcee3287a73d7c8ec87dde18e5579c1e"
+            },
+            "date_modified": "2025-09-23T06:57:59.000Z",
+            "date_published": "2025-09-23T06:57:59.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【アナログ プラニメータ】面積の測定原理を自己流に証明してみた",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}
