@@ -1,0 +1,52 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://note.com/leftbank/n/n090fc9c437f4",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/n090fc9c437f4",
+            "title": "MATLAB の隠しプロパティでキースキャン | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/220739545/rectangle_large_type_2_4d94e0064fdae9cfda98a0a593e41f07.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-10-11T10:23:57.000Z",
+            "date_published": "2025-10-11T10:23:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB の隠しプロパティでキースキャン",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/nee2e38987be4",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/nee2e38987be4",
+            "title": "部屋の音をシミュレーション ～ MATLAB で部屋形状からインパルス応答を推定して畳み込む | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/220033407/rectangle_large_type_2_0ae0c6a41738a8cbec4932c17ef7c45d.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-10-05T08:36:04.000Z",
+            "date_published": "2025-10-05T08:36:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "部屋の音をシミュレーション ～ MATLAB で部屋形状からインパルス応答を推定して畳み込む",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        }
+    ]
+}

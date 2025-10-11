@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 11 Oct 2025 15:02:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MATLAB の隠しプロパティでキースキャン | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/n090fc9c437f4</link>
+            <guid>https://note.com/leftbank/n/n090fc9c437f4</guid>
+            <pubDate>Sat, 11 Oct 2025 10:23:57 GMT</pubDate>
+            <description><![CDATA[まえがき 続きをみる]]></description>
+            <content:encoded><![CDATA[まえがき 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/220739545/rectangle_large_type_2_4d94e0064fdae9cfda98a0a593e41f07.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[部屋の音をシミュレーション ～ MATLAB で部屋形状からインパルス応答を推定して畳み込む | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/nee2e38987be4</link>
+            <guid>https://note.com/leftbank/n/nee2e38987be4</guid>
+            <pubDate>Sun, 05 Oct 2025 08:36:04 GMT</pubDate>
+            <description><![CDATA[まえがき 続きをみる]]></description>
+            <content:encoded><![CDATA[まえがき 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/220033407/rectangle_large_type_2_0ae0c6a41738a8cbec4932c17ef7c45d.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+    </channel>
+</rss>
