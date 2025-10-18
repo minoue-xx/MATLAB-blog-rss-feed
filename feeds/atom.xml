@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-10-18T23:02:53.803Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[なぜ、Pythonがプログラミング言語界の覇者となったのか？ | Zennの「matlab」のフィード]]></title>
+        <id>https://zenn.dev/pdfractal/articles/2586d718d76dd5</id>
+        <link href="https://zenn.dev/pdfractal/articles/2586d718d76dd5"/>
+        <updated>2025-10-18T04:27:21.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 21世紀初頭のプログラミング言語史を振り返ると、Pythonの台頭ほど「偶然と時代の整合」が見事に重なった例はありません。Pythonは、当初は教育向けやスクリプト用途の穏やかな便利屋として始まりました。それが今では、AI研究、データサイエンス、業務自動化、教育現場に至るまで、あらゆる領域を席巻しています。 本稿では、Pythonがどのような歴史的経緯と構造的条件によって覇権を握ったのか...]]></summary>
+        <content type="html"><![CDATA[はじめに 21世紀初頭のプログラミング言語史を振り返ると、Pythonの台頭ほど「偶然と時代の整合」が見事に重なった例はありません。Pythonは、当初は教育向けやスクリプト用途の穏やかな便利屋として始まりました。それが今では、AI研究、データサイエンス、業務自動化、教育現場に至るまで、あらゆる領域を席巻しています。 本稿では、Pythonがどのような歴史的経緯と構造的条件によって覇権を握ったのかを、RubyやJava、MATLAB、JavaScriptといった他言語の盛衰と対比しながら明らかにしていきます。Pythonは決して「最も優れた言語設計」を持っていたわけではありません。む...]]></content>
+        <author>
+            <name>pdfractal</name>
+        </author>
+        <published>2025-10-18T04:27:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MATLAB】角度の平均を求める | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/dokagui_tairan/items/ffcd438ca00ffd409e9f</id>
+        <link href="https://qiita.com/dokagui_tairan/items/ffcd438ca00ffd409e9f"/>
+        <updated>2025-10-16T13:21:10.000Z</updated>
+        <summary type="html"><![CDATA[意外とmatlabで角度の平均を求める記事が無かったので実装してみた．  実装 y = calcThetaMean([0 90]); % y = 45 y = calcThetaMean([0 -180]); % y = -90 y = calcThetaMean([9...]]></summary>
+        <content type="html"><![CDATA[意外とmatlabで角度の平均を求める記事が無かったので実装してみた．  実装 y = calcThetaMean([0 90]); % y = 45 y = calcThetaMean([0 -180]); % y = -90 y = calcThetaMean([9...]]></content>
+        <published>2025-10-16T13:21:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はじめてのMATLAB App Designer 基本チュートリアル | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Hisashi_Ishihara/items/eb62e0c44b0b51d8ff27</id>
+        <link href="https://qiita.com/Hisashi_Ishihara/items/eb62e0c44b0b51d8ff27"/>
+        <updated>2025-10-16T10:28:27.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB App Designerは、MATLABでGUIアプリを作成するためのツールです。MATLABの基本機能なので、MATLABのユーザであれば誰でも利用できます。MATLABの豊富な関数群をそのまま利用できるため、MATLABに慣れた人がApp Designer...]]></summary>
+        <content type="html"><![CDATA[MATLAB App Designerは、MATLABでGUIアプリを作成するためのツールです。MATLABの基本機能なので、MATLABのユーザであれば誰でも利用できます。MATLABの豊富な関数群をそのまま利用できるため、MATLABに慣れた人がApp Designer...]]></content>
+        <published>2025-10-16T10:28:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[システム思考の問題解決を教える／生成AI x ロボティクス／機構解析入門の教科書｜2025年10月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/n9ba2126fb5e9</id>
+        <link href="https://note.com/sachie_y/n/n9ba2126fb5e9"/>
+        <updated>2025-10-16T01:32:18.000Z</updated>
+        <summary type="html"><![CDATA[エンジニアリングにおける問題解決 インタラクティブな例を用いて、システム思考の観点から問題解決を教えるためのカリキュラム モジュール。 続きをみる]]></summary>
+        <content type="html"><![CDATA[エンジニアリングにおける問題解決 インタラクティブな例を用いて、システム思考の観点から問題解決を教えるためのカリキュラム モジュール。 続きをみる]]></content>
+        <published>2025-10-16T01:32:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB の隠しプロパティでキースキャン | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/n090fc9c437f4</id>
+        <link href="https://note.com/leftbank/n/n090fc9c437f4"/>
+        <updated>2025-10-11T10:23:57.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2025-10-11T10:23:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部屋の音をシミュレーション ～ MATLAB で部屋形状からインパルス応答を推定して畳み込む | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/nee2e38987be4</id>
+        <link href="https://note.com/leftbank/n/nee2e38987be4"/>
+        <updated>2025-10-05T08:36:04.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2025-10-05T08:36:04.000Z</published>
+    </entry>
+</feed>
