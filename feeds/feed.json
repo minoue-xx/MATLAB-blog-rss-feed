@@ -1,0 +1,139 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/abcdefg123/items/5ed1d22adeda755659f1",
+            "content_html": "序論 ポケモン世界の「10万ボルト」は、電気袋へのエネルギー蓄積と、そこからの負荷への放電という動的プロセスで理解できます。この放電現象は、時定数 $T$ に支配される一次遅れ系（First-Order Lag System）の典型であり、電気回路のRC自由減衰モデルとし...",
+            "url": "https://qiita.com/abcdefg123/items/5ed1d22adeda755659f1",
+            "title": "ピカチュウの「10万ボルト」と一次遅れ系の工学解析 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "序論 ポケモン世界の「10万ボルト」は、電気袋へのエネルギー蓄積と、そこからの負荷への放電という動的プロセスで理解できます。この放電現象は、時定数 $T$ に支配される一次遅れ系（First-Order Lag System）の典型であり、電気回路のRC自由減衰モデルとし...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTGxoeGhBdFh5QW1tMi1RSjFydEJWa3JSa0JBZVJCaWpWQUpXLWdTU1kxT1daT2FnJTNEczk2LWM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ0ZTY1ZTdlMTUyMjk3MjcxNDQ1ODFiZTU2Y2UzOTE2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2529607b50ded2454ddad9aa57b5ee32?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTk0JUUzJTgyJUFCJUUzJTgzJTgxJUUzJTgzJUE1JUUzJTgyJUE2JUUzJTgxJUFFJUUzJTgwJThDMTAlRTQlQjglODclRTMlODMlOUMlRTMlODMlQUIlRTMlODMlODglRTMlODAlOEQlRTMlODElQTglRTQlQjglODAlRTYlQUMlQTElRTklODElODUlRTMlODIlOEMlRTclQjMlQkIlRTMlODElQUUlRTUlQjclQTUlRTUlQUQlQTYlRTglQTclQTMlRTYlOUUlOTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05YTFiMzE0MGZjNTQyZWVhZjM0ZGQxMTZmZWQyOGE3Nw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBhYmNkZWZnMTIzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Yjg3MDAxNzdmZWU5MjVmNTg5ODEwMTcxODM4OTg2N2Y&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=735a0fe39d6547cc97088741e41a0f70"
+            },
+            "date_modified": "2025-10-21T07:07:54.000Z",
+            "date_published": "2025-10-21T07:07:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ピカチュウの「10万ボルト」と一次遅れ系の工学解析",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/qwer123123/items/52f3afac4022e05f7533",
+            "content_html": "第1章 第1節 ベクトルの演算（Vector Operations）  1．ベクトルの基本定義 定義 空間内の位置を表す数量には「大きさ」と「向き」がある。このような量を**ベクトル（vector）**という。 成分表示では a = (a₁, a₂, a₃) と書く。こ...",
+            "url": "https://qiita.com/qwer123123/items/52f3afac4022e05f7533",
+            "title": "高専のための応用数学 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "第1章 第1節 ベクトルの演算（Vector Operations）  1．ベクトルの基本定義 定義 空間内の位置を表す数量には「大きさ」と「向き」がある。このような量を**ベクトル（vector）**という。 成分表示では a = (a₁, a₂, a₃) と書く。こ...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzU5MTA5JTJGZGNmOTFjMGVmYzE2MWM3Njg2MTQxN2Y4YjVmZTBiNjQ4NjcwNTJkNSUyRnhfbGFyZ2UucG5nJTNGMTcxMTgxMDM2Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDY0NzJiNmU2Mzk4NTE0YjhkMGJkMzliMTJiYzc2ZGU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da7add841913adbe01278e3646901469d?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JUFCJTk4JUU1JUIwJTgyJUUzJTgxJUFFJUUzJTgxJTlGJUUzJTgyJTgxJUUzJTgxJUFFJUU1JUJGJTlDJUU3JTk0JUE4JUU2JTk1JUIwJUU1JUFEJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjM5NTk3YjlhYzFkMzAwNGFkMTRlYmMyODIyYjUxYjc&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBxd2VyMTIzMTIzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmNjOTY5NjIxZWIzOGM4MGIyMmVhMjhkNmRhOTMxNTA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e28336dae37a5025ae2b173e23801ac3"
+            },
+            "date_modified": "2025-10-19T08:45:47.000Z",
+            "date_published": "2025-10-19T08:45:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "高専のための応用数学",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://zenn.dev/pdfractal/articles/2586d718d76dd5",
+            "content_html": "はじめに 21世紀初頭のプログラミング言語史を振り返ると、Pythonの台頭ほど「偶然と時代の整合」が見事に重なった例はありません。Pythonは、当初は教育向けやスクリプト用途の穏やかな便利屋として始まりました。それが今では、AI研究、データサイエンス、業務自動化、教育現場に至るまで、あらゆる領域を席巻しています。 本稿では、Pythonがどのような歴史的経緯と構造的条件によって覇権を握ったのかを、RubyやJava、MATLAB、JavaScriptといった他言語の盛衰と対比しながら明らかにしていきます。Pythonは決して「最も優れた言語設計」を持っていたわけではありません。む...",
+            "url": "https://zenn.dev/pdfractal/articles/2586d718d76dd5",
+            "title": "なぜ、Pythonがプログラミング言語界の覇者となったのか？ | Zennの「matlab」のフィード",
+            "summary": "はじめに 21世紀初頭のプログラミング言語史を振り返ると、Pythonの台頭ほど「偶然と時代の整合」が見事に重なった例はありません。Pythonは、当初は教育向けやスクリプト用途の穏やかな便利屋として始まりました。それが今では、AI研究、データサイエンス、業務自動化、教育現場に至るまで、あらゆる領域を席巻しています。 本稿では、Pythonがどのような歴史的経緯と構造的条件によって覇権を握ったのか...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--7MspSavk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%2581Python%25E3%2581%258C%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E8%25A8%2580%25E8%25AA%259E%25E7%2595%258C%25E3%2581%25AE%25E8%25A6%2587%25E8%2580%2585%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M4ZmJkZmFkY2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+            },
+            "date_modified": "2025-10-18T04:27:21.000Z",
+            "date_published": "2025-10-18T04:27:21.000Z",
+            "author": {
+                "name": "pdfractal"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "なぜ、Pythonがプログラミング言語界の覇者となったのか？",
+                "blogTitle": "Zennの「matlab」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        },
+        {
+            "id": "https://qiita.com/dokagui_tairan/items/ffcd438ca00ffd409e9f",
+            "content_html": "意外とmatlabで角度の平均を求める記事が無かったので実装してみた．  実装 y = calcThetaMean([0 90]); % y = 45 y = calcThetaMean([0 -180]); % y = -90 y = calcThetaMean([9...",
+            "url": "https://qiita.com/dokagui_tairan/items/ffcd438ca00ffd409e9f",
+            "title": "【MATLAB】角度の平均を求める | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "意外とmatlabで角度の平均を求める記事が無かったので実装してみた．  実装 y = calcThetaMean([0 90]); % y = 45 y = calcThetaMean([0 -180]); % y = -90 y = calcThetaMean([9...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzczMTY4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTg1MTQ1ODU3P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz03NTVmYTNlZmQ5OTBiYTc2MmJjOGE3YzI3YzEyNWVmZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D82032b8df011b051c639a86d1d8cdca5?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwTUFUTEFCJUUzJTgwJTkxJUU4JUE3JTkyJUU1JUJBJUE2JUUzJTgxJUFFJUU1JUI5JUIzJUU1JTlEJTg3JUUzJTgyJTkyJUU2JUIxJTgyJUUzJTgyJTgxJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjY3ZTFmMDQxYjNkMzU0NzQ0NTk0MmU5MmYyZjYxMmQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkb2thZ3VpX3RhaXJhbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTc2ZGI2OTQ3ODUxMjM5MTZiOTQyYjI2YTVhNmU2YWJl&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d46c2ead71f3548eeb3a949f9be9e5ab"
+            },
+            "date_modified": "2025-10-16T13:21:10.000Z",
+            "date_published": "2025-10-16T13:21:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【MATLAB】角度の平均を求める",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/Hisashi_Ishihara/items/eb62e0c44b0b51d8ff27",
+            "content_html": "MATLAB App Designerは、MATLABでGUIアプリを作成するためのツールです。MATLABの基本機能なので、MATLABのユーザであれば誰でも利用できます。MATLABの豊富な関数群をそのまま利用できるため、MATLABに慣れた人がApp Designer...",
+            "url": "https://qiita.com/Hisashi_Ishihara/items/eb62e0c44b0b51d8ff27",
+            "title": "はじめてのMATLAB App Designer 基本チュートリアル | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "MATLAB App Designerは、MATLABでGUIアプリを作成するためのツールです。MATLABの基本機能なので、MATLABのユーザであれば誰でも利用できます。MATLABの豊富な関数群をそのまま利用できるため、MATLABに慣れた人がApp Designer...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTHNBWjFCWFF3OGY1cXk1R2xwRllhUFhqNFhYeDhPS2hrWko4YnY5QW8yQThZUHJvQSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00MDBjYzRhODQzZjUwNDJiMTdlNzFmMTI1MGE4YjI2MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D36fde6ea0e7d6233149390afb5821038?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFGJUUzJTgxJTk4JUUzJTgyJTgxJUUzJTgxJUE2JUUzJTgxJUFFTUFUTEFCJTIwQXBwJTIwRGVzaWduZXIlMjAlRTUlOUYlQkElRTYlOUMlQUMlRTMlODMlODElRTMlODMlQTUlRTMlODMlQkMlRTMlODMlODglRTMlODMlQUElRTMlODIlQTIlRTMlODMlQUImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wMWRkYjNjNTFlODEyYmVlMmM3YzZlOWUyZDM5YWZmYw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIaXNhc2hpX0lzaGloYXJhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDkzMDNiOTZhNGU2YWUxYTZiODFmZTk5MGJkMTc5N2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=16e07dd0984be0aa437818bd48b1fbfa"
+            },
+            "date_modified": "2025-10-16T10:28:27.000Z",
+            "date_published": "2025-10-16T10:28:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "はじめてのMATLAB App Designer 基本チュートリアル",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/sachie_y/n/n9ba2126fb5e9",
+            "content_html": "エンジニアリングにおける問題解決 インタラクティブな例を用いて、システム思考の観点から問題解決を教えるためのカリキュラム モジュール。 続きをみる",
+            "url": "https://note.com/sachie_y/n/n9ba2126fb5e9",
+            "title": "システム思考の問題解決を教える／生成AI x ロボティクス／機構解析入門の教科書｜2025年10月 | MATLAB アカデミックニュースレター",
+            "summary": "エンジニアリングにおける問題解決 インタラクティブな例を用いて、システム思考の観点から問題解決を教えるためのカリキュラム モジュール。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/222599603/rectangle_large_type_2_c587f9852db98b9cd5b75c75924a0e4f.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-10-16T01:32:18.000Z",
+            "date_published": "2025-10-16T01:32:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "システム思考の問題解決を教える／生成AI x ロボティクス／機構解析入門の教科書｜2025年10月",
+                "blogTitle": "MATLAB アカデミックニュースレター",
+                "blogLink": "https://note.com/sachie_y/m/mca72ce231fdc",
+                "blogLinkMd5Hash": "ec19369802a92db6c4cb13993c856ff7"
+            }
+        }
+    ]
+}
