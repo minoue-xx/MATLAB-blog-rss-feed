@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-11-02T03:23:25.336Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[シュレディンガー方程式をMATLABで解いてみた話 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Gomachan_2021/items/68c532404bea6bda3d94</id>
+        <link href="https://qiita.com/Gomachan_2021/items/68c532404bea6bda3d94"/>
+        <updated>2025-11-01T06:33:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして、りょーつといいます。高専出身の大学院2年生です。研究の専門は力学や機構学で、Qiitaでは主に制御工学や数学に関する記事を書いています。  先日、恋人と量子力学の話題で盛り上がったことをきっかけに、ノリと勢いでシュレディンガー方程式を解いてみました。MATL...]]></summary>
+        <content type="html"><![CDATA[はじめまして、りょーつといいます。高専出身の大学院2年生です。研究の専門は力学や機構学で、Qiitaでは主に制御工学や数学に関する記事を書いています。  先日、恋人と量子力学の話題で盛り上がったことをきっかけに、ノリと勢いでシュレディンガー方程式を解いてみました。MATL...]]></content>
+        <published>2025-11-01T06:33:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MATLAB 可視化 Tips】MATLAB でパワポの『最前面に配置』みたいなことをする | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/km_MATLAB_Amb/items/98b12e3efc79f3245eb0</id>
+        <link href="https://qiita.com/km_MATLAB_Amb/items/98b12e3efc79f3245eb0"/>
+        <updated>2025-10-28T11:12:48.000Z</updated>
+        <summary type="html"><![CDATA[概要 グラフィクスオブジェクト h を最前面に配置するには以下のコードを追加します． legend("AutoUpdate","off"); % 凡例を表示し自動更新を停止 uistack(h, 'top'); % h を最前面に配置  はじめに MA...]]></summary>
+        <content type="html"><![CDATA[概要 グラフィクスオブジェクト h を最前面に配置するには以下のコードを追加します． legend("AutoUpdate","off"); % 凡例を表示し自動更新を停止 uistack(h, 'top'); % h を最前面に配置  はじめに MA...]]></content>
+        <published>2025-10-28T11:12:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ピカチュウの「10万ボルト」と一次遅れ系の工学解析 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/abcdefg123/items/5ed1d22adeda755659f1</id>
+        <link href="https://qiita.com/abcdefg123/items/5ed1d22adeda755659f1"/>
+        <updated>2025-10-21T07:07:54.000Z</updated>
+        <summary type="html"><![CDATA[序論 ポケモン世界の「10万ボルト」は、電気袋へのエネルギー蓄積と、そこからの負荷への放電という動的プロセスで理解できます。この放電現象は、時定数 $T$ に支配される一次遅れ系（First-Order Lag System）の典型であり、電気回路のRC自由減衰モデルとし...]]></summary>
+        <content type="html"><![CDATA[序論 ポケモン世界の「10万ボルト」は、電気袋へのエネルギー蓄積と、そこからの負荷への放電という動的プロセスで理解できます。この放電現象は、時定数 $T$ に支配される一次遅れ系（First-Order Lag System）の典型であり、電気回路のRC自由減衰モデルとし...]]></content>
+        <published>2025-10-21T07:07:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高専のための応用数学 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/qwer123123/items/52f3afac4022e05f7533</id>
+        <link href="https://qiita.com/qwer123123/items/52f3afac4022e05f7533"/>
+        <updated>2025-10-19T08:45:47.000Z</updated>
+        <summary type="html"><![CDATA[第1章 第1節 ベクトルの演算（Vector Operations）  1．ベクトルの基本定義 定義 空間内の位置を表す数量には「大きさ」と「向き」がある。このような量を**ベクトル（vector）**という。 成分表示では a = (a₁, a₂, a₃) と書く。こ...]]></summary>
+        <content type="html"><![CDATA[第1章 第1節 ベクトルの演算（Vector Operations）  1．ベクトルの基本定義 定義 空間内の位置を表す数量には「大きさ」と「向き」がある。このような量を**ベクトル（vector）**という。 成分表示では a = (a₁, a₂, a₃) と書く。こ...]]></content>
+        <published>2025-10-19T08:45:47.000Z</published>
+    </entry>
+</feed>
