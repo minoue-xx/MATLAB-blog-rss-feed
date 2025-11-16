@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-11-16T09:02:58.630Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[GOSAT(いぶき)のデータをMATLABで解析 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/SatomiEto/items/4f76a2677ccb1b322388</id>
+        <link href="https://qiita.com/SatomiEto/items/4f76a2677ccb1b322388"/>
+        <updated>2025-11-16T06:17:46.000Z</updated>
+        <summary type="html"><![CDATA[大学時代は気象学会所属で大気データの解析をする研究だったので、この分野をMATLABでやったらどんな感じだろうということでやってみました。  GOSAT（愛称：いぶき）とは 温室効果ガス観測技術衛星「GOSAT (Greenhouse gases Observing SAT...]]></summary>
+        <content type="html"><![CDATA[大学時代は気象学会所属で大気データの解析をする研究だったので、この分野をMATLABでやったらどんな感じだろうということでやってみました。  GOSAT（愛称：いぶき）とは 温室効果ガス観測技術衛星「GOSAT (Greenhouse gases Observing SAT...]]></content>
+        <published>2025-11-16T06:17:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulinkによる制御設計入門／マイクロマウスのためのライントレースモデル／AIは人間よりも優れた無線チップを設計できるのか？｜2025年11月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/n78e7e8c77060</id>
+        <link href="https://note.com/sachie_y/n/n78e7e8c77060"/>
+        <updated>2025-11-12T01:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Simulinkによる制御設計入門 Simulinkを使用したフィードバック制御の基礎を学習できます。演習では、PID コントローラーのゲインを調整して物理システムのダイナミクスを変更し、必要な閉ループシステムの動作を確認します。 続きをみる]]></summary>
+        <content type="html"><![CDATA[Simulinkによる制御設計入門 Simulinkを使用したフィードバック制御の基礎を学習できます。演習では、PID コントローラーのゲインを調整して物理システムのダイナミクスを変更し、必要な閉ループシステムの動作を確認します。 続きをみる]]></content>
+        <published>2025-11-12T01:53:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autosar with Matlab/Simulink by ChatGPT  | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kaizen_nagoya/items/0274936d812455124fa7</id>
+        <link href="https://qiita.com/kaizen_nagoya/items/0274936d812455124fa7"/>
+        <updated>2025-11-11T11:58:41.000Z</updated>
+        <summary type="html"><![CDATA[On the mathworks movie https://jp.mathworks.com/videos/vertical-autosar-system-development-at-john-deere-1527488063826.html, I now unders...]]></summary>
+        <content type="html"><![CDATA[On the mathworks movie https://jp.mathworks.com/videos/vertical-autosar-system-development-at-john-deere-1527488063826.html, I now unders...]]></content>
+        <published>2025-11-11T11:58:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABスクリプトで実行するSimulink入門 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/phyblas/items/0b5225ad2f25265b83f6</id>
+        <link href="https://qiita.com/phyblas/items/0b5225ad2f25265b83f6"/>
+        <updated>2025-11-06T22:42:35.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、MATLABスクリプトを使用してGUI操作を介さずに直接Simulinkモデルを作成・実行する方法について説明します。  はじめに 最近制御工学に興味を持ち、関連する記事も執筆しました。  普段はPythonを使用しており、それで十分便利なのですが、複雑な...]]></summary>
+        <content type="html"><![CDATA[この記事では、MATLABスクリプトを使用してGUI操作を介さずに直接Simulinkモデルを作成・実行する方法について説明します。  はじめに 最近制御工学に興味を持ち、関連する記事も執筆しました。  普段はPythonを使用しており、それで十分便利なのですが、複雑な...]]></content>
+        <published>2025-11-06T22:42:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TR‑BDF2法でSPICE系DAEを解く：台形＋BDF2の「いいとこ取り」をしたい | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/sukimaengineer/items/28d56ed932247093fcc9</id>
+        <link href="https://qiita.com/sukimaengineer/items/28d56ed932247093fcc9"/>
+        <updated>2025-11-03T00:19:49.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 本記事は、前回の 「SPICEの過渡解析における誤差推定とステップ制御」 の続編です。前回は主に 台形法（Trapezoidal） と BDF（Gear）法 に触れましたが、じつは 両者を1ステップ内で組み合わせた"TR‑BDF2法" という選択肢もあります。...]]></summary>
+        <content type="html"><![CDATA[はじめに 本記事は、前回の 「SPICEの過渡解析における誤差推定とステップ制御」 の続編です。前回は主に 台形法（Trapezoidal） と BDF（Gear）法 に触れましたが、じつは 両者を1ステップ内で組み合わせた"TR‑BDF2法" という選択肢もあります。...]]></content>
+        <published>2025-11-03T00:19:49.000Z</published>
+    </entry>
+</feed>

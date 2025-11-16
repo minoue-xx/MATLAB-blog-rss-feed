@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sun, 16 Nov 2025 09:02:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GOSAT(いぶき)のデータをMATLABで解析 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/SatomiEto/items/4f76a2677ccb1b322388</link>
+            <guid>https://qiita.com/SatomiEto/items/4f76a2677ccb1b322388</guid>
+            <pubDate>Sun, 16 Nov 2025 06:17:46 GMT</pubDate>
+            <description><![CDATA[大学時代は気象学会所属で大気データの解析をする研究だったので、この分野をMATLABでやったらどんな感じだろうということでやってみました。  GOSAT（愛称：いぶき）とは 温室効果ガス観測技術衛星「GOSAT (Greenhouse gases Observing SAT...]]></description>
+            <content:encoded><![CDATA[大学時代は気象学会所属で大気データの解析をする研究だったので、この分野をMATLABでやったらどんな感じだろうということでやってみました。  GOSAT（愛称：いぶき）とは 温室効果ガス観測技術衛星「GOSAT (Greenhouse gases Observing SAT...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE5NTE4OTA5NzczODEzNTU1MjAlMkYxWHB4b2tkdl9iaWdnZXIuanBnP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz03NjViNDg3MGQyZGE0MzZiNDZjMzgyZDJjMDI3ZDI3Ng%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D92aca0aebad95b7b93a44d8c8d6c1b35?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R09TQVQlMjglRTMlODElODQlRTMlODElQjYlRTMlODElOEQlMjklRTMlODElQUUlRTMlODMlODclRTMlODMlQkMlRTMlODIlQkYlRTMlODIlOTJNQVRMQUIlRTMlODElQTclRTglQTclQTMlRTYlOUUlOTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00ZmFlZGU3ZWU4ZDY5M2QyYTc0ZmIyMjUwMjA5NDk1ZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTYXRvbWlFdG8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02NWNhMDJhYjYyYzI1NjYwNTBmNzg0YTk5NGQ5ZTUzNQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=2381e7b5463d46ff040a0fb35f142948"/>
+        </item>
+        <item>
+            <title><![CDATA[Simulinkによる制御設計入門／マイクロマウスのためのライントレースモデル／AIは人間よりも優れた無線チップを設計できるのか？｜2025年11月 | MATLAB アカデミックニュースレター]]></title>
+            <link>https://note.com/sachie_y/n/n78e7e8c77060</link>
+            <guid>https://note.com/sachie_y/n/n78e7e8c77060</guid>
+            <pubDate>Wed, 12 Nov 2025 01:53:59 GMT</pubDate>
+            <description><![CDATA[Simulinkによる制御設計入門 Simulinkを使用したフィードバック制御の基礎を学習できます。演習では、PID コントローラーのゲインを調整して物理システムのダイナミクスを変更し、必要な閉ループシステムの動作を確認します。 続きをみる]]></description>
+            <content:encoded><![CDATA[Simulinkによる制御設計入門 Simulinkを使用したフィードバック制御の基礎を学習できます。演習では、PID コントローラーのゲインを調整して物理システムのダイナミクスを変更し、必要な閉ループシステムの動作を確認します。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/228771422/rectangle_large_type_2_6b8dd10b94948b911566dcd1fa6eea80.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Autosar with Matlab/Simulink by ChatGPT  | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/kaizen_nagoya/items/0274936d812455124fa7</link>
+            <guid>https://qiita.com/kaizen_nagoya/items/0274936d812455124fa7</guid>
+            <pubDate>Tue, 11 Nov 2025 11:58:41 GMT</pubDate>
+            <description><![CDATA[On the mathworks movie https://jp.mathworks.com/videos/vertical-autosar-system-development-at-john-deere-1527488063826.html, I now unders...]]></description>
+            <content:encoded><![CDATA[On the mathworks movie https://jp.mathworks.com/videos/vertical-autosar-system-development-at-john-deere-1527488063826.html, I now unders...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTE0MjMlMkZwcm9maWxlLWltYWdlcyUyRjE1MzU0MzkzMzM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWJkMjhjZDE2NjFjMDM0MWFhNjhkZDMzNDkyMjI4ZWJh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Deaef0fd314efc1a509ff06c570cbf829?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QXV0b3NhciUyMHdpdGglMjBNYXRsYWIlMkZTaW11bGluayUyMGJ5JTIwQ2hhdEdQVCUyMCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWZhNzQyNzg3ZDQ5OTlkNTRlOTkzMDVhOWYzZTljYjEw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYWl6ZW5fbmFnb3lhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWQzZWExNmYzNDRhZjQ5NzI3ZDU3NGE2Yzc5Y2FmMGQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=4aef16f3c749c3887dd45d3b815f8a85"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLABスクリプトで実行するSimulink入門 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/phyblas/items/0b5225ad2f25265b83f6</link>
+            <guid>https://qiita.com/phyblas/items/0b5225ad2f25265b83f6</guid>
+            <pubDate>Thu, 06 Nov 2025 22:42:35 GMT</pubDate>
+            <description><![CDATA[この記事では、MATLABスクリプトを使用してGUI操作を介さずに直接Simulinkモデルを作成・実行する方法について説明します。  はじめに 最近制御工学に興味を持ち、関連する記事も執筆しました。  普段はPythonを使用しており、それで十分便利なのですが、複雑な...]]></description>
+            <content:encoded><![CDATA[この記事では、MATLABスクリプトを使用してGUI操作を介さずに直接Simulinkモデルを作成・実行する方法について説明します。  はじめに 最近制御工学に興味を持ち、関連する記事も執筆しました。  普段はPythonを使用しており、それで十分便利なのですが、複雑な...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjAyOTAzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNzU1MjEyMzU1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wODVjMjMwYWU5ZmFmYmRmOGYxZmUyM2JhZjFjZDY4YQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2c9993491433ed131115abb6a1e65c16?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgyJUI5JUUzJTgyJUFGJUUzJTgzJUFBJUUzJTgzJTk3JUUzJTgzJTg4JUUzJTgxJUE3JUU1JUFFJTlGJUU4JUExJThDJUUzJTgxJTk5JUUzJTgyJThCU2ltdWxpbmslRTUlODUlQTUlRTklOTYlODAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01ZDZiYzRiMGVkOWU1NzZjODYzMWRmMzY0YmExMzdkNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBwaHlibGFzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YzRlNjg4OTk2YzlkMjhmY2FlODQ0YmNjMzQ3MGE0MzM&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=de5dc9a3118b3c4e2295993e56d15a8d"/>
+        </item>
+        <item>
+            <title><![CDATA[TR‑BDF2法でSPICE系DAEを解く：台形＋BDF2の「いいとこ取り」をしたい | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/sukimaengineer/items/28d56ed932247093fcc9</link>
+            <guid>https://qiita.com/sukimaengineer/items/28d56ed932247093fcc9</guid>
+            <pubDate>Mon, 03 Nov 2025 00:19:49 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事は、前回の 「SPICEの過渡解析における誤差推定とステップ制御」 の続編です。前回は主に 台形法（Trapezoidal） と BDF（Gear）法 に触れましたが、じつは 両者を1ステップ内で組み合わせた"TR‑BDF2法" という選択肢もあります。...]]></description>
+            <content:encoded><![CDATA[はじめに 本記事は、前回の 「SPICEの過渡解析における誤差推定とステップ制御」 の続編です。前回は主に 台形法（Trapezoidal） と BDF（Gear）法 に触れましたが、じつは 両者を1ステップ内で組み合わせた"TR‑BDF2法" という選択肢もあります。...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTc2ODY4JTJGMzZiMjBjN2E0ZjQ2OTc1ZDgzMWJlNzU4NmUxMzNjMzE5MDRlMTZmOSUyRmxhcmdlLnBuZyUzRjE3MzU4OTc4MjI_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWVlMmU2ZmNmMTY2MDhhNDFiMDFiOTk4NjdmNjM5NzNi%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D656d96616dbe103bf3b2dc57ce05d37d?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VFIlRTIlODAlOTFCREYyJUU2JUIzJTk1JUUzJTgxJUE3U1BJQ0UlRTclQjMlQkJEQUUlRTMlODIlOTIlRTglQTclQTMlRTMlODElOEYlRUYlQkMlOUElRTUlOEYlQjAlRTUlQkQlQTIlRUYlQkMlOEJCREYyJUUzJTgxJUFFJUUzJTgwJThDJUUzJTgxJTg0JUUzJTgxJTg0JUUzJTgxJUE4JUUzJTgxJTkzJUU1JThGJTk2JUUzJTgyJThBJUUzJTgwJThEJUUzJTgyJTkyJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzVhZGJmODIyNWEwODQxMGY3ZTgzN2I4NmNlYmE0ZmY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzdWtpbWFlbmdpbmVlciZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTFiOGZlYjZjM2JmMTk3ZWFkZWY0MjcyYjQ3MjIyMGVl&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=624d44574987469d92fae5ccec88bf3e"/>
+        </item>
+    </channel>
+</rss>
