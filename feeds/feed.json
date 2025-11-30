@@ -1,0 +1,31 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/naom1029/items/48cd940529b3c654e7ba",
+            "content_html": "はじめに 機械学習のコンペティション（Kaggle など）で最強のアルゴリズムの一つと言われる GBDT (Gradient Boosting Decision Tree)。 今回は、その中身を深く理解するために、あえてライブラリを使わず MATLAB でゼロから実装して...",
+            "url": "https://qiita.com/naom1029/items/48cd940529b3c654e7ba",
+            "title": "GBDT を MATLAB で実装してみた | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに 機械学習のコンペティション（Kaggle など）で最強のアルゴリズムの一つと言われる GBDT (Gradient Boosting Decision Tree)。 今回は、その中身を深く理解するために、あえてライブラリを使わず MATLAB でゼロから実装して...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNjExODYxJTJGcHJvZmlsZS1pbWFnZXMlMkYxNzM2ODY1NTc0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz03NTU4ODRjYTAyNGY4NjNjN2Y4OWY3OWNmYjAzOTY4NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6b65418efa04196e029be4855b9d207a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R0JEVCUyMCVFMyU4MiU5MiUyME1BVExBQiUyMCVFMyU4MSVBNyVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTYwZDYyMTVhN2NlM2I2MGIzNjVjNzE3ZDZhNzcyZGVi&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBuYW9tMTAyOSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTA4NDU4MzljOGMwMjBhNjA4MTZkN2QxMDk0Y2Q5NGI0&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a57a91d5cadcec7b8e2f648a690c8356"
+            },
+            "date_modified": "2025-11-26T10:07:57.000Z",
+            "date_published": "2025-11-26T10:07:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GBDT を MATLAB で実装してみた",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}

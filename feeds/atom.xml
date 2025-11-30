@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-11-30T15:02:55.879Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[GBDT を MATLAB で実装してみた | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/naom1029/items/48cd940529b3c654e7ba</id>
+        <link href="https://qiita.com/naom1029/items/48cd940529b3c654e7ba"/>
+        <updated>2025-11-26T10:07:57.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 機械学習のコンペティション（Kaggle など）で最強のアルゴリズムの一つと言われる GBDT (Gradient Boosting Decision Tree)。 今回は、その中身を深く理解するために、あえてライブラリを使わず MATLAB でゼロから実装して...]]></summary>
+        <content type="html"><![CDATA[はじめに 機械学習のコンペティション（Kaggle など）で最強のアルゴリズムの一つと言われる GBDT (Gradient Boosting Decision Tree)。 今回は、その中身を深く理解するために、あえてライブラリを使わず MATLAB でゼロから実装して...]]></content>
+        <published>2025-11-26T10:07:57.000Z</published>
+    </entry>
+</feed>
