@@ -1,0 +1,136 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://note.com/leftbank/n/n360b8a4ff2b9",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/n360b8a4ff2b9",
+            "title": "MATLAB で再現する運動の錯視：単振動から生まれる回転運動 | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/229897573/rectangle_large_type_2_732b652c5940af67e8ad3fae79dacb28.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-12-06T17:09:33.000Z",
+            "date_published": "2025-12-06T17:09:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB で再現する運動の錯視：単振動から生まれる回転運動",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://qiita.com/Carter/items/e30cbb1b16d5c5be5d30",
+            "content_html": "0. はじめに  自動制御連合講演会 2025 で，Takuya Otani (https://x.com/ta98otani) さんとお話する機会があり，Simulink と M5Stack の連携に関するわたしの困りごとを相談しました．具体的には，以下の 2 点です．...",
+            "url": "https://qiita.com/Carter/items/e30cbb1b16d5c5be5d30",
+            "title": "Simulink × M5Stack：Simulink モデルをそのままブチ込んで MATLAB からリモート制御 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "0. はじめに  自動制御連合講演会 2025 で，Takuya Otani (https://x.com/ta98otani) さんとお話する機会があり，Simulink と M5Stack の連携に関するわたしの困りごとを相談しました．具体的には，以下の 2 点です．...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE0Mjk2MzA4NTc3NDA4MzY4NjYlMkZreXdJS2ZTel9iaWdnZXIuanBnP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05NzNhZDYwOTA3NWI3Y2RkZTJiZWI4ZDA4NTdlMGQyNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D45e201380d48b6f32fdf8abd856fee29?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltdWxpbmslMjAlQzMlOTclMjBNNVN0YWNrJUVGJUJDJTlBU2ltdWxpbmslMjAlRTMlODMlQTIlRTMlODMlODclRTMlODMlQUIlRTMlODIlOTIlRTMlODElOUQlRTMlODElQUUlRTMlODElQkUlRTMlODElQkUlRTMlODMlOTYlRTMlODMlODElRTglQkUlQkMlRTMlODIlOTMlRTMlODElQTclMjBNQVRMQUIlMjAlRTMlODElOEIlRTMlODIlODklRTMlODMlQUElRTMlODMlQTIlRTMlODMlQkMlRTMlODMlODglRTUlODglQjYlRTUlQkUlQTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jYzFmYWFhYjdlNjY0M2Q2ZjVmNTk4YTQzODY1NzE3OA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDYXJ0ZXImdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz05NTJlNDAyMzRiMjVhZjhjZmZhMTRlYzAyYWY3OTQ2OA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b882731073ed17f20da4fdcfce3669b2"
+            },
+            "date_modified": "2025-12-05T22:31:28.000Z",
+            "date_published": "2025-12-05T22:31:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulink × M5Stack：Simulink モデルをそのままブチ込んで MATLAB からリモート制御",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/getBack1969/items/0400e0179698b5ecf42f",
+            "content_html": "はじめに 今回の記事では、PIDのゲインスケジューリング設計についてデータドリブンに基づく手法を試してみたいと思います。 近年、Simulinkの製品ファミリーであるSimulink Control Designにてデータドリブンに基づくオンラインのPIDゲイン自動調整機...",
+            "url": "https://qiita.com/getBack1969/items/0400e0179698b5ecf42f",
+            "title": "データドリブンに基づくゲインスケジューリングPID制御器の設計 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに 今回の記事では、PIDのゲインスケジューリング設計についてデータドリブンに基づく手法を試してみたいと思います。 近年、Simulinkの製品ファミリーであるSimulink Control Designにてデータドリブンに基づくオンラインのPIDゲイン自動調整機...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNTI1MzY5JTJGZjE0Nzk0M2M3NTI1MzI4MmQ3ZGJjZjk5ZTZmZjUyNzk4ZGY4ODc4YiUyRnhfbGFyZ2UucG5nJTNGMTc1NzY3MTA4Nz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzgwZWVjZmUwNWY5MDA0NmJmOWMyOGM1ZmViM2M1Mzk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D84fcd243f1fb192f8a572723a8837267?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTg3JUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgzJTg5JUUzJTgzJUFBJUUzJTgzJTk2JUUzJTgzJUIzJUUzJTgxJUFCJUU1JTlGJUJBJUUzJTgxJUE1JUUzJTgxJThGJUUzJTgyJUIyJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgyJUIxJUUzJTgyJUI4JUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwUElEJUU1JTg4JUI2JUU1JUJFJUExJUU1JTk5JUE4JUUzJTgxJUFFJUU4JUE4JUFEJUU4JUE4JTg4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODM0ZmJkYmY2ZTQxZmNjMWMwMjk1YmViODAwODg0ZjU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBnZXRCYWNrMTk2OSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTgxZmZlMGE1NmI0YjU0OWNhOGMzMmJlZGUxY2Y4YjY4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4a2ddaddd812d3f95b3810b77eaa3943"
+            },
+            "date_modified": "2025-12-03T06:45:34.000Z",
+            "date_published": "2025-12-03T06:45:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "データドリブンに基づくゲインスケジューリングPID制御器の設計",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/sachie_y/n/na0dfd8a30ae8",
+            "content_html": "Simulinkによるスケールアップ Simulinkプロジェクトの規模が拡大し、より多くの共同作業者が関与するようになると、設計上の課題も増加します。このチートシートでは、コンポーネント、データ、ファイルを効果的に管理するための実践的なヒントをご紹介します。 続きをみる",
+            "url": "https://note.com/sachie_y/n/na0dfd8a30ae8",
+            "title": "プロジェクト管理のためのチートシート／ロボティクス入門教材パッケージ／AIエージェント x MATLAB｜2025年12月 | MATLAB アカデミックニュースレター",
+            "summary": "Simulinkによるスケールアップ Simulinkプロジェクトの規模が拡大し、より多くの共同作業者が関与するようになると、設計上の課題も増加します。このチートシートでは、コンポーネント、データ、ファイルを効果的に管理するための実践的なヒントをご紹介します。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/233658073/rectangle_large_type_2_c321e088f87092b1a1f22870a8429d4c.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-12-03T02:52:34.000Z",
+            "date_published": "2025-12-03T02:52:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "プロジェクト管理のためのチートシート／ロボティクス入門教材パッケージ／AIエージェント x MATLAB｜2025年12月",
+                "blogTitle": "MATLAB アカデミックニュースレター",
+                "blogLink": "https://note.com/sachie_y/m/mca72ce231fdc",
+                "blogLinkMd5Hash": "ec19369802a92db6c4cb13993c856ff7"
+            }
+        },
+        {
+            "id": "https://qiita.com/eigs/items/de5425adf6f83f9eef28",
+            "content_html": "なにしたの？ WebAssembly と JavaScript の波動方程式のシミュレーション速度を比較してみました。 ↓のリンク先で試してみて下さい。中央から波が広がっていく様子が描かれます。  左側が JavaScript での実装、右側が WebAssembly...",
+            "url": "https://qiita.com/eigs/items/de5425adf6f83f9eef28",
+            "title": "WebAssembly vs JavaScript：波動方程式シミュレーション速度比較 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "なにしたの？ WebAssembly と JavaScript の波動方程式のシミュレーション速度を比較してみました。 ↓のリンク先で試してみて下さい。中央から波が広がっていく様子が描かれます。  左側が JavaScript での実装、右側が WebAssembly...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNDk1MTElMkY0MDZhNjg5MTE1M2EzYjQ1ZGFlZTVjNmI0YzA5Yzk3MDY5NTZmODZiJTJGeF9sYXJnZS5wbmclM0YxNTc1MzQ2MjI4P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0yZTA5ZGY1NzU2YjE2NDIwNWFlMGMzZjE3YTdiN2E5Yg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4311d51e45f3892b9a077dec1de0c67f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9V2ViQXNzZW1ibHklMjB2cyUyMEphdmFTY3JpcHQlRUYlQkMlOUElRTYlQjMlQTIlRTUlOEIlOTUlRTYlOTYlQjklRTclQTglOEIlRTUlQkMlOEYlRTMlODIlQjclRTMlODMlOUYlRTMlODMlQTUlRTMlODMlQUMlRTMlODMlQkMlRTMlODIlQjclRTMlODMlQTclRTMlODMlQjMlRTklODAlOUYlRTUlQkElQTYlRTYlQUYlOTQlRTglQkMlODMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05M2VlYWJjN2U1MjRkNjI2MmVkNDI3YWZjNTQ5YWFkNQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlaWdzJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NGJjYTgwZTE2NDJkMzQwYjhmOWViZGQ2M2M0YWZmNzU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6bdad93796ea3861deee4d4318da5427"
+            },
+            "date_modified": "2025-12-02T08:08:39.000Z",
+            "date_published": "2025-12-02T08:08:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "WebAssembly vs JavaScript：波動方程式シミュレーション速度比較",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/sakasyo_0725/items/14907d452457276adff3",
+            "content_html": "（この記事はGemini 3.0 Pro (2025年12月01日)によって作成しました） GlobalSearch は、MATLABのGlobal Optimization Toolboxの中で、「最も効率的でバランスが良い」 とされる大域的最適化ソルバーの一つです。 一...",
+            "url": "https://qiita.com/sakasyo_0725/items/14907d452457276adff3",
+            "title": "MATLABのGlobal Optimization ToolboxのGlobalSearchの使い方（最小値探査、初歩） | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "（この記事はGemini 3.0 Pro (2025年12月01日)によって作成しました） GlobalSearch は、MATLABのGlobal Optimization Toolboxの中で、「最も効率的でバランスが良い」 とされる大域的最適化ソルバーの一つです。 一...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhLSUyRkFPaDE0R2hCd2tBdndqd3lJYTA5a01JSlVWLUpwbm1nN3l3eGhPeDZEMHhfemclM0RzNTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTkxNDI5ZTJmNWE4NGI3OTBmY2QzYWVkNjAwMzBhYzM1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc95e419404a01ec1afade6c4cf61a69f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgxJUFFR2xvYmFsJTIwT3B0aW1pemF0aW9uJTIwVG9vbGJveCVFMyU4MSVBRUdsb2JhbFNlYXJjaCVFMyU4MSVBRSVFNCVCRCVCRiVFMyU4MSU4NCVFNiU5NiVCOSVFRiVCQyU4OCVFNiU5QyU4MCVFNSVCMCU4RiVFNSU4MCVBNCVFNiU4RSVBMiVFNiU5RiVCQiVFMyU4MCU4MSVFNSU4OCU5RCVFNiVBRCVBOSVFRiVCQyU4OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBjMWZkMjkzYjZhODQ1OTU3ZWIxMzczY2IyYmExY2Iz&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzYWthc3lvXzA3MjUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04N2Y5MGJmYmY0ZjRhZmM3OTFkZDYyY2YyNjA4NTkyYg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=23475882519c4d4ed62786f4e42a3c05"
+            },
+            "date_modified": "2025-12-01T16:16:17.000Z",
+            "date_published": "2025-12-01T16:16:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABのGlobal Optimization ToolboxのGlobalSearchの使い方（最小値探査、初歩）",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}

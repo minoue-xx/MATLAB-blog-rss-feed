@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-12-06T23:02:54.134Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLAB で再現する運動の錯視：単振動から生まれる回転運動 | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/n360b8a4ff2b9</id>
+        <link href="https://note.com/leftbank/n/n360b8a4ff2b9"/>
+        <updated>2025-12-06T17:09:33.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2025-12-06T17:09:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulink × M5Stack：Simulink モデルをそのままブチ込んで MATLAB からリモート制御 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Carter/items/e30cbb1b16d5c5be5d30</id>
+        <link href="https://qiita.com/Carter/items/e30cbb1b16d5c5be5d30"/>
+        <updated>2025-12-05T22:31:28.000Z</updated>
+        <summary type="html"><![CDATA[0. はじめに  自動制御連合講演会 2025 で，Takuya Otani (https://x.com/ta98otani) さんとお話する機会があり，Simulink と M5Stack の連携に関するわたしの困りごとを相談しました．具体的には，以下の 2 点です．...]]></summary>
+        <content type="html"><![CDATA[0. はじめに  自動制御連合講演会 2025 で，Takuya Otani (https://x.com/ta98otani) さんとお話する機会があり，Simulink と M5Stack の連携に関するわたしの困りごとを相談しました．具体的には，以下の 2 点です．...]]></content>
+        <published>2025-12-05T22:31:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データドリブンに基づくゲインスケジューリングPID制御器の設計 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/getBack1969/items/0400e0179698b5ecf42f</id>
+        <link href="https://qiita.com/getBack1969/items/0400e0179698b5ecf42f"/>
+        <updated>2025-12-03T06:45:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 今回の記事では、PIDのゲインスケジューリング設計についてデータドリブンに基づく手法を試してみたいと思います。 近年、Simulinkの製品ファミリーであるSimulink Control Designにてデータドリブンに基づくオンラインのPIDゲイン自動調整機...]]></summary>
+        <content type="html"><![CDATA[はじめに 今回の記事では、PIDのゲインスケジューリング設計についてデータドリブンに基づく手法を試してみたいと思います。 近年、Simulinkの製品ファミリーであるSimulink Control Designにてデータドリブンに基づくオンラインのPIDゲイン自動調整機...]]></content>
+        <published>2025-12-03T06:45:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロジェクト管理のためのチートシート／ロボティクス入門教材パッケージ／AIエージェント x MATLAB｜2025年12月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/na0dfd8a30ae8</id>
+        <link href="https://note.com/sachie_y/n/na0dfd8a30ae8"/>
+        <updated>2025-12-03T02:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Simulinkによるスケールアップ Simulinkプロジェクトの規模が拡大し、より多くの共同作業者が関与するようになると、設計上の課題も増加します。このチートシートでは、コンポーネント、データ、ファイルを効果的に管理するための実践的なヒントをご紹介します。 続きをみる]]></summary>
+        <content type="html"><![CDATA[Simulinkによるスケールアップ Simulinkプロジェクトの規模が拡大し、より多くの共同作業者が関与するようになると、設計上の課題も増加します。このチートシートでは、コンポーネント、データ、ファイルを効果的に管理するための実践的なヒントをご紹介します。 続きをみる]]></content>
+        <published>2025-12-03T02:52:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly vs JavaScript：波動方程式シミュレーション速度比較 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/eigs/items/de5425adf6f83f9eef28</id>
+        <link href="https://qiita.com/eigs/items/de5425adf6f83f9eef28"/>
+        <updated>2025-12-02T08:08:39.000Z</updated>
+        <summary type="html"><![CDATA[なにしたの？ WebAssembly と JavaScript の波動方程式のシミュレーション速度を比較してみました。 ↓のリンク先で試してみて下さい。中央から波が広がっていく様子が描かれます。  左側が JavaScript での実装、右側が WebAssembly...]]></summary>
+        <content type="html"><![CDATA[なにしたの？ WebAssembly と JavaScript の波動方程式のシミュレーション速度を比較してみました。 ↓のリンク先で試してみて下さい。中央から波が広がっていく様子が描かれます。  左側が JavaScript での実装、右側が WebAssembly...]]></content>
+        <published>2025-12-02T08:08:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABのGlobal Optimization ToolboxのGlobalSearchの使い方（最小値探査、初歩） | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/sakasyo_0725/items/14907d452457276adff3</id>
+        <link href="https://qiita.com/sakasyo_0725/items/14907d452457276adff3"/>
+        <updated>2025-12-01T16:16:17.000Z</updated>
+        <summary type="html"><![CDATA[（この記事はGemini 3.0 Pro (2025年12月01日)によって作成しました） GlobalSearch は、MATLABのGlobal Optimization Toolboxの中で、「最も効率的でバランスが良い」 とされる大域的最適化ソルバーの一つです。 一...]]></summary>
+        <content type="html"><![CDATA[（この記事はGemini 3.0 Pro (2025年12月01日)によって作成しました） GlobalSearch は、MATLABのGlobal Optimization Toolboxの中で、「最も効率的でバランスが良い」 とされる大域的最適化ソルバーの一つです。 一...]]></content>
+        <published>2025-12-01T16:16:17.000Z</published>
+    </entry>
+</feed>
