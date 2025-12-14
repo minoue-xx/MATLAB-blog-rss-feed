@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sun, 14 Dec 2025 05:03:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MATLAB で「バタフライ効果」を視る ～ 15個の二重振り子によるカオス・シミュレーション | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/cafe_on_the/items/117c883cd7b74684e4cc</link>
+            <guid>https://qiita.com/cafe_on_the/items/117c883cd7b74684e4cc</guid>
+            <pubDate>Sat, 13 Dec 2025 07:04:05 GMT</pubDate>
+            <description><![CDATA[MATLAB/Simulink Advent Calendar 2025に参加しました。 ・使用ツール  MATLAB   [note]にUpしました。]]></description>
+            <content:encoded><![CDATA[MATLAB/Simulink Advent Calendar 2025に参加しました。 ・使用ツール  MATLAB   [note]にUpしました。]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjY3MDY3NDY4MyUyRkx1bmEwNzAxMDFfYmlnZ2VyLmpwZz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzRkZjI5Y2U2MDM0NmE1NjliZmE3OTI0Y2M4ODk1MWU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6dc63b31ac0f3591eaf1ee692b801c6c?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJTIwJUUzJTgxJUE3JUUzJTgwJThDJUUzJTgzJTkwJUUzJTgyJUJGJUUzJTgzJTk1JUUzJTgzJUE5JUUzJTgyJUE0JUU1JThBJUI5JUU2JTlFJTlDJUUzJTgwJThEJUUzJTgyJTkyJUU4JUE2JTk2JUUzJTgyJThCJTIwJUVGJUJEJTlFJTIwMTUlRTUlODAlOEIlRTMlODElQUUlRTQlQkElOEMlRTklODclOEQlRTYlOEMlQUYlRTMlODIlOEElRTUlQUQlOTAlRTMlODElQUIlRTMlODIlODglRTMlODIlOEIlRTMlODIlQUIlRTMlODIlQUElRTMlODIlQjklRTMlODMlQkIlRTMlODIlQjclRTMlODMlOUYlRTMlODMlQTUlRTMlODMlQUMlRTMlODMlQkMlRTMlODIlQjclRTMlODMlQTclRTMlODMlQjMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xMjhiOWVkNzBjMTk1MGVkZmVhMzhjOTVlNTczMjE5Mw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBjYWZlX29uX3RoZSZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTc5NDkzYzY5MmVjMzYxZDYyOGI4ZDVlMmQ1ZTdlYjFl&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f866066097a52e44bd36be7c8e729a69"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB で「バタフライ効果」を視る ～ 15個の二重振り子によるカオス・シミュレーション | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/n258077b95aff</link>
+            <guid>https://note.com/leftbank/n/n258077b95aff</guid>
+            <pubDate>Fri, 12 Dec 2025 17:47:41 GMT</pubDate>
+            <description><![CDATA[まえがき 続きをみる]]></description>
+            <content:encoded><![CDATA[まえがき 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/231500001/rectangle_large_type_2_61476f30144d877159491ba7c4d99103.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLABによる宇宙輸送システムのシミュレーション | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/getBack1969/items/7bdede4447ed293365c5</link>
+            <guid>https://qiita.com/getBack1969/items/7bdede4447ed293365c5</guid>
+            <pubDate>Wed, 10 Dec 2025 22:05:10 GMT</pubDate>
+            <description><![CDATA[はじめに 2025年は宇宙界隈にとって歴史的な1年でした。なんといってもSpaceXとBlue Originという2大民間宇宙開発企業がロケット開発にしのぎを削り、革新的な宇宙輸送技術の開発を圧倒的に推し進めています。  下表はGPT-5にまとめてもらった両社が開発を進...]]></description>
+            <content:encoded><![CDATA[はじめに 2025年は宇宙界隈にとって歴史的な1年でした。なんといってもSpaceXとBlue Originという2大民間宇宙開発企業がロケット開発にしのぎを削り、革新的な宇宙輸送技術の開発を圧倒的に推し進めています。  下表はGPT-5にまとめてもらった両社が開発を進...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNTI1MzY5JTJGZjE0Nzk0M2M3NTI1MzI4MmQ3ZGJjZjk5ZTZmZjUyNzk4ZGY4ODc4YiUyRnhfbGFyZ2UucG5nJTNGMTc1NzY3MTA4Nz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzgwZWVjZmUwNWY5MDA0NmJmOWMyOGM1ZmViM2M1Mzk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4aa7b26e519cb70c58d10baf5fdb1777?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCJUU1JUFFJTg3JUU1JUFFJTk5JUU4JUJDJUI4JUU5JTgwJTgxJUUzJTgyJUI3JUUzJTgyJUI5JUUzJTgzJTg2JUUzJTgzJUEwJUUzJTgxJUFFJUUzJTgyJUI3JUUzJTgzJTlGJUUzJTgzJUE1JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUE3JUUzJTgzJUIzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZWEzYzhjNmQ1YjVhOWZkZDJjM2RkMDkzNTlhMWI2ZDI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBnZXRCYWNrMTk2OSZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTgyZjllNjQ2MGQ1MzdiN2UzMTZiYTYxNGMyMjk3NmM3&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=70c3e9c54b1a579d7761a0d9f0cda849"/>
+        </item>
+        <item>
+            <title><![CDATA[【アナログ プラニメータ】役にも立たない珍種の紹介 と 面積測定原理の再証明 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/tsubolabo/items/6a144fdb0ba305a660c6</link>
+            <guid>https://qiita.com/tsubolabo/items/6a144fdb0ba305a660c6</guid>
+            <pubDate>Tue, 09 Dec 2025 22:07:03 GMT</pubDate>
+            <description><![CDATA[１．はじめに  前回の記事（ 【アナログ プラニメータ】面積の測定原理を自己流に証明してみた ）では、ポーラープラニメータ（Polar planimeter）の動作原理を証明し、これがリニアプラニメータ（Linear planimeter）の証明をも兼ねることを述べました...]]></description>
+            <content:encoded><![CDATA[１．はじめに  前回の記事（ 【アナログ プラニメータ】面積の測定原理を自己流に証明してみた ）では、ポーラープラニメータ（Polar planimeter）の動作原理を証明し、これがリニアプラニメータ（Linear planimeter）の証明をも兼ねることを述べました...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY5MzI0ODQlMkZkMmY1MDAwYjRhNzQwNGNhMWFlNWZjYTRiNDZmYjFjYmRiYzkyZTdjJTJGbGFyZ2UucG5nJTNGMTY0NzMzNDI1NT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODNlODhjZDZmOTc4YWNlODNlY2FlN2Q5MjFhNWQxN2Y%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D35f9a1d6437113f434bd47df2035bd22?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUUzJTgyJUEyJUUzJTgzJThBJUUzJTgzJUFEJUUzJTgyJUIwJTIwJUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgzJThCJUUzJTgzJUExJUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgwJTkxJUU1JUJEJUI5JUUzJTgxJUFCJUUzJTgyJTgyJUU3JUFCJThCJUUzJTgxJTlGJUUzJTgxJUFBJUUzJTgxJTg0JUU3JThGJThEJUU3JUE4JUFFJUUzJTgxJUFFJUU3JUI0JUI5JUU0JUJCJThCJTIwJUUzJTgxJUE4JTIwJUU5JTlEJUEyJUU3JUE5JThEJUU2JUI4JUFDJUU1JUFFJTlBJUU1JThFJTlGJUU3JTkwJTg2JUUzJTgxJUFFJUU1JTg2JThEJUU4JUE4JUJDJUU2JTk4JThFJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZjhiNDlmZGFmNDIwM2I0NjRhODIwYjBhMzNjNTVmNjM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0c3Vib2xhYm8mdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lN2MxYTlhZDI5Yzc2ZTQwYjhmM2VmY2ViY2E0ZDc3MA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=287abdc470d8ff2868b6cc4e6d9e4f8d"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLABのGlobal Optimization ToolboxのGlobalSearchのアルゴリズムについて（最小値探査、第二歩） | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/sakasyo_0725/items/49ab1516651cb2e612ac</link>
+            <guid>https://qiita.com/sakasyo_0725/items/49ab1516651cb2e612ac</guid>
+            <pubDate>Tue, 09 Dec 2025 21:15:55 GMT</pubDate>
+            <description><![CDATA[（この記事はGemini 3.0 Pro (2025年12月10日)によって作成しました） GlobalSearchのアルゴリズムについて概略を下記の記事で説明しました。  この記事では、MathWorks公式ドキュメント「GlobalSearchとMultiStart...]]></description>
+            <content:encoded><![CDATA[（この記事はGemini 3.0 Pro (2025年12月10日)によって作成しました） GlobalSearchのアルゴリズムについて概略を下記の記事で説明しました。  この記事では、MathWorks公式ドキュメント「GlobalSearchとMultiStart...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhLSUyRkFPaDE0R2hCd2tBdndqd3lJYTA5a01JSlVWLUpwbm1nN3l3eGhPeDZEMHhfemclM0RzNTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTkxNDI5ZTJmNWE4NGI3OTBmY2QzYWVkNjAwMzBhYzM1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc95e419404a01ec1afade6c4cf61a69f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgxJUFFR2xvYmFsJTIwT3B0aW1pemF0aW9uJTIwVG9vbGJveCVFMyU4MSVBRUdsb2JhbFNlYXJjaCVFMyU4MSVBRSVFMyU4MiVBMiVFMyU4MyVBQiVFMyU4MiVCNCVFMyU4MyVBQSVFMyU4MiVCQSVFMyU4MyVBMCVFMyU4MSVBQiVFMyU4MSVBNCVFMyU4MSU4NCVFMyU4MSVBNiVFRiVCQyU4OCVFNiU5QyU4MCVFNSVCMCU4RiVFNSU4MCVBNCVFNiU4RSVBMiVFNiU5RiVCQiVFMyU4MCU4MSVFNyVBQyVBQyVFNCVCQSU4QyVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWRhZWNhMjAwZGJkMWFhOGQ3MjY5OGUwZGZhNzg5M2Ix&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzYWthc3lvXzA3MjUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04N2Y5MGJmYmY0ZjRhZmM3OTFkZDYyY2YyNjA4NTkyYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cee4a9dd5716b78d1be6d8302fdf5ccc"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB で再現する運動の錯視：単振動から生まれる回転運動 | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/n360b8a4ff2b9</link>
+            <guid>https://note.com/leftbank/n/n360b8a4ff2b9</guid>
+            <pubDate>Sat, 06 Dec 2025 17:09:33 GMT</pubDate>
+            <description><![CDATA[まえがき 続きをみる]]></description>
+            <content:encoded><![CDATA[まえがき 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/229897573/rectangle_large_type_2_732b652c5940af67e8ad3fae79dacb28.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[プロジェクト管理のためのチートシート／ロボティクス入門教材パッケージ／AIエージェント x MATLAB｜2025年12月 | MATLAB アカデミックニュースレター]]></title>
+            <link>https://note.com/sachie_y/n/na0dfd8a30ae8</link>
+            <guid>https://note.com/sachie_y/n/na0dfd8a30ae8</guid>
+            <pubDate>Wed, 03 Dec 2025 02:52:34 GMT</pubDate>
+            <description><![CDATA[Simulinkによるスケールアップ Simulinkプロジェクトの規模が拡大し、より多くの共同作業者が関与するようになると、設計上の課題も増加します。このチートシートでは、コンポーネント、データ、ファイルを効果的に管理するための実践的なヒントをご紹介します。 続きをみる]]></description>
+            <content:encoded><![CDATA[Simulinkによるスケールアップ Simulinkプロジェクトの規模が拡大し、より多くの共同作業者が関与するようになると、設計上の課題も増加します。このチートシートでは、コンポーネント、データ、ファイルを効果的に管理するための実践的なヒントをご紹介します。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/233658073/rectangle_large_type_2_c321e088f87092b1a1f22870a8429d4c.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+    </channel>
+</rss>

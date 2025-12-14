@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2025-12-14T05:03:41.522Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLAB で「バタフライ効果」を視る ～ 15個の二重振り子によるカオス・シミュレーション | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/cafe_on_the/items/117c883cd7b74684e4cc</id>
+        <link href="https://qiita.com/cafe_on_the/items/117c883cd7b74684e4cc"/>
+        <updated>2025-12-13T07:04:05.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB/Simulink Advent Calendar 2025に参加しました。 ・使用ツール  MATLAB   [note]にUpしました。]]></summary>
+        <content type="html"><![CDATA[MATLAB/Simulink Advent Calendar 2025に参加しました。 ・使用ツール  MATLAB   [note]にUpしました。]]></content>
+        <published>2025-12-13T07:04:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB で「バタフライ効果」を視る ～ 15個の二重振り子によるカオス・シミュレーション | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/n258077b95aff</id>
+        <link href="https://note.com/leftbank/n/n258077b95aff"/>
+        <updated>2025-12-12T17:47:41.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2025-12-12T17:47:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABによる宇宙輸送システムのシミュレーション | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/getBack1969/items/7bdede4447ed293365c5</id>
+        <link href="https://qiita.com/getBack1969/items/7bdede4447ed293365c5"/>
+        <updated>2025-12-10T22:05:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 2025年は宇宙界隈にとって歴史的な1年でした。なんといってもSpaceXとBlue Originという2大民間宇宙開発企業がロケット開発にしのぎを削り、革新的な宇宙輸送技術の開発を圧倒的に推し進めています。  下表はGPT-5にまとめてもらった両社が開発を進...]]></summary>
+        <content type="html"><![CDATA[はじめに 2025年は宇宙界隈にとって歴史的な1年でした。なんといってもSpaceXとBlue Originという2大民間宇宙開発企業がロケット開発にしのぎを削り、革新的な宇宙輸送技術の開発を圧倒的に推し進めています。  下表はGPT-5にまとめてもらった両社が開発を進...]]></content>
+        <published>2025-12-10T22:05:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アナログ プラニメータ】役にも立たない珍種の紹介 と 面積測定原理の再証明 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/tsubolabo/items/6a144fdb0ba305a660c6</id>
+        <link href="https://qiita.com/tsubolabo/items/6a144fdb0ba305a660c6"/>
+        <updated>2025-12-09T22:07:03.000Z</updated>
+        <summary type="html"><![CDATA[１．はじめに  前回の記事（ 【アナログ プラニメータ】面積の測定原理を自己流に証明してみた ）では、ポーラープラニメータ（Polar planimeter）の動作原理を証明し、これがリニアプラニメータ（Linear planimeter）の証明をも兼ねることを述べました...]]></summary>
+        <content type="html"><![CDATA[１．はじめに  前回の記事（ 【アナログ プラニメータ】面積の測定原理を自己流に証明してみた ）では、ポーラープラニメータ（Polar planimeter）の動作原理を証明し、これがリニアプラニメータ（Linear planimeter）の証明をも兼ねることを述べました...]]></content>
+        <published>2025-12-09T22:07:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABのGlobal Optimization ToolboxのGlobalSearchのアルゴリズムについて（最小値探査、第二歩） | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/sakasyo_0725/items/49ab1516651cb2e612ac</id>
+        <link href="https://qiita.com/sakasyo_0725/items/49ab1516651cb2e612ac"/>
+        <updated>2025-12-09T21:15:55.000Z</updated>
+        <summary type="html"><![CDATA[（この記事はGemini 3.0 Pro (2025年12月10日)によって作成しました） GlobalSearchのアルゴリズムについて概略を下記の記事で説明しました。  この記事では、MathWorks公式ドキュメント「GlobalSearchとMultiStart...]]></summary>
+        <content type="html"><![CDATA[（この記事はGemini 3.0 Pro (2025年12月10日)によって作成しました） GlobalSearchのアルゴリズムについて概略を下記の記事で説明しました。  この記事では、MathWorks公式ドキュメント「GlobalSearchとMultiStart...]]></content>
+        <published>2025-12-09T21:15:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB で再現する運動の錯視：単振動から生まれる回転運動 | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/n360b8a4ff2b9</id>
+        <link href="https://note.com/leftbank/n/n360b8a4ff2b9"/>
+        <updated>2025-12-06T17:09:33.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2025-12-06T17:09:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロジェクト管理のためのチートシート／ロボティクス入門教材パッケージ／AIエージェント x MATLAB｜2025年12月 | MATLAB アカデミックニュースレター]]></title>
+        <id>https://note.com/sachie_y/n/na0dfd8a30ae8</id>
+        <link href="https://note.com/sachie_y/n/na0dfd8a30ae8"/>
+        <updated>2025-12-03T02:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Simulinkによるスケールアップ Simulinkプロジェクトの規模が拡大し、より多くの共同作業者が関与するようになると、設計上の課題も増加します。このチートシートでは、コンポーネント、データ、ファイルを効果的に管理するための実践的なヒントをご紹介します。 続きをみる]]></summary>
+        <content type="html"><![CDATA[Simulinkによるスケールアップ Simulinkプロジェクトの規模が拡大し、より多くの共同作業者が関与するようになると、設計上の課題も増加します。このチートシートでは、コンポーネント、データ、ファイルを効果的に管理するための実践的なヒントをご紹介します。 続きをみる]]></content>
+        <published>2025-12-03T02:52:34.000Z</published>
+    </entry>
+</feed>
