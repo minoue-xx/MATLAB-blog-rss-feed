@@ -1,0 +1,184 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/Hernia_Baby/items/7d3334f87e1bccd2a2f6",
+            "content_html": "はじめに Merry OpenXmas(白目) こんにちは、HerniaBabyです。お元気ですか？ 僕は今、クリスマスイブでカップルがちんちんかもかもしているなか、一人でしこしこ本記事を書き進めています。 お外は危険です。若いアベックたちの光に包まれて死んでしまいます。...",
+            "url": "https://qiita.com/Hernia_Baby/items/7d3334f87e1bccd2a2f6",
+            "title": "OpenSCENARIOをMATLABでいじってみよう | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに Merry OpenXmas(白目) こんにちは、HerniaBabyです。お元気ですか？ 僕は今、クリスマスイブでカップルがちんちんかもかもしているなか、一人でしこしこ本記事を書き進めています。 お外は危険です。若いアベックたちの光に包まれて死んでしまいます。...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNzgxNTIxJTJGcHJvZmlsZS1pbWFnZXMlMkYxNjY5NjgyNDczP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zYzJjYmQ4NWY0MzcyYjVhZjEzMzI1MTZiYTliOTMwNA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7af1897abaa910e729b2ba56705e56d5?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9T3BlblNDRU5BUklPJUUzJTgyJTkyTUFUTEFCJUUzJTgxJUE3JUUzJTgxJTg0JUUzJTgxJTk4JUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgyJTg4JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzU1ZDhiYTQzMGRjNjA2YzRkMjI0M2NhYjRlZWM0MzE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIZXJuaWFfQmFieSZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTM5MmVhN2NmMjc0YTIxMThiOGU4NzM1ZmI0OTAwNzc3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f0557a1b3e819626ef659c0f145eb0fe"
+            },
+            "date_modified": "2025-12-24T19:49:44.000Z",
+            "date_published": "2025-12-24T19:49:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenSCENARIOをMATLABでいじってみよう",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/covao/items/7eefd135db7f3d37bb46",
+            "content_html": "はじめに AIエージェントが当たり前となりつつある「AIネイティブ時代」。コードの書き方は劇的に変わり、エンジニアの定義そのものがアップデートされようとしています。 今回は、そんな変化の激しい時代において、私たちがどうやって健やかに、そして楽しくエンジニアを続けていくべき...",
+            "url": "https://qiita.com/covao/items/7eefd135db7f3d37bb46",
+            "title": "AIネイティブ時代におけるエンジニアのウェルビーイングとMATLAB | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに AIエージェントが当たり前となりつつある「AIネイティブ時代」。コードの書き方は劇的に変わり、エンジニアの定義そのものがアップデートされようとしています。 今回は、そんな変化の激しい時代において、私たちがどうやって健やかに、そして楽しくエンジニアを続けていくべき...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzMjk3NjQlMkZhYmI0N2RjODljN2ViNjBjNGM1YTM4MjE2MDM1MzU2MjA0NDhlYjJmJTJGeF9sYXJnZS5wbmclM0YxNzU0NDE5ODYzP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jMmQ5M2Y3YmNlNzA4ZWVlZmNhNmRjMDc2YzQzZWYyZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd0d795f9e029755bd17c52a08bfd2ce8?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODMlOEQlRTMlODIlQTQlRTMlODMlODYlRTMlODIlQTMlRTMlODMlOTYlRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOEElRTMlODElOTElRTMlODIlOEIlRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElQUUlRTMlODIlQTYlRTMlODIlQTclRTMlODMlQUIlRTMlODMlOTMlRTMlODMlQkMlRTMlODIlQTQlRTMlODMlQjMlRTMlODIlQjAlRTMlODElQThNQVRMQUImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04NjJkZTJkNGZmYzNmZjVjZjhjZGVlYTM4NDQ5YzgzZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBjb3ZhbyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQ2ZTEzODk2NzBiMTY3M2E2Y2I1MDEzNzdmZTgzZWMy&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=3540b724bfe4bb23888d202579686341"
+            },
+            "date_modified": "2025-12-23T19:43:46.000Z",
+            "date_published": "2025-12-23T19:43:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIネイティブ時代におけるエンジニアのウェルビーイングとMATLAB",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/Carter/items/d13bb445a2a7a90c1235",
+            "content_html": "元記事はコチラ  LCD 表示用の Simulink ライブラリ  M5StackLCDlib  をインストールします．MATLAB R2023a 以降のバージョンに対応しています．  Download ZIP を選択すると，  M5StackLCD_Simul...",
+            "url": "https://qiita.com/Carter/items/d13bb445a2a7a90c1235",
+            "title": "Simulink ライブラリ M5StackLCDlib のインストール | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "元記事はコチラ  LCD 表示用の Simulink ライブラリ  M5StackLCDlib  をインストールします．MATLAB R2023a 以降のバージョンに対応しています．  Download ZIP を選択すると，  M5StackLCD_Simul...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE0Mjk2MzA4NTc3NDA4MzY4NjYlMkZreXdJS2ZTel9iaWdnZXIuanBnP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05NzNhZDYwOTA3NWI3Y2RkZTJiZWI4ZDA4NTdlMGQyNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd792522eb1febe8e1429a6b9dc1a3221?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltdWxpbmslMjAlRTMlODMlQTklRTMlODIlQTQlRTMlODMlOTYlRTMlODMlQTklRTMlODMlQUElMjBNNVN0YWNrTENEbGliJTIwJUUzJTgxJUFFJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUJDJUUzJTgzJUFCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTg4NGU4YjBiYjVjZThkN2RiNjRiMjQ2NjgxYzU1YjY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDYXJ0ZXImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0xOWQ3Yzk3MDFkZjZiMDY3MGM0MmQwZTE1YjBhZDhhMw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=eef3fde25d8c14fbef94ca7174f0de86"
+            },
+            "date_modified": "2025-12-22T22:19:45.000Z",
+            "date_published": "2025-12-22T22:19:45.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulink ライブラリ M5StackLCDlib のインストール",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/Carter/items/7d4556ceeeef71364a09",
+            "content_html": "アドカレ 2025 の三部作です！ ついに完結！  配布するファイルはコチラです！  1. はじめに  本記事では，  ホビー用のユニット付き BLDC モータ Unit Roller485 LITE  ESP32 と 6 軸センサが内蔵されている...",
+            "url": "https://qiita.com/Carter/items/7d4556ceeeef71364a09",
+            "title": "Roller485 × M5Stack FIRE × Simulink で倒立振子を反則級に楽に作る話 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "アドカレ 2025 の三部作です！ ついに完結！  配布するファイルはコチラです！  1. はじめに  本記事では，  ホビー用のユニット付き BLDC モータ Unit Roller485 LITE  ESP32 と 6 軸センサが内蔵されている...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE0Mjk2MzA4NTc3NDA4MzY4NjYlMkZreXdJS2ZTel9iaWdnZXIuanBnP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05NzNhZDYwOTA3NWI3Y2RkZTJiZWI4ZDA4NTdlMGQyNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D45e201380d48b6f32fdf8abd856fee29?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Um9sbGVyNDg1JTIwJUMzJTk3JTIwTTVTdGFjayUyMEZJUkUlMjAlQzMlOTclMjBTaW11bGluayUyMCVFMyU4MSVBNyVFNSU4MCU5MiVFNyVBQiU4QiVFNiU4QyVBRiVFNSVBRCU5MCVFMyU4MiU5MiVFNSU4RiU4RCVFNSU4OSU4NyVFNyVCNCU5QSVFMyU4MSVBQiVFNiVBNSVCRCVFMyU4MSVBQiVFNCVCRCU5QyVFMyU4MiU4QiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAxYmY1MWU3ZGIwOTc1MDBmOWFmZGFiNjNjYjUxOTAw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDYXJ0ZXImdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz05NTJlNDAyMzRiMjVhZjhjZmZhMTRlYzAyYWY3OTQ2OA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2261873e47483599c4dd648133eb0aa5"
+            },
+            "date_modified": "2025-12-22T15:06:08.000Z",
+            "date_published": "2025-12-22T15:06:08.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Roller485 × M5Stack FIRE × Simulink で倒立振子を反則級に楽に作る話",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://zenn.dev/shayate811/articles/spm12-for-mac",
+            "content_html": "はじめに 脳機能画像（fMRI）解析のデファクトスタンダードである SPM12 (Statistical Parametric Mapping)。 世界中の研究室で使われていますが、これをモダンな開発環境（MacBook Air M1/M2/M3 など）やクラウドネイティブな文脈で扱おうとすると、2 つの巨大な壁にぶち当たります。   MATLAB ライセンスの壁: 有償の MATLAB 本体が必要で、ライセンス管理が煩雑。CI/CD で回すなんてもってのほか。  CPU の壁: SPM の配布バイナリは基本的に Intel (x86_64) 向け。Apple Silicon (AR...",
+            "url": "https://zenn.dev/shayate811/articles/spm12-for-mac",
+            "title": "脳科学(fMRI)のレガシー資産「SPM12」をDockerに閉じ込めてMチップ Macで強制起動する | Zennの「MATLAB」のフィード",
+            "summary": "はじめに 脳機能画像（fMRI）解析のデファクトスタンダードである SPM12 (Statistical Parametric Mapping)。 世界中の研究室で使われていますが、これをモダンな開発環境（MacBook Air M1/M2/M3 など）やクラウドネイティブな文脈で扱おうとすると、2 つの巨大な壁にぶち当たります。   MATLAB ライセンスの壁: 有償の MATLAB 本体が必...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--jeYa7wq1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2584%25B3%25E7%25A7%2591%25E5%25AD%25A6%2528fMRI%2529%25E3%2581%25AE%25E3%2583%25AC%25E3%2582%25AC%25E3%2582%25B7%25E3%2583%25BC%25E8%25B3%2587%25E7%2594%25A3%25E3%2580%258CSPM12%25E3%2580%258D%25E3%2582%2592Docker%25E3%2581%25AB%25E9%2596%2589%25E3%2581%2598%25E8%25BE%25BC%25E3%2582%2581%25E3%2581%25A6M%25E3%2583%2581%25E3%2583%2583%25E3%2583%2597%2520Mac%25E3%2581%25A7%25E5%25BC%25B7%25E5%2588%25B6%25E8%25B5%25B7%25E5%258B%2595%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shayate811%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmI4UFNlSmFsTFB0U1JsSXNCZHF6NlpsbVVJQWRMV2k1VGVxQjUxbjM5Sll0ZVFlcz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+            },
+            "date_modified": "2025-12-20T00:13:52.000Z",
+            "date_published": "2025-12-20T00:13:52.000Z",
+            "author": {
+                "name": "shayate811"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "脳科学(fMRI)のレガシー資産「SPM12」をDockerに閉じ込めてMチップ Macで強制起動する",
+                "blogTitle": "Zennの「MATLAB」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/n9a13f96cad73",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/n9a13f96cad73",
+            "title": "MATLAB ライブスクリプト ～ ボタン操作できる簡易オーディオプレイヤーを作ろう！ | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/232168894/rectangle_large_type_2_37f9bed1d8c20569b1fc8f17415f7403.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-12-19T17:13:59.000Z",
+            "date_published": "2025-12-19T17:13:59.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB ライブスクリプト ～ ボタン操作できる簡易オーディオプレイヤーを作ろう！",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/n77e76a9b375b",
+            "content_html": "まえがき  少し前に、MATLAB から Java PDF Library（Apache PDFBox） を呼び出して PDF の簡易編集を行う記事を書きました。 続きをみる",
+            "url": "https://note.com/leftbank/n/n77e76a9b375b",
+            "title": "editPDF ～ PDF 簡易編集機能をアプリ化する | MATLAB関連",
+            "summary": "まえがき  少し前に、MATLAB から Java PDF Library（Apache PDFBox） を呼び出して PDF の簡易編集を行う記事を書きました。 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/235829472/rectangle_large_type_2_21fbd11c1faf726a0dd28dacebf3055a.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2025-12-16T15:53:28.000Z",
+            "date_published": "2025-12-16T15:53:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "editPDF ～ PDF 簡易編集機能をアプリ化する",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        },
+        {
+            "id": "https://zenn.dev/spargel/articles/20251214_simulink_realmachine",
+            "content_html": "Advent Calender 2025の12/14枠になります． https://qiita.com/advent-calendar/2025/matlab   はじめに Simulinkは制御系のロジックを簡単に組むことができます．となると，次には実機で試したくなるもので，如何に実機実装するかということがポイントになります． 著者も常日頃から様々な方法を模索しており，その中で調べたSimulinkと実機をつなぐ方法についてまとめたいと思います． 使用経験のあるものにはいい点とう～んと思う点，使用経験のないものは採用に至らなかった理由（あくまで Not for meだった点です）を記載...",
+            "url": "https://zenn.dev/spargel/articles/20251214_simulink_realmachine",
+            "title": "Simulinkを実機に実装するいろいろな方法と感想 | Zennの「MATLAB」のフィード",
+            "summary": "Advent Calender 2025の12/14枠になります． https://qiita.com/advent-calendar/2025/matlab   はじめに Simulinkは制御系のロジックを簡単に組むことができます．となると，次には実機で試したくなるもので，如何に実機実装するかということがポイントになります． 著者も常日頃から様々な方法を模索しており，その中で調べたSimuli...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--_IiH_GRE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Simulink%25E3%2582%2592%25E5%25AE%259F%25E6%25A9%259F%25E3%2581%25AB%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%25E3%2581%2584%25E3%2582%258D%25E3%2581%2584%25E3%2582%258D%25E3%2581%25AA%25E6%2596%25B9%25E6%25B3%2595%25E3%2581%25A8%25E6%2584%259F%25E6%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:spargel%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZmZmVmOWE4MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+            },
+            "date_modified": "2025-12-14T04:44:13.000Z",
+            "date_published": "2025-12-14T04:44:13.000Z",
+            "author": {
+                "name": "spargel"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulinkを実機に実装するいろいろな方法と感想",
+                "blogTitle": "Zennの「MATLAB」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        }
+    ]
+}
