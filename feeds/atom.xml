@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2026-01-04T11:02:53.529Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLABでFC版ゼルダの伝説を再現した話 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Kisuke14/items/1c7f9c40015afb95b449</id>
+        <link href="https://qiita.com/Kisuke14/items/1c7f9c40015afb95b449"/>
+        <updated>2026-01-01T14:23:26.000Z</updated>
+        <summary type="html"><![CDATA[この記事って？ MATLABマリオに触発されて、MATLABでFC版ゼルダの伝説を一部再現した話です。  やったこと  プレイヤーキャラクター（リンク）の移動 プレイヤーキャラクター（リンク）の攻撃 ※剣のみ 衝突判定の実装 エリア移動＆洞窟への出入り 敵キャラ（オクタロ...]]></summary>
+        <content type="html"><![CDATA[この記事って？ MATLABマリオに触発されて、MATLABでFC版ゼルダの伝説を一部再現した話です。  やったこと  プレイヤーキャラクター（リンク）の移動 プレイヤーキャラクター（リンク）の攻撃 ※剣のみ 衝突判定の実装 エリア移動＆洞窟への出入り 敵キャラ（オクタロ...]]></content>
+        <published>2026-01-01T14:23:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[忙しい MATLAB 芸人向け Qiita ふり返り（2025 年版） | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/eigs/items/449cd5655e106ad42d2c</id>
+        <link href="https://qiita.com/eigs/items/449cd5655e106ad42d2c"/>
+        <updated>2026-01-01T08:33:17.000Z</updated>
+        <summary type="html"><![CDATA[すきま時間に 2025 年をふり返ってみましょう！  忙しい MATLAB 芸人向け Qiita ふり返り（2018年版） 忙しい MATLAB 芸人向け Qiita ふり返り（2019年版） 忙しい MATLAB 芸人向け Qiita ふり返り（2020年版） 忙しい M...]]></summary>
+        <content type="html"><![CDATA[すきま時間に 2025 年をふり返ってみましょう！  忙しい MATLAB 芸人向け Qiita ふり返り（2018年版） 忙しい MATLAB 芸人向け Qiita ふり返り（2019年版） 忙しい MATLAB 芸人向け Qiita ふり返り（2020年版） 忙しい M...]]></content>
+        <published>2026-01-01T08:33:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MATLAB】ドット絵を切り替えてキャラクターのモーション作成 ~歩行/攻撃/ダメージエフェクト~ | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Kisuke14/items/bf6d54de4d28e071f7c8</id>
+        <link href="https://qiita.com/Kisuke14/items/bf6d54de4d28e071f7c8"/>
+        <updated>2025-12-30T17:19:07.000Z</updated>
+        <summary type="html"><![CDATA[概要 MATLABでドット絵のシーケンスを組んで、モーションのようなものを作成してみました。 Image関数を使って画像をグラフィックオブジェクトとしてaxes上に描画し、そのCDataを適宜切り替えてモーションのように見せています。また、figureのコールバック関数を...]]></summary>
+        <content type="html"><![CDATA[概要 MATLABでドット絵のシーケンスを組んで、モーションのようなものを作成してみました。 Image関数を使って画像をグラフィックオブジェクトとしてaxes上に描画し、そのCDataを適宜切り替えてモーションのように見せています。また、figureのコールバック関数を...]]></content>
+        <published>2025-12-30T17:19:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MATLAB】Nintendo SwitchのJoy-Conに接続し、状態を可視化する | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Kisuke14/items/e84ef88898294480c984</id>
+        <link href="https://qiita.com/Kisuke14/items/e84ef88898294480c984"/>
+        <updated>2025-12-30T14:11:07.000Z</updated>
+        <summary type="html"><![CDATA[概要 下記記事にて紹介されていた内容をすこーしだけ拡張しました。 基本的な内容は、先行記事でほとんど紹介されているので、そちらをご参照ください。  やったこと  プロコンを接続し全ボタン操作とスティック操作を取得および可視化した  patchで簡易的なプロコン...]]></summary>
+        <content type="html"><![CDATA[概要 下記記事にて紹介されていた内容をすこーしだけ拡張しました。 基本的な内容は、先行記事でほとんど紹介されているので、そちらをご参照ください。  やったこと  プロコンを接続し全ボタン操作とスティック操作を取得および可視化した  patchで簡易的なプロコン...]]></content>
+        <published>2025-12-30T14:11:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編） | Zennの「MATLAB」のフィード]]></title>
+        <id>https://zenn.dev/nihinihikun/articles/d8d8cdadebe1d5</id>
+        <link href="https://zenn.dev/nihinihikun/articles/d8d8cdadebe1d5"/>
+        <updated>2025-12-30T13:27:32.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編）    概要 STM32マイコンで実行されている制御アルゴリズムの内部変数（デューティ比など）を，USBシリアル（UART）経由でMATLAB/Simulinkに送信し，リアルタイムでScope表示・解析するための環境構築手順をまとめます． 将来的な「マイコン制御＋MATLABモータモデル」の同期シミュレーション（PIL...]]></summary>
+        <content type="html"><![CDATA[MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編）    概要 STM32マイコンで実行されている制御アルゴリズムの内部変数（デューティ比など）を，USBシリアル（UART）経由でMATLAB/Simulinkに送信し，リアルタイムでScope表示・解析するための環境構築手順をまとめます． 将来的な「マイコン制御＋MATLABモータモデル」の同期シミュレーション（PIL/HIL）に向けた第一歩となる，**「データのパケット化」と「Simulink側での同期処理」**に焦点を当てます．    環境   MATLAB / Simulink: 2024b  In...]]></content>
+        <author>
+            <name>にひにひ</name>
+        </author>
+        <published>2025-12-30T13:27:32.000Z</published>
+    </entry>
+</feed>
