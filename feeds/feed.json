@@ -1,0 +1,142 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/matlab-master/items/4ec56a4fb93c04cd20d6",
+            "content_html": "ライダー重心移動とブレーキ挙動の関係について  重心移動のみを考慮した場合 ライダーの重心移動のみを考慮した状態で、 高速度域から停止までのブレーキ挙動をSIMで確認した。 その結果、  ピッチ角度にはわずかな影響が見られる 車速の減速挙動には、ほとんど影響しない  とい...",
+            "url": "https://qiita.com/matlab-master/items/4ec56a4fb93c04cd20d6",
+            "title": "高速度域から停止までのブレーキ挙動をSIMでの確認方法 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "ライダー重心移動とブレーキ挙動の関係について  重心移動のみを考慮した場合 ライダーの重心移動のみを考慮した状態で、 高速度域から停止までのブレーキ挙動をSIMで確認した。 その結果、  ピッチ角度にはわずかな影響が見られる 車速の減速挙動には、ほとんど影響しない  とい...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS1ZXeGF4dEUyNzVqLTdSVktjaWFxT2d0b042eUZ5NFMtS2hpQTgxMG5yVmpORXNkeEclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjAxNThhZTMwMjM1NzgzMWEzZDVhZjMxNzIyY2ZjZmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D471ab936060de3def4f46c55821747a0?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JUFCJTk4JUU5JTgwJTlGJUU1JUJBJUE2JUU1JTlGJTlGJUUzJTgxJThCJUUzJTgyJTg5JUU1JTgxJTlDJUU2JUFEJUEyJUUzJTgxJUJFJUUzJTgxJUE3JUUzJTgxJUFFJUUzJTgzJTk2JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgyJUFEJUU2JThDJTk5JUU1JThCJTk1JUUzJTgyJTkyU0lNJUUzJTgxJUE3JUUzJTgxJUFFJUU3JUEyJUJBJUU4JUFBJThEJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YmZhYmU2YjkwOGIyODE0NzVjNzY5ODg1N2M3MjFhZmM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXRsYWItbWFzdGVyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmU4OWJmM2Q2OTlkMmNiMTMwZWYwMDE2ZjhhNmQ2NjE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=957f4cdba0e1e0b82034b31b9ba06fb8"
+            },
+            "date_modified": "2026-01-09T14:02:03.000Z",
+            "date_published": "2026-01-09T14:02:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "高速度域から停止までのブレーキ挙動をSIMでの確認方法",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/matlab-master/items/50c9364375c675641796",
+            "content_html": "レーンチェンジ制御は LQR制御 × PID制御 の組み合わせで解決した話  概要 レーンチェンジ時に、グローバル座標系（右手系）において横方向へ移動した後、安定する制御を作成することを目的とした。  最初に試した方法 最初は、 グローバル座標の目標値と現在値の差分を入力...",
+            "url": "https://qiita.com/matlab-master/items/50c9364375c675641796",
+            "title": "レーンチェンジ制御(車線変更)は **LQR制御 × PID制御** の組み合わせで解決 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "レーンチェンジ制御は LQR制御 × PID制御 の組み合わせで解決した話  概要 レーンチェンジ時に、グローバル座標系（右手系）において横方向へ移動した後、安定する制御を作成することを目的とした。  最初に試した方法 最初は、 グローバル座標の目標値と現在値の差分を入力...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS1ZXeGF4dEUyNzVqLTdSVktjaWFxT2d0b042eUZ5NFMtS2hpQTgxMG5yVmpORXNkeEclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjAxNThhZTMwMjM1NzgzMWEzZDVhZjMxNzIyY2ZjZmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D471ab936060de3def4f46c55821747a0?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgzJUIzJUUzJTgzJTgxJUUzJTgyJUE3JUUzJTgzJUIzJUUzJTgyJUI4JUU1JTg4JUI2JUU1JUJFJUExJTI4JUU4JUJCJThBJUU3JUI3JTlBJUU1JUE0JTg5JUU2JTlCJUI0JTI5JUUzJTgxJUFGJTIwJTJBJTJBTFFSJUU1JTg4JUI2JUU1JUJFJUExJTIwJUMzJTk3JTIwUElEJUU1JTg4JUI2JUU1JUJFJUExJTJBJTJBJTIwJUUzJTgxJUFFJUU3JUI1JTg0JUUzJTgxJUJGJUU1JTkwJTg4JUUzJTgyJThGJUUzJTgxJTlCJUUzJTgxJUE3JUU4JUE3JUEzJUU2JUIxJUJBJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjI1ZDcwM2RiNGUyYjM0MDVlODA0NDBjZDcxYzdkYWQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXRsYWItbWFzdGVyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmU4OWJmM2Q2OTlkMmNiMTMwZWYwMDE2ZjhhNmQ2NjE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=abd1dbf49cfdf483035aa14cf5c01f24"
+            },
+            "date_modified": "2026-01-08T13:37:41.000Z",
+            "date_published": "2026-01-08T13:37:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "レーンチェンジ制御(車線変更)は **LQR制御 × PID制御** の組み合わせで解決",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/matlab-master/items/b55af02c6be108cafb24",
+            "content_html": "バイクシミュレーションでの気づきメモ（重量・Scope・タイヤモーメント） シミュレーションを進める中で、いくつか重要な気づきがありました。 ※本記事中の数値や条件は、挙動確認用に設定した例であり、 実際の製品・実車・業務データとは関係ありません。  発見したこと  車...",
+            "url": "https://qiita.com/matlab-master/items/b55af02c6be108cafb24",
+            "title": "車体重量は適切に、Scopeは邪魔、タイヤモーメントは制御の敵 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "バイクシミュレーションでの気づきメモ（重量・Scope・タイヤモーメント） シミュレーションを進める中で、いくつか重要な気づきがありました。 ※本記事中の数値や条件は、挙動確認用に設定した例であり、 実際の製品・実車・業務データとは関係ありません。  発見したこと  車...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS1ZXeGF4dEUyNzVqLTdSVktjaWFxT2d0b042eUZ5NFMtS2hpQTgxMG5yVmpORXNkeEclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjAxNThhZTMwMjM1NzgzMWEzZDVhZjMxNzIyY2ZjZmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D471ab936060de3def4f46c55821747a0?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JUJCJThBJUU0JUJEJTkzJUU5JTg3JThEJUU5JTg3JThGJUUzJTgxJUFGJUU5JTgxJUE5JUU1JTg4JTg3JUUzJTgxJUFCJUUzJTgwJTgxU2NvcGUlRTMlODElQUYlRTklODIlQUElRTklQUQlOTQlRTMlODAlODElRTMlODIlQkYlRTMlODIlQTQlRTMlODMlQTQlRTMlODMlQTIlRTMlODMlQkMlRTMlODMlQTElRTMlODMlQjMlRTMlODMlODglRTMlODElQUYlRTUlODglQjYlRTUlQkUlQTElRTMlODElQUUlRTYlOTUlQjUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wZjM3YWVmODZmZGI4OWNmMzdlMTNhMGQwMmEyMDFkOA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXRsYWItbWFzdGVyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmU4OWJmM2Q2OTlkMmNiMTMwZWYwMDE2ZjhhNmQ2NjE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e89b25adc7c3fca990f4d5f7130e9f49"
+            },
+            "date_modified": "2026-01-07T13:38:32.000Z",
+            "date_published": "2026-01-07T13:38:32.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "車体重量は適切に、Scopeは邪魔、タイヤモーメントは制御の敵",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/matlab-master/items/caa365faf85bcef9654e",
+            "content_html": "応答オプティマイザーでロール角度狙いのPID制御を作った話 PID制御で目標数値を欲張り禁止！！！！ 応答オプティマイザーを使って ロール角度を目標値に合わせるPID制御を作成した。 以前は、SIMを手動で回しながらPIDゲインを調整していた。 もちろん、PIDの各ゲイン...",
+            "url": "https://qiita.com/matlab-master/items/caa365faf85bcef9654e",
+            "title": "複雑なモデルでもできるPIDゲインの簡単な求め方 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "応答オプティマイザーでロール角度狙いのPID制御を作った話 PID制御で目標数値を欲張り禁止！！！！ 応答オプティマイザーを使って ロール角度を目標値に合わせるPID制御を作成した。 以前は、SIMを手動で回しながらPIDゲインを調整していた。 もちろん、PIDの各ゲイン...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS1ZXeGF4dEUyNzVqLTdSVktjaWFxT2d0b042eUZ5NFMtS2hpQTgxMG5yVmpORXNkeEclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjAxNThhZTMwMjM1NzgzMWEzZDVhZjMxNzIyY2ZjZmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D471ab936060de3def4f46c55821747a0?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JUE0JTg3JUU5JTlCJTkxJUUzJTgxJUFBJUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJUUzJTgxJUE3JUUzJTgyJTgyJUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCUElEJUUzJTgyJUIyJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUFFJUU3JUIwJUExJUU1JThEJTk4JUUzJTgxJUFBJUU2JUIxJTgyJUUzJTgyJTgxJUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTAwNWYxZDVjNjFmMTZmNDRiNDNhMGI3NDAyMjIxODM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXRsYWItbWFzdGVyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmU4OWJmM2Q2OTlkMmNiMTMwZWYwMDE2ZjhhNmQ2NjE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=55963365c6c63c02237109845a4a9d02"
+            },
+            "date_modified": "2026-01-06T13:18:48.000Z",
+            "date_published": "2026-01-06T13:18:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "複雑なモデルでもできるPIDゲインの簡単な求め方",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ryo369/articles/d5fba6574012b6",
+            "content_html": "はじめに MATLABを使い始めて、もう何年になるやろ。 MATLABには感謝してる。行列計算は書きやすいし、Simulinkは制御系の人には必須やし、信号処理のツールボックスも充実してる。「とりあえず動く」安心感は、本業に集中したい人間にとってありがたいねん。 けど、長年使ってると「ちょっとな〜」と思うことも増えてきた。 今日はそんな話を、ゆるく書いてみるわ。    その１：並列計算、なんで有料なん？   16コアあるのに1コアしか動かへん ある日、計算を回してた。100通りの条件で、それぞれ5分かかる処理。 100 × 5分 = 500分 = 8時間20分 「まあ一晩回しとくか」...",
+            "url": "https://zenn.dev/ryo369/articles/d5fba6574012b6",
+            "title": "MATLABの本気がみたい | Zennの「MATLAB」のフィード",
+            "summary": "はじめに MATLABを使い始めて、もう何年になるやろ。 MATLABには感謝してる。行列計算は書きやすいし、Simulinkは制御系の人には必須やし、信号処理のツールボックスも充実してる。「とりあえず動く」安心感は、本業に集中したい人間にとってありがたいねん。 けど、長年使ってると「ちょっとな〜」と思うことも増えてきた。 今日はそんな話を、ゆるく書いてみるわ。    その１：並列計算、なんで有料...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--mI2Nbs5H--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MATLAB%25E3%2581%25AE%25E6%259C%25AC%25E6%25B0%2597%25E3%2581%258C%25E3%2581%25BF%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFNiVzVnNXpYTWtTejN2NmdWWWw3Y2M0dWh5YVpwVWRFNEEwOVZpUjdDTVlORjVRPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+            },
+            "date_modified": "2026-01-04T10:56:01.000Z",
+            "date_published": "2026-01-04T10:56:01.000Z",
+            "author": {
+                "name": "ryo"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABの本気がみたい",
+                "blogTitle": "Zennの「MATLAB」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        },
+        {
+            "id": "https://zenn.dev/nihinihikun/articles/d8d8cdadebe1d5",
+            "content_html": "MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編）    概要 STM32マイコンで実行されている制御アルゴリズムの内部変数（デューティ比など）を，USBシリアル（UART）経由でMATLAB/Simulinkに送信し，リアルタイムでScope表示・解析するための環境構築手順をまとめます． 将来的な「マイコン制御＋MATLABモータモデル」の同期シミュレーション（PIL/HIL）に向けた第一歩となる，**「データのパケット化」と「Simulink側での同期処理」**に焦点を当てます．    環境   MATLAB / Simulink: 2024b  In...",
+            "url": "https://zenn.dev/nihinihikun/articles/d8d8cdadebe1d5",
+            "title": "MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編） | Zennの「MATLAB」のフィード",
+            "summary": "MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編）    概要 STM32マイコンで実行されている制御アルゴリズムの内部変数（デューティ比など）を，USBシリアル（UART）経由でMATLAB/Simulinkに送信し，リアルタイムでScope表示・解析するための環境構築手順をまとめます． 将来的な「マイコン制御＋MATLABモータモデル」の同期シミュレーション（PIL...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--r5LkI2v3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MATLAB%2520Simulink%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%25B3%25E3%2582%2592%25E5%2590%258C%25E6%259C%259F%25E3%2581%2595%25E3%2581%259B%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2588USB%25E3%2582%25B7%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E9%2580%259A%25E4%25BF%25A1%25E7%25B7%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AB%25E3%2581%25B2%25E3%2581%25AB%25E3%2581%25B2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNmMWE0NzVmYTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+            },
+            "date_modified": "2025-12-30T13:27:32.000Z",
+            "date_published": "2025-12-30T13:27:32.000Z",
+            "author": {
+                "name": "にひにひ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編）",
+                "blogTitle": "Zennの「MATLAB」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2026-01-11T15:02:51.849Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[高速度域から停止までのブレーキ挙動をSIMでの確認方法 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/matlab-master/items/4ec56a4fb93c04cd20d6</id>
+        <link href="https://qiita.com/matlab-master/items/4ec56a4fb93c04cd20d6"/>
+        <updated>2026-01-09T14:02:03.000Z</updated>
+        <summary type="html"><![CDATA[ライダー重心移動とブレーキ挙動の関係について  重心移動のみを考慮した場合 ライダーの重心移動のみを考慮した状態で、 高速度域から停止までのブレーキ挙動をSIMで確認した。 その結果、  ピッチ角度にはわずかな影響が見られる 車速の減速挙動には、ほとんど影響しない  とい...]]></summary>
+        <content type="html"><![CDATA[ライダー重心移動とブレーキ挙動の関係について  重心移動のみを考慮した場合 ライダーの重心移動のみを考慮した状態で、 高速度域から停止までのブレーキ挙動をSIMで確認した。 その結果、  ピッチ角度にはわずかな影響が見られる 車速の減速挙動には、ほとんど影響しない  とい...]]></content>
+        <published>2026-01-09T14:02:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レーンチェンジ制御(車線変更)は **LQR制御 × PID制御** の組み合わせで解決 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/matlab-master/items/50c9364375c675641796</id>
+        <link href="https://qiita.com/matlab-master/items/50c9364375c675641796"/>
+        <updated>2026-01-08T13:37:41.000Z</updated>
+        <summary type="html"><![CDATA[レーンチェンジ制御は LQR制御 × PID制御 の組み合わせで解決した話  概要 レーンチェンジ時に、グローバル座標系（右手系）において横方向へ移動した後、安定する制御を作成することを目的とした。  最初に試した方法 最初は、 グローバル座標の目標値と現在値の差分を入力...]]></summary>
+        <content type="html"><![CDATA[レーンチェンジ制御は LQR制御 × PID制御 の組み合わせで解決した話  概要 レーンチェンジ時に、グローバル座標系（右手系）において横方向へ移動した後、安定する制御を作成することを目的とした。  最初に試した方法 最初は、 グローバル座標の目標値と現在値の差分を入力...]]></content>
+        <published>2026-01-08T13:37:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[車体重量は適切に、Scopeは邪魔、タイヤモーメントは制御の敵 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/matlab-master/items/b55af02c6be108cafb24</id>
+        <link href="https://qiita.com/matlab-master/items/b55af02c6be108cafb24"/>
+        <updated>2026-01-07T13:38:32.000Z</updated>
+        <summary type="html"><![CDATA[バイクシミュレーションでの気づきメモ（重量・Scope・タイヤモーメント） シミュレーションを進める中で、いくつか重要な気づきがありました。 ※本記事中の数値や条件は、挙動確認用に設定した例であり、 実際の製品・実車・業務データとは関係ありません。  発見したこと  車...]]></summary>
+        <content type="html"><![CDATA[バイクシミュレーションでの気づきメモ（重量・Scope・タイヤモーメント） シミュレーションを進める中で、いくつか重要な気づきがありました。 ※本記事中の数値や条件は、挙動確認用に設定した例であり、 実際の製品・実車・業務データとは関係ありません。  発見したこと  車...]]></content>
+        <published>2026-01-07T13:38:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複雑なモデルでもできるPIDゲインの簡単な求め方 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/matlab-master/items/caa365faf85bcef9654e</id>
+        <link href="https://qiita.com/matlab-master/items/caa365faf85bcef9654e"/>
+        <updated>2026-01-06T13:18:48.000Z</updated>
+        <summary type="html"><![CDATA[応答オプティマイザーでロール角度狙いのPID制御を作った話 PID制御で目標数値を欲張り禁止！！！！ 応答オプティマイザーを使って ロール角度を目標値に合わせるPID制御を作成した。 以前は、SIMを手動で回しながらPIDゲインを調整していた。 もちろん、PIDの各ゲイン...]]></summary>
+        <content type="html"><![CDATA[応答オプティマイザーでロール角度狙いのPID制御を作った話 PID制御で目標数値を欲張り禁止！！！！ 応答オプティマイザーを使って ロール角度を目標値に合わせるPID制御を作成した。 以前は、SIMを手動で回しながらPIDゲインを調整していた。 もちろん、PIDの各ゲイン...]]></content>
+        <published>2026-01-06T13:18:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLABの本気がみたい | Zennの「MATLAB」のフィード]]></title>
+        <id>https://zenn.dev/ryo369/articles/d5fba6574012b6</id>
+        <link href="https://zenn.dev/ryo369/articles/d5fba6574012b6"/>
+        <updated>2026-01-04T10:56:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに MATLABを使い始めて、もう何年になるやろ。 MATLABには感謝してる。行列計算は書きやすいし、Simulinkは制御系の人には必須やし、信号処理のツールボックスも充実してる。「とりあえず動く」安心感は、本業に集中したい人間にとってありがたいねん。 けど、長年使ってると「ちょっとな〜」と思うことも増えてきた。 今日はそんな話を、ゆるく書いてみるわ。    その１：並列計算、なんで有料...]]></summary>
+        <content type="html"><![CDATA[はじめに MATLABを使い始めて、もう何年になるやろ。 MATLABには感謝してる。行列計算は書きやすいし、Simulinkは制御系の人には必須やし、信号処理のツールボックスも充実してる。「とりあえず動く」安心感は、本業に集中したい人間にとってありがたいねん。 けど、長年使ってると「ちょっとな〜」と思うことも増えてきた。 今日はそんな話を、ゆるく書いてみるわ。    その１：並列計算、なんで有料なん？   16コアあるのに1コアしか動かへん ある日、計算を回してた。100通りの条件で、それぞれ5分かかる処理。 100 × 5分 = 500分 = 8時間20分 「まあ一晩回しとくか」...]]></content>
+        <author>
+            <name>ryo</name>
+        </author>
+        <published>2026-01-04T10:56:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編） | Zennの「MATLAB」のフィード]]></title>
+        <id>https://zenn.dev/nihinihikun/articles/d8d8cdadebe1d5</id>
+        <link href="https://zenn.dev/nihinihikun/articles/d8d8cdadebe1d5"/>
+        <updated>2025-12-30T13:27:32.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編）    概要 STM32マイコンで実行されている制御アルゴリズムの内部変数（デューティ比など）を，USBシリアル（UART）経由でMATLAB/Simulinkに送信し，リアルタイムでScope表示・解析するための環境構築手順をまとめます． 将来的な「マイコン制御＋MATLABモータモデル」の同期シミュレーション（PIL...]]></summary>
+        <content type="html"><![CDATA[MATLAB Simulinkとマイコンを同期させよう（USBシリアル通信編）    概要 STM32マイコンで実行されている制御アルゴリズムの内部変数（デューティ比など）を，USBシリアル（UART）経由でMATLAB/Simulinkに送信し，リアルタイムでScope表示・解析するための環境構築手順をまとめます． 将来的な「マイコン制御＋MATLABモータモデル」の同期シミュレーション（PIL/HIL）に向けた第一歩となる，**「データのパケット化」と「Simulink側での同期処理」**に焦点を当てます．    環境   MATLAB / Simulink: 2024b  In...]]></content>
+        <author>
+            <name>にひにひ</name>
+        </author>
+        <published>2025-12-30T13:27:32.000Z</published>
+    </entry>
+</feed>
