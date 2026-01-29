@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2026-01-29T09:16:49.357Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLAB三角関数の落とし穴: なぜatan2dを使うべきなのか | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/matlab-master/items/b19289aeeda01eddb8c0</id>
+        <link href="https://qiita.com/matlab-master/items/b19289aeeda01eddb8c0"/>
+        <updated>2026-01-28T13:15:39.000Z</updated>
+        <summary type="html"><![CDATA[三角関数でベクトルの角度を求める際の落とし穴と解決策  ベクトルの合力と角度の基本 X方向へのベクトルとZ方向へのベクトルが分かるとき、この2つのベクトルの合力は以下の式で求めることができます。 resultant = sqrt(X^2 + Z^2);  MATLAB三...]]></summary>
+        <content type="html"><![CDATA[三角関数でベクトルの角度を求める際の落とし穴と解決策  ベクトルの合力と角度の基本 X方向へのベクトルとZ方向へのベクトルが分かるとき、この2つのベクトルの合力は以下の式で求めることができます。 resultant = sqrt(X^2 + Z^2);  MATLAB三...]]></content>
+        <published>2026-01-28T13:15:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高速フーリエ変換(FFT)で実データを正しく比較する方法 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/matlab-master/items/018edf15a0c414ff1339</id>
+        <link href="https://qiita.com/matlab-master/items/018edf15a0c414ff1339"/>
+        <updated>2026-01-26T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[実車とシミュレーションの比較にはFFT(高速フーリエ変換)を使おう  はじめに 実車データとシミュレーション(SIM)データを比較する際、「ぱっと見で合っていそう」という判断でも良いですが、数値で定量的に表すときはFFT(高速フーリエ変換)を使用すると良いでしょう。MAT...]]></summary>
+        <content type="html"><![CDATA[実車とシミュレーションの比較にはFFT(高速フーリエ変換)を使おう  はじめに 実車データとシミュレーション(SIM)データを比較する際、「ぱっと見で合っていそう」という判断でも良いですが、数値で定量的に表すときはFFT(高速フーリエ変換)を使用すると良いでしょう。MAT...]]></content>
+        <published>2026-01-26T13:39:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Host External Audio Plugins ～ MATLAB で市販・自作 VST / AU プラグインを利用する | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/nb2b882eea43d</id>
+        <link href="https://note.com/leftbank/n/nb2b882eea43d"/>
+        <updated>2026-01-25T16:47:28.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2026-01-25T16:47:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MATLAB】AI初心者が転移学習で標識認識に挑戦 ~進入禁止と天下一品の分類~ | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Kisuke14/items/22671cbb388772c39657</id>
+        <link href="https://qiita.com/Kisuke14/items/22671cbb388772c39657"/>
+        <updated>2026-01-25T07:12:56.000Z</updated>
+        <summary type="html"><![CDATA[背景 突然ですが、当方AI初心者です。大学でモデル予測制御に関する研究をやっていたので、最適化計算やそのアルゴリズムはすこーしだけわかるものの、画像認識やDNNといった部分は専門外です。 そんな私ですが、仕事の都合でDNNを使った画像認識について勉強する必要が出てきました...]]></summary>
+        <content type="html"><![CDATA[背景 突然ですが、当方AI初心者です。大学でモデル予測制御に関する研究をやっていたので、最適化計算やそのアルゴリズムはすこーしだけわかるものの、画像認識やDNNといった部分は専門外です。 そんな私ですが、仕事の都合でDNNを使った画像認識について勉強する必要が出てきました...]]></content>
+        <published>2026-01-25T07:12:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[車載CANログ(BLF/ASC)をCSV/MAT変換するツールをオープンソースで公開しました | Zennの「MATLAB」のフィード]]></title>
+        <id>https://zenn.dev/nishina__n/articles/0b41ae81b98b5c</id>
+        <link href="https://zenn.dev/nishina__n/articles/0b41ae81b98b5c"/>
+        <updated>2026-01-22T14:25:04.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 車載開発の現場では、CANバス通信のログ（BLFやASCファイル）を取得し、分析することが日常的に行われています。 ですが、生のCANデータはバイナリ形式であるため、人間が読むには**DBCファイル（CANデータベース）**を使ってデコードしなければなりません。専用の解析ツールはライセンスが高価だったり、ちょっとした確認に使うには動作が重かったりと、使い勝手の面で課題を感じる場面があると...]]></summary>
+        <content type="html"><![CDATA[はじめに 車載開発の現場では、CANバス通信のログ（BLFやASCファイル）を取得し、分析することが日常的に行われています。 ですが、生のCANデータはバイナリ形式であるため、人間が読むには**DBCファイル（CANデータベース）**を使ってデコードしなければなりません。専用の解析ツールはライセンスが高価だったり、ちょっとした確認に使うには動作が重かったりと、使い勝手の面で課題を感じる場面があると思います。 そこで、PythonがインストールされていないPCでも動く無料の変換ツールを開発し、以前は個人のホームページで配布していました。今回、ソースコードを整理してGitHubでオープン...]]></content>
+        <author>
+            <name>Nishina</name>
+        </author>
+        <published>2026-01-22T14:25:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仕事で通用するプログラムの作り方：1行テストと関数設計 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/matlab-master/items/738aa5f05d01e52b7c27</id>
+        <link href="https://qiita.com/matlab-master/items/738aa5f05d01e52b7c27"/>
+        <updated>2026-01-22T14:17:30.000Z</updated>
+        <summary type="html"><![CDATA[プログラミングの基本原則：段階的な実装とテスト駆動開発  はじめに プログラム開発において最も重要なのは、1行変更したらテストを行うという原則です。本記事では、VBAでExcelに九九表を作成する例を通じて、実践的なプログラミング手法を解説します。  プログラミングの4つ...]]></summary>
+        <content type="html"><![CDATA[プログラミングの基本原則：段階的な実装とテスト駆動開発  はじめに プログラム開発において最も重要なのは、1行変更したらテストを行うという原則です。本記事では、VBAでExcelに九九表を作成する例を通じて、実践的なプログラミング手法を解説します。  プログラミングの4つ...]]></content>
+        <published>2026-01-22T14:17:30.000Z</published>
+    </entry>
+</feed>

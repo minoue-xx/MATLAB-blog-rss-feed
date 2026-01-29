@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Thu, 29 Jan 2026 09:16:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MATLAB三角関数の落とし穴: なぜatan2dを使うべきなのか | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/matlab-master/items/b19289aeeda01eddb8c0</link>
+            <guid>https://qiita.com/matlab-master/items/b19289aeeda01eddb8c0</guid>
+            <pubDate>Wed, 28 Jan 2026 13:15:39 GMT</pubDate>
+            <description><![CDATA[三角関数でベクトルの角度を求める際の落とし穴と解決策  ベクトルの合力と角度の基本 X方向へのベクトルとZ方向へのベクトルが分かるとき、この2つのベクトルの合力は以下の式で求めることができます。 resultant = sqrt(X^2 + Z^2);  MATLAB三...]]></description>
+            <content:encoded><![CDATA[三角関数でベクトルの角度を求める際の落とし穴と解決策  ベクトルの合力と角度の基本 X方向へのベクトルとZ方向へのベクトルが分かるとき、この2つのベクトルの合力は以下の式で求めることができます。 resultant = sqrt(X^2 + Z^2);  MATLAB三...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS1ZXeGF4dEUyNzVqLTdSVktjaWFxT2d0b042eUZ5NFMtS2hpQTgxMG5yVmpORXNkeEclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjAxNThhZTMwMjM1NzgzMWEzZDVhZjMxNzIyY2ZjZmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D471ab936060de3def4f46c55821747a0?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUU0JUI4JTg5JUU4JUE3JTkyJUU5JTk2JUEyJUU2JTk1JUIwJUUzJTgxJUFFJUU4JTkwJUJEJUUzJTgxJUE4JUUzJTgxJTk3JUU3JUE5JUI0JTNBJTIwJUUzJTgxJUFBJUUzJTgxJTlDYXRhbjJkJUUzJTgyJTkyJUU0JUJEJUJGJUUzJTgxJTg2JUUzJTgxJUI5JUUzJTgxJThEJUUzJTgxJUFBJUUzJTgxJUFFJUUzJTgxJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NmIyMmU3ZTMwMWYyZTg1ZDA4Y2ViZDU5YjY1MTdkNGU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXRsYWItbWFzdGVyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmU4OWJmM2Q2OTlkMmNiMTMwZWYwMDE2ZjhhNmQ2NjE&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8a031a78979488d3ee0bf6e7021200b0"/>
+        </item>
+        <item>
+            <title><![CDATA[高速フーリエ変換(FFT)で実データを正しく比較する方法 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/matlab-master/items/018edf15a0c414ff1339</link>
+            <guid>https://qiita.com/matlab-master/items/018edf15a0c414ff1339</guid>
+            <pubDate>Mon, 26 Jan 2026 13:39:00 GMT</pubDate>
+            <description><![CDATA[実車とシミュレーションの比較にはFFT(高速フーリエ変換)を使おう  はじめに 実車データとシミュレーション(SIM)データを比較する際、「ぱっと見で合っていそう」という判断でも良いですが、数値で定量的に表すときはFFT(高速フーリエ変換)を使用すると良いでしょう。MAT...]]></description>
+            <content:encoded><![CDATA[実車とシミュレーションの比較にはFFT(高速フーリエ変換)を使おう  はじめに 実車データとシミュレーション(SIM)データを比較する際、「ぱっと見で合っていそう」という判断でも良いですが、数値で定量的に表すときはFFT(高速フーリエ変換)を使用すると良いでしょう。MAT...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS1ZXeGF4dEUyNzVqLTdSVktjaWFxT2d0b042eUZ5NFMtS2hpQTgxMG5yVmpORXNkeEclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjAxNThhZTMwMjM1NzgzMWEzZDVhZjMxNzIyY2ZjZmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D471ab936060de3def4f46c55821747a0?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JUFCJTk4JUU5JTgwJTlGJUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgzJUFBJUUzJTgyJUE4JUU1JUE0JTg5JUU2JThGJTlCJTI4RkZUJTI5JUUzJTgxJUE3JUU1JUFFJTlGJUUzJTgzJTg3JUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgyJTkyJUU2JUFEJUEzJUUzJTgxJTk3JUUzJTgxJThGJUU2JUFGJTk0JUU4JUJDJTgzJUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjBlYWE2OTViNjcwNGMzNDAxODVjMDQ3N2M0MThlYmE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXRsYWItbWFzdGVyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmU4OWJmM2Q2OTlkMmNiMTMwZWYwMDE2ZjhhNmQ2NjE&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da17e09a5d5846d4c80f5480ea85e9fe"/>
+        </item>
+        <item>
+            <title><![CDATA[Host External Audio Plugins ～ MATLAB で市販・自作 VST / AU プラグインを利用する | MATLAB関連]]></title>
+            <link>https://note.com/leftbank/n/nb2b882eea43d</link>
+            <guid>https://note.com/leftbank/n/nb2b882eea43d</guid>
+            <pubDate>Sun, 25 Jan 2026 16:47:28 GMT</pubDate>
+            <description><![CDATA[まえがき 続きをみる]]></description>
+            <content:encoded><![CDATA[まえがき 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/246560301/rectangle_large_type_2_d253dfc824dc3d2f67355007d6a8d4f5.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【MATLAB】AI初心者が転移学習で標識認識に挑戦 ~進入禁止と天下一品の分類~ | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/Kisuke14/items/22671cbb388772c39657</link>
+            <guid>https://qiita.com/Kisuke14/items/22671cbb388772c39657</guid>
+            <pubDate>Sun, 25 Jan 2026 07:12:56 GMT</pubDate>
+            <description><![CDATA[背景 突然ですが、当方AI初心者です。大学でモデル予測制御に関する研究をやっていたので、最適化計算やそのアルゴリズムはすこーしだけわかるものの、画像認識やDNNといった部分は専門外です。 そんな私ですが、仕事の都合でDNNを使った画像認識について勉強する必要が出てきました...]]></description>
+            <content:encoded><![CDATA[背景 突然ですが、当方AI初心者です。大学でモデル予測制御に関する研究をやっていたので、最適化計算やそのアルゴリズムはすこーしだけわかるものの、画像認識やDNNといった部分は専門外です。 そんな私ですが、仕事の都合でDNNを使った画像認識について勉強する必要が出てきました...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MjkyNDYyJTJGMTc2ZTBjZmY3MDJlYzkxYjdlYTEyNDJhZTg4MDU3ZGY1YjYzYWU3NiUyRmxhcmdlLnBuZyUzRjE3NjUyMDIxMTQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWM5YjM1MGFhZTFhMTQ4ZDQzNzQ5ZmM2ZjlhOWY2Nzk4%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D69d7be78cc1bfa1eb588a2f91c425398?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwTUFUTEFCJUUzJTgwJTkxQUklRTUlODglOUQlRTUlQkYlODMlRTglODAlODUlRTMlODElOEMlRTglQkIlQTIlRTclQTclQkIlRTUlQUQlQTYlRTclQkYlOTIlRTMlODElQTclRTYlQTglOTklRTglQUQlOTglRTglQUElOEQlRTglQUQlOTglRTMlODElQUIlRTYlOEMlOTElRTYlODglQTYlMjB-JUU5JTgwJUIyJUU1JTg1JUE1JUU3JUE2JTgxJUU2JUFEJUEyJUUzJTgxJUE4JUU1JUE0JUE5JUU0JUI4JThCJUU0JUI4JTgwJUU1JTkzJTgxJUUzJTgxJUFFJUU1JTg4JTg2JUU5JUExJTlFfiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWNhMTdlNWM1NTZjZGJjNGY5NTBmYWFkOTFlNmRhYzZl&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBLaXN1a2UxNCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTIxMzA3YTMyODJjMzE5N2QyZTE2ZmUxZGE2Nzg4MDdl&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=65f8860a38a7e0114766f4d029100f04"/>
+        </item>
+        <item>
+            <title><![CDATA[車載CANログ(BLF/ASC)をCSV/MAT変換するツールをオープンソースで公開しました | Zennの「MATLAB」のフィード]]></title>
+            <link>https://zenn.dev/nishina__n/articles/0b41ae81b98b5c</link>
+            <guid>https://zenn.dev/nishina__n/articles/0b41ae81b98b5c</guid>
+            <pubDate>Thu, 22 Jan 2026 14:25:04 GMT</pubDate>
+            <description><![CDATA[はじめに 車載開発の現場では、CANバス通信のログ（BLFやASCファイル）を取得し、分析することが日常的に行われています。 ですが、生のCANデータはバイナリ形式であるため、人間が読むには**DBCファイル（CANデータベース）**を使ってデコードしなければなりません。専用の解析ツールはライセンスが高価だったり、ちょっとした確認に使うには動作が重かったりと、使い勝手の面で課題を感じる場面があると...]]></description>
+            <content:encoded><![CDATA[はじめに 車載開発の現場では、CANバス通信のログ（BLFやASCファイル）を取得し、分析することが日常的に行われています。 ですが、生のCANデータはバイナリ形式であるため、人間が読むには**DBCファイル（CANデータベース）**を使ってデコードしなければなりません。専用の解析ツールはライセンスが高価だったり、ちょっとした確認に使うには動作が重かったりと、使い勝手の面で課題を感じる場面があると思います。 そこで、PythonがインストールされていないPCでも動く無料の変換ツールを開発し、以前は個人のホームページで配布していました。今回、ソースコードを整理してGitHubでオープン...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--owU73XuL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25BB%258A%25E8%25BC%2589CAN%25E3%2583%25AD%25E3%2582%25B0%2528BLF%252FASC%2529%25E3%2582%2592CSV%252FMAT%25E5%25A4%2589%25E6%258F%259B%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nishina%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkpfMGJQeWs1ZWgxWms1MUdVaVRpdVd1cjdobVFScmRMRDZUbndMWjNRMFhjb2Z3PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"/>
+        </item>
+        <item>
+            <title><![CDATA[仕事で通用するプログラムの作り方：1行テストと関数設計 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/matlab-master/items/738aa5f05d01e52b7c27</link>
+            <guid>https://qiita.com/matlab-master/items/738aa5f05d01e52b7c27</guid>
+            <pubDate>Thu, 22 Jan 2026 14:17:30 GMT</pubDate>
+            <description><![CDATA[プログラミングの基本原則：段階的な実装とテスト駆動開発  はじめに プログラム開発において最も重要なのは、1行変更したらテストを行うという原則です。本記事では、VBAでExcelに九九表を作成する例を通じて、実践的なプログラミング手法を解説します。  プログラミングの4つ...]]></description>
+            <content:encoded><![CDATA[プログラミングの基本原則：段階的な実装とテスト駆動開発  はじめに プログラム開発において最も重要なのは、1行変更したらテストを行うという原則です。本記事では、VBAでExcelに九九表を作成する例を通じて、実践的なプログラミング手法を解説します。  プログラミングの4つ...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS1ZXeGF4dEUyNzVqLTdSVktjaWFxT2d0b042eUZ5NFMtS2hpQTgxMG5yVmpORXNkeEclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjAxNThhZTMwMjM1NzgzMWEzZDVhZjMxNzIyY2ZjZmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D471ab936060de3def4f46c55821747a0?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUJCJTk1JUU0JUJBJThCJUUzJTgxJUE3JUU5JTgwJTlBJUU3JTk0JUE4JUUzJTgxJTk5JUUzJTgyJThCJUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUIwJUUzJTgzJUE5JUUzJTgzJUEwJUUzJTgxJUFFJUU0JUJEJTlDJUUzJTgyJThBJUU2JTk2JUI5JUVGJUJDJTlBMSVFOCVBMSU4QyVFMyU4MyU4NiVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MSVBOCVFOSU5NiVBMiVFNiU5NSVCMCVFOCVBOCVBRCVFOCVBOCU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThlOTlkYjZmNmI5YWVhNmY0ZWY3YjQ0NzE4NmM0ZGY5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXRsYWItbWFzdGVyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmU4OWJmM2Q2OTlkMmNiMTMwZWYwMDE2ZjhhNmQ2NjE&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=af5d591a4b56eefe3a0dad3e83e4c5fe"/>
+        </item>
+    </channel>
+</rss>
