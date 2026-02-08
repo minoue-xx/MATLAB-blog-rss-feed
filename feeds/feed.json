@@ -1,0 +1,115 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/Hiroshi-Okajima/items/6f282b26bf27d1ff914f",
+            "content_html": "H. Okajima, Y. Kaneda, and N. Matsunaga, \"State estimation method using median of multiple candidates for observation signals including o...",
+            "url": "https://qiita.com/Hiroshi-Okajima/items/6f282b26bf27d1ff914f",
+            "title": "When Sensors Lie: Rejecting Outliers in State Estimation with the Median of Candidate Vectors Observer | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "H. Okajima, Y. Kaneda, and N. Matsunaga, \"State estimation method using median of multiple candidates for observation signals including o...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDE2NzY0NCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1NTQ3ODgzMz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZjhmYzE0NmY3ZDNiODY1MjUwZjAzNzM2YWQ3NDE2M2E%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5c1ff5ce3059b2ad2f899998afc0ec45?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9V2hlbiUyMFNlbnNvcnMlMjBMaWUlM0ElMjBSZWplY3RpbmclMjBPdXRsaWVycyUyMGluJTIwU3RhdGUlMjBFc3RpbWF0aW9uJTIwd2l0aCUyMHRoZSUyME1lZGlhbiUyMG9mJTIwQ2FuZGlkYXRlJTIwVmVjJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODIwMTY1ZWVkZjg2NTYxOTQ1YmE0MDA1NDE5YzYzNjE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIaXJvc2hpLU9rYWppbWEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kYjkyZWE1OTBkMzkyOGJjYzkzNzhjODYzNWJmODNjYg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=cd1ce0bb7c94671a8e01b673b2982460"
+            },
+            "date_modified": "2026-02-08T03:46:37.000Z",
+            "date_published": "2026-02-08T03:46:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "When Sensors Lie: Rejecting Outliers in State Estimation with the Median of Candidate Vectors Observer",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/Hiroshi-Okajima/items/28db06dfe9c6cc790559",
+            "content_html": "マルチレートカルマンフィルタのArXiv マルチレートカルマンフィルタの論文を投稿し，投稿前にArXivに原稿提出しました。 LMI Optimization Based Multirate Steady-State Kalman Filter Design https:...",
+            "url": "https://qiita.com/Hiroshi-Okajima/items/28db06dfe9c6cc790559",
+            "title": "MATLAB Pythonによるマルチレート定常カルマンフィルタの実装 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "マルチレートカルマンフィルタのArXiv マルチレートカルマンフィルタの論文を投稿し，投稿前にArXivに原稿提出しました。 LMI Optimization Based Multirate Steady-State Kalman Filter Design https:...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDE2NzY0NCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1NTQ3ODgzMz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZjhmYzE0NmY3ZDNiODY1MjUwZjAzNzM2YWQ3NDE2M2E%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5c1ff5ce3059b2ad2f899998afc0ec45?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJTIwUHl0aG9uJUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCJUUzJTgzJTlFJUUzJTgzJUFCJUUzJTgzJTgxJUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgzJTg4JUU1JUFFJTlBJUU1JUI4JUI4JUUzJTgyJUFCJUUzJTgzJUFCJUUzJTgzJTlFJUUzJTgzJUIzJUUzJTgzJTk1JUUzJTgyJUEzJUUzJTgzJUFCJUUzJTgyJUJGJUUzJTgxJUFFJUU1JUFFJTlGJUU4JUEzJTg1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZmU1ZTUwNjVmZjYzNzlkZGY3N2M3Y2FmNDRiNmQ2Njg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIaXJvc2hpLU9rYWppbWEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kYjkyZWE1OTBkMzkyOGJjYzkzNzhjODYzNWJmODNjYg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=745cef45ad443557fe6c531c483c73f9"
+            },
+            "date_modified": "2026-02-06T22:08:31.000Z",
+            "date_published": "2026-02-06T22:08:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "MATLAB Pythonによるマルチレート定常カルマンフィルタの実装",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/matlab-master/items/b19289aeeda01eddb8c0",
+            "content_html": "三角関数でベクトルの角度を求める際の落とし穴と解決策  ベクトルの合力と角度の基本 X方向へのベクトルとZ方向へのベクトルが分かるとき、この2つのベクトルの合力は以下の式で求めることができます。 resultant = sqrt(X^2 + Z^2);  MATLAB三...",
+            "url": "https://qiita.com/matlab-master/items/b19289aeeda01eddb8c0",
+            "title": "MATLAB三角関数の落とし穴: なぜatan2dを使うべきなのか | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "三角関数でベクトルの角度を求める際の落とし穴と解決策  ベクトルの合力と角度の基本 X方向へのベクトルとZ方向へのベクトルが分かるとき、この2つのベクトルの合力は以下の式で求めることができます。 resultant = sqrt(X^2 + Z^2);  MATLAB三...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS1ZXeGF4dEUyNzVqLTdSVktjaWFxT2d0b042eUZ5NFMtS2hpQTgxMG5yVmpORXNkeEclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjAxNThhZTMwMjM1NzgzMWEzZDVhZjMxNzIyY2ZjZmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D471ab936060de3def4f46c55821747a0?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUU0JUI4JTg5JUU4JUE3JTkyJUU5JTk2JUEyJUU2JTk1JUIwJUUzJTgxJUFFJUU4JTkwJUJEJUUzJTgxJUE4JUUzJTgxJTk3JUU3JUE5JUI0JTNBJTIwJUUzJTgxJUFBJUUzJTgxJTlDYXRhbjJkJUUzJTgyJTkyJUU0JUJEJUJGJUUzJTgxJTg2JUUzJTgxJUI5JUUzJTgxJThEJUUzJTgxJUFBJUUzJTgxJUFFJUUzJTgxJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NmIyMmU3ZTMwMWYyZTg1ZDA4Y2ViZDU5YjY1MTdkNGU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXRsYWItbWFzdGVyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmU4OWJmM2Q2OTlkMmNiMTMwZWYwMDE2ZjhhNmQ2NjE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=8a031a78979488d3ee0bf6e7021200b0"
+            },
+            "date_modified": "2026-01-28T13:15:39.000Z",
+            "date_published": "2026-01-28T13:15:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB三角関数の落とし穴: なぜatan2dを使うべきなのか",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/matlab-master/items/018edf15a0c414ff1339",
+            "content_html": "実車とシミュレーションの比較にはFFT(高速フーリエ変換)を使おう  はじめに 実車データとシミュレーション(SIM)データを比較する際、「ぱっと見で合っていそう」という判断でも良いですが、数値で定量的に表すときはFFT(高速フーリエ変換)を使用すると良いでしょう。MAT...",
+            "url": "https://qiita.com/matlab-master/items/018edf15a0c414ff1339",
+            "title": "高速フーリエ変換(FFT)で実データを正しく比較する方法 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "実車とシミュレーションの比較にはFFT(高速フーリエ変換)を使おう  はじめに 実車データとシミュレーション(SIM)データを比較する際、「ぱっと見で合っていそう」という判断でも良いですが、数値で定量的に表すときはFFT(高速フーリエ変換)を使用すると良いでしょう。MAT...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS1ZXeGF4dEUyNzVqLTdSVktjaWFxT2d0b042eUZ5NFMtS2hpQTgxMG5yVmpORXNkeEclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjAxNThhZTMwMjM1NzgzMWEzZDVhZjMxNzIyY2ZjZmI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D471ab936060de3def4f46c55821747a0?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JUFCJTk4JUU5JTgwJTlGJUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgzJUFBJUUzJTgyJUE4JUU1JUE0JTg5JUU2JThGJTlCJTI4RkZUJTI5JUUzJTgxJUE3JUU1JUFFJTlGJUUzJTgzJTg3JUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgyJTkyJUU2JUFEJUEzJUUzJTgxJTk3JUUzJTgxJThGJUU2JUFGJTk0JUU4JUJDJTgzJUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjBlYWE2OTViNjcwNGMzNDAxODVjMDQ3N2M0MThlYmE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXRsYWItbWFzdGVyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmU4OWJmM2Q2OTlkMmNiMTMwZWYwMDE2ZjhhNmQ2NjE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=da17e09a5d5846d4c80f5480ea85e9fe"
+            },
+            "date_modified": "2026-01-26T13:39:00.000Z",
+            "date_published": "2026-01-26T13:39:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "高速フーリエ変換(FFT)で実データを正しく比較する方法",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://note.com/leftbank/n/nb2b882eea43d",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/nb2b882eea43d",
+            "title": "Host External Audio Plugins ～ MATLAB で市販・自作 VST / AU プラグインを利用する | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/246560301/rectangle_large_type_2_d253dfc824dc3d2f67355007d6a8d4f5.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2026-01-25T16:47:28.000Z",
+            "date_published": "2026-01-25T16:47:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Host External Audio Plugins ～ MATLAB で市販・自作 VST / AU プラグインを利用する",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2026-02-08T13:17:58.120Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[When Sensors Lie: Rejecting Outliers in State Estimation with the Median of Candidate Vectors Observer | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Hiroshi-Okajima/items/6f282b26bf27d1ff914f</id>
+        <link href="https://qiita.com/Hiroshi-Okajima/items/6f282b26bf27d1ff914f"/>
+        <updated>2026-02-08T03:46:37.000Z</updated>
+        <summary type="html"><![CDATA[H. Okajima, Y. Kaneda, and N. Matsunaga, "State estimation method using median of multiple candidates for observation signals including o...]]></summary>
+        <content type="html"><![CDATA[H. Okajima, Y. Kaneda, and N. Matsunaga, "State estimation method using median of multiple candidates for observation signals including o...]]></content>
+        <published>2026-02-08T03:46:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB Pythonによるマルチレート定常カルマンフィルタの実装 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Hiroshi-Okajima/items/28db06dfe9c6cc790559</id>
+        <link href="https://qiita.com/Hiroshi-Okajima/items/28db06dfe9c6cc790559"/>
+        <updated>2026-02-06T22:08:31.000Z</updated>
+        <summary type="html"><![CDATA[マルチレートカルマンフィルタのArXiv マルチレートカルマンフィルタの論文を投稿し，投稿前にArXivに原稿提出しました。 LMI Optimization Based Multirate Steady-State Kalman Filter Design https:...]]></summary>
+        <content type="html"><![CDATA[マルチレートカルマンフィルタのArXiv マルチレートカルマンフィルタの論文を投稿し，投稿前にArXivに原稿提出しました。 LMI Optimization Based Multirate Steady-State Kalman Filter Design https:...]]></content>
+        <published>2026-02-06T22:08:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB三角関数の落とし穴: なぜatan2dを使うべきなのか | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/matlab-master/items/b19289aeeda01eddb8c0</id>
+        <link href="https://qiita.com/matlab-master/items/b19289aeeda01eddb8c0"/>
+        <updated>2026-01-28T13:15:39.000Z</updated>
+        <summary type="html"><![CDATA[三角関数でベクトルの角度を求める際の落とし穴と解決策  ベクトルの合力と角度の基本 X方向へのベクトルとZ方向へのベクトルが分かるとき、この2つのベクトルの合力は以下の式で求めることができます。 resultant = sqrt(X^2 + Z^2);  MATLAB三...]]></summary>
+        <content type="html"><![CDATA[三角関数でベクトルの角度を求める際の落とし穴と解決策  ベクトルの合力と角度の基本 X方向へのベクトルとZ方向へのベクトルが分かるとき、この2つのベクトルの合力は以下の式で求めることができます。 resultant = sqrt(X^2 + Z^2);  MATLAB三...]]></content>
+        <published>2026-01-28T13:15:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高速フーリエ変換(FFT)で実データを正しく比較する方法 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/matlab-master/items/018edf15a0c414ff1339</id>
+        <link href="https://qiita.com/matlab-master/items/018edf15a0c414ff1339"/>
+        <updated>2026-01-26T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[実車とシミュレーションの比較にはFFT(高速フーリエ変換)を使おう  はじめに 実車データとシミュレーション(SIM)データを比較する際、「ぱっと見で合っていそう」という判断でも良いですが、数値で定量的に表すときはFFT(高速フーリエ変換)を使用すると良いでしょう。MAT...]]></summary>
+        <content type="html"><![CDATA[実車とシミュレーションの比較にはFFT(高速フーリエ変換)を使おう  はじめに 実車データとシミュレーション(SIM)データを比較する際、「ぱっと見で合っていそう」という判断でも良いですが、数値で定量的に表すときはFFT(高速フーリエ変換)を使用すると良いでしょう。MAT...]]></content>
+        <published>2026-01-26T13:39:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Host External Audio Plugins ～ MATLAB で市販・自作 VST / AU プラグインを利用する | MATLAB関連]]></title>
+        <id>https://note.com/leftbank/n/nb2b882eea43d</id>
+        <link href="https://note.com/leftbank/n/nb2b882eea43d"/>
+        <updated>2026-01-25T16:47:28.000Z</updated>
+        <summary type="html"><![CDATA[まえがき 続きをみる]]></summary>
+        <content type="html"><![CDATA[まえがき 続きをみる]]></content>
+        <published>2026-01-25T16:47:28.000Z</published>
+    </entry>
+</feed>
