@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Mon, 02 Mar 2026 08:17:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MATLAB/Simulink とSimscape Electrical 入門 | Zennの「MATLAB」のフィード]]></title>
+            <link>https://zenn.dev/qwerewq/books/8788644d27cbcd</link>
+            <guid>https://zenn.dev/qwerewq/books/8788644d27cbcd</guid>
+            <pubDate>Mon, 16 Feb 2026 08:32:31 GMT</pubDate>
+            <description><![CDATA[本技術同人誌は，MATLAB／SimulinkとSimscape Electricalを用いたシミュレーションを，数値計算の仕組みから体系的に理解するための入門書である。ブロックの操作方法だけでなく，コンピュータが内部で何を計算しているのかに重点を置いて解説する。  シミュレーションは，連続時間の現象を離散時間の数値計算として近似する技術である。本書では，サンプル時間，数値積分，ソルバーの動作原理...]]></description>
+            <content:encoded><![CDATA[本技術同人誌は，MATLAB／SimulinkとSimscape Electricalを用いたシミュレーションを，数値計算の仕組みから体系的に理解するための入門書である。ブロックの操作方法だけでなく，コンピュータが内部で何を計算しているのかに重点を置いて解説する。  シミュレーションは，連続時間の現象を離散時間の数値計算として近似する技術である。本書では，サンプル時間，数値積分，ソルバーの動作原理，誤差の発生要因を順序立てて説明し，結果を正しく解釈するための基礎を身につける。  また，制御工学で用いられるラプラス変換や伝達関数と，実際の数値計算との関係を整理し，s領域の理論と時間領域の計算の対応を明確にする。固定ステップと可変ステップの使い分け，硬い系への対応，Simscape特有の収束問題についても実務の視点から扱う。  さらに，データ型，論理信号，浮動小数点の限界といった実装上の注意点に加え，トラブル発生時の切り分け手順，ログの取り方，最小モデル化による原因特定の方法をまとめている。生成AIを補助ツールとして利用する際の質問方法と検証の観点も扱う。  本書の目的は，シミュレーション...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/zenn/image/upload/s--vMPZEX_f--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9lZDM2ODcxYThiLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"/>
+        </item>
+    </channel>
+</rss>

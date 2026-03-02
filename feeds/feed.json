@@ -1,0 +1,34 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://zenn.dev/qwerewq/books/8788644d27cbcd",
+            "content_html": "本技術同人誌は，MATLAB／SimulinkとSimscape Electricalを用いたシミュレーションを，数値計算の仕組みから体系的に理解するための入門書である。ブロックの操作方法だけでなく，コンピュータが内部で何を計算しているのかに重点を置いて解説する。  シミュレーションは，連続時間の現象を離散時間の数値計算として近似する技術である。本書では，サンプル時間，数値積分，ソルバーの動作原理，誤差の発生要因を順序立てて説明し，結果を正しく解釈するための基礎を身につける。  また，制御工学で用いられるラプラス変換や伝達関数と，実際の数値計算との関係を整理し，s領域の理論と時間領域の計算の対応を明確にする。固定ステップと可変ステップの使い分け，硬い系への対応，Simscape特有の収束問題についても実務の視点から扱う。  さらに，データ型，論理信号，浮動小数点の限界といった実装上の注意点に加え，トラブル発生時の切り分け手順，ログの取り方，最小モデル化による原因特定の方法をまとめている。生成AIを補助ツールとして利用する際の質問方法と検証の観点も扱う。  本書の目的は，シミュレーション...",
+            "url": "https://zenn.dev/qwerewq/books/8788644d27cbcd",
+            "title": "MATLAB/Simulink とSimscape Electrical 入門 | Zennの「MATLAB」のフィード",
+            "summary": "本技術同人誌は，MATLAB／SimulinkとSimscape Electricalを用いたシミュレーションを，数値計算の仕組みから体系的に理解するための入門書である。ブロックの操作方法だけでなく，コンピュータが内部で何を計算しているのかに重点を置いて解説する。  シミュレーションは，連続時間の現象を離散時間の数値計算として近似する技術である。本書では，サンプル時間，数値積分，ソルバーの動作原理...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--vMPZEX_f--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9lZDM2ODcxYThiLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
+            },
+            "date_modified": "2026-02-16T08:32:31.000Z",
+            "date_published": "2026-02-16T08:32:31.000Z",
+            "author": {
+                "name": "MOSバーガ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB/Simulink とSimscape Electrical 入門",
+                "blogTitle": "Zennの「MATLAB」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        }
+    ]
+}
