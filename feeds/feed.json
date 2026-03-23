@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/Carter/items/93cc07ac9a559411ad5d",
+            "content_html": "0. はじめに  昨年度の自動制御連合講演会以降，X で @ta98otani さんと情報交換しながら，Simulink を利用した低コストな制御実験環境の構築を進めています．先日，  「roller485lib は、Raspberry Pi Pico とも相性よく動きま...",
+            "url": "https://qiita.com/Carter/items/93cc07ac9a559411ad5d",
+            "title": "Simulink と激安な Raspberry Pi Pico で BLDC モータ Roller485 を動かす | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "0. はじめに  昨年度の自動制御連合講演会以降，X で @ta98otani さんと情報交換しながら，Simulink を利用した低コストな制御実験環境の構築を進めています．先日，  「roller485lib は、Raspberry Pi Pico とも相性よく動きま...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE0Mjk2MzA4NTc3NDA4MzY4NjYlMkZreXdJS2ZTel9iaWdnZXIuanBnP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05NzNhZDYwOTA3NWI3Y2RkZTJiZWI4ZDA4NTdlMGQyNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd792522eb1febe8e1429a6b9dc1a3221?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2ltdWxpbmslMjAlRTMlODElQTglRTYlQkYlODAlRTUlQUUlODklRTMlODElQUElMjBSYXNwYmVycnklMjBQaSUyMFBpY28lMjAlRTMlODElQTclMjBCTERDJTIwJUUzJTgzJUEyJUUzJTgzJUJDJUUzJTgyJUJGJTIwUm9sbGVyNDg1JTIwJUUzJTgyJTkyJUU1JThCJTk1JUUzJTgxJThCJUUzJTgxJTk5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjFmZGQ4NTk2Nzc3ZTQ2ZDQxNWZhODE4YmQxYjgxYzE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDYXJ0ZXImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0xOWQ3Yzk3MDFkZjZiMDY3MGM0MmQwZTE1YjBhZDhhMw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=02779f282823f19c0ab6463a0801126d"
+            },
+            "date_modified": "2026-03-22T09:14:20.000Z",
+            "date_published": "2026-03-22T09:14:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Simulink と激安な Raspberry Pi Pico で BLDC モータ Roller485 を動かす",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://zenn.dev/spargel/articles/20260313_simulink_claudedcode",
+            "content_html": "はじめに claude codeをはじめとした生成AIでプログラミングをしているというのが方々から聞こえてきますが，Simulinkはいわゆるビジュアルプログラミングであるため，無理だろうと決めつけていました． しかし，ふと考えると，Simulinkの作成ってmatlabのコマンドからできるのでclaude codeでも作成できるのではないかという可能性に思い至り，試してみました． https://jp.mathworks.com/help/simulink/referencelist.html?type=function&s_tid=CRUX_topnav   結論 おもっ...",
+            "url": "https://zenn.dev/spargel/articles/20260313_simulink_claudedcode",
+            "title": "ClaudeCodeでSimulinkを操れるか | Zennの「MATLAB」のフィード",
+            "summary": "はじめに claude codeをはじめとした生成AIでプログラミングをしているというのが方々から聞こえてきますが，Simulinkはいわゆるビジュアルプログラミングであるため，無理だろうと決めつけていました． しかし，ふと考えると，Simulinkの作成ってmatlabのコマンドからできるのでclaude codeでも作成できるのではないかという可能性に思い至り，試してみました． https:/...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--DQWcr0rI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ClaudeCode%25E3%2581%25A7Simulink%25E3%2582%2592%25E6%2593%258D%25E3%2582%258C%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:spargel%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZmZmVmOWE4MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+            },
+            "date_modified": "2026-03-13T14:12:54.000Z",
+            "date_published": "2026-03-13T14:12:54.000Z",
+            "author": {
+                "name": "spargel"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 49,
+                "originalTitle": "ClaudeCodeでSimulinkを操れるか",
+                "blogTitle": "Zennの「MATLAB」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        }
+    ]
+}

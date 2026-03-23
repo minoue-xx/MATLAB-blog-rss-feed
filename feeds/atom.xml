@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2026-03-23T14:28:04.105Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Simulink と激安な Raspberry Pi Pico で BLDC モータ Roller485 を動かす | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Carter/items/93cc07ac9a559411ad5d</id>
+        <link href="https://qiita.com/Carter/items/93cc07ac9a559411ad5d"/>
+        <updated>2026-03-22T09:14:20.000Z</updated>
+        <summary type="html"><![CDATA[0. はじめに  昨年度の自動制御連合講演会以降，X で @ta98otani さんと情報交換しながら，Simulink を利用した低コストな制御実験環境の構築を進めています．先日，  「roller485lib は、Raspberry Pi Pico とも相性よく動きま...]]></summary>
+        <content type="html"><![CDATA[0. はじめに  昨年度の自動制御連合講演会以降，X で @ta98otani さんと情報交換しながら，Simulink を利用した低コストな制御実験環境の構築を進めています．先日，  「roller485lib は、Raspberry Pi Pico とも相性よく動きま...]]></content>
+        <published>2026-03-22T09:14:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClaudeCodeでSimulinkを操れるか | Zennの「MATLAB」のフィード]]></title>
+        <id>https://zenn.dev/spargel/articles/20260313_simulink_claudedcode</id>
+        <link href="https://zenn.dev/spargel/articles/20260313_simulink_claudedcode"/>
+        <updated>2026-03-13T14:12:54.000Z</updated>
+        <summary type="html"><![CDATA[はじめに claude codeをはじめとした生成AIでプログラミングをしているというのが方々から聞こえてきますが，Simulinkはいわゆるビジュアルプログラミングであるため，無理だろうと決めつけていました． しかし，ふと考えると，Simulinkの作成ってmatlabのコマンドからできるのでclaude codeでも作成できるのではないかという可能性に思い至り，試してみました． https:/...]]></summary>
+        <content type="html"><![CDATA[はじめに claude codeをはじめとした生成AIでプログラミングをしているというのが方々から聞こえてきますが，Simulinkはいわゆるビジュアルプログラミングであるため，無理だろうと決めつけていました． しかし，ふと考えると，Simulinkの作成ってmatlabのコマンドからできるのでclaude codeでも作成できるのではないかという可能性に思い至り，試してみました． https://jp.mathworks.com/help/simulink/referencelist.html?type=function&amp;s_tid=CRUX_topnav   結論 おもっ...]]></content>
+        <author>
+            <name>spargel</name>
+        </author>
+        <published>2026-03-13T14:12:54.000Z</published>
+    </entry>
+</feed>
