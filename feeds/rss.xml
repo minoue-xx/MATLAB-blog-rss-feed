@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 27 Jun 2026 23:21:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[cellとcellの結合 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/gray_heron/items/ca26d7e34d6e5f265c54</link>
+            <guid>https://qiita.com/gray_heron/items/ca26d7e34d6e5f265c54</guid>
+            <pubDate>Wed, 24 Jun 2026 14:43:08 GMT</pubDate>
+            <description><![CDATA[cell１とcell2がある。 こちらはどちらも同じ、 項目A｜項目B|値 という列である。これを 項目A｜項目B|値1｜値2という新たなcellにしたい 行は20000行ほどある cel1とcell2の並びは同じではない。 _ cell1 の行だけを出力する cell2 ...]]></description>
+            <content:encoded><![CDATA[cell１とcell2がある。 こちらはどちらも同じ、 項目A｜項目B|値 という列である。これを 項目A｜項目B|値1｜値2という新たなcellにしたい 行は20000行ほどある cel1とcell2の並びは同じではない。 _ cell1 の行だけを出力する cell2 ...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDM3MzkwJTJGMjMzZjBkYTMyNDNiYTgyZGIwMjU0YWRkYTc5MjIzM2NhZDg3MWZmMyUyRmxhcmdlLnBuZyUzRjE3ODIwMjYyNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2OGMyYmU4MGFhY2E3Yzg1YTg4OWNhZGY0NmMwM2Q2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfc938c3bfcbedee62d7bcb1fbe760d43?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Y2VsbCVFMyU4MSVBOGNlbGwlRTMlODElQUUlRTclQjUlOTAlRTUlOTAlODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wYTI4MmUwNzcxODc3MDRiNjQ1ZTgxYTQ0NTY4MjZlYw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBncmF5X2hlcm9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNhMDhlMDNjMWZhOWY5ZmViMWVjZjA3OGQxMzBkYWE&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=931f171ce07e2073268647f438a2ac82"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB × IBM Bob連携ガイド - AI駆動開発でMATLABを始める | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/r-ike/items/ecfc999c0b269ebff0f5</link>
+            <guid>https://qiita.com/r-ike/items/ecfc999c0b269ebff0f5</guid>
+            <pubDate>Mon, 22 Jun 2026 08:11:00 GMT</pubDate>
+            <description><![CDATA[1.はじめに この記事では、MATLABとIBM BobをMCP（Model Context Protocol）を使って連携させる方法を解説します。  2. MCPとは MCP (Model Context Protocol) は、AIツールと外部システムを接続するため...]]></description>
+            <content:encoded><![CDATA[1.はじめに この記事では、MATLABとIBM BobをMCP（Model Context Protocol）を使って連携させる方法を解説します。  2. MCPとは MCP (Model Context Protocol) は、AIツールと外部システムを接続するため...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTU5MDA2JTJGZWYyMGU3ZGY2YTQ1ZTkwNDU5MDUyMTMzZmM0YmI3Njg1YjUwOTQzNyUyRmxhcmdlLnBuZyUzRjE3ODIxMTU3NzA_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFiOTNiNWIzODQ2ZTZkZDhmZTA0MmQ5NDYyZTFhNTAz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2401125cf57a2d203e40d9a6f9f18222?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJTIwJUMzJTk3JTIwSUJNJTIwQm9iJUU5JTgwJUEzJUU2JTkwJUJBJUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JTIwLSUyMEFJJUU5JUE3JTg2JUU1JThCJTk1JUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUE3TUFUTEFCJUUzJTgyJTkyJUU1JUE3JThCJUUzJTgyJTgxJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTM5NTRkYTc3MTExNDQ4MzIxMzEwZjYzNmY4NzZkMWU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByLWlrZSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU0NWU1OTBjZjlhNDM4M2ViYTM0ZjUyMTE2ZmM3MzBj&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=fbf921e9156b89051c90b0b34bbdf76d"/>
+        </item>
+        <item>
+            <title><![CDATA[jsonファイル読み書き | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/gray_heron/items/4a6814850207d35bfa8c</link>
+            <guid>https://qiita.com/gray_heron/items/4a6814850207d35bfa8c</guid>
+            <pubDate>Sun, 21 Jun 2026 00:19:09 GMT</pubDate>
+            <description><![CDATA[■json **sample.json**  {  "General": {  "Name": "MyApplication",  "Version": "1.0"  },  "Display": {  "Width": 1280,  "Hei...]]></description>
+            <content:encoded><![CDATA[■json **sample.json**  {  "General": {  "Name": "MyApplication",  "Version": "1.0"  },  "Display": {  "Width": 1280,  "Hei...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDM3MzkwJTJGMjMzZjBkYTMyNDNiYTgyZGIwMjU0YWRkYTc5MjIzM2NhZDg3MWZmMyUyRmxhcmdlLnBuZyUzRjE3ODIwMjYyNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2OGMyYmU4MGFhY2E3Yzg1YTg4OWNhZGY0NmMwM2Q2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfc938c3bfcbedee62d7bcb1fbe760d43?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9anNvbiVFMyU4MyU5NSVFMyU4MiVBMSVFMyU4MiVBNCVFMyU4MyVBQiVFOCVBQSVBRCVFMyU4MSVCRiVFNiU5QiVCOCVFMyU4MSU4RCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThlOGY3YzIzZTI4NmQwYjgzOGJlYzUzNWUxMDY4NzRh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBncmF5X2hlcm9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNhMDhlMDNjMWZhOWY5ZmViMWVjZjA3OGQxMzBkYWE&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=2cdcaf5afa1ec2ab2716864b4b318093"/>
+        </item>
+        <item>
+            <title><![CDATA[組み合わせ数と組み合わせを求める | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/gray_heron/items/a9dfac4925d5f7a6282f</link>
+            <guid>https://qiita.com/gray_heron/items/a9dfac4925d5f7a6282f</guid>
+            <pubDate>Fri, 19 Jun 2026 15:03:05 GMT</pubDate>
+            <description><![CDATA[グループ数：最大5 各グループの要素数：最大20 各グループから1つずつ選択 グループ数は可変（1～5） 値は cell 配列で渡される 下位グループの要素数は上位グループを超えない （例：G1=20個なら G2～G5は20個以下） 組み合わせ数を求める関数 functio...]]></description>
+            <content:encoded><![CDATA[グループ数：最大5 各グループの要素数：最大20 各グループから1つずつ選択 グループ数は可変（1～5） 値は cell 配列で渡される 下位グループの要素数は上位グループを超えない （例：G1=20個なら G2～G5は20個以下） 組み合わせ数を求める関数 functio...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDM3MzkwJTJGMjMzZjBkYTMyNDNiYTgyZGIwMjU0YWRkYTc5MjIzM2NhZDg3MWZmMyUyRmxhcmdlLnBuZyUzRjE3ODIwMjYyNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2OGMyYmU4MGFhY2E3Yzg1YTg4OWNhZGY0NmMwM2Q2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfc938c3bfcbedee62d7bcb1fbe760d43?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JUI1JTg0JUUzJTgxJUJGJUU1JTkwJTg4JUUzJTgyJThGJUUzJTgxJTlCJUU2JTk1JUIwJUUzJTgxJUE4JUU3JUI1JTg0JUUzJTgxJUJGJUU1JTkwJTg4JUUzJTgyJThGJUUzJTgxJTlCJUUzJTgyJTkyJUU2JUIxJTgyJUUzJTgyJTgxJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9M2M1ZTE0MTgwYzc0ZjU5ZTAzZTYwM2QyNjVjZDU2YmU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBncmF5X2hlcm9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNhMDhlMDNjMWZhOWY5ZmViMWVjZjA3OGQxMzBkYWE&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=dad38f123665e2ac6db9149c154381d9"/>
+        </item>
+    </channel>
+</rss>

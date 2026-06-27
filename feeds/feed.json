@@ -1,0 +1,94 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/gray_heron/items/ca26d7e34d6e5f265c54",
+            "content_html": "cell１とcell2がある。 こちらはどちらも同じ、 項目A｜項目B|値 という列である。これを 項目A｜項目B|値1｜値2という新たなcellにしたい 行は20000行ほどある cel1とcell2の並びは同じではない。 _ cell1 の行だけを出力する cell2 ...",
+            "url": "https://qiita.com/gray_heron/items/ca26d7e34d6e5f265c54",
+            "title": "cellとcellの結合 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "cell１とcell2がある。 こちらはどちらも同じ、 項目A｜項目B|値 という列である。これを 項目A｜項目B|値1｜値2という新たなcellにしたい 行は20000行ほどある cel1とcell2の並びは同じではない。 _ cell1 の行だけを出力する cell2 ...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDM3MzkwJTJGMjMzZjBkYTMyNDNiYTgyZGIwMjU0YWRkYTc5MjIzM2NhZDg3MWZmMyUyRmxhcmdlLnBuZyUzRjE3ODIwMjYyNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2OGMyYmU4MGFhY2E3Yzg1YTg4OWNhZGY0NmMwM2Q2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfc938c3bfcbedee62d7bcb1fbe760d43?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Y2VsbCVFMyU4MSVBOGNlbGwlRTMlODElQUUlRTclQjUlOTAlRTUlOTAlODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wYTI4MmUwNzcxODc3MDRiNjQ1ZTgxYTQ0NTY4MjZlYw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBncmF5X2hlcm9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNhMDhlMDNjMWZhOWY5ZmViMWVjZjA3OGQxMzBkYWE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=931f171ce07e2073268647f438a2ac82"
+            },
+            "date_modified": "2026-06-24T14:43:08.000Z",
+            "date_published": "2026-06-24T14:43:08.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "cellとcellの結合",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/r-ike/items/ecfc999c0b269ebff0f5",
+            "content_html": "1.はじめに この記事では、MATLABとIBM BobをMCP（Model Context Protocol）を使って連携させる方法を解説します。  2. MCPとは MCP (Model Context Protocol) は、AIツールと外部システムを接続するため...",
+            "url": "https://qiita.com/r-ike/items/ecfc999c0b269ebff0f5",
+            "title": "MATLAB × IBM Bob連携ガイド - AI駆動開発でMATLABを始める | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1.はじめに この記事では、MATLABとIBM BobをMCP（Model Context Protocol）を使って連携させる方法を解説します。  2. MCPとは MCP (Model Context Protocol) は、AIツールと外部システムを接続するため...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTU5MDA2JTJGZWYyMGU3ZGY2YTQ1ZTkwNDU5MDUyMTMzZmM0YmI3Njg1YjUwOTQzNyUyRmxhcmdlLnBuZyUzRjE3ODIxMTU3NzA_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFiOTNiNWIzODQ2ZTZkZDhmZTA0MmQ5NDYyZTFhNTAz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2401125cf57a2d203e40d9a6f9f18222?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJTIwJUMzJTk3JTIwSUJNJTIwQm9iJUU5JTgwJUEzJUU2JTkwJUJBJUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JTIwLSUyMEFJJUU5JUE3JTg2JUU1JThCJTk1JUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUE3TUFUTEFCJUUzJTgyJTkyJUU1JUE3JThCJUUzJTgyJTgxJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTM5NTRkYTc3MTExNDQ4MzIxMzEwZjYzNmY4NzZkMWU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByLWlrZSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU0NWU1OTBjZjlhNDM4M2ViYTM0ZjUyMTE2ZmM3MzBj&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=fbf921e9156b89051c90b0b34bbdf76d"
+            },
+            "date_modified": "2026-06-22T08:11:00.000Z",
+            "date_published": "2026-06-22T08:11:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB × IBM Bob連携ガイド - AI駆動開発でMATLABを始める",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/gray_heron/items/4a6814850207d35bfa8c",
+            "content_html": "■json **sample.json**  {  \"General\": {  \"Name\": \"MyApplication\",  \"Version\": \"1.0\"  },  \"Display\": {  \"Width\": 1280,  \"Hei...",
+            "url": "https://qiita.com/gray_heron/items/4a6814850207d35bfa8c",
+            "title": "jsonファイル読み書き | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "■json **sample.json**  {  \"General\": {  \"Name\": \"MyApplication\",  \"Version\": \"1.0\"  },  \"Display\": {  \"Width\": 1280,  \"Hei...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDM3MzkwJTJGMjMzZjBkYTMyNDNiYTgyZGIwMjU0YWRkYTc5MjIzM2NhZDg3MWZmMyUyRmxhcmdlLnBuZyUzRjE3ODIwMjYyNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2OGMyYmU4MGFhY2E3Yzg1YTg4OWNhZGY0NmMwM2Q2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfc938c3bfcbedee62d7bcb1fbe760d43?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9anNvbiVFMyU4MyU5NSVFMyU4MiVBMSVFMyU4MiVBNCVFMyU4MyVBQiVFOCVBQSVBRCVFMyU4MSVCRiVFNiU5QiVCOCVFMyU4MSU4RCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThlOGY3YzIzZTI4NmQwYjgzOGJlYzUzNWUxMDY4NzRh&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBncmF5X2hlcm9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNhMDhlMDNjMWZhOWY5ZmViMWVjZjA3OGQxMzBkYWE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2cdcaf5afa1ec2ab2716864b4b318093"
+            },
+            "date_modified": "2026-06-21T00:19:09.000Z",
+            "date_published": "2026-06-21T00:19:09.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "jsonファイル読み書き",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/gray_heron/items/a9dfac4925d5f7a6282f",
+            "content_html": "グループ数：最大5 各グループの要素数：最大20 各グループから1つずつ選択 グループ数は可変（1～5） 値は cell 配列で渡される 下位グループの要素数は上位グループを超えない （例：G1=20個なら G2～G5は20個以下） 組み合わせ数を求める関数 functio...",
+            "url": "https://qiita.com/gray_heron/items/a9dfac4925d5f7a6282f",
+            "title": "組み合わせ数と組み合わせを求める | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "グループ数：最大5 各グループの要素数：最大20 各グループから1つずつ選択 グループ数は可変（1～5） 値は cell 配列で渡される 下位グループの要素数は上位グループを超えない （例：G1=20個なら G2～G5は20個以下） 組み合わせ数を求める関数 functio...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDM3MzkwJTJGMjMzZjBkYTMyNDNiYTgyZGIwMjU0YWRkYTc5MjIzM2NhZDg3MWZmMyUyRmxhcmdlLnBuZyUzRjE3ODIwMjYyNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2OGMyYmU4MGFhY2E3Yzg1YTg4OWNhZGY0NmMwM2Q2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfc938c3bfcbedee62d7bcb1fbe760d43?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JUI1JTg0JUUzJTgxJUJGJUU1JTkwJTg4JUUzJTgyJThGJUUzJTgxJTlCJUU2JTk1JUIwJUUzJTgxJUE4JUU3JUI1JTg0JUUzJTgxJUJGJUU1JTkwJTg4JUUzJTgyJThGJUUzJTgxJTlCJUUzJTgyJTkyJUU2JUIxJTgyJUUzJTgyJTgxJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9M2M1ZTE0MTgwYzc0ZjU5ZTAzZTYwM2QyNjVjZDU2YmU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBncmF5X2hlcm9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNhMDhlMDNjMWZhOWY5ZmViMWVjZjA3OGQxMzBkYWE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=dad38f123665e2ac6db9149c154381d9"
+            },
+            "date_modified": "2026-06-19T15:03:05.000Z",
+            "date_published": "2026-06-19T15:03:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "組み合わせ数と組み合わせを求める",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}
