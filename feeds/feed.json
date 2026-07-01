@@ -1,0 +1,94 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/ueno_matlab_amb/items/afeb55bd015e4bdf7e73",
+            "content_html": "はじめに この記事の内容は，2025/8/6に電通大で行った「MATLABで学ぶ！物理シミュレーションワークショップ」の内容を抜粋したものです． 本記事では，MATLABライブスクリプトとSymbolic Math Toolboxを用いた，ばねマスダンパ系の共振曲線と時間...",
+            "url": "https://qiita.com/ueno_matlab_amb/items/afeb55bd015e4bdf7e73",
+            "title": "MATLABライブスクリプトでばねマスダンパ系の共振をシミュレーション！ | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに この記事の内容は，2025/8/6に電通大で行った「MATLABで学ぶ！物理シミュレーションワークショップ」の内容を抜粋したものです． 本記事では，MATLABライブスクリプトとSymbolic Math Toolboxを用いた，ばねマスダンパ系の共振曲線と時間...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0Mjg3Nzg5JTJGNTRhNjc5N2M1NDVkNmEwNDU0YmY5NDgxNWUxNGRmMDMxOWNjMjljNSUyRnhfbGFyZ2UucG5nJTNGMTc2NDkxNTU1Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MjJjY2IxMjg5NTY1ZGM4NDZjN2YxYjY0ODA3NDRiODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6af505c03093686e6939cd161994c9f8?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUI5JUUzJTgyJUFGJUUzJTgzJUFBJUUzJTgzJTk3JUUzJTgzJTg4JUUzJTgxJUE3JUUzJTgxJUIwJUUzJTgxJUFEJUUzJTgzJTlFJUUzJTgyJUI5JUUzJTgzJTgwJUUzJTgzJUIzJUUzJTgzJTkxJUU3JUIzJUJCJUUzJTgxJUFFJUU1JTg1JUIxJUU2JThDJUFGJUUzJTgyJTkyJUUzJTgyJUI3JUUzJTgzJTlGJUUzJTgzJUE1JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUE3JUUzJTgzJUIzJUVGJUJDJTgxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTMzN2E2N2QyMzljNWY4MjM0NmJjNjkzOGQwOGJjYmM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1ZW5vX21hdGxhYl9hbWImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz00MDZmMGVjZTNmMDk4Y2NjY2YwZDdhZTUwMzIzN2ZhNw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=844a435836d65e12e106da4a7239b157"
+            },
+            "date_modified": "2026-06-30T06:42:40.000Z",
+            "date_published": "2026-06-30T06:42:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLABライブスクリプトでばねマスダンパ系の共振をシミュレーション！",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/tsubolabo/items/34df55dcd55d69b06152",
+            "content_html": "１. はじめに  最新バージョンの R2026a から、MATLAB の Image Processing Toolbox の新機能として、光学関連の多数のコマンドと、対話型の GUI 光学設計アプリ（Optical System Designer） が追加されました。 ...",
+            "url": "https://qiita.com/tsubolabo/items/34df55dcd55d69b06152",
+            "title": "【MATLAB】新登場の光学設計アプリで遊んでみる | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "１. はじめに  最新バージョンの R2026a から、MATLAB の Image Processing Toolbox の新機能として、光学関連の多数のコマンドと、対話型の GUI 光学設計アプリ（Optical System Designer） が追加されました。 ...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY5MzI0ODQlMkZkMmY1MDAwYjRhNzQwNGNhMWFlNWZjYTRiNDZmYjFjYmRiYzkyZTdjJTJGbGFyZ2UucG5nJTNGMTY0NzMzNDI1NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTgxOTA3NDAxYzZiOWY2MWE4YzE3YWU5YTNhZGYzZjA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D55d5b6f8a8faec3dd772c32d57986f2d?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwTUFUTEFCJUUzJTgwJTkxJUU2JTk2JUIwJUU3JTk5JUJCJUU1JUEwJUI0JUUzJTgxJUFFJUU1JTg1JTg5JUU1JUFEJUE2JUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUE3JUU5JTgxJThBJUUzJTgyJTkzJUUzJTgxJUE3JUUzJTgxJUJGJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODQwN2ZjMWUxODdiMTM1ZDgwNjI1OGM4NmEyMTE5NDg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3Vib2xhYm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hYjJjZmRlZDBiNTEwNTNiMTZiNmRlMmFkNzNkNGI4Mw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=19071e51a8380d51e756488c2cf579e4"
+            },
+            "date_modified": "2026-06-28T11:08:49.000Z",
+            "date_published": "2026-06-28T11:08:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【MATLAB】新登場の光学設計アプリで遊んでみる",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/gray_heron/items/ca26d7e34d6e5f265c54",
+            "content_html": "cell１とcell2がある。 こちらはどちらも同じ、 項目A｜項目B|値 という列である。これを 項目A｜項目B|値1｜値2という新たなcellにしたい 行は20000行ほどある cel1とcell2の並びは同じではない。 _ cell1 の行だけを出力する cell2 ...",
+            "url": "https://qiita.com/gray_heron/items/ca26d7e34d6e5f265c54",
+            "title": "cellとcellの結合 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "cell１とcell2がある。 こちらはどちらも同じ、 項目A｜項目B|値 という列である。これを 項目A｜項目B|値1｜値2という新たなcellにしたい 行は20000行ほどある cel1とcell2の並びは同じではない。 _ cell1 の行だけを出力する cell2 ...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDM3MzkwJTJGMjMzZjBkYTMyNDNiYTgyZGIwMjU0YWRkYTc5MjIzM2NhZDg3MWZmMyUyRmxhcmdlLnBuZyUzRjE3ODIwMjYyNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2OGMyYmU4MGFhY2E3Yzg1YTg4OWNhZGY0NmMwM2Q2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfc938c3bfcbedee62d7bcb1fbe760d43?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Y2VsbCVFMyU4MSVBOGNlbGwlRTMlODElQUUlRTclQjUlOTAlRTUlOTAlODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wYTI4MmUwNzcxODc3MDRiNjQ1ZTgxYTQ0NTY4MjZlYw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBncmF5X2hlcm9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNhMDhlMDNjMWZhOWY5ZmViMWVjZjA3OGQxMzBkYWE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=931f171ce07e2073268647f438a2ac82"
+            },
+            "date_modified": "2026-06-24T14:43:08.000Z",
+            "date_published": "2026-06-24T14:43:08.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "cellとcellの結合",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://qiita.com/r-ike/items/ecfc999c0b269ebff0f5",
+            "content_html": "1.はじめに この記事では、MATLABとIBM BobをMCP（Model Context Protocol）を使って連携させる方法を解説します。  2. MCPとは MCP (Model Context Protocol) は、AIツールと外部システムを接続するため...",
+            "url": "https://qiita.com/r-ike/items/ecfc999c0b269ebff0f5",
+            "title": "MATLAB × IBM Bob連携ガイド - AI駆動開発でMATLABを始める | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "1.はじめに この記事では、MATLABとIBM BobをMCP（Model Context Protocol）を使って連携させる方法を解説します。  2. MCPとは MCP (Model Context Protocol) は、AIツールと外部システムを接続するため...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTU5MDA2JTJGZWYyMGU3ZGY2YTQ1ZTkwNDU5MDUyMTMzZmM0YmI3Njg1YjUwOTQzNyUyRmxhcmdlLnBuZyUzRjE3ODIxMTU3NzA_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFiOTNiNWIzODQ2ZTZkZDhmZTA0MmQ5NDYyZTFhNTAz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2401125cf57a2d203e40d9a6f9f18222?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJTIwJUMzJTk3JTIwSUJNJTIwQm9iJUU5JTgwJUEzJUU2JTkwJUJBJUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JTIwLSUyMEFJJUU5JUE3JTg2JUU1JThCJTk1JUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUE3TUFUTEFCJUUzJTgyJTkyJUU1JUE3JThCJUUzJTgyJTgxJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTM5NTRkYTc3MTExNDQ4MzIxMzEwZjYzNmY4NzZkMWU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByLWlrZSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU0NWU1OTBjZjlhNDM4M2ViYTM0ZjUyMTE2ZmM3MzBj&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=fbf921e9156b89051c90b0b34bbdf76d"
+            },
+            "date_modified": "2026-06-22T08:11:00.000Z",
+            "date_published": "2026-06-22T08:11:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB × IBM Bob連携ガイド - AI駆動開発でMATLABを始める",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}
