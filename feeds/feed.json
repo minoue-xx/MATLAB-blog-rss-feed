@@ -1,0 +1,31 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/okemessi/items/4f4b63057b1ba40cd868",
+            "content_html": "概要 以前の記事を書いた際と比べて、かなりインストールプロセスがFedoraと親和性の高いものになったようです。 例えば、以下の記事で紹介していたフォントインストール等は不要となりました。また、libxcrypt周りでの追加の必要手順も見つかりました。 ですので、改めて現...",
+            "url": "https://qiita.com/okemessi/items/4f4b63057b1ba40cd868",
+            "title": "Linux（Fedora 44）にMatlab R2026aをインストールする | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "概要 以前の記事を書いた際と比べて、かなりインストールプロセスがFedoraと親和性の高いものになったようです。 例えば、以下の記事で紹介していたフォントインストール等は不要となりました。また、libxcrypt周りでの追加の必要手順も見つかりました。 ですので、改めて現...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU4Nzc5ODMwJTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU2NzY0NmNkNmNjYjRkZjVjNTcxOWJmY2Y2ZmMwZGFl%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De2787fd7d4a1b638de1e39f384fc0d78?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TGludXglRUYlQkMlODhGZWRvcmElMjA0NCVFRiVCQyU4OSVFMyU4MSVBQk1hdGxhYiUyMFIyMDI2YSVFMyU4MiU5MiVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBjMjM1MDkwY2U3ODViYmU1NGM4YjQ1NDEyYTcyYzRh&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBva2VtZXNzaSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRkZjEzNGQyMDlkOGMzY2Y0ZDdlZGYwNzliNjljNGU4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f900b0bf168f50c1a1e25a7495ee9e43"
+            },
+            "date_modified": "2026-07-22T05:45:14.000Z",
+            "date_published": "2026-07-22T05:45:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Linux（Fedora 44）にMatlab R2026aをインストールする",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}
