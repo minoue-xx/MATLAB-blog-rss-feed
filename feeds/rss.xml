@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 関連ブログ RSS</title>
+        <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        <description>MATLAB に関するブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 26 Sep 2026 11:58:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>MATLAB 関連ブログ RSS</title>
+            <url>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</url>
+            <link>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</link>
+        </image>
+        <copyright>minoue-xx/MATLAB-blog-rss-feed</copyright>
+        <atom:link href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ループ内で例外情報の蓄積をする場合 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/gray_heron/items/5f8fc39417362dbce6f8</link>
+            <guid>https://qiita.com/gray_heron/items/5f8fc39417362dbce6f8</guid>
+            <pubDate>Sat, 19 Sep 2026 09:42:24 GMT</pubDate>
+            <description><![CDATA[ループ内で例外情報の蓄積をする場合  ■メッセージのみを結合してthrow errorMessages = {};  for i = 1:xxx  try  func()  catch ME  errorMessages{end+1...]]></description>
+            <content:encoded><![CDATA[ループ内で例外情報の蓄積をする場合  ■メッセージのみを結合してthrow errorMessages = {};  for i = 1:xxx  try  func()  catch ME  errorMessages{end+1...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDM3MzkwJTJGMjMzZjBkYTMyNDNiYTgyZGIwMjU0YWRkYTc5MjIzM2NhZDg3MWZmMyUyRmxhcmdlLnBuZyUzRjE3ODIwMjYyNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2OGMyYmU4MGFhY2E3Yzg1YTg4OWNhZGY0NmMwM2Q2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfc938c3bfcbedee62d7bcb1fbe760d43?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFCJUUzJTgzJUJDJUUzJTgzJTk3JUU1JTg2JTg1JUUzJTgxJUE3JUU0JUJFJThCJUU1JUE0JTk2JUU2JTgzJTg1JUU1JUEwJUIxJUUzJTgxJUFFJUU4JTkzJTg0JUU3JUE5JThEJUUzJTgyJTkyJUUzJTgxJTk5JUUzJTgyJThCJUU1JUEwJUI0JUU1JTkwJTg4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9M2EzZjQyZDNlYzExMzg0MzUxYjg3MTU4Y2VlMGQ2MGQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBncmF5X2hlcm9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNhMDhlMDNjMWZhOWY5ZmViMWVjZjA3OGQxMzBkYWE&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da150278973695cbbaeb9ab56696dbdb"/>
+        </item>
+    </channel>
+</rss>
