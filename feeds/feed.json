@@ -1,0 +1,31 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://note.com/leftbank/n/ndfef3dfec372",
+            "content_html": "まえがき 続きをみる",
+            "url": "https://note.com/leftbank/n/ndfef3dfec372",
+            "title": "Biquad フィルター実装ガイド | MATLAB関連",
+            "summary": "まえがき 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/318669793/rectangle_large_type_2_c1f6a17b9f5b7ffee3b06ead31ae4479.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2026-09-29T08:15:11.000Z",
+            "date_published": "2026-09-29T08:15:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Biquad フィルター実装ガイド",
+                "blogTitle": "MATLAB関連",
+                "blogLink": "https://note.com/leftbank/m/m088894fecb57",
+                "blogLinkMd5Hash": "5f8414b4c20a82770b59372794f3b14b"
+            }
+        }
+    ]
+}
