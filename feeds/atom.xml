@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2026-10-17T16:02:36.369Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[ファイルの結合とその中にある文字列の出現頻度の種取得 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/gray_heron/items/f39f300929d7a8bbb8a1</id>
+        <link href="https://qiita.com/gray_heron/items/f39f300929d7a8bbb8a1"/>
+        <updated>2026-10-13T12:30:22.000Z</updated>
+        <summary type="html"><![CDATA[やりたいこと A_01.xlsx A_02.xlsx A_03.xlsx  を結合してA.xlsxにしたい 全ての列数は同じ（空欄はあり） また、A.xlsxの4列目以降で空欄を除いて最も出現回数の多い文字列と、その出現回数を求める。  コード function mer...]]></summary>
+        <content type="html"><![CDATA[やりたいこと A_01.xlsx A_02.xlsx A_03.xlsx  を結合してA.xlsxにしたい 全ての列数は同じ（空欄はあり） また、A.xlsxの4列目以降で空欄を除いて最も出現回数の多い文字列と、その出現回数を求める。  コード function mer...]]></content>
+        <published>2026-10-13T12:30:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zipファイルの解凍他 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/gray_heron/items/74a909c9cbd4fad399d8</id>
+        <link href="https://qiita.com/gray_heron/items/74a909c9cbd4fad399d8"/>
+        <updated>2026-10-12T12:44:51.000Z</updated>
+        <summary type="html"><![CDATA[zipファイル解凍方法 A.zipの中のB¥C.txtとC¥D.txtをEフォルダの中に解凍したい Eフォルダは存在するものとする  zipFile = 'A.zip'; outDir = 'E';  解凍方法 % ZIP内のファイル一覧を取得 files = {'B...]]></summary>
+        <content type="html"><![CDATA[zipファイル解凍方法 A.zipの中のB¥C.txtとC¥D.txtをEフォルダの中に解凍したい Eフォルダは存在するものとする  zipFile = 'A.zip'; outDir = 'E';  解凍方法 % ZIP内のファイル一覧を取得 files = {'B...]]></content>
+        <published>2026-10-12T12:44:51.000Z</published>
+    </entry>
+</feed>
