@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2026-10-24T11:47:37.870Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[処理の残り時間予測と表示 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/gray_heron/items/b73ca04f5b3ad07842bb</id>
+        <link href="https://qiita.com/gray_heron/items/b73ca04f5b3ad07842bb"/>
+        <updated>2026-10-24T04:41:54.000Z</updated>
+        <summary type="html"><![CDATA[MATLABのfor文で、1回の処理時間を計測し、平均処理時間から残り時間と完了予定時刻を推測する  N = 10000; % 処理回数  totalTime = 0;  for i = 1:N  tic;   % ---- ここに処理を記述 ----  ...]]></summary>
+        <content type="html"><![CDATA[MATLABのfor文で、1回の処理時間を計測し、平均処理時間から残り時間と完了予定時刻を推測する  N = 10000; % 処理回数  totalTime = 0;  for i = 1:N  tic;   % ---- ここに処理を記述 ----  ...]]></content>
+        <published>2026-10-24T04:41:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB で setup_harness.m を1回走らせるだけで、Copilot がテストハーネスを書く環境を作る | Zennの「MATLAB」のフィード]]></title>
+        <id>https://zenn.dev/rurihari/articles/6a83e689c838f7</id>
+        <link href="https://zenn.dev/rurihari/articles/6a83e689c838f7"/>
+        <updated>2026-10-19T10:33:20.000Z</updated>
+        <summary type="html"><![CDATA[何の記事か MATLAB プロジェクトのルートで >> setup_harness を1回実行すると、GitHub Copilot が MATLAB/Simulink の作業で使える状態になる。 具体的にはAIハーネス（エージェント用の指示書・MCP 設定・作業用スクリプト一式）が生成され、 そのあと Copilot に「このモデルのテストハーネスを作って」と頼むと、 Simulink のテストハ...]]></summary>
+        <content type="html"><![CDATA[何の記事か MATLAB プロジェクトのルートで >> setup_harness を1回実行すると、GitHub Copilot が MATLAB/Simulink の作業で使える状態になる。 具体的にはAIハーネス（エージェント用の指示書・MCP 設定・作業用スクリプト一式）が生成され、 そのあと Copilot に「このモデルのテストハーネスを作って」と頼むと、 Simulink のテストハーネスが規約どおりに生成されるところまで繋がる。 「ハーネス」という語が2回出てくるのでここで定義を固定しておく。    用語 意味 この記事での役割     AIハーネス AI...]]></content>
+        <author>
+            <name>ささくれ</name>
+        </author>
+        <published>2026-10-19T10:33:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファイルの結合とその中にある文字列の出現頻度の種取得 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/gray_heron/items/f39f300929d7a8bbb8a1</id>
+        <link href="https://qiita.com/gray_heron/items/f39f300929d7a8bbb8a1"/>
+        <updated>2026-10-13T12:30:22.000Z</updated>
+        <summary type="html"><![CDATA[やりたいこと A_01.xlsx A_02.xlsx A_03.xlsx  を結合してA.xlsxにしたい 全ての列数は同じ（空欄はあり） また、A.xlsxの4列目以降で空欄を除いて最も出現回数の多い文字列と、その出現回数を求める。  コード function mer...]]></summary>
+        <content type="html"><![CDATA[やりたいこと A_01.xlsx A_02.xlsx A_03.xlsx  を結合してA.xlsxにしたい 全ての列数は同じ（空欄はあり） また、A.xlsxの4列目以降で空欄を除いて最も出現回数の多い文字列と、その出現回数を求める。  コード function mer...]]></content>
+        <published>2026-10-13T12:30:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zipファイルの解凍他 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/gray_heron/items/74a909c9cbd4fad399d8</id>
+        <link href="https://qiita.com/gray_heron/items/74a909c9cbd4fad399d8"/>
+        <updated>2026-10-12T12:44:51.000Z</updated>
+        <summary type="html"><![CDATA[zipファイル解凍方法 A.zipの中のB¥C.txtとC¥D.txtをEフォルダの中に解凍したい Eフォルダは存在するものとする  zipFile = 'A.zip'; outDir = 'E';  解凍方法 % ZIP内のファイル一覧を取得 files = {'B...]]></summary>
+        <content type="html"><![CDATA[zipファイル解凍方法 A.zipの中のB¥C.txtとC¥D.txtをEフォルダの中に解凍したい Eフォルダは存在するものとする  zipFile = 'A.zip'; outDir = 'E';  解凍方法 % ZIP内のファイル一覧を取得 files = {'B...]]></content>
+        <published>2026-10-12T12:44:51.000Z</published>
+    </entry>
+</feed>
