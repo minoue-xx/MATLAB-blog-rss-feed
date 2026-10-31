@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/gray_heron/items/b73ca04f5b3ad07842bb",
+            "content_html": "MATLABのfor文で、1回の処理時間を計測し、平均処理時間から残り時間と完了予定時刻を推測する  N = 10000; % 処理回数  totalTime = 0;  for i = 1:N  tic;   % ---- ここに処理を記述 ----  ...",
+            "url": "https://qiita.com/gray_heron/items/b73ca04f5b3ad07842bb",
+            "title": "処理の残り時間予測と表示 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "MATLABのfor文で、1回の処理時間を計測し、平均処理時間から残り時間と完了予定時刻を推測する  N = 10000; % 処理回数  totalTime = 0;  for i = 1:N  tic;   % ---- ここに処理を記述 ----  ...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDM3MzkwJTJGMjMzZjBkYTMyNDNiYTgyZGIwMjU0YWRkYTc5MjIzM2NhZDg3MWZmMyUyRmxhcmdlLnBuZyUzRjE3ODIwMjYyNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2OGMyYmU4MGFhY2E3Yzg1YTg4OWNhZGY0NmMwM2Q2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfc938c3bfcbedee62d7bcb1fbe760d43?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg3JUE2JUU3JTkwJTg2JUUzJTgxJUFFJUU2JUFFJThCJUUzJTgyJThBJUU2JTk5JTgyJUU5JTk2JTkzJUU0JUJBJTg4JUU2JUI4JUFDJUUzJTgxJUE4JUU4JUExJUE4JUU3JUE0JUJBJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDVkMjhkNjBmNjU4YTBjMjQ5MWNiOWFlNjJhYWQyYmQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBncmF5X2hlcm9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmNhMDhlMDNjMWZhOWY5ZmViMWVjZjA3OGQxMzBkYWE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c56d7101055f73f973090cfb1d24b6ef"
+            },
+            "date_modified": "2026-10-24T04:41:54.000Z",
+            "date_published": "2026-10-24T04:41:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "処理の残り時間予測と表示",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://zenn.dev/rurihari/articles/6a83e689c838f7",
+            "content_html": "何の記事か MATLAB プロジェクトのルートで >> setup_harness を1回実行すると、GitHub Copilot が MATLAB/Simulink の作業で使える状態になる。 具体的にはAIハーネス（エージェント用の指示書・MCP 設定・作業用スクリプト一式）が生成され、 そのあと Copilot に「このモデルのテストハーネスを作って」と頼むと、 Simulink のテストハーネスが規約どおりに生成されるところまで繋がる。 「ハーネス」という語が2回出てくるのでここで定義を固定しておく。    用語 意味 この記事での役割     AIハーネス AI...",
+            "url": "https://zenn.dev/rurihari/articles/6a83e689c838f7",
+            "title": "MATLAB で setup_harness.m を1回走らせるだけで、Copilot がテストハーネスを書く環境を作る | Zennの「MATLAB」のフィード",
+            "summary": "何の記事か MATLAB プロジェクトのルートで >> setup_harness を1回実行すると、GitHub Copilot が MATLAB/Simulink の作業で使える状態になる。 具体的にはAIハーネス（エージェント用の指示書・MCP 設定・作業用スクリプト一式）が生成され、 そのあと Copilot に「このモデルのテストハーネスを作って」と頼むと、 Simulink のテストハ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--7K5Yw95c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MATLAB%2520%25E3%2581%25A7%2520setup_harness.m%2520%25E3%2582%25921%25E5%259B%259E%25E8%25B5%25B0%25E3%2582%2589%25E3%2581%259B%25E3%2582%258B%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2580%2581Copilot%2520%25E3%2581%258C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%2595%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXpKNW1OZU91aWhfWjI2V0VnZ096QTZPZGhBd09raHByUjJMNjFzTnRoVnpvVVloRDNUQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+            },
+            "date_modified": "2026-10-19T10:33:20.000Z",
+            "date_published": "2026-10-19T10:33:20.000Z",
+            "author": {
+                "name": "ささくれ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB で setup_harness.m を1回走らせるだけで、Copilot がテストハーネスを書く環境を作る",
+                "blogTitle": "Zennの「MATLAB」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        }
+    ]
+}
