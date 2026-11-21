@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://minoue-xx.github.io/MATLAB-blog-rss-feed/</id>
+    <title>MATLAB 関連ブログ RSS</title>
+    <updated>2026-11-21T07:56:59.073Z</updated>
+    <generator>minoue-xx/MATLAB-blog-rss-feed</generator>
+    <link rel="alternate" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/"/>
+    <link rel="self" href="https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>MATLAB に関するブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png</logo>
+    <icon>https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/favicon.ico</icon>
+    <rights>minoue-xx/MATLAB-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[何！？描画完了を待ったなら描画は完了しているのではないのか！？――uifigureの中のPositionはいつ確定するか？ | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/N-Kaitoh/items/4277e55136cf6ad5788b</id>
+        <link href="https://qiita.com/N-Kaitoh/items/4277e55136cf6ad5788b"/>
+        <updated>2026-11-18T14:12:07.000Z</updated>
+        <summary type="html"><![CDATA[2026, 11/19 追記 MATLAB Central Discussionにも同内容を投稿しました。こちらのほうがまとまっているかも。 The Only Hacky Thing to Do: Reliably Reading Component Positions i...]]></summary>
+        <content type="html"><![CDATA[2026, 11/19 追記 MATLAB Central Discussionにも同内容を投稿しました。こちらのほうがまとまっているかも。 The Only Hacky Thing to Do: Reliably Reading Component Positions i...]]></content>
+        <published>2026-11-18T14:12:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部品ごとの検査が通っても、記録と対象の対応が崩れることがありました（点検ドローンの 6 つの比較） | Zennの「MATLAB」のフィード]]></title>
+        <id>https://zenn.dev/kd_yuta/articles/droneinspector-six-layers</id>
+        <link href="https://zenn.dev/kd_yuta/articles/droneinspector-six-layers"/>
+        <updated>2026-11-16T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[近藤悠太です。点検ドローンの研究（DroneInspector）では、改善に効きそうな案を 6 つ挙げ、同じ証拠の上で 1 層ずつ入れ替えて測りました。結果を見直すと、別々の層で同じことが起きていました。部品ごとの検査は成功を返しているのに、判定や送信、撮り直し、保存の記録が、実際の対象と対応していませんでした。 この記事では、その共通点を先に書き、6 つの比較はそれを確かめた実験として後ろに置き...]]></summary>
+        <content type="html"><![CDATA[近藤悠太です。点検ドローンの研究（DroneInspector）では、改善に効きそうな案を 6 つ挙げ、同じ証拠の上で 1 層ずつ入れ替えて測りました。結果を見直すと、別々の層で同じことが起きていました。部品ごとの検査は成功を返しているのに、判定や送信、撮り直し、保存の記録が、実際の対象と対応していませんでした。 この記事では、その共通点を先に書き、6 つの比較はそれを確かめた実験として後ろに置きます。   比べたもの 狭いインフラ空間の点検では、使えないフレームをその場で弾く人がいません。分類器は、ぼけた画像や白飛びした画像、コントラストの低い画像にもスコアを返すので、棄却も人への委譲...]]></content>
+        <author>
+            <name>近藤悠太</name>
+        </author>
+        <published>2026-11-16T23:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB App Designerの.mlappに疲れたので、普通の.mを編集するGUIエディタを作った話 | MATLABタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/N-Kaitoh/items/b788f4342447016a4304</id>
+        <link href="https://qiita.com/N-Kaitoh/items/b788f4342447016a4304"/>
+        <updated>2026-11-15T00:36:06.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR  App Designerの.mlappへの不満（Gitで差分が見られない、初期化部分を編集できない）から、普通の.mクラスをそのまま見た目で編集できるGUIエディタyamadaを作りました 開いたコードは実行せず、自作のMATLABパーサーで読んで必要な箇所...]]></summary>
+        <content type="html"><![CDATA[TL;DR  App Designerの.mlappへの不満（Gitで差分が見られない、初期化部分を編集できない）から、普通の.mクラスをそのまま見た目で編集できるGUIエディタyamadaを作りました 開いたコードは実行せず、自作のMATLABパーサーで読んで必要な箇所...]]></content>
+        <published>2026-11-15T00:36:06.000Z</published>
+    </entry>
+</feed>
