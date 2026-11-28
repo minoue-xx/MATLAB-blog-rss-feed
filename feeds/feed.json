@@ -1,0 +1,152 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 関連ブログ RSS",
+    "home_page_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/",
+    "feed_url": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/feeds/feed.json",
+    "description": "MATLAB に関するブログの更新をまとめたRSSフィード",
+    "icon": "https://minoue-xx.github.io/MATLAB-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://zenn.dev/kd_yuta/articles/spresense-eltres-co2-mapping",
+            "content_html": "近藤悠太です。2024 年の SPRESENSE 活用コンテストに出した作品「SPRESENSEとELTRES通信でCO2濃度をマッピング」で、クレスコ ELTRESアドオンボード優秀賞をいただきました。作品の解説は Elchika に書いています。 その後、2026 年にこの作品をリポジトリとして作り直しました。この記事では、作り直した版の実装のうち、1 台の SPRESENSE で CO2 濃度と位置情報を交互に送る部分を説明します。コンテストに出した時点の実装とは、細部が違います。 SPRESENSE に、ELTRES のアドオンボードと CO2 センサ（MH-Z19B）を載せてい...",
+            "url": "https://zenn.dev/kd_yuta/articles/spresense-eltres-co2-mapping",
+            "title": "SPRESENSE と ELTRES で、CO2 濃度と位置を 1 台から交互に送る実装 | Zennの「MATLAB」のフィード",
+            "summary": "近藤悠太です。2024 年の SPRESENSE 活用コンテストに出した作品「SPRESENSEとELTRES通信でCO2濃度をマッピング」で、クレスコ ELTRESアドオンボード優秀賞をいただきました。作品の解説は Elchika に書いています。 その後、2026 年にこの作品をリポジトリとして作り直しました。この記事では、作り直した版の実装のうち、1 台の SPRESENSE で CO2 濃...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--5i__c3ki--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SPRESENSE%2520%25E3%2581%25A8%2520ELTRES%2520%25E3%2581%25A7%25E3%2580%2581CO2%2520%25E6%25BF%2583%25E5%25BA%25A6%25E3%2581%25A8%25E4%25BD%258D%25E7%25BD%25AE%25E3%2582%2592%25201%2520%25E5%258F%25B0%25E3%2581%258B%25E3%2582%2589%25E4%25BA%25A4%25E4%25BA%2592%25E3%2581%25AB%25E9%2580%2581%25E3%2582%258B%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E8%25BF%2591%25E8%2597%25A4%25E6%2582%25A0%25E5%25A4%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UyNDY5Nzc3YzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+            },
+            "date_modified": "2026-11-26T02:49:44.000Z",
+            "date_published": "2026-11-26T02:49:44.000Z",
+            "author": {
+                "name": "近藤悠太"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SPRESENSE と ELTRES で、CO2 濃度と位置を 1 台から交互に送る実装",
+                "blogTitle": "Zennの「MATLAB」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        },
+        {
+            "id": "https://taku-naka.site/?p=25078",
+            "content_html": "目次 はじめにこの記事のポイント全体像：内部エネルギーから定常流のエネルギー式へ温度と内部エネルギーを結び付ける第一法則で熱と仕事の符号を決める圧力が空気を押し込む仕事を数える内部エネルギーと流動仕事をまとめる定常流のエ […]",
+            "url": "https://taku-naka.site/2026/11/23/computational-thermo-fluid-dynamics/compressible_flow2/",
+            "title": "圧縮性流体の基礎②：エネルギー保存則 | 流体シミュレーション | n's note",
+            "summary": "目次 はじめにこの記事のポイント全体像：内部エネルギーから定常流のエネルギー式へ温度と内部エネルギーを結び付ける第一法則で熱と仕事の符号を決める圧力が空気を押し込む仕事を数える内部エネルギーと流動仕事をまとめる定常流のエ […]",
+            "image": {
+                "type": "png",
+                "url": "http://taku-naka.site/wp-content/uploads/2022/01/whiite.png"
+            },
+            "date_modified": "2026-11-22T20:38:50.000Z",
+            "date_published": "2026-11-22T20:38:50.000Z",
+            "author": {
+                "name": "naka"
+            },
+            "tags": [
+                "流体シミュレーション"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "圧縮性流体の基礎②：エネルギー保存則",
+                "blogTitle": "流体シミュレーション | n's note",
+                "blogLink": "https://taku-naka.site",
+                "blogLinkMd5Hash": "c108ee80603dde9175e0316201bb04fb"
+            }
+        },
+        {
+            "id": "https://taku-naka.site/?p=25048",
+            "content_html": "目次 はじめにこの記事のポイント全体像：密度から流速を求める式の関係圧縮性で増える未知数を整理する検査体積の収支から質量保存を求める密度が下がる管内で流速を求める比較する流量を同じ基準へそろえるまとめと次回へのつながり参 […]",
+            "url": "https://taku-naka.site/2026/11/22/computational-thermo-fluid-dynamics/compressible_flow1/",
+            "title": "圧縮性流体の基礎①：状態方程式と質量流量 | 流体シミュレーション | n's note",
+            "summary": "目次 はじめにこの記事のポイント全体像：密度から流速を求める式の関係圧縮性で増える未知数を整理する検査体積の収支から質量保存を求める密度が下がる管内で流速を求める比較する流量を同じ基準へそろえるまとめと次回へのつながり参 […]",
+            "image": {
+                "type": "png",
+                "url": "http://taku-naka.site/wp-content/uploads/2022/01/whiite.png"
+            },
+            "date_modified": "2026-11-22T11:36:38.000Z",
+            "date_published": "2026-11-22T11:36:38.000Z",
+            "author": {
+                "name": "naka"
+            },
+            "tags": [
+                "流体シミュレーション"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "圧縮性流体の基礎①：状態方程式と質量流量",
+                "blogTitle": "流体シミュレーション | n's note",
+                "blogLink": "https://taku-naka.site",
+                "blogLinkMd5Hash": "c108ee80603dde9175e0316201bb04fb"
+            }
+        },
+        {
+            "id": "https://qiita.com/N-Kaitoh/items/4277e55136cf6ad5788b",
+            "content_html": "2026, 11/19 追記 MATLAB Central Discussionにも同内容を投稿しました。こちらのほうがまとまっているかも。 The Only Hacky Thing to Do: Reliably Reading Component Positions i...",
+            "url": "https://qiita.com/N-Kaitoh/items/4277e55136cf6ad5788b",
+            "title": "何！？描画完了を待ったなら描画は完了しているのではないのか！？――uifigureの中のPositionはいつ確定するか？ | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "2026, 11/19 追記 MATLAB Central Discussionにも同内容を投稿しました。こちらのほうがまとまっているかも。 The Only Hacky Thing to Do: Reliably Reading Component Positions i...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMxLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkYyMDA0MzgzNCUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTljOWVlZmY3NTQwNTdmYzJhOTEwMWVlNGU3ZjEyZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd2324469e42c46036e4b36dd4cfd18eb?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUJEJTk1JUVGJUJDJTgxJUVGJUJDJTlGJUU2JThGJThGJUU3JTk0JUJCJUU1JUFFJThDJUU0JUJBJTg2JUUzJTgyJTkyJUU1JUJFJTg1JUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgxJUFBJUUzJTgyJTg5JUU2JThGJThGJUU3JTk0JUJCJUUzJTgxJUFGJUU1JUFFJThDJUU0JUJBJTg2JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTgxJUVGJUJDJTlGJUUyJTgwJTk1JUUyJTgwJTk1dWlmaWd1cmUlRTMlODElQUUlRTQlQjglQUQlRTMlODElQUVQb3NpdGlvbiVFMyU4MSVBRiVFMyU4MSU4NCVFMyU4MSVBNCVFNyVBMiVCQSVFNSVBRSU5QSVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWRhZjAxOGU5OWM2NmI3NDFkNDNmYTlhYzJlZDAyNTAz&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBOLUthaXRvaCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYzOGUxOGQ2MGMyNjJkYzYwMjI2NjlkN2NjZmMxNzli&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0f812b3fe750271022f1feac29b8079d"
+            },
+            "date_modified": "2026-11-18T14:12:07.000Z",
+            "date_published": "2026-11-18T14:12:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "何！？描画完了を待ったなら描画は完了しているのではないのか！？――uifigureの中のPositionはいつ確定するか？",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kd_yuta/articles/droneinspector-six-layers",
+            "content_html": "近藤悠太です。点検ドローンの研究（DroneInspector）では、改善に効きそうな案を 6 つ挙げ、同じ証拠の上で 1 層ずつ入れ替えて測りました。結果を見直すと、別々の層で同じことが起きていました。部品ごとの検査は成功を返しているのに、判定や送信、撮り直し、保存の記録が、実際の対象と対応していませんでした。 この記事では、その共通点を先に書き、6 つの比較はそれを確かめた実験として後ろに置きます。 狭いインフラ空間の点検では、使えないフレームをその場で弾く人がいません。分類器は、ぼけた画像や白飛びした画像、コントラストの低い画像にもスコアを返すので、棄却も人への委譲もないまま陰性と...",
+            "url": "https://zenn.dev/kd_yuta/articles/droneinspector-six-layers",
+            "title": "部品ごとの検査が通っても、記録と対象の対応が崩れることがありました（点検ドローンの 6 つの比較） | Zennの「MATLAB」のフィード",
+            "summary": "近藤悠太です。点検ドローンの研究（DroneInspector）では、改善に効きそうな案を 6 つ挙げ、同じ証拠の上で 1 層ずつ入れ替えて測りました。結果を見直すと、別々の層で同じことが起きていました。部品ごとの検査は成功を返しているのに、判定や送信、撮り直し、保存の記録が、実際の対象と対応していませんでした。 この記事では、その共通点を先に書き、6 つの比較はそれを確かめた実験として後ろに置き...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--iqiXuR1l--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2583%25A8%25E5%2593%2581%25E3%2581%2594%25E3%2581%25A8%25E3%2581%25AE%25E6%25A4%259C%25E6%259F%25BB%25E3%2581%258C%25E9%2580%259A%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2582%25E3%2580%2581%25E8%25A8%2598%25E9%258C%25B2%25E3%2581%25A8%25E5%25AF%25BE%25E8%25B1%25A1%25E3%2581%25AE%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%258C%25E5%25B4%25A9%25E3%2582%258C%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%25E3%2581%258C%25E3%2581%2582%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2588%25E7%2582%25B9%25E6%25A4%259C%25E3%2583%2589%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25AE%25206%2520%25E3%2581%25A4%25E3%2581%25AE%25E6%25AF%2594%25E8%25BC%2583%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E8%25BF%2591%25E8%2597%25A4%25E6%2582%25A0%25E5%25A4%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UyNDY5Nzc3YzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+            },
+            "date_modified": "2026-11-16T23:00:05.000Z",
+            "date_published": "2026-11-16T23:00:05.000Z",
+            "author": {
+                "name": "近藤悠太"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "部品ごとの検査が通っても、記録と対象の対応が崩れることがありました（点検ドローンの 6 つの比較）",
+                "blogTitle": "Zennの「MATLAB」のフィード",
+                "blogLink": "https://zenn.dev/topics/matlab",
+                "blogLinkMd5Hash": "56a5ead953ab107013e703ba44b9115e"
+            }
+        },
+        {
+            "id": "https://qiita.com/N-Kaitoh/items/b788f4342447016a4304",
+            "content_html": "TL;DR  App Designerの.mlappへの不満（Gitで差分が見られない、初期化部分を編集できない）から、普通の.mクラスをそのまま見た目で編集できるGUIエディタyamadaを作りました 開いたコードは実行せず、自作のMATLABパーサーで読んで必要な箇所...",
+            "url": "https://qiita.com/N-Kaitoh/items/b788f4342447016a4304",
+            "title": "MATLAB App Designerの.mlappに疲れたので、普通の.mを編集するGUIエディタを作った話 | MATLABタグが付けられた新着記事 - Qiita",
+            "summary": "TL;DR  App Designerの.mlappへの不満（Gitで差分が見られない、初期化部分を編集できない）から、普通の.mクラスをそのまま見た目で編集できるGUIエディタyamadaを作りました 開いたコードは実行せず、自作のMATLABパーサーで読んで必要な箇所...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMxLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkYyMDA0MzgzNCUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTljOWVlZmY3NTQwNTdmYzJhOTEwMWVlNGU3ZjEyZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd2324469e42c46036e4b36dd4cfd18eb?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TUFUTEFCJTIwQXBwJTIwRGVzaWduZXIlRTMlODElQUUubWxhcHAlRTMlODElQUIlRTclOTYlQjIlRTMlODIlOEMlRTMlODElOUYlRTMlODElQUUlRTMlODElQTclRTMlODAlODElRTYlOTklQUUlRTklODAlOUElRTMlODElQUUubSVFMyU4MiU5MiVFNyVCNyVBOCVFOSU5QiU4NiVFMyU4MSU5OSVFMyU4MiU4QkdVSSVFMyU4MiVBOCVFMyU4MyU4NyVFMyU4MiVBMyVFMyU4MiVCRiVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTI0ZmZhMTViMjAzM2M4MmQzMGYxMzc0NWRlMTI0ZDg1&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBOLUthaXRvaCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYzOGUxOGQ2MGMyNjJkYzYwMjI2NjlkN2NjZmMxNzli&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=9803d735327c93d82f93ccbee9fb4b2e"
+            },
+            "date_modified": "2026-11-15T00:36:06.000Z",
+            "date_published": "2026-11-15T00:36:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB App Designerの.mlappに疲れたので、普通の.mを編集するGUIエディタを作った話",
+                "blogTitle": "MATLABタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c"
+            }
+        }
+    ]
+}
